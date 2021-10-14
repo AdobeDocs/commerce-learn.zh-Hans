@@ -1,9 +1,9 @@
 ---
 user-guide-title: 视频和Tutorials
 user-guide-description: Adobe Commerce和Magento Open Source的视频和教程集合。
-source-git-commit: 84481eda6064560e7aeedef3899f07a8d3a75fd4
+source-git-commit: fe3f7c31f35435eb8e131e84b3028cb9faa1e9c9
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Adobe Commerce视频和Tutorials {#tutorials}
 
-+ [[!DNL Commerce] 视频和Tutorials](overview.md) {#overview}
++ [[!DNL Commerce] 视频和Tutorials](overview.md)
 
 + 入门{#getting-started}
    + [!DNL Commerce] 云基础架构  {#cloud}
@@ -74,7 +74,7 @@ ht-degree: 0%
    + [创建页面](developer/create-new-page.md)
 
 + PWA Studio{#pwa-studio}
-   + PWA Studio{#introduction}s简介
+   + PWA Studio{#introduction}简介
       + [1 — 概述](./pwa/introduction/1-overview.md)
       + [2 -PWA Studio工具](./pwa/introduction/2-pwa-studio-tools.md)
       + [3 — 启动](pwa/introduction/3-launch.md)

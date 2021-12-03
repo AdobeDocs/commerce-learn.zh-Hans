@@ -6,9 +6,9 @@ kt: 5602
 doc-type: video
 activity: use
 exl-id: aa830d15-0095-450f-83a8-a4ea489d6aae
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: c8b2a7771a9f96856c666d880175b8fee3e143a2
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,15 @@ ht-degree: 0%
 ## 添加页面的步骤
 
 - 创建模块
-- 添加&#x200B;**routes.xml**&#x200B;文件
+- 添加 **routes.xml** 文件
 - 添加控制器（操作）文件
 
 ## 创建模块的步骤
 
 - 创建模块文件夹
-- 创建`etc/module.xml`文件
-- 创建`registration.php`文件
-- 运行`bin/magento setup:upgrade`脚本以安装新模块
+- 创建 `etc/module.xml` 文件
+- 创建 `registration.php` 文件
+- 运行 `bin/magento setup:upgrade` 安装新模块的脚本
 - 检查模块是否正常工作
 
 ## 视频内容

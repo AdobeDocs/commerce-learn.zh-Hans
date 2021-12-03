@@ -6,16 +6,16 @@ kt: 5602
 doc-type: video
 activity: use
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: c672d2685a9f1cd3412435912508891df5b8bd87
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
 # 创建产品属性
 
-添加产品属性是[!DNL Commerce]中最常用的操作之一。 属性是解决与产品相关的许多实际任务的一种有效方法。 向产品添加下拉类型属性的过程非常简单。
+添加产品属性是 [!DNL Commerce]. 属性是解决与产品相关的许多实际任务的一种有效方法。 向产品添加下拉类型属性的过程非常简单。
 
 在此视频中：
 
@@ -34,5 +34,6 @@ ht-degree: 0%
 
 ## 有用资源
 
-[添加新产品属性自](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/)
-[定义属性](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html)
+[添加新产品属性](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/)
+
+[自定义属性](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html)

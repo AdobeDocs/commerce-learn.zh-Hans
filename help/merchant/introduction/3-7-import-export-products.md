@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 109aeab1-a3a4-4e47-99e4-21dabd23d605
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: 141069accee3a91abaec15a22ee1628de03d64e4
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1版本。 有关更高版本中的更新信息，请参阅[ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html)和[ 2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)发行说明。
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 和 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 发行说明。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35958?quality=12&learn=on)
 
 ## 其他资源
 
-[导入 —  [!DNL Commerce] 用户](https://docs.magento.com/user-guide/system/data-import.html)
-[指南导出 —  [!DNL Commerce] 用户指南](https://docs.magento.com/user-guide/system/data-export.html)
+[导入 —  [!DNL Commerce] 用户指南](https://docs.magento.com/user-guide/system/data-import.html)
+
+[导出 —  [!DNL Commerce] 用户指南](https://docs.magento.com/user-guide/system/data-export.html)

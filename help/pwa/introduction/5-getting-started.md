@@ -6,9 +6,9 @@ kt: 5648
 doc-type: video
 activity: use
 exl-id: 92d3dae7-1b3d-4c07-985f-f0c5cafda1a5
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: 1b08cf80f56295aaec6a84f529e4da63fdc232e2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 - PWA Studio入门
 - 初始项目设&#x200B;置
 - 生成本地SSL证&#x200B;书
-- 内部版本包CLI命令
+- [!DNL Buildpack] CLI命令
 
 ## 这个视频给谁？
 

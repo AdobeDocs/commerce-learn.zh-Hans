@@ -1,9 +1,9 @@
 ---
 user-guide-title: 视频和Tutorials
 user-guide-description: Adobe Commerce和Magento Open Source的视频和教程集合。
-source-git-commit: 493b06415253fa1e79e18001c8c9f35efcec630d
+source-git-commit: 4b95e23e63895f52a5437eb7ce58146e91f23ebf
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -105,3 +105,5 @@ ht-degree: 0%
       + [6 — 佩雷格林](./pwa/introduction/6-peregrine.md)
    + [PWADocker开发](./pwa/pwa-docker-development.md)
    + [设置Venia以进行开发](pwa/set-up-venia-for-dev.md)
+
++ [Adobe Commerce 2.4升级研讨会](./upgrade-workshop.md)

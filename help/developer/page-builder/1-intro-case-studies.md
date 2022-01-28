@@ -1,14 +1,15 @@
 ---
 title: 面向开发人员的页面生成器 — 简介
 description: 页面生成器简介，了解页面生成器功能
+landing-page-description: 请观看此视频系列，了解页面生成器以及如何扩展页面生成器以实现最佳效果 [!DNL Commerce] 店面体验。
 topic: Commerce, Development
 kt: 5650
 doc-type: video
 activity: use
 exl-id: 436003ca-df48-4441-a1f4-bd8ea977a9cc
-source-git-commit: 4f50dfb3ab23fcc9212e7810210b15840b634c2c
+source-git-commit: 74301d48821db74c67167096ba01699181feed8a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -35,6 +36,5 @@ ht-degree: 0%
 
 ## 有用资源
 
-[页面生成器开发人员文档](https://devdocs.magento.com/page-builder/docs/index.html)
-
-[页面生成器用户文档](https://docs.magento.com/user-guide/cms/page-builder.html)
+- [页面生成器开发人员文档](https://devdocs.magento.com/page-builder/docs/index.html)
+- [页面生成器用户文档](https://docs.magento.com/user-guide/cms/page-builder.html)

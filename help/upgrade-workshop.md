@@ -1,14 +1,16 @@
 ---
 title: Adobe Commerce 2.4升级研讨会
-description: 观看此录制的网络研讨会，了解2.4.4或更高版本的！DNL Commerce]升级步骤和最佳实践。
+description: 观看此录制的网络研讨会，了解2.4.4或更高版本的Adobe Commerce升级步骤和最佳实践。
+landing-page-description: 观看此录制的网络研讨会，了解Adobe Commerce 2.4升级步骤和最佳实践。
 kt: 9620
 doc-type: technical video
 role: Admin, Leader, Developer
 audience: all
 activity: use
-source-git-commit: 4b95e23e63895f52a5437eb7ce58146e91f23ebf
+exl-id: fba4a08b-5633-433b-bf87-fa85457e4578
+source-git-commit: 7b29026613fc14ba1f2db1bbd21d3ebff51d4377
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---

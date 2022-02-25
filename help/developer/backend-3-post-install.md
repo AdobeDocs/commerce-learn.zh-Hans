@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] 对于开发人员 — 安装后'
+title: '"[!DNL Commerce] 对于开发人员 — 安装后”'
 description: 验证并配置实例、设置u掩码、安装示例数据、设置正确的运行模式
 kt: 5693
 doc-type: video
@@ -9,7 +9,7 @@ level: Beginner
 thumbnail: 36195.jpeg
 activity: use
 exl-id: c0401c9f-d0f4-437e-be4c-358c3381f766
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1版本。 有关更高版本中的更新信息，请参阅[ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html)和[ 2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)发行说明。
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 和 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 发行说明。
 >
 >2.4.2版本中弃用了拆分数据库功能。
 

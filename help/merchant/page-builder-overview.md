@@ -1,12 +1,12 @@
 ---
-title: '[!DNL Page Builder] 概述'
+title: '"[!DNL Page Builder] 概述”'
 description: 了解如何构建页面 [!DNL Commerce] 使用在管理员中存储页面 [!DNL Page Builder].
 kt: 5563
 doc-type: feature video
 role: Admin, Leader, User
 audience: all
 activity: use
-source-git-commit: 1ee953388ea164cc1ab179b783f56aa8cac0feea
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%

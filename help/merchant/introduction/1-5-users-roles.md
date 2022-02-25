@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] 对于企业用户 — 用户和角色'
+title: '"[!DNL Commerce] 适用于企业用户 — 用户和角色”'
 description: 了解有关 [!DNL Admin] 决定权限的用户帐户和用户角色。
 topic: Commerce
 kt: 5762
@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: cc7eb326-1df1-48d3-a8c3-b62cf937ac3b
-source-git-commit: c53773ff46c7af772bd07acb062010514cbad440
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%

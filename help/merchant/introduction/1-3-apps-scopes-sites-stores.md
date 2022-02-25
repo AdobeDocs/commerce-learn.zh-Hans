@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] 对于企业用户 — 网站、商店和视图'
+title: '"[!DNL Commerce] 适用于企业用户 — 网站、商店和视图”'
 description: 了解 [!DNL Commerce] 架构，包括网站、存储、存储视图和应用程序范围之间的差异。 了解索引和缓存。
 topic: Commerce
 kt: 5760
@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 858451cc-cbc3-471e-a2f1-148f879aba82
-source-git-commit: ada811496b7fa5a25f3a3deefaf1dcfa259ec4fe
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---

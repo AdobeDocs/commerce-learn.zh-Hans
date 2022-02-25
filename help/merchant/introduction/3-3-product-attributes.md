@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] 对于企业用户 — 属性'
+title: '"[!DNL Commerce] 适用于企业用户 — 属性”'
 description: 了解产品的自定义属性和系统属性。
 topic: Commerce
 kt: 5769
@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 17dca70a-bd71-4f52-b034-8f8f31b71fec
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: 084cb6e106a50658044115751fedb63e36f8832e
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1版本。 有关更高版本中的更新信息，请参阅[ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html)和[ 2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)发行说明。
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 和 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 发行说明。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35954?quality=12&learn=on)
 

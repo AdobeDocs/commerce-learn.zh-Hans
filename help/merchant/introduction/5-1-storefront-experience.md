@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] 对于企业用户 — Storefront'
+title: '"[!DNL Commerce] 对于企业用户 — Storefront”'
 description: 了解客户在店面上的体验，包括创建帐户、愿望清单以及向购物车添加愿望清单项目
 topic: Commerce
 kt: 5778
@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: d2498d42-fc51-48e0-8239-2ad199003961
-source-git-commit: aab81d4383df3a077a67aec3f73341af9f08c028
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] 对于企业用户 — 可配置属性'
+title: '"[!DNL Commerce] 对于企业用户 — 可配置属性”'
 description: 了解如何设置可配置的产品属性。
 topic: Commerce
 kt: 5772
@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: b528b7d8-0cda-4ee0-88f6-90789e774472
-source-git-commit: 39002bea0d28c7c5027de001bba1c794b8224a71
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] 适用于企业用户 — 电子邮件通信'
+title: '"[!DNL Commerce] 适用于企业用户 — 电子邮件通信”'
 description: 使用由客户在店面的操作触发的事务型电子邮件与客户通信。 自定义并配置商店的电子邮件模板。
 topic: Commerce
 kt: 5780
@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 91530766-07be-4466-879b-1b7bfc14ac10
-source-git-commit: 0342ad31cbae1dd5af211ea90784a08e7568e9ca
+source-git-commit: 084cb6e106a50658044115751fedb63e36f8832e
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%

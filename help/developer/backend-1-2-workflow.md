@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] 面向开发人员 — 开发工作流程'
+title: '"[!DNL Commerce] 面向开发人员 — 开发工作流程”'
 description: 了解商务的典型开发工作流。
 kt: 5691
 doc-type: video
@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36193.jpeg
 activity: use
 exl-id: f6c0dcbc-a0ef-43fb-bc38-cc7692c73487
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->该Commerce Marketplace不再包含&#x200B;**Download**&#x200B;按钮。 必须使用命令行安装或升级扩展。 有关详细信息，请参阅开发人员文档中的[常规CLI安装](https://devdocs.magento.com/extensions/install/)主题。
+>Commerce Marketplace不再包含 **下载** 按钮。 必须使用命令行安装或升级扩展。 请参阅 [常规CLI安装](https://devdocs.magento.com/extensions/install/) 有关更多信息，请参阅开发人员文档中的主题。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36193?quality=12&learn=on)
 

@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] 对于企业用户 — 客户管理'
+title: '"[!DNL Commerce] 对于企业用户 — 客户管理”'
 description: 了解客户服务的推荐权限，在 [!DNL Admin]、管理客户信息和创建客户群组。
 topic: Commerce
 kt: 5779
@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 7a0743ff-03dd-49cc-9d41-6674b71a4480
-source-git-commit: 3e85c15d21a6c18309ac2376e4b96a6306ccadc0
+source-git-commit: 084cb6e106a50658044115751fedb63e36f8832e
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%

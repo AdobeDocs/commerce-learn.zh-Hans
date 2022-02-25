@@ -1,12 +1,12 @@
 ---
 title: 将表添加到数据库
-description: '[!DNL Commerce] 有一种特殊机制，可用于创建数据库表、修改现有表，甚至向其中添加一些数据。'
+description: '"[!DNL Commerce] 有一种特殊机制，可让您创建数据库表、修改现有表，甚至向其中添加一些数据。”'
 topic: Development
 kt: 5613
 doc-type: video
 activity: use
 exl-id: fb222752-5689-4f87-94cf-a61ed7005e6b
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # 将表添加到数据库
 
-[!DNL Commerce] 有一种特殊机制，允许您创建数据库表、修改现有表，甚至向其中添加一些数据 — 例如安装数据，安装模块时必须添加这些数据。此机制允许这些更改在不同安装之间转移。
+[!DNL Commerce] 有一种特殊机制，允许您创建数据库表、修改现有表，甚至向其中添加一些数据 — 例如安装数据，安装模块时必须添加这些数据。 此机制允许这些更改在不同安装之间转移。
 
 开发人员不会在重新安装系统时反复执行手动SQL操作，而是创建一个包含数据的安装（或升级）脚本。 每次安装模块时，脚本都会运行。
 

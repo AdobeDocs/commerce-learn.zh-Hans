@@ -1,5 +1,5 @@
 ---
-title: '[!DNL [!DNL Commerce]] 适用于企业用户 — 登陆页面'
+title: '"[!DNL Commerce] 适用于企业用户 — 登陆页面”'
 description: 了解如何设置类别登陆页面和控制外观。
 topic: Commerce
 kt: 5766
@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: c38aa97e-4688-42fa-b39f-1702ef1469be
-source-git-commit: 6bde407baafa262a5f82d7780e993c90463e62c5
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

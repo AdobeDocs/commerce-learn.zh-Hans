@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] 对于企业用户 — 产品类别'
+title: '"[!DNL Commerce] 适用于企业用户 — 产品类别”'
 description: 了解如何通过设置类别来管理产品目录。
 topic: Commerce
 kt: 5765
@@ -7,7 +7,7 @@ doc-type: videos
 role: Admin, Leader, User
 activity: use
 exl-id: 3d35891b-d85a-4e91-877a-a375f047892d
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%

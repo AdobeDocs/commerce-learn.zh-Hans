@@ -1,14 +1,14 @@
 ---
 title: 面向开发人员的页面生成器 — 模板和样式
-description: '[!DNL Admin] and stage theming tasks. Create [!DNL Admin] 模板​。 将样式应用于舞台上的内容类型（实时预览）。'
+description: '"[!DNL Admin] 并安排任务。 创建 [!DNL Admin] 模板​。 将样式应用于舞台上的内容类型（实时预览）。”'
 topic: Commerce, Development
 kt: 5653
 doc-type: video
 activity: use
 exl-id: 80f2b14e-41b6-4059-b070-80fe19bb31e0
-source-git-commit: 9d76bbb28e982a62ddff8b6f541299e372dfc124
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

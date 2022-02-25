@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] 对于开发人员 — 路由'
+title: '"[!DNL Commerce] 对于开发人员 — 路由”'
 description: 了解路由、创建简单前端控制器、结果对象、操作类。
 kt: 5697
 doc-type: video
@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36199.jpeg
 activity: use
 exl-id: b94f5c1e-deec-4419-975b-518796cdf371
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1版本。 有关更高版本中的更新信息，请参阅[ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html)和[ 2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)发行说明。
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 和 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 发行说明。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36199?quality=12&learn=on)
 

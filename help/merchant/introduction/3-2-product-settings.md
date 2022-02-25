@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] 适用于企业用户 — 产品设置'
+title: '"[!DNL Commerce] 适用于企业用户 — 产品设置”'
 description: 了解如何创建产品、配置设置和使用属性。
 topic: Commerce
 kt: 5768
@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 9022b101-91e1-44a0-819b-507f2c915d95
-source-git-commit: 247830fab6383ad4805fc3e165f622407f2027fe
+source-git-commit: 084cb6e106a50658044115751fedb63e36f8832e
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%

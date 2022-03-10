@@ -24,7 +24,7 @@ ht-degree: 0%
 ## 步骤
 
 - 创建模块
-- 创建`requirejs-config.js`和JavaScript模块文件
+- 创建 `requirejs-config.js` 和JavaScript模块文件
 - 创建布局更新以添加可启用JS模块的模板
 - 创建模板文件
 - 添加模块并进行测试

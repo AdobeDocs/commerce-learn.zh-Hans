@@ -1,17 +1,17 @@
 ---
-user-guide-title: 视频和Tutorials
-user-guide-description: Adobe Commerce和Magento Open Source的视频和教程集合。
+user-guide-title: 视频和教程
+user-guide-description: Adobe Commerce 和 Magento Open Source 的视频和教程集合。
 source-git-commit: b3c3ccb0404bf7e1d390d6041a8bfb3cd0ef689b
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
 
 # Adobe Commerce视频和Tutorials {#tutorials}
 
-+ [[!DNL Commerce] 视频和Tutorials](overview.md)
++ [[!DNL Commerce] 视频和教程](overview.md)
 
 + 入门指南 {#getting-started}
    + [!DNL Commerce] 云基础架构 {#cloud}

@@ -1,7 +1,7 @@
 ---
 title: '"[!DNL Commerce] 对于企业用户 —  [!DNL Admin] 菜单'
 description: 功能菜单概述 [!DNL Commerce] v2.3 [!DNL Admin].
-landing-page-description: 请观看此视频系列，以开始了解Adobe Commerce的基本知识以及如何在管理员中工作。
+landing-page-description: 观看本视频系列，开始了解 Adobe Commerce 的基础知识以及如何在 Admin 中工作。
 topic: Commerce
 kt: 5758
 doc-type: video
@@ -11,7 +11,7 @@ exl-id: 96e36923-d24b-4259-9b91-cd4ea73ead6f
 source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 

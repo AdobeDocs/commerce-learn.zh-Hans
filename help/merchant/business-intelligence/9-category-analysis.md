@@ -3,11 +3,11 @@ title: Business Intelligence — 类别分析
 description: 了解基本类别分析和客户生命周期值。
 kt: 5734
 doc-type: feature video
-solution: Commerce,Adobe Commerce, Magento Business Intelligence
+solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 479f1c86-75dc-44f3-b183-9b83993c4b2c
-source-git-commit: 779d8472749ddef6325dd7d0e1acf123c23e418e
+source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%

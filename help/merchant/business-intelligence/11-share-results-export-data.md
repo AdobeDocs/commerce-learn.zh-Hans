@@ -3,11 +3,11 @@ title: Business Intelligence — 共享结果和导出数据
 description: 了解如何共享Business Intelligence结果并导出数据以与其他业务工具集成。
 kt: 5728
 doc-type: feature video
-solution: Commerce,Adobe Commerce, Magento Business Intelligence
+solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 4f54f92b-329f-48b8-a14e-d6d8423446aa
-source-git-commit: 779d8472749ddef6325dd7d0e1acf123c23e418e
+source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%

@@ -1,9 +1,9 @@
 ---
 user-guide-title: 视频和教程
 user-guide-description: Adobe Commerce 和 Magento Open Source 的视频和教程集合。
-source-git-commit: fc59ff91dba5b4569b6a4c48f43bb289bbbb54b2
+source-git-commit: 3f8fce7e058a697baf2dfbb794c7dcbad00042dc
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '270'
 ht-degree: 7%
 
 ---
@@ -77,6 +77,11 @@ ht-degree: 7%
    + [存储站点地图设置](./merchant/site-map-setup.md)
    + [促销价格规则](./merchant/promotions-price-rules.md)
    + [页面生成器概述](./merchant/page-builder-overview.md)
+
++ Business Intelligence {#business-intelligence}
+   + [过滤集](./merchant/business-intelligence/filter-sets.md)
+   + [同类群组Report Builder](./merchant/business-intelligence/cohort-report-builder.md)
+   + [SQLReport Builder](./merchant/business-intelligence/sql-report-builder.md)
 
 + 升级 {#upgrade}
    + [Adobe Commerce 2.4升级研讨会](./upgrade/2.4-upgrade-workshop.md)

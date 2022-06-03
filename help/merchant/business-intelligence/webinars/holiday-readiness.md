@@ -1,5 +1,5 @@
 ---
-title: Business Intelligence — 假日就绪
+title: MBI为假日准备
 description: 观看此网络研讨会，了解如何利用您的电子商务数据在假日季节取得成功。
 landing-page-description: 观看此录制的网络研讨会，了解如何利用您的电子商务数据在假日季节取得成功。
 kt: 10409
@@ -7,16 +7,17 @@ doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: bf28c64dd61bbf53210ca9aa17ab20d1a2a1dac5
+exl-id: 7390d8ca-494e-4fe0-a4da-a03afd2ef8e2
+source-git-commit: 64df684fb23ad37912728f53a7da73d16d7781d8
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence — 询问专家，第2部分
+# MBI为假日准备
 
-利用您的电子商务数据，在假日季节取得成功。 此网络研讨会重点介绍一些常见的季节性分析用例和方法，以便使用关键Business Intelligence功能解决这些问题，包括：
+利用您的电子商务数据，在假日季节取得成功。 此网络研讨会重点介绍一些使用关键MBI功能解决季节性分析的常见用例和方法，包括：
 
 - 通过生成新的库存跟踪报告并通过电子邮件摘要发送每日更新，避免缺货
 - 通过利用计算列，创建关键日期（如“黑色星期五”）的年同比表现报告，以确定今年销售策略调整的影响
@@ -24,7 +25,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您是初次Business Intelligence, [快速入门视频系列](./../1-overview.md) 提供全面的概述，通过数据聚合、分析和可视化图表来提供更好的业务分析和结果。
+>如果您是MBI的新用户， [快速入门视频系列](./../1-overview.md) 提供全面的概述，通过数据聚合、分析和可视化图表来提供更好的业务分析和结果。
 
 ## 这个视频给谁？
 
@@ -37,5 +38,5 @@ ht-degree: 0%
 
 ## 有用资源
 
-[Business Intelligence用户指南](https://docs.magento.com/mbi/)
-[Business Intelligence支持](https://support.magento.com/hc/en-us/articles/360016730811)s
+[MBI用户指南](https://docs.magento.com/mbi/)
+[MBI支持](https://support.magento.com/hc/en-us/articles/360016730811)s

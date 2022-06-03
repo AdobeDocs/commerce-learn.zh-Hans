@@ -1,20 +1,20 @@
 ---
-title: Business Intelligence — “执行概述”功能板
-description: 查看由Business Intelligence提供的“执行概述”功能板的演示。
+title: MBI — “执行概述”功能板
+description: 查看MBI提供的“执行概述”功能板的演示。
 kt: 5731
 doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 7a601fcd-e41f-4918-81a3-392995be39fa
-source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence — “执行概述”功能板
+# MBI — “执行概述”功能板
 
 “执行概述”功能板提供对收入、订单和平均订单值的高级分析。 这些报表会被划分为静态值，并且会随着时间推移而被划分。 您可以与团队的其他成员共享此功能板，为他们提供与您协作的编辑权限或仅查看权限。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.2版本。 请参阅 [Business Intelligence用户指南](https://docs.magento.com/mbi/) 以了解最新信息。
+>视频中的内容反映了2.2版本。 请参阅 [MBI用户指南](https://docs.magento.com/mbi/) 以了解最新信息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35986?quality=12&learn=on)
 

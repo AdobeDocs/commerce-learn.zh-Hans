@@ -1,22 +1,22 @@
 ---
-title: Business Intelligence — 客户成功案例
-description: 使用Business Intelligence了解客户成功案例。
+title: MBI — 客户成功案例
+description: 了解使用MBI的客户成功案例。
 kt: 5738
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 118e4d29-2064-465c-89f7-00bc7427f383
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence — 客户成功案例
+# MBI — 客户成功案例
 
-当您熟悉Business Intelligence中一些最有用类型的分析商家时，请查阅一些客户的成功案例以及它们如何使用分析获得实际结果。
+如果您熟悉MBI中一些最有用的分析商家类型，请查阅一些客户成功案例以及他们如何使用分析获得实际结果。
 
 ## 这个视频给谁？
 

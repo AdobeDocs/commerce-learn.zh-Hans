@@ -1,20 +1,21 @@
 ---
-title: Business Intelligence- SQLReport Builder
-description: 了解如何使用Business IntelligenceSQLReport Builder直接查询data warehouse、查看结果并快速将结果转换为图表。
-landing-page-description: 观看此视频，了解如何使用Business IntelligenceSQLReport Builder直接查询data warehouse、查看结果并快速将结果转换为图表。
+title: MBI - SQLReport Builder
+description: 了解如何使用MBI SQLReport Builder直接查询data warehouse、查看结果并快速将结果转换为图表。
+landing-page-description: 观看此视频，了解如何使用MBI SQLReport Builder直接查询data warehouse、查看结果并快速将结果转换为图表。
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: 3f8fce7e058a697baf2dfbb794c7dcbad00042dc
+exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence- SQLReport Builder
+# MBI - SQLReport Builder
 
 SQLReport Builder允许您直接查询data warehouse、查看结果，并快速将它们转换为图表。 使用SQL构建报告的最好部分是，您不必等待更新周期，即可在您创建的列上进行迭代。 如果结果不正确，您可以快速编辑并重新运行查询，直到其结果与您的预期相符。
 
@@ -30,7 +31,7 @@ SQLReport Builder允许您直接查询data warehouse、查看结果，并快速�
 
 >[!TIP]
 >
->如果您是初次Business Intelligence, [快速入门视频系列](1-overview.md) 提供全面的概述，通过数据聚合、分析和可视化图表来提供更好的业务分析和结果。
+>如果您是MBI的新用户， [快速入门视频系列](1-overview.md) 提供全面的概述，通过数据聚合、分析和可视化图表来提供更好的业务分析和结果。
 
 ## 这个视频给谁？
 

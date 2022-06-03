@@ -1,22 +1,23 @@
 ---
-title: Business Intelligence — 过滤器集
-description: 了解如何使用Business Intelligence过滤器集功能简化Adobe Commerce和Magento Open Source的业务数据报告。
-landing-page-description: 观看此视频，了解如何使用Business Intelligence过滤器集功能简化业务数据报告。
+title: MBI — 过滤器集
+description: 了解如何使用MBI过滤器集功能简化Adobe Commerce和Magento Open Source的业务数据报告。
+landing-page-description: 观看此视频，了解如何使用MBI过滤器集功能简化业务数据报告。
 kt: 10289
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: 3f8fce7e058a697baf2dfbb794c7dcbad00042dc
+exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence — 过滤器集
+# MBI — 过滤器集
 
-是否仅分析您的业务数据的某些部分？ 厌倦了手动清理吗？ 在Business Intelligence中，您可以使用过滤器集功能来简化此过程。
+是否仅分析您的业务数据的某些部分？ 厌倦了手动清理吗？ 在MBI中，您可以使用过滤器集功能来简化此过程。
 
 在此视频中：
 
@@ -27,7 +28,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您是初次Business Intelligence, [快速入门视频系列](1-overview.md) 提供全面的概述，通过数据聚合、分析和可视化图表来提供更好的业务分析和结果。
+>如果您是MBI的新用户， [快速入门视频系列](1-overview.md) 提供全面的概述，通过数据聚合、分析和可视化图表来提供更好的业务分析和结果。
 
 ## 这个视频给谁？
 

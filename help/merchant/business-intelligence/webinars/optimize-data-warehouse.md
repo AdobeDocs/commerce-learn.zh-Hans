@@ -1,20 +1,21 @@
 ---
-title: Business Intelligence — 优化Data warehouse
+title: 优化MBIData warehouse
 description: 观看此网络研讨会，了解有关Data warehouse管理器的更多信息。
-landing-page-description: '观看此录制的网络研讨会， '
+landing-page-description: 观看此录制的网络研讨会，
 kt: 10403
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: c86f3520823ee41b668ad6595a859c554572d69b
+exl-id: 022df5f9-0333-464d-a985-177071a8aa04
+source-git-commit: 64df684fb23ad37912728f53a7da73d16d7781d8
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence — 优化Data warehouse
+# 优化MBIData warehouse
 
 使用Data warehouse管理器，您可以管理表和列同步设置，深入到表的架构中，并创建要在报表中使用的计算列。
 
@@ -32,7 +33,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您是初次Business Intelligence, [快速入门视频系列](./../1-overview.md) 提供全面的概述，通过数据聚合、分析和可视化图表来提供更好的业务分析和结果。
+>如果您是MBI的新用户， [快速入门视频系列](./../1-overview.md) 提供全面的概述，通过数据聚合、分析和可视化图表来提供更好的业务分析和结果。
 
 ## 这个视频给谁？
 

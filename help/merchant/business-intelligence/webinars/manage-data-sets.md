@@ -1,28 +1,29 @@
 ---
-title: Business Intelligence — 管理数据集
-description: 观看此网络研讨会，了解Business IntelligenceData warehouse管理器的一些强大功能。
-landing-page-description: 观看此网络研讨会，了解Business IntelligenceData warehouse管理器的一些强大功能。
+title: 在MBI中管理数据集
+description: 观看此网络研讨会，了解MBIData warehouse管理器的一些强大功能。
+landing-page-description: 观看此网络研讨会，了解MBIData warehouse管理器的一些强大功能。
 kt: 10410
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: c86f3520823ee41b668ad6595a859c554572d69b
+exl-id: d73758b0-37bf-4be8-8e25-01d3d983fd43
+source-git-commit: 64df684fb23ad37912728f53a7da73d16d7781d8
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence — 管理数据集
+# 在MBI中管理数据集
 
-直接从Adobe Commerce产品团队了解Business IntelligenceData warehouse管理器的一些强大功能。 超越基本报表构建，了解如何使用数据做更多工作。
+直接从Adobe Commerce产品团队了解MBIData warehouse管理器的一些强大功能。 超越基本报表构建，了解如何使用数据做更多工作。
 
 在此录制的网络研讨会中，您将学习如何通过加入来自Adobe Commerce、Google电子商务和Google AdWords的数据来计算广告促销活动的投资回报。
 
 >[!TIP]
 >
->如果您是初次Business Intelligence, [快速入门视频系列](./../1-overview.md) 提供全面的概述，通过数据聚合、分析和可视化图表来提供更好的业务分析和结果。
+>如果您是MBI的新用户， [快速入门视频系列](./../1-overview.md) 提供全面的概述，通过数据聚合、分析和可视化图表来提供更好的业务分析和结果。
 
 ## 这个视频给谁？
 

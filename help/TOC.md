@@ -1,10 +1,10 @@
 ---
 user-guide-title: 视频和教程
 user-guide-description: Adobe Commerce 和 Magento Open Source 的视频和教程集合。
-source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
+source-git-commit: 24873fdb03bd158f4705e8da34d60bd17b0a53c5
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 6%
+source-wordcount: '357'
+ht-degree: 5%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 6%
 
 + [[!DNL Commerce] 视频和教程](overview.md)
 
-+ 入门指南 {#getting-started}
++ 快速入门 {#getting-started}
    + [!DNL Commerce] 云基础架构 {#cloud}
       + [1 — 概述](./cloud/1-overview.md)
       + [2 — 托管帐户](./cloud/2-accounts.md)
@@ -21,7 +21,7 @@ ht-degree: 6%
       + [4 — 部署](./cloud/4-deployment.md)
       + [5 — 发展](./cloud/5-dev-config.md)
       + [6 — 服务和DNS](./cloud/6-launch.md)
-   + [!DNL Commerce] 适用于开发人员 {#development}
+   + [!DNL Commerce] 面向开发人员 {#development}
       + [1.1 — 概述](./developer/backend-1-1-overview.md)
       + [1.2 — 开发工作流程](./developer/backend-1-2-workflow.md)
       + [2 — 安装](./developer/backend-2-install.md)
@@ -32,7 +32,7 @@ ht-degree: 6%
       + [5.3 — 路由](./developer/backend-5-3-routing.md)
       + [5.4 — 创建 [!DNL Admin] 页面](./developer/backend-5-4-admin-page.md)
       + [6 — 练习](./developer/backend-6-practice.md)
-   + [!DNL Commerce] 面向企业用户 {#merchants}
+   + [!DNL Commerce] 对于企业用户 {#merchants}
       + [1.1 - [!DNL Admin] 菜单](./merchant/introduction/1-1-menus.md)
       + [1.2 — 数据网格](./merchant/introduction/1-2-data-grids.md)
       + [1.3 — 范围、站点和商店](./merchant/introduction/1-3-apps-scopes-sites-stores.md)
@@ -46,7 +46,7 @@ ht-degree: 6%
       + [3.2 — 产品设置](./merchant/introduction/3-2-product-settings.md)
       + [3.3 — 产品属性](./merchant/introduction/3-3-product-attributes.md)
       + [3.4 — 产品属性集](./merchant/introduction/3-4-product-attribute-sets.md)
-      + [3.5 — 创建简单的产品](./merchant/introduction/3-5-create-simple-product.md)
+      + [3.5 — 创建简单产品](./merchant/introduction/3-5-create-simple-product.md)
       + [3.6 — 可配置属性](./merchant/introduction/3-6-configurable-attributes.md)
       + [3.7 — 进出口产品](./merchant/introduction/3-7-import-export-products.md)
       + [3.8 — 礼品卡](./merchant/introduction/3-8-gift-cards.md)
@@ -56,14 +56,34 @@ ht-degree: 6%
       + [5.2 — 客户管理](./merchant/introduction/5-2-customer-management.md)
       + [5.3 — 电子邮件通信](./merchant/introduction/5-3-store-communications.md)
 
-+ 在管理员中工作 {#admin}
-   + [用户、角色和权限](./merchant/users-roles-permissions.md)
++ 商店管理 {#admin}
+   + [管理用户角色和权限](./merchant/users-roles-permissions.md)
    + [双重身份验证](./merchant/two-factor-authentication.md)
-   + [添加网站、商店和存储视图](./merchant/add-websites-stores-views.md)
+   + [管理币种和税则](./merchant/currency-tax-rules.md)
+   + [运输和交付方法](./merchant/shipping-delivery.md)
+   + [添加网站、商店和商店视图](./merchant/add-websites-stores-views.md)
    + [更改商店URL](./merchant/change-store-url.md)
    + [存储站点地图设置](./merchant/site-map-setup.md)
-   + [促销价格规则](./merchant/promotions-price-rules.md)
+
++ 客户管理 {#customers}
+   + [创建客户区段](./merchant/customer-segments.md)
+   + [创建客户群组](./merchant/customer-groups.md)
+   + [创建客户属性](./merchant/customer-attributes.md)
+   + [卖家辅助购物](./merchant/seller-assisted-shopping.md)
+
++ 目录管理 {#catalog}
+   + [创建类别](./merchant/category-create.md)
+   + [管理类别中的产品](./merchant/category-products.md)
+   + [Inventory management](./merchant/inventory-management.md)
+   + [创建产品属性](./merchant/product-attributes-create.md)
+   + [管理SEO元数据](./merchant/seo-metadata.md)
+   + [为SEO管理URL重写](./merchant/seo-url-rewrites.md)
+
++ 内容管理 {#content}
    + [页面生成器概述](./merchant/page-builder-overview.md)
+
++ 营销工具 {#marketing}
+   + [促销价格规则](./merchant/promotions-price-rules.md)
 
 + MBI {#mbi}
    + [过滤集](./merchant/business-intelligence/filter-sets.md)
@@ -91,7 +111,7 @@ ht-degree: 6%
       + [共享结果并导出数据](./merchant/business-intelligence/11-share-results-export-data.md)
       + [客户成功案例](./merchant/business-intelligence/12-customer-success.md)
 
-+ 升级 {#upgrade}
++ 商务升级 {#upgrade}
    + [Adobe Commerce 2.4升级研讨会](./upgrade/2.4-upgrade-workshop.md)
    + [升级兼容性工具概述](./upgrade/upgrade-compatibility-tool-overview.md)
    + [在PHP Storm中使用升级兼容工具](./upgrade/uct-phpstorm.md)
@@ -103,7 +123,7 @@ ht-degree: 6%
    + [依赖关系注入示例](./developer/dependency-injection.md)
 
 + 前端开发 {#frontend-development}
-   + 页面生成器 {#page-builder}
+   + 面向开发人员的页面生成器 {#page-builder}
       + [1 — 导言](./developer/page-builder/1-intro-case-studies.md)
       + [2 — 配置和内容](./developer/page-builder/2-config-create-content.md)
       + [3 — 主题](./developer/page-builder/3-themes.md)

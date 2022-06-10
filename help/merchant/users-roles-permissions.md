@@ -1,14 +1,14 @@
 ---
-title: 用户、角色和权限
+title: 管理用户角色和权限
 description: 了解用于控制 [!DNL Commerce] 网站和存储数据。
 kt: 5610
 doc-type: feature video
 audience: all
 activity: use
 exl-id: d06815c2-4b2a-4219-8c4e-7aa41a2be25d
-source-git-commit: 57273cea54ad0d1ec55dd23b2033eec74bb1c3b4
+source-git-commit: b1ba5497d30326e4355a6da81f33d8451362b896
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,7 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!NOTE]
->
->视频中的内容反映的是2.0版本。 有关更高版本中的更新的信息，请参阅 [2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 和 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 发行说明。
-
->[!VIDEO](https://video.tv.adobe.com/v/35788?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343654?quality=12&learn=on)
 
 ## 其他资源
 

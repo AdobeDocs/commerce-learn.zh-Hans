@@ -1,10 +1,10 @@
 ---
 user-guide-title: 视频和教程
 user-guide-description: Adobe Commerce 和 Magento Open Source 的视频和教程集合。
-source-git-commit: 24873fdb03bd158f4705e8da34d60bd17b0a53c5
+source-git-commit: 11a59c534f1907d63073bc2a1541d39f02428da1
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -60,10 +60,11 @@ ht-degree: 5%
    + [管理用户角色和权限](./merchant/users-roles-permissions.md)
    + [双重身份验证](./merchant/two-factor-authentication.md)
    + [管理币种和税则](./merchant/currency-tax-rules.md)
-   + [运输和交付方法](./merchant/shipping-delivery.md)
    + [添加网站、商店和商店视图](./merchant/add-websites-stores-views.md)
    + [更改商店URL](./merchant/change-store-url.md)
    + [存储站点地图设置](./merchant/site-map-setup.md)
+   + [运输和交付方法](./merchant/shipping-delivery.md)
+   + [使用支付服务](./merchant/payment-services.md)
 
 + 客户管理 {#customers}
    + [创建客户区段](./merchant/customer-segments.md)
@@ -76,14 +77,33 @@ ht-degree: 5%
    + [管理类别中的产品](./merchant/category-products.md)
    + [Inventory management](./merchant/inventory-management.md)
    + [创建产品属性](./merchant/product-attributes-create.md)
+   + [将产品属性与PWA Studio结合使用](./merchant/product-attributes-pwa.md)
    + [管理SEO元数据](./merchant/seo-metadata.md)
    + [为SEO管理URL重写](./merchant/seo-url-rewrites.md)
 
 + 内容管理 {#content}
    + [页面生成器概述](./merchant/page-builder-overview.md)
+   + [创建静态块和动态块](./merchant/static-dynamic-blocks.md)
+   + [创建小组件](./merchant/widgets.md)
+   + [使用内容模板](./merchant/content-templates.md)
+   + [内容暂存](./merchant/content-staging.md)
+   + [管理媒体集](./merchant/media-gallery.md)
 
 + 营销工具 {#marketing}
    + [促销价格规则](./merchant/promotions-price-rules.md)
+   + [创建目录价格规则](./merchant/catalog-price-rules.md)
+   + [创建购物车价格规则](./merchant/cart-price-rules.md)
+   + [管理相关产品规则](./merchant/related-product-rules.md)
+   + [设置产品Recommendations](./merchant/product-recommendations.md)
+   + [使用实时搜索](./merchant/live-search.md)
+
++ 订单和履行 {#orders}
+   + [存储履行概述](./merchant/store-fulfillment.md)
+   + [管理订单状态](./merchant/order-status.md)
+
++ 系统工具 {#tools}
+   + [站点范围分析工具功能板](./tools/site-wide-analysis-tool.md)
+   + [使用质量修补工具](./tools/quality-patch-tool.md)
 
 + MBI {#mbi}
    + [过滤集](./merchant/business-intelligence/filter-sets.md)
@@ -111,15 +131,15 @@ ht-degree: 5%
       + [共享结果并导出数据](./merchant/business-intelligence/11-share-results-export-data.md)
       + [客户成功案例](./merchant/business-intelligence/12-customer-success.md)
 
-+ 商务升级 {#upgrade}
++ 商务升级和系统工具 {#upgrade}
    + [Adobe Commerce 2.4升级研讨会](./upgrade/2.4-upgrade-workshop.md)
    + [升级兼容性工具概述](./upgrade/upgrade-compatibility-tool-overview.md)
    + [在PHP Storm中使用升级兼容工具](./upgrade/uct-phpstorm.md)
 
 + 后端开发 {#backend-development}
-   + [向数据库中添加新表](./developer/add-new-db-table.md)
+   + [将表添加到数据库](./developer/add-new-db-table.md)
    + [创建模块](developer/create-module.md)
-   + [添加新产品属性](./developer/add-product-attribute.md)
+   + [添加产品属性](./developer/add-product-attribute.md)
    + [依赖关系注入示例](./developer/dependency-injection.md)
 
 + 前端开发 {#frontend-development}

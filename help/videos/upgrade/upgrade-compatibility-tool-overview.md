@@ -8,10 +8,10 @@ role: Admin, Leader, Developer
 audience: all
 activity: use
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+source-git-commit: a579818f2f50d4ca0eca9a529945c4f366905ef6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '217'
+ht-degree: 19%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 - 如何帮助您快速识别升级到较新版本的Adobe Commerce版本所需的错误和修复
 - 如何访问HTML结果，以帮助按不兼容性的严重性和数量显示模块
 
-要了解有关性能和简化升级的更多信息，请参阅 [升级指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
+要进一步了解该工具，请参阅 [升级兼容性工具文档](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en). 如果您想进一步了解如何执行和简化升级，请参阅 [升级指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
 
 ## 这个视频给谁？
 
@@ -38,6 +38,7 @@ ht-degree: 0%
 
 ## 其他资源
 
+- [升级兼容性工具文档](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
 - [升级指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
 - [已发布版本](https://devdocs.magento.com/release/released-versions.html)
 - [即将发行的版本](https://devdocs.magento.com/release/)

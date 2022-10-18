@@ -1,10 +1,10 @@
 ---
-title: '"[!DNL Commerce] 视频和教程"'
+title: "[!DNL Commerce] 视频和教程"
 description: Adobe Commerce和Magento Open Source的视频和教程集合
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: 867c5dbfdf5c2701d59655363e8ac3d94e97ece6
+source-git-commit: feaba6797569ab027f0b3d122039b3e0d16054b1
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '283'
 ht-degree: 1%
 
 ---
@@ -27,7 +27,10 @@ ht-degree: 1%
 | 订单和履行 | [存储履行概述](./merchant/store-fulfillment.md) <br>[管理订单状态](./merchant/order-status.md) |
 | B2B for Adobe Commerce | [管理公司帐户](./merchant/b2b/company-accounts.md)  <br>[管理共享目录](./merchant/b2b/shared-catalogs.md) <br>[管理公司信用](./merchant/b2b/company-credit.md) <br>[采购订单和批准](./merchant/b2b/purchase-orders.md) |
 | 系统工具 | [站点范围分析工具功能板](./tools/site-wide-analysis-tool.md) <br>[Adobe Commerce观察](./tools/observation-tool.md) <br>[使用质量修补工具](./tools/quality-patch-tool.md) |
-| MBI | [MBI快速入门](./merchant/business-intelligence/webinars/getting-started.md) <br>[在MBI中管理数据集](./merchant/business-intelligence/webinars/manage-data-sets.md) <br>[优化MBIData warehouse](./merchant/business-intelligence/webinars/optimize-data-warehouse.md)<br>[MBI功能板深入研究](./merchant/business-intelligence/webinars/dashboards-deep-dive.md) <br>[MBI为假日准备](./merchant/business-intelligence/webinars/holiday-readiness.md) <br>[为未来做准备](./merchant/business-intelligence/prepare-for-future.md) <br>[MBI — 咨询专家](./merchant/business-intelligence/webinars/ask-expert.md) |
+
+>[!TIP]
+>
+>的 [商务事件](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) “空间”允许您访问可以按需观看的录制事件内容。
 
 ## 其他资源
 

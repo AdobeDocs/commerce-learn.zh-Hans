@@ -1,9 +1,9 @@
 ---
 user-guide-title: 视频和教程
 user-guide-description: Adobe Commerce 和 Magento Open Source 的视频和教程集合。
-source-git-commit: 327c70006c2f1b8b85781cf0059b1386535bb7b4
+source-git-commit: c6ee7f37aed4093c7752e6683a8f7a9e26b10a11
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '485'
 ht-degree: 3%
 
 ---
@@ -55,6 +55,8 @@ ht-degree: 3%
       + [5.1 — 店面体验](./merchant/introduction/5-1-storefront-experience.md)
       + [5.2 — 客户管理](./merchant/introduction/5-2-customer-management.md)
       + [5.3 — 电子邮件通信](./merchant/introduction/5-3-store-communications.md)
+
++ [功能演示](feature-demos.md)
 
 + 商店管理 {#admin}
    + [管理用户角色和权限](./merchant/users-roles-permissions.md)

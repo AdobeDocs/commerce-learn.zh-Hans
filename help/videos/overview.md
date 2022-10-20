@@ -2,10 +2,10 @@
 title: "[!DNL Commerce] 视频和教程"
 description: Adobe Commerce和Magento Open Source的视频和教程集合
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: feaba6797569ab027f0b3d122039b3e0d16054b1
+source-git-commit: 834fcab32b3211495a62b7595fcee093b7fec0a7
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 1%
+source-wordcount: '183'
+ht-degree: 2%
 
 ---
 
@@ -17,16 +17,12 @@ ht-degree: 1%
 
 了解最新的添加和更新：
 
-| 主题区域 | 新视频或更新的视频 |
-| ------------ | ---------- |
-| 商店管理 | [用户、角色和权限](./merchant/users-roles-permissions.md) <br>[管理装运和交货方法](./merchant/shipping-delivery.md) <br>[使用支付服务](./merchant/payment-services.md) |
-| 客户管理 | [创建客户区段](./merchant/customer-segments.md) <br>[创建客户群组](./merchant/customer-groups.md) <br>[创建客户属性](./merchant/customer-attributes.md) <br>[卖家辅助购物](./merchant/seller-assisted-shopping.md) |
-| 目录管理 | [创建类别](./merchant/category-create.md) <br>[管理类别中的产品](./merchant/category-products.md) <br>[Inventory management](./merchant/inventory-management.md) <br>[创建产品属性](./merchant/product-attributes-create.md) <br>[将产品属性与PWA Studio结合使用](./merchant/product-attributes-pwa.md) <br>[管理SEO元数据](./merchant/seo-metadata.md) <br>[为SEO管理URL重写](./merchant/seo-url-rewrites.md) |
-| 内容管理 | [页面生成器概述](./merchant/page-builder-overview.md) <br>[创建静态块和动态块](./merchant/static-dynamic-blocks.md) <br>[创建小组件](./merchant/widgets.md) <br>[使用内容模板](./merchant/content-templates.md) <br>[内容暂存](./merchant/content-staging.md) <br>[管理媒体集](./merchant/media-gallery.md) |
-| 营销工具 | [创建目录价格规则](./merchant/catalog-price-rules.md) <br>[创建购物车价格规则](./merchant/cart-price-rules.md) <br>[管理相关产品规则](./merchant/related-product-rules.md) <br>[设置产品Recommendations](./merchant/product-recommendations.md) <br>[使用实时搜索](./merchant/live-search.md) |
-| 订单和履行 | [存储履行概述](./merchant/store-fulfillment.md) <br>[管理订单状态](./merchant/order-status.md) |
-| B2B for Adobe Commerce | [管理公司帐户](./merchant/b2b/company-accounts.md)  <br>[管理共享目录](./merchant/b2b/shared-catalogs.md) <br>[管理公司信用](./merchant/b2b/company-credit.md) <br>[采购订单和批准](./merchant/b2b/purchase-orders.md) |
-| 系统工具 | [站点范围分析工具功能板](./tools/site-wide-analysis-tool.md) <br>[Adobe Commerce观察](./tools/observation-tool.md) <br>[使用质量修补工具](./tools/quality-patch-tool.md) |
+| 项目 | 类型 | 日期 |
+| ---- | ---- | ---- |
+| **[功能演示列表](feature-demos.md)**  — 简短功能演示摘要页面，可帮助您快速掌握Adobe Commerce的功能、功能和工具。 | 新建 | 10/19/2022 |
+| **[目录服务](./merchant/catalog-service.md)**  — 适用于Adobe Commerce的目录服务的新功能演示。 | 新建 | 9/19/2022 |
+
+{style=&quot;table-layout:auto&quot;}
 
 >[!TIP]
 >

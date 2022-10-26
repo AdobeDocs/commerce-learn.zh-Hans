@@ -2,16 +2,18 @@
 title: "[!DNL Commerce] 视频和教程"
 description: Adobe Commerce和Magento Open Source的视频和教程集合
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: 834fcab32b3211495a62b7595fcee093b7fec0a7
+source-git-commit: 5156f069f37404b852fa9d476bb8eaf5442b9182
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 2%
 
 ---
 
-# <!-- use banner as heading -->![商务视频和Tutorials](../assets/banner-videos-home.png) {#videos}
+# <!-- use banner as heading -->![商务视频和教程](../assets/banner-videos-home.png) {#videos}
 
 欢迎使用 [!DNL Commerce] 视频和教程集合。 使用这些资源，以及 [文档](https://experienceleague.adobe.com/docs/commerce.html)，以便您更好地了解如何使用Adobe Commerce和Magento Open Source支持您的电子商务业务。 该集合旨在为后端开发人员、前端开发人员、系统管理员、商家以及您组织内的其他角色提供有用的内容。
+
+<div id="whats-new-section">
 
 ## 新增功能
 
@@ -23,6 +25,15 @@ ht-degree: 2%
 | **[目录服务](./merchant/catalog-service.md)**  — 适用于Adobe Commerce的目录服务的新功能演示。 | 新建 | 9/19/2022 |
 
 {style=&quot;table-layout:auto&quot;}
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 >[!TIP]
 >

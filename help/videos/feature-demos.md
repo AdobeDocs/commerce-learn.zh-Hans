@@ -1,15 +1,16 @@
 ---
 title: 商务功能的简短演示
-description: “Tutorials和视频”空间包含一个演示视频库，可帮助您了解如何使用商务特性、功能和工具。
-landing-page-description: 浏览我们的演示视频库，帮助您了解如何使用Adobe Commerce特性、功能和工具。
+description: 教程和视频部分包括演示视频库，可帮助您学习如何使用 Commerce 功能及工具。
+landing-page-description: 探索我们的演示视频库，帮助您了解如何使用 Adobe Commerce 的功能及工具。
 topic: Commerce
 doc-type: video
 hidefromtoc: true
 role: Admin, Leader, User
-source-git-commit: bd8c65cb9c090569f882c06802874289d8a52e35
+last-substantial-update: 2022-09-19T00:00:00Z
+source-git-commit: dd3826a76bfa6ba905468f70293f1304cc8acf32
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 

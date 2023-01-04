@@ -2,9 +2,9 @@
 user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 视频和教程
-source-git-commit: 34f5cd077da2c8dc8e187276635a11e71c3e632c
+source-git-commit: e44f25a9c3f113d18703761f9e958ab5244b8417
 workflow-type: tm+mt
-source-wordcount: '528'
+source-wordcount: '533'
 ht-degree: 1%
 
 ---
@@ -102,7 +102,8 @@ ht-degree: 1%
    + [创建购物车价格规则](../site-management/cart-price-rules.md)
    + [管理相关产品规则](../site-management/related-product-rules.md)
    + [设置产品Recommendations](../site-management/product-recommendations.md)
-   + [使用实时搜索](../site-management/live-search.md)
+   + [Live Search简介](../site-management/live-search.md)
+   + [实时搜索推荐](../site-management/live-search-recommendations.md)
 
 + 订单和履行 {#orders}
    + [存储履行概述](../site-management/store-fulfillment.md)

@@ -1,11 +1,11 @@
 ---
 user-guide-title: 视频和教程
-user-guide-description: 通过视频和教程了解Adobe Commerce和Magento Open Source。
+user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 source-git-commit: e44f25a9c3f113d18703761f9e958ab5244b8417
 workflow-type: tm+mt
 source-wordcount: '533'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 

@@ -3,7 +3,7 @@ title: '[!DNL Commerce] 视频和教程'
 description: Adobe Commerce和Magento Open Source的视频和教程集合
 last-substantial-update: 2023-01-19T00:00:00Z
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: 6635d5dc0aab027fe77796a824d3e375d5bf0083
+source-git-commit: f36aa9dd69ce107b1dd9afb66b976391a1ff7ece
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 2%
@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # 商务教程 {#videos}
 
-欢迎使用 [!DNL Commerce] 视频和教程集合。 使用这些资源，以及 [文档](https://experienceleague.adobe.com/docs/commerce.html)，为您提供一个机会，了解如何使用Adobe Commerce和Magento Open Source支持您的电子商务业务。 该集合旨在为后端开发人员、前端开发人员、系统管理员、商家以及您组织内的其他角色提供有用的内容。
+欢迎使用 [!DNL Commerce] 视频和教程集合。 使用这些资源，以及 [文档](https://experienceleague.adobe.com/docs/commerce.html)，为您提供了一个机会，了解如何使用Adobe Commerce和Magento Open Source来支持您的电子商务业务。 该集合旨在为后端开发人员、前端开发人员、系统管理员、商家以及您组织内的其他角色提供有用的内容。
 
 <div id="whats-new-section">
 

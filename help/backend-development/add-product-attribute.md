@@ -6,9 +6,9 @@ kt: 5602
 doc-type: video
 activity: use
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,6 @@ ht-degree: 0%
 
 ## 有用资源
 
-[添加新产品属性](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/)
+[创建产品属性](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
 
-[自定义属性](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html)
+[添加自定义文本字段属性](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)

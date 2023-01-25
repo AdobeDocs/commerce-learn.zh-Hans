@@ -7,9 +7,9 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: c678cf95-7bd2-4c16-8df4-46e256a83f2c
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.2版本。 请参阅 [MBI用户指南](https://docs.magento.com/mbi/) 以了解最新信息。
+>视频中的内容反映了2.2版本。 请参阅 [MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以了解最新信息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35981?quality=12&learn=on)
 
 ## 其他资源
 
-- [我应该使用哪个Report Builder?](https://docs.magento.com/mbi/data-user/reports/report-builder-options.html)
-- [可视Report Builder](https://docs.magento.com/mbi/data-user/reports/ess-rpt-build-visual.html)
+- [我应该使用哪个Report Builder? - MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/report-builder-options.html)
+- [可视Report Builder- MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-rpt-build-visual.html)

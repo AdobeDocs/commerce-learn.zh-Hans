@@ -9,10 +9,10 @@ level: Beginner
 thumbnail: 36191.jpeg
 activity: use
 exl-id: d9049f03-537a-4e0e-8f17-ad392ac63d84
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 16%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,8 +31,8 @@ ht-degree: 16%
 >此内容反映了Adobe Commerce和Magento Open Source2.3.1版本。
 >
 >- PWA和 [PWA Studio](https://developer.adobe.com/commerce/pwa-studio/) 现在可作为 _无头_ 执行边界。
->- 在2.3.x发行版和2.4.x发行版的较新版本中，技术堆栈发生了更改。 检查 [系统要求](https://devdocs.magento.com/guides/v2.4/install-gde/system-requirements.html) 以确保您具有正确的系统组件。
->- 由于Temando即将关闭，Magento Shipping不再可用。 有关商务中新装运实施的详细状态信息和建议，请参阅 [产品信息页面](https://magento.com/shipping).
+>- 在2.3.x发行版和2.4.x发行版的较新版本中，技术堆栈发生了更改。 检查 [系统要求](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/system-requirements.html) 以确保您具有正确的系统组件。
+>- 由于Temando即将关闭，Magento Shipping不再可用。 有关商务中新装运实施的详细状态信息和建议，请参阅 [产品信息页面](https://business.adobe.com/products/magento/shipping.html).
 
 
 
@@ -40,6 +40,6 @@ ht-degree: 16%
 
 ## 其他资源
 
-[[!DNL Commerce] 架构指南](https://devdocs.magento.com/guides/v2.4/architecture/bk-architecture.html)
+[[!DNL Commerce] 架构指南](https://developer.adobe.com/commerce/php/architecture/)
 
-[[!DNL Commerce] PHP开发人员指南](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html)
+[[!DNL Commerce] PHP开发人员指南](https://developer.adobe.com/commerce/php/development/)

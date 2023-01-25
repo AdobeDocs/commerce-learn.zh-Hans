@@ -6,9 +6,9 @@ audience: all
 role: Admin, User
 activity: use
 exl-id: 894523ce-5855-447a-be3b-aa751fb366f2
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -30,5 +30,4 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [相关产品规则](https://docs.magento.com/user-guide/marketing/product-related-rules.html)
-- [基于规则的产品关系配置参考](https://docs.magento.com/user-guide/configuration/catalog/catalog.html#rule-based-product-relations)
+[相关产品规则 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)

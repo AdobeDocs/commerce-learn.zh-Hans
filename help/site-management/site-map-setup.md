@@ -6,9 +6,9 @@ doc-type: feature video
 audience: all
 activity: use
 exl-id: 819e15cc-c712-463d-a6ee-0e9e5bad20e7
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.1.0版本。 有关更高版本中的更新的信息，请参阅 [2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) 和 [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) 发行说明。
+>视频中的内容反映了2.1.0版本。 有关更高版本中的更新的信息，请参阅 [发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35748?quality=12&learn=on)
 
 ## 其他资源
 
-- [使用网站地图](https://docs.magento.com/user-guide/marketing/sitemap-xml.html)
-- [XML站点地图](https://docs.magento.com/user-guide/configuration/catalog/xml-sitemap.html)
+- [网站地图 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/sitemap-xml.html)
+- [目录> XML站点地图 —  [!DNL Commerce] 配置参考指南](https://experienceleague.adobe.com/docs/commerce-admin/config/catalog/xml-sitemap.html)

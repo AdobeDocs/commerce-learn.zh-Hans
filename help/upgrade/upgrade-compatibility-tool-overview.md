@@ -8,10 +8,10 @@ role: Admin, Leader, Developer
 audience: all
 activity: use
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 19%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -40,5 +40,5 @@ ht-degree: 19%
 
 - [升级兼容性工具文档](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
 - [升级指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
-- [已发布版本](https://devdocs.magento.com/release/released-versions.html)
-- [即将发行的版本](https://devdocs.magento.com/release/)
+- [已发布版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [发行计划](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

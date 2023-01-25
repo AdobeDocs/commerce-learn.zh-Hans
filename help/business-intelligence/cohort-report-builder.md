@@ -8,9 +8,9 @@ solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 1d5d6f96-3e0d-4c0d-a8fe-370be6ea1b38
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,6 @@ ht-degree: 0%
 
 ## 有用资源
 
-[使用同类群组Report Builder](https://docs.magento.com/mbi/data-analyst/dev-reports/cohort-rpt-bldr.html)
+[使用同类群组Report Builder- MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html)
 
-[创建定性同类群组分析](https://docs.magento.com/mbi/data-analyst/dev-reports/create-qual-cohort-analysis.html)
+[创建定性同类群组分析 — MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html)

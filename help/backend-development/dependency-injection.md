@@ -6,9 +6,9 @@ doc-type: video
 topic: Development
 activity: use
 exl-id: 17203385-6786-4dd2-9fff-8fb6c4024eb2
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,5 +27,5 @@ ht-degree: 0%
 
 ## 有用资源
 
-- [依赖注入](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/depend-inj.html)
-- [PHP开发人员指南](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html)
+- [依赖注入](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
+- [PHP开发人员指南](https://developer.adobe.com/commerce/php/development/)

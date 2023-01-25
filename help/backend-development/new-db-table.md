@@ -6,9 +6,9 @@ kt: 5613
 doc-type: video
 activity: use
 exl-id: fb222752-5689-4f87-94cf-a61ed7005e6b
-source-git-commit: e853152365fdb7ac5584f2b161192addf7aec5a0
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -42,4 +42,4 @@ ht-degree: 0%
 
 ## 有用资源
 
-- [迁移命令](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/migration-commands.html)
+- [将安装/升级脚本迁移到声明性模式](https://developer.adobe.com/commerce/php/development/components/declarative-schema/migration-scripts/)

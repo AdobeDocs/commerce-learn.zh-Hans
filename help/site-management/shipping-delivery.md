@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: fccbdb7b-2051-490a-a249-3525f96c51ab
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,6 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [装运设置](https://docs.magento.com/user-guide/shipping/shipping-settings.html)
-- [基本提交方法](https://docs.magento.com/user-guide/shipping/methods-basic.html)
-- [运输承运人](https://docs.magento.com/user-guide/shipping/carriers.html)
+- [送货设置 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
+- [基本提交方法 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
+- [装运承运人设置 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)

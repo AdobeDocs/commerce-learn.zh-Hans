@@ -7,9 +7,9 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 479f1c86-75dc-44f3-b183-9b83993c4b2c
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.2版本。 请参阅 [MBI用户指南](https://docs.magento.com/mbi/) 以了解最新信息。
+>视频中的内容反映了2.2版本。 请参阅 [MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以了解最新信息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37904/?quality=12&learn=on)
 
 ## 其他资源
 
-- [产品区段](https://docs.magento.com/mbi/best-practices/segment-filter.html#product-segments)
-- [业务绩效分析](https://docs.magento.com/mbi/data-analyst/analysis/bus-perf-analysis.html)
+- [产品区段 — MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html#product-segments)
+- [业务性能分析 — MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/rfm-analysis.html)

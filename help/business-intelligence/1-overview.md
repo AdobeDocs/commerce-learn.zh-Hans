@@ -8,9 +8,9 @@ solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 97115316-bce9-406a-a3f7-24474cf8e030
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -38,11 +38,11 @@ MBI是一个完整的解决方案，已针对所有Adobe Commerce和Magento Open
 
 >[!NOTE]
 >
->视频中的内容反映了2.2版本。 请参阅 [MBI用户指南](https://docs.magento.com/mbi/) 以了解最新信息。
+>视频中的内容反映了2.2版本。 请参阅 [MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以了解最新信息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35979?quality=12&learn=on)
 
 ## 有用资源
 
-- [MBI简介](https://docs.magento.com/mbi/getting-started/getting-started.html)
-- [MBI支持](https://support.magento.com/hc/en-us/articles/360016730811)
+- [MBI简介 — MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+- [MBI支持](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

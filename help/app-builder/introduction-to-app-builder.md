@@ -1,14 +1,14 @@
 ---
 title: 适用于Adobe Commerce的流程外可扩展性
 description: 了解Adobe应用程序生成器，以及它为何是流程外扩展性的一个重要方面。
-landing-page-description: 了解什么是应用程序生成器，以及它如何帮助制定Adobe Commerce开发策略。
+landing-page-description: 了解什么是App Builder，以及它如何帮助制定Adobe Commerce开发策略。
 kt: 11433
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-01-11T00:00:00Z
-source-git-commit: ef0fa95e776b97ddbaf30e0acd1340e30f12738f
+last-substantial-update: 2023-01-24T00:00:00Z
+source-git-commit: 228891b0e4b56bc2f7d6a3b1dc259b67403ddf51
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '746'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 # 流程外可扩展性
 
-Adobe Commerce开发过去使用与主应用程序相同的存储库来完成。  这称为进程中。  该技术非常好，为开发者提供了扩展应用程序的预期机制。  然而，这是有代价的。  每次向代码库添加新代码时，它都必须与任何升级都兼容。  您还必须与服务器PHP版本以及商务将利用的许多其他服务器应用程序和服务兼容。  Adobe Developer App Builder对扩展功能提出了相同的要求，但将其移离了站点。  代码和逻辑是完全外部的，这种方法称为过程。
+过去，Adobe Commerce开发使用过进程内扩展性（一种强大的功能），但进程中模型要求任何新代码与升级、服务器的PHP版本以及商务使用的许多其他基本服务器应用程序和服务兼容。 Adobe Developer App Builder使用过程外的可扩展性来避免这些兼容性问题。
 
 ## 适用于Adobe Commerce的App Builder {#project-firefly}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839)
 
-Adobe Developer App Builder为开发人员提供了一个可扩展性框架来扩展 [!DNL Adobe Commerce] 提供过程外的可扩展性。
+Adobe Developer App Builder是一个无服务器的扩展性平台，用于集成和创建自定义体验以扩展Adobe解决方案，现在可用于Adobe Commerce。 借助App Builder，您可以构建安全且可扩展的应用程序，这些应用程序扩展了商务原生功能并与第三方解决方案集成。 作为开发人员，您现在可以利用Adobe Commerce的流程外扩展性，这反过来又可以提供即时和长期的优势。
 
-App Builder提供了统一的第三方可扩展性框架，用于集成和创建可扩展的自定义应用程序 [!DNL Adobe Commerce]. 由于此扩展性框架是基于Adobe的基础架构构建的，因此开发人员可以构建自定义微服务，以及扩展和集成 [!DNL Adobe Commerce] 跨Adobe解决方案和其他第三方集成。
+App Builder提供了统一的第三方可扩展性框架，用于集成和创建可扩展的自定义应用程序 [!DNL Adobe Commerce]. 由于此扩展性框架是基于Adobe的基础架构构建的，因此开发人员可以构建自定义微服务，以及扩展和集成 [!DNL Adobe Commerce] 跨其他Adobe解决方案和第三方集成。
 
 应用程序生成器为客户提供了一种扩展方式 [!DNL Adobe Commerce] 在各种用例中：
 
@@ -36,13 +36,13 @@ App Builder提供了统一的第三方可扩展性框架，用于集成和创建
 
 ## 为什么您应进一步了解App Builder
 
-由于Adobe Commerce不是完全SAAS，因此您开发或安装的代码可能会增加复杂性和升级问题。 通过使用流程外的可扩展性（如应用程序生成器），您可以为Adobe Commerce存储提供自定义的独特功能，而无需使用流程内方法。
+由于Adobe Commerce不是完全SAAS产品，因此您开发的代码可能会增加复杂性并升级问题。 通过使用流程外的可扩展性（如App Builder），您可以为Adobe Commerce存储提供自定义的独特功能，而无需使用流程内方法。
 
 其他好处包括：
 
 * 去耦功能可加快启动速度。
-* 升级现在更轻松。 自定义功能不在商务代码库之外，这可以防止升级时出现兼容性问题。
-* 在商务之外移动功能和逻辑可释放通常用于在进行开发方法的资源。
+* 升级现在更轻松。 自定义功能位于商务代码库之外，这可防止升级时出现兼容性问题。
+* 将功能和逻辑移出Commerce可释放通常用于在进行开发方法的资源。
 
 ## 架构 {#architecture}
 
@@ -58,6 +58,14 @@ Adobe Developer App Builder提供了一个通用、一致且标准化的开发�
 ![架构](/help/assets/app-builder/firefly-architecture.jpeg)
 
 有关应用程序生成器架构的更多详细信息，请参阅 [架构概述](https://developer.adobe.com/app-builder/docs/guides/).
+
+## AmazonSales Channel扩展 {#amazon-sales-channel-extension}
+
+以下教程演示了如何使用App Builder扩展将Adobe Commerce连接到AmazonSales Channel。
+
+* [应用程序生成器技术概述](../app-builder/app-builder-technical-overview.md)
+* [可扩展性框架](../app-builder/extensibility-framework-commerce-eventing.md)
+* [功能演示App Builder](../app-builder/app-builder-functional-demonstration.md)
 
 ## 应用程序生成器入门 {#additional-resources}
 
@@ -81,4 +89,3 @@ Adobe Developer App Builder提供了一个通用、一致且标准化的开发�
 ## 支持 {#support}
 
 对于开发人员支持请求，请使用 [Experience League论坛](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) 以寻求帮助。
-

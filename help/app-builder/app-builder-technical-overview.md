@@ -6,15 +6,15 @@ kt: 11763
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-01-24T00:00:00Z
-source-git-commit: 155cc49232ab739fe78443b1e5fb2691759a23ee
+source-git-commit: 336581ac6b695d8b847d88daadeb3784ece97ae7
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
 
-# Adobe Developer App Builder for Adobe Commerce技术概述
+# 应用程序生成器技术概述
 
 以下视频提供了有关连接Adobe Commerce和AmazonSales Channel的技术概述。 本教程还探讨如何使用Adobe应用程序生成器来实现自定义功能和集成。
 

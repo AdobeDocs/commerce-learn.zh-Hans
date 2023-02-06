@@ -6,7 +6,7 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-01-24T00:00:00Z
-source-git-commit: 228891b0e4b56bc2f7d6a3b1dc259b67403ddf51
+source-git-commit: 336581ac6b695d8b847d88daadeb3784ece97ae7
 workflow-type: tm+mt
 source-wordcount: '746'
 ht-degree: 0%
@@ -14,15 +14,15 @@ ht-degree: 0%
 ---
 
 
-# 流程外可扩展性
+# 应用程序生成器简介
 
-过去，Adobe Commerce开发使用过进程内扩展性（一种强大的功能），但进程中模型要求任何新代码与升级、服务器的PHP版本以及商务使用的许多其他基本服务器应用程序和服务兼容。 Adobe Developer App Builder使用过程外的可扩展性来避免这些兼容性问题。
+以前，Adobe Commerce开发使用过进程内可扩展性。 进程中模型要求任何新代码与升级、服务器的PHP版本以及商务使用的许多其他基本服务器应用程序和服务兼容。 Adobe Developer App Builder使用过程外的可扩展性来避免这些兼容性问题。
 
 ## 适用于Adobe Commerce的App Builder {#project-firefly}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839)
 
-Adobe Developer App Builder是一个无服务器的扩展性平台，用于集成和创建自定义体验以扩展Adobe解决方案，现在可用于Adobe Commerce。 借助App Builder，您可以构建安全且可扩展的应用程序，这些应用程序扩展了商务原生功能并与第三方解决方案集成。 作为开发人员，您现在可以利用Adobe Commerce的流程外扩展性，这反过来又可以提供即时和长期的优势。
+Adobe Developer App Builder是一个无服务器的扩展性平台，用于集成和创建自定义体验以扩展Adobe解决方案，现在可用于Adobe Commerce。 借助App Builder，您可以构建安全且可扩展的应用程序，这些应用程序扩展了商务原生功能并与第三方解决方案集成。 作为开发人员，您现在可以利用Adobe Commerce的流程外可扩展性，这反过来又提供了即时和长期的优势。
 
 App Builder提供了统一的第三方可扩展性框架，用于集成和创建可扩展的自定义应用程序 [!DNL Adobe Commerce]. 由于此扩展性框架是基于Adobe的基础架构构建的，因此开发人员可以构建自定义微服务，以及扩展和集成 [!DNL Adobe Commerce] 跨其他Adobe解决方案和第三方集成。
 

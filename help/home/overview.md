@@ -1,12 +1,12 @@
 ---
-title: '[!DNL Commerce] 视频和教程'
+title: '''[!DNL Commerce] 视频和Tutorials'
 description: Adobe Commerce和Magento Open Source的视频和教程集合
 last-substantial-update: 2023-01-19T00:00:00Z
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: f36aa9dd69ce107b1dd9afb66b976391a1ff7ece
+source-git-commit: 5cdc7c15eb792879e66cda39abafcbbd61d807dc
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 2%
+source-wordcount: '146'
+ht-degree: 0%
 
 ---
 
@@ -18,6 +18,8 @@ ht-degree: 2%
 
 ## 新增功能
 
+- [Adobe Developer App Builder](../app-builder/introduction-to-app-builder.md)
+- [API Mesh入门](../api-mesh/getting-started-api-mesh.md)
 - [GraphQL简介](../graphql-rest/intro-graphql.md)
 - [查找恶意IP](../new-relic/malicious-ip.md)
 

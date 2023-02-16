@@ -1,39 +1,48 @@
 ---
-title: 安装Adobe Developer IO命令行界面和API Mesh插件
-description: 了解如何安装Adobe Developer IO命令行界面和API Mesh插件
-landing-page-description: 了解如何使用Adobe应用程序生成器，并通过API Mesh插件安装Adobe Developer IO。
+title: 安装Adobe I/O Runtime命令行界面和API Mesh插件
+description: 了解如何安装Adobe I/O Runtime命令行界面和API Mesh插件
+landing-page-description: 了解如何使用Adobe应用程序生成器，并使用API Mesh插件安装Adobe I/O Runtime。
 kt: 11801
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b6d501c5c852e1cc2cf1f05f91b5a9d96ac7d036
+source-git-commit: a6fb3810f34246df73ae5557240eaaa0f4407eb1
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
 
-# 安装Adobe Developer IO和Mesh插件
+# 安装Adobe I/O Runtime CLI和Mesh插件
 
-在开始之前，需要设置以下几项内容。 首先，设置Adobe Developer IO命令行界面。 接下来，确保在每个环境中配置了API Mesh插件。
-有关设置本地环境以运行Node、nvm和安装Adobe Developer IO的说明，请务必访问 [GraphQL Mesh快速入门](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/).
+在开始为Adobe Developer App Builder使用API Mesh之前，您需要先安装 `aio` CLI和API Mesh插件。
+有关安装说明和先决条件，请访问API网格 [入门指南](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/) 页面。
 
 ## 这个视频给谁？
 
-* 初次Adobe应用程序生成器或 [!DNL Magento Open Source] 具有有限的Adobe Developer IO和API Mesh使用经验。
+* 不熟悉API Mesh或 [!DNL Adobe Commerce] 使用 [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/) 和API网格。
 
 ## 视频内容
 
 * API Mesh简介
-* 安装Adobe Developer IO命令行界面
-* 将API Mesh插件添加到AIO命令行
+* 安装Adobe I/O Runtime CLI（命令行界面）
+* 安装API Mesh插件
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414122/)
 
-## 使用NPM和AIO的示例命令
+## 安装 `aio` CLI和API Mesh插件
 
-安装Adobe Developer命令行界面非常简单。 安装Node后，运行此命令 `npm install -g @adobe/aio-cli`
-安装Adobe Developer cli后，即可安装Mesh插件。 要执行此操作，请运行此命令 `aio plugins:install @adobe/aio-cli-plugin-api-mesh`
+安装后 `node` 和 `npm`，运行以下命令以安装 `aio` CLI:
+
+```bash
+npm install -g @adobe/aio-cli
+```
+
+安装Adobe I/O Runtime CLI后，使用以下命令安装API Mesh插件：
+
+```bash
+aio plugins:install @adobe/aio-cli-plugin-api-mesh
+```
 
 {{$include /help/_includes/api-mesh-related-links.md}}

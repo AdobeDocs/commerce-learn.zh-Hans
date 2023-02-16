@@ -1,39 +1,39 @@
 ---
-title: 创建要在API Mesh中使用的GraphQL单个源请求
-description: 了解如何在Adobe Commerce上使用API Mesh和 [!DNL Adobe App Builder]. 了解如何创建具有一个源的请求。
-landing-page-description: 了解如何在Adobe Commerce上使用API Mesh和 [!DNL Adobe App Builder]. 了解如何创建具有一个源的请求。
+title: 在API网格中创建GraphQL单源网格
+description: 了解如何在Adobe Commerce上使用API Mesh和 [!DNL Adobe App Builder]. 了解如何创建具有一个源的网格。
+landing-page-description: 了解如何在Adobe Commerce上使用API Mesh和 [!DNL Adobe App Builder]. 了解如何创建具有一个源的网格。
 kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b6d501c5c852e1cc2cf1f05f91b5a9d96ac7d036
+source-git-commit: 2cf7eb4d04f874ec42ca5f6d58ec841680376a41
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
 
-# 创建单源GraphQL API网格
+# 使用单个源创建网格
 
-该视频可帮助开发人员了解如何创建GraphQL反向代理，并且只有一个源。 请记住，要使GraphQL Mesh正常工作，需要具有有效GraphQL架构的公开访问URL。 此视频还说明了如何设置初始json以用于您的商务网站。 有关视频中使用的基本代码示例，请访问 [创建网格](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+此视频可帮助开发人员了解如何在适用于Adobe Developer App Builder的API Mesh中使用单个源创建网格。 要使此基本示例按预期工作，您需要一个可公开访问的API或GraphQL端点。 此视频还介绍如何创建简单的 `mesh.json` 文件来与您的商务实例一起使用。 有关更多详细信息和代码示例，请访问 [创建网格](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
 
 ## 这个视频给谁？
 
 * 任何刚接触API网格的人
-* 有兴趣使用多个图形源的开发人员
-* 需要知道如何过滤网络选项卡和按graphql过滤的任何人
+* 有兴趣组合多个GraphQL和API源的开发人员
+* 需要了解如何过滤网络选项卡和按GraphQL过滤的人员
 
 ## 视频内容
 
-* 将API用作反向代理
-* 使用Adobe Developer命令行界面进行JSON配置
+* 将API Mesh用作反向代理
+* 从JSON配置文件创建网格
 * 访问新创建的GraphQL端点
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414124)
 
 ## 创建json配置文件
 
-为了让Adobe应用程序生成器了解您的所有源，您可以在JSON配置中定义它们。 每个源都是数组中的一个元素，您可以有一个或多个。 以下是单个源的示例
+API Mesh使用JSON配置文件来定义源处理程序。 JSON文件包含 `sources` 包含网格源的数组。 以下是单个源的网格示例。
 
 ```json
 {

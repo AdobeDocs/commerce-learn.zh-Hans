@@ -5,8 +5,8 @@ landing-page-description: 了解什么是App Builder，以及它如何帮助制�
 kt: 11433
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-01-24T00:00:00Z
-source-git-commit: 336581ac6b695d8b847d88daadeb3784ece97ae7
+last-substantial-update: 2023-02-16T00:00:00Z
+source-git-commit: f4c092b4534587f5656bbf298dbf94f783d93be7
 workflow-type: tm+mt
 source-wordcount: '746'
 ht-degree: 0%
@@ -89,3 +89,5 @@ Adobe Developer App Builder提供了一个通用、一致且标准化的开发�
 ## 支持 {#support}
 
 对于开发人员支持请求，请使用 [Experience League论坛](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) 以寻求帮助。
+
+{{$include /help/_includes/app-builder-related-links.md}}

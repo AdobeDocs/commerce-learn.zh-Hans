@@ -2,9 +2,9 @@
 user-guide-title: 视频和Tutorials
 user-guide-description: 通过视频和教程了解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 视频和Tutorials
-source-git-commit: d26282acb27a09344197f393ed2fe465afda022a
+source-git-commit: a4863c70ed9b0b0daee82c569b284f98163e5769
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
       + [5.2 — 声明性模式](../backend-development/backend-5-2-declarative-schema.md)
       + [5.3 — 路由](../backend-development/backend-5-3-routing.md)
       + [5.4 — 创建 [!DNL Admin] 页面](../backend-development/backend-5-4-admin-page.md)
-      + [6 — 练习](../backend-development/backend-6-practice.md)
+   + [6 — 练习](../backend-development/backend-6-practice.md)
    + [!DNL Commerce] 对于企业用户 {#merchants}
       + [1.1 - [!DNL Admin] 菜单](../site-management/introduction/1-1-menus.md)
       + [1.2 — 数据网格](../site-management/introduction/1-2-data-grids.md)
@@ -56,25 +56,26 @@ ht-degree: 0%
       + [5.2 — 客户管理](../site-management/introduction/5-2-customer-management.md)
       + [5.3 — 电子邮件通信](../site-management/introduction/5-3-store-communications.md)
       + [5.4 — 全局参考体系结构](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/architecture/global-reference.html)
-
-
-
 + GraphQL和REST {#graphql-rest}
    + [GraphQL简介](https://experienceleague.adobe.com/docs/commerce-learn/graphql-rest/getting-started-graphql.html)
-
 + Adobe Developer App Builder {#adobe-developer-app-builder}
    + [应用程序生成器简介](../app-builder/introduction-to-app-builder.md)
    + [适用于应用程序生成器的扩展性框架](../app-builder/extensibility-framework-commerce-eventing.md)
    + [应用程序生成器的功能演示](../app-builder/app-builder-functional-demonstration.md)
    + [应用程序生成器技术概述](../app-builder/app-builder-technical-overview.md)
-
-+ API Mesh {#api-mesh}
-   + [API Mesh入门](../api-mesh/getting-started-api-mesh.md)
-   + [安装AdobeIO和Mesh插件](../api-mesh/installing-aio-mesh-plugin.md)
-   + [使用项目和工作区](../api-mesh/aio-projects-workspaces.md)
-   + [创建单源GraphQL API网格](../api-mesh/graphql-single-source.md)
-   + [创建多个源GraphQL API网格](../api-mesh/graphql-multiple-source.md)
-
+   + Adobe Commerce的IO事件 {#io-events}
+      + [Adobe Commerce 2.4.5安装](../io-events/2-4-5-installation.md)
+      + [Adobe Commerce 2.4.6安装](../io-events/2-4-6-installation.md)
+      + [创建应用程序生成器项目](../io-events/create-app-builder-project.md)
+      + [配置Adobe Commerce](../io-events/configure-commerce.md)
+      + [Adobe Commerce模块开发](../io-events/commerce-module-development.md)
+      + [Adobe Commerce条件事件](../io-events/conditional-events.md)
+   + API Mesh {#api-mesh}
+      + [API Mesh入门](../api-mesh/getting-started-api-mesh.md)
+      + [安装AdobeIO和Mesh插件](../api-mesh/installing-aio-mesh-plugin.md)
+      + [使用项目和工作区](../api-mesh/aio-projects-workspaces.md)
+      + [创建单源GraphQL API网格](../api-mesh/graphql-single-source.md)
+      + [创建多个源GraphQL API网格](../api-mesh/graphql-multiple-source.md)
 + 商店管理 {#admin}
    + [管理用户角色和权限](../site-management/users-roles-permissions.md)
    + [双重身份验证](../site-management/two-factor-authentication.md)
@@ -84,14 +85,11 @@ ht-degree: 0%
    + [存储站点地图设置](../site-management/site-map-setup.md)
    + [运输和交付方法](../site-management/shipping-delivery.md)
    + [使用支付服务](../site-management/payment-services.md)
-
-
 + 客户管理 {#customers}
    + [创建客户区段](../site-management/customer-segments.md)
    + [创建客户群组](../site-management/customer-groups.md)
    + [创建客户属性](../site-management/customer-attributes.md)
    + [卖家辅助购物](../site-management/seller-assisted-shopping.md)
-
 + 目录管理 {#catalog}
    + [适用于Adobe Commerce的目录服务](../site-management/catalog-service.md)
    + [创建类别](../site-management/category-create.md)
@@ -101,7 +99,6 @@ ht-degree: 0%
    + [将产品属性与PWA Studio结合使用](../site-management/product-attributes-pwa.md)
    + [管理SEO元数据](../site-management/seo-metadata.md)
    + [为SEO管理URL重写](../site-management/seo-url-rewrites.md)
-
 + 内容管理 {#content}
    + [页面生成器概述](../site-management/page-builder-overview.md)
    + [创建静态块和动态块](../site-management/static-dynamic-blocks.md)
@@ -109,7 +106,6 @@ ht-degree: 0%
    + [使用内容模板](../site-management/content-templates.md)
    + [内容暂存](../site-management/content-staging.md)
    + [管理媒体集](../site-management/media-gallery.md)
-
 + 营销工具 {#marketing}
    + [创建目录价格规则](../site-management/catalog-price-rules.md)
    + [创建购物车价格规则](../site-management/cart-price-rules.md)
@@ -117,24 +113,20 @@ ht-degree: 0%
    + [设置产品Recommendations](../site-management/product-recommendations.md)
    + [Live Search简介](../site-management/live-search.md)
    + [实时搜索推荐](../site-management/live-search-recommendations.md)
-
 + 订单和履行 {#orders}
    + [存储履行概述](../site-management/store-fulfillment.md)
    + [管理订单状态](../site-management/order-status.md)
-
 + B2B for Adobe Commerce {#b2b}
    + [管理公司帐户](../b2b/company-accounts.md)
    + [管理共享目录](../b2b/shared-catalogs.md)
    + [管理公司信用](../b2b/company-credit.md)
    + [采购订单和批准](../b2b/purchase-orders.md)
-
 + 工具和外部服务 {#tools}
    + [站点范围分析工具功能板](../tools/site-wide-analysis-tool.md)
    + [Adobe Commerce观察](../tools/observation-tool.md)
    + [质量修补工具](../tools/quality-patch-tool.md)
    + New Relic {#new-relic}
       + [查找恶意IP](../new-relic/malicious-ip.md)
-
 + MBI {#mbi}
    + [过滤集](../business-intelligence/filter-sets.md)
    + [同类群组Report Builder](../business-intelligence/cohort-report-builder.md)
@@ -160,19 +152,16 @@ ht-degree: 0%
       + [投资回报跟踪](../business-intelligence/10-roi-tracking.md)
       + [共享结果并导出数据](../business-intelligence/11-share-results-export-data.md)
       + [客户成功案例](../business-intelligence/12-customer-success.md)
-
 + 商务升级 {#upgrade}
    + [Adobe Commerce 2.4升级研讨会](../upgrade/2.4-upgrade-workshop.md)
    + [升级兼容性工具概述](../upgrade/upgrade-compatibility-tool-overview.md)
    + [在PHP Storm中使用升级兼容工具](../upgrade/uct-phpstorm.md)
-
 + 后端开发 {#backend-development}
    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [将表添加到数据库](../backend-development/new-db-table.md)
    + [创建模块](../backend-development/create-module.md)
    + [添加产品属性](../backend-development/add-product-attribute.md)
    + [依赖关系注入示例](../backend-development/dependency-injection.md)
-
 + 前端开发 {#frontend-development}
    + 面向开发人员的页面生成器 {#page-builder}
       + [1 — 导言](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -183,7 +172,6 @@ ht-degree: 0%
       + [6 — 自定义内容类型](../frontend-development/page-builder/6-custom-content-types.md)
    + [添加JavaScript模块](../frontend-development/add-javascript-module.md)
    + [创建页面](../frontend-development/create-page.md)
-
 + PWA Studio {#pwa-studio}
    + PWA Studio简介 {#introduction}
       + [1 — 概述](../pwa/introduction/1-overview.md)

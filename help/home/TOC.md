@@ -2,7 +2,7 @@
 user-guide-title: 视频和Tutorials
 user-guide-description: 通过视频和教程了解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 视频和Tutorials
-source-git-commit: 894accd205cdaa796405d979e324ec4d19f65c51
+source-git-commit: afd88a8996e941e9e6c00ef86d960318b8dcaee6
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
       + [5.2 — 声明性模式](../backend-development/backend-5-2-declarative-schema.md)
       + [5.3 — 路由](../backend-development/backend-5-3-routing.md)
       + [5.4 — 创建 [!DNL Admin] 页面](../backend-development/backend-5-4-admin-page.md)
-   + [6 — 练习](../backend-development/backend-6-practice.md)
+      + [6 — 练习](../backend-development/backend-6-practice.md)
    + [!DNL Commerce] 对于企业用户 {#merchants}
       + [1.1 - [!DNL Admin] 菜单](../site-management/introduction/1-1-menus.md)
       + [1.2 — 数据网格](../site-management/introduction/1-2-data-grids.md)

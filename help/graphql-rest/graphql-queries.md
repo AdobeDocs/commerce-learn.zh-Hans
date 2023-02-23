@@ -6,7 +6,8 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
-source-git-commit: 9dc530107470617f88992d8eb2ed9feb017a6530
+exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
+source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 0%
@@ -186,5 +187,6 @@ fragment productDetails on ProductInterface {
 
 正如您看到的GraphQL查询的实际HTTP请求包含“query: `{string}`“”在其正文中，任何包含变量词典的请求都只包含额外的“变量： `{json}`&quot; `{json}` 是包含变量值的JSON字符串。
 
-新查询还使用 _片段_ (`productDetails`)以在多个位置重复使用同一字段选择。 [阅读有关片段的更多信息](https://graphql.org/learn/queries/#fragments) (在GraphQL文档中)。
+新查询还使用 _片段_ (`productDetails`)以在多个位置重复使用同一字段选择。 [阅读有关片段的更多信息](https://graphql.org/learn/queries/#fragments){target="_blank"} (在GraphQL文档中)。
 
+{{$include /help/_includes/graphql-rest-related-links.md}}

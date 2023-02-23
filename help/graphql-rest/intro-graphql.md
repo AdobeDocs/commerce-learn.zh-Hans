@@ -6,9 +6,10 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
-source-git-commit: 9dc530107470617f88992d8eb2ed9feb017a6530
+exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
+source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -28,19 +29,20 @@ GraphQL是唯一API查询语言和运行时的规范，用于响应该查询语�
 GraphQL允许客户以表达式描述 _完全_ 所需数据。 单个请求不需要多个网络请求来获取多种数据类型，而是可以查询多种类型。 而且，通过仅包含所请求的类型和字段（以直观地镜像查询的格式），响应会保持精益。
 
 可以使用任何语言构建实施GraphQL规范的运行时。 Adobe Commerce和 [!DNL Magento Open Source] 使用
-[graphql-php](https://webonyx.github.io/graphql-php/) PHP实施并在其上构建自己的层。
+[graphql-php](https://webonyx.github.io/graphql-php/){target="_blank"} PHP实施并在其上构建自己的层。
 
-[查看完整的GraphQL文档](https://graphql.org/learn)
+[查看完整的GraphQL文档](https://graphql.org/learn){target="_blank"}
 
 ## 使用GraphQL客户端
 
 您需要GUI GraphQL客户端来测试代码示例和教程。 有以下几个选项：
 
-* [阿尔泰尔](https://altairgraphql.dev/) 是专为GraphQL构建的卓越且功能齐全的客户端。 Adobe在演示视频中使用Altair。
+* [阿尔泰尔](https://altairgraphql.dev/){target="_blank"} 是专为GraphQL构建的卓越且功能齐全的客户端。 Adobe在演示视频中使用Altair。
 * 如果您不想安装桌面应用程序，则还有一些Altair扩展会直接在
-   [铬黄](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja)、 Firefox或 [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa) 浏览器。
-* [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql) 是GraphQL IDE在GraphQL Foundation中的实施。 这不是一个可安装的工具，而是一个可用于自行构建界面的包。
-* 如果您已经熟悉 [Postman](https://www.postman.com/)，但它对GraphQL查询有不错的支持，但其功能不如专门的GraphQL客户那样全面。
+   [铬黄](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja){target="_blank"}, Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa){target="_blank"} 浏览器。
+* [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql){target="_blank"} 是GraphQL IDE在GraphQL Foundation中的实施。 这不是一个可安装的工具，而是一个可用于自行构建界面的包。
+* 如果您已经熟悉 [Postman](https://www.postman.com/){target="_blank"}，但它对GraphQL查询有不错的支持，但其功能不如专门的GraphQL客户那样全面。
 
 在GraphQL客户端中，您应将请求提交到URL路径 `/graphql` 在您的Adobe Commerce或 [!DNL Magento Open Source] 实例。 如果您希望将现有实例用于测试，则可以使用Venia主题演示(PWA Studio的示例实施): `https://venia.magento.com/graphql`
 
+{{$include /help/_includes/graphql-rest-related-links.md}}

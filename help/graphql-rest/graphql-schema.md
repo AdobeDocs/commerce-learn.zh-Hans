@@ -6,13 +6,13 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
-source-git-commit: 52738be67e20cc2048bbc04afc5c01c9c5478a98
+exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
+source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 0%
 
 ---
-
 
 # 模式语言
 
@@ -90,7 +90,7 @@ type Mutation {
 }
 ```
 
-你可以深入研究 [GraphQL文档](https://graphql.org/learn/schema/) 要了解类型系统的详细信息，包括此处未显示的一些概念的语法。 但是，上例不言自明。 （另外，请注意语法与查询语法有多相似。） 定义GraphQL架构只是表达给定类型的可用参数和字段以及这些字段的类型。 每个复杂的字段类型本身必须有一个定义，依此类推，通过树，直到您得到简单的标量类型，如 `String`.
+你可以深入研究 [GraphQL文档](https://graphql.org/learn/schema/){target="_blank"} 要了解类型系统的详细信息，包括此处未显示的某些概念的语法。 但是，上例不言自明。 （另外，请注意语法与查询语法有多相似。） 定义GraphQL架构只是表达给定类型的可用参数和字段以及这些字段的类型。 每个复杂的字段类型本身必须有一个定义，依此类推，通过树，直到您得到简单的标量类型，如 `String`.
 
 的 `input` 声明在所有方面都像 `type` 但定义可用作参数输入的类型。 另请注意 `interface` 声明。 此函数与PHP中的接口大致相同。 其他类型将从此界面继承。
 
@@ -100,4 +100,4 @@ type Mutation {
 >
 >有关如何根据架构获取数据和设置其格式的逻辑，以及如何将此类逻辑映射到特定类型，取决于GraphQL运行时实施。 但是，实施应遵循一个概念流程，该流程在我们对嵌套字段的理解中有意义：与根关联的解析操作 `Query` 或 `Mutation` 类型，用于检查请求中指定的每个字段。 对于解析为复杂类型的每个字段，都会对该类型等执行类似的解析，直到所有内容都解析为标量值。
 
-
+{{$include /help/_includes/graphql-rest-related-links.md}}

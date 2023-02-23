@@ -7,16 +7,16 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
+source-git-commit: 0fa7ba038f542172c47bea859f8712759fcc52f7
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
 
 # 模式语言
 
-我们处理的查询和突变依赖于在服务器上实现的特定数据图，GraphQL运行时会使用该数据图来解析查询。 GraphQL规范定义了一种不可知的语言，用于表达数据图的类型和关系。
+使用的查询和突变依赖于在服务器上实现的特定数据图，GraphQL运行时会使用该数据图来解析查询。 GraphQL规范定义了一种不可知的语言，用于表达数据图的类型和关系。
 
 下面是一个简化的类型架构，它支持您迄今所研究的查询和突变：
 
@@ -98,6 +98,6 @@ type Mutation {
 
 >[!NOTE]
 >
->有关如何根据架构获取数据和设置其格式的逻辑，以及如何将此类逻辑映射到特定类型，取决于GraphQL运行时实施。 但是，实施应遵循一个概念流程，该流程在我们对嵌套字段的理解中有意义：与根关联的解析操作 `Query` 或 `Mutation` 类型，用于检查请求中指定的每个字段。 对于解析为复杂类型的每个字段，都会对该类型等执行类似的解析，直到所有内容都解析为标量值。
+>有关如何根据架构获取数据和设置其格式的逻辑，以及如何将此类逻辑映射到特定类型，取决于GraphQL运行时实施。 但是，根据对嵌套字段的了解，实施应遵循有意义的概念流程：与根关联的解析操作 `Query` 或 `Mutation` 类型，用于检查请求中指定的每个字段。 对于解析为复杂类型的每个字段，都会对该类型等执行类似的解析，直到所有内容都解析为标量值。
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

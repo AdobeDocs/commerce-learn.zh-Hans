@@ -11,7 +11,7 @@ badge2: "Only on Adobe Commerce"
 exl-id: e643ee2a-776b-4840-8bff-6ad99ee98fda
 source-git-commit: 41391482386043eadbe1801c0423fe5c8950b0bd
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

@@ -5,11 +5,12 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+badge: label="B2B for Adobe Commerce" type="Positive"
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: d10020b33cfd86031d8cbd156eb22f788c301743
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 1%
+source-wordcount: '163'
+ht-degree: 0%
 
 ---
 
@@ -37,5 +38,5 @@ B2B客户拥有其角色所需的权限，可设置批准规则以强制实施�
 
 ## 其他资源
 
-- [公司的采购订单](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html)
-- [采购订单批准规则](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html)
+- [公司的采购订单](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html){target="_blank"}
+- [采购订单批准规则](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html){target="_blank"}

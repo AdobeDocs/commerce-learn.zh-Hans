@@ -5,10 +5,11 @@ doc-type: feature video
 role: Admin, User
 audience: all
 activity: use
+badge: label="仅在Adobe Commerce中" type="Positive"
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 884f7b71c9996d29d1c8eb07a30c445338b660f0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -30,5 +31,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [内容暂存 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html)
-- [预览营销活动 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html)
+- [内容暂存 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
+- [预览营销活动 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}

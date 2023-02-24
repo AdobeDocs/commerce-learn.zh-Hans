@@ -6,7 +6,7 @@ kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 2cf7eb4d04f874ec42ca5f6d58ec841680376a41
+source-git-commit: fba55cd605c4b17d87af5e8e2919bd400e6ebf55
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # 使用单个源创建网格
 
-此视频可帮助开发人员了解如何在适用于Adobe Developer App Builder的API Mesh中使用单个源创建网格。 要使此基本示例按预期工作，您需要一个可公开访问的API或GraphQL端点。 此视频还介绍如何创建简单的 `mesh.json` 文件来与您的商务实例一起使用。 有关更多详细信息和代码示例，请访问 [创建网格](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+此视频可帮助开发人员了解如何在适用于Adobe Developer App Builder的API Mesh中使用单个源创建网格。 要使此基本示例按预期工作，您需要一个可公开访问的API或GraphQL端点。 此视频还介绍如何创建简单的 `mesh.json` 文件来与您的商务实例一起使用。 有关更多详细信息和代码示例，请访问 [创建网格](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## 这个视频给谁？
 

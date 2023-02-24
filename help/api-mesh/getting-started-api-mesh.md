@@ -6,7 +6,7 @@ kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b3d5b22a597b342df6bf9846346d656dd4ce1383
+source-git-commit: 25e10b1acc4c868711f08b0de4997df1e376a0af
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 API Mesh可将多个数据源组合在一起，以获得供应用程序使用的单个响应。
 
-[查看完整的API Mesh文档](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/)
+[查看完整的API Mesh文档](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
 
 ## 用例示例
 
@@ -31,7 +31,7 @@ API Mesh可将多个数据源组合在一起，以获得供应用程序使用的
 
 作为使用Adobe应用程序生成器和API网格的开发人员，您无需了解反向代理是什么。 但是，如果您对与Adobe应用程序生成器相关的整体功能感兴趣，请使用以下资源：
 
-* [什么是反向代理](https://www.imperva.com/learn/performance/reverse-proxy/)
-* [什么是反向代理，为什么这很重要](https://blog.hubspot.com/website/reverse-proxy)
+* [什么是反向代理](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
+* [什么是反向代理，为什么这很重要](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}

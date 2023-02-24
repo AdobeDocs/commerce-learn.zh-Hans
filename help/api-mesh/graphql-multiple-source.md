@@ -6,16 +6,16 @@ kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b3d5b22a597b342df6bf9846346d656dd4ce1383
+source-git-commit: 6b2a66ed3b4de8e633d5b3c6bce86eb0507a9ac7
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 使用多个源创建网格
 
-此视频可帮助开发人员了解如何在Adobe Developer App Builder的API Mesh中使用多个源创建网格。 此视频演示了如何使用多个源创建网格并识别错误。 有关更多详细信息和代码示例，请访问 [创建网格](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+此视频可帮助开发人员了解如何在Adobe Developer App Builder的API Mesh中使用多个源创建网格。 此视频演示了如何使用多个源创建网格并识别错误。 有关更多详细信息和代码示例，请访问 [创建网格](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## 这个视频给谁？
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 视频内容
 
-* 使用方法 [转换](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/) 修改默认源架构
+* 使用方法 [转换](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} 修改默认源架构
 * 如何解决错误，如名称冲突、架构可用性和其他架构语法问题
 * 使用修改的配置更新网格
 

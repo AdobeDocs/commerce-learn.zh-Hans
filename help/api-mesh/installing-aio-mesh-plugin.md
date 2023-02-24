@@ -6,7 +6,7 @@ kt: 11801
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: a6fb3810f34246df73ae5557240eaaa0f4407eb1
+source-git-commit: f365e4cbf3f9bd8a0364acb9d28f8d9479809011
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -17,11 +17,11 @@ ht-degree: 0%
 # 安装Adobe I/O Runtime CLI和Mesh插件
 
 在开始为Adobe Developer App Builder使用API Mesh之前，您需要先安装 `aio` CLI和API Mesh插件。
-有关安装说明和先决条件，请访问API网格 [入门指南](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/) 页面。
+有关安装说明和先决条件，请访问API网格 [入门指南](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"} 页面。
 
 ## 这个视频给谁？
 
-* 不熟悉API Mesh或 [!DNL Adobe Commerce] 使用 [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/) 和API网格。
+* 不熟悉API Mesh或 [!DNL Adobe Commerce] 使用 [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} 和API网格。
 
 ## 视频内容
 

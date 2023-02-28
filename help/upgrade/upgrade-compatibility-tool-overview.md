@@ -1,7 +1,7 @@
 ---
 title: 升级兼容性工具概述
-description: 观看此技术视频以了解升级兼容性工具如何能够让您的下次升级变得更轻松、更便宜和更快速。
-landing-page-description: 观看此技术视频以了解升级兼容性工具如何能够让您的下次升级变得更轻松、更便宜和更快速。
+description: 观看此技术视频，了解升级兼容性工具如何让您的下次升级更轻松、更便宜、更快。
+landing-page-description: 观看此技术视频，了解升级兼容性工具如何让您的下次升级更轻松、更便宜、更快。
 kt: 9983
 doc-type: technical video
 role: Admin, Leader, Developer
@@ -10,7 +10,7 @@ activity: use
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
 source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---

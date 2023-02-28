@@ -6,9 +6,9 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: f4c092b4534587f5656bbf298dbf94f783d93be7
+source-git-commit: 662c755b69e399448ce7f4984105a556386f027c
 workflow-type: tm+mt
-source-wordcount: '746'
+source-wordcount: '782'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,10 @@ Adobe Developer App Builder提供了一个通用、一致且标准化的开发�
 有关应用程序生成器架构的更多详细信息，请参阅 [架构概述](https://developer.adobe.com/app-builder/docs/guides/).
 
 ## AmazonSales Channel扩展 {#amazon-sales-channel-extension}
+
+>[!IMPORTANT]
+>
+>AmazonSales Channel扩展仍在开发中，尚未正式发布。  这些视频和教程旨在向您展示如何将Adobe Developer App Builder用于实际用例。
 
 以下教程演示了如何使用App Builder扩展将Adobe Commerce连接到AmazonSales Channel。
 

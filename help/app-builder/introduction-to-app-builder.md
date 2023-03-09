@@ -6,7 +6,7 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: 8726d58abbf6ac0fb1e403a0ece335978d4d7eac
+source-git-commit: 82ccecf2789e1eedf447af2705a3840d0302fdba
 workflow-type: tm+mt
 source-wordcount: '819'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Adobe Developer App Builder不是开箱即用的解决方案，而是提供通�
 
 ![架构](/help/assets/app-builder/firefly-architecture.jpeg)
 
-有关App Builder架构的更多详细信息，请参阅 [架构概述](https://developer.adobe.com/app-builder/docs/guides/).
+有关App Builder架构的更多详细信息，请参阅 [架构概述](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
 
 ## AmazonSales Channel扩展 {#amazon-sales-channel-extension}
 
@@ -75,27 +75,27 @@ Adobe Developer App Builder不是开箱即用的解决方案，而是提供通�
 
 可组合商务策略的概述（包括初始设置）可通过阅读以下博客帖子找到：
 
-[App Builder如何帮助提高商务平台的业务敏捷性](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy)
+[App Builder如何帮助提高商务平台的业务敏捷性](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
 
 为帮助您开始使用App Builder，Adobe创建了以下文档：
 
-* [App Builder快速入门](https://developer.adobe.com/app-builder/docs/getting_started/)
+* [App Builder快速入门](https://developer.adobe.com/app-builder/docs/getting_started/){target="_blank"}
 
 ## 继续学习文档 {#appbuilder-documentation}
 
 App Builder为开发人员提供视频和文档，包括帮助开发您自己的自定义应用程序的指南和参考文档：
 
-* [App Builder文档](https://developer.adobe.com/app-builder/docs/overview/)
-* [App Builder视频](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o)
+* [App Builder文档](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
+* [App Builder视频](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o){target="_blank"}
 
 ## 试用其中一个示例应用程序 {#appbuilder-codesamples}
 
 准备好开始开发了吗？ 以下链接包含帮助您入门的示例应用程序：
 
-* [Adobe Developer网站上的应用程序生成器代码实验室](https://developer.adobe.com/app-builder/docs/resources/)
+* [Adobe Developer网站上的应用程序生成器代码实验室](https://developer.adobe.com/app-builder/docs/resources/){target="_blank"}
 
 ## 支持 {#support}
 
-对于开发人员支持请求，请使用 [Experience League论坛](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) 以寻求帮助。
+对于开发人员支持请求，请使用 [Experience League论坛](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} 以寻求帮助。
 
 {{$include /help/_includes/app-builder-related-links.md}}

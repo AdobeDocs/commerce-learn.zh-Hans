@@ -2,13 +2,14 @@
 title: 了解如何在Adobe Commerce中创建模块以使用事件。
 description: 了解如何创建商务模块以使用事件。
 landing-page-description: 了解如何创建Adobe Commerce模块以使用事件。
+short-description: Learn how to create an Adobe Commerce module to use events.
 kt: 11891
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
-source-git-commit: f1295c93652a9a2ae40a82009a8eb6895f59b909
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---

@@ -2,11 +2,12 @@
 title: 安装Adobe I/O Runtime命令行界面和API Mesh插件
 description: 了解如何安装Adobe I/O Runtime命令行界面和API Mesh插件
 landing-page-description: 了解如何使用Adobe应用程序生成器，并使用API Mesh插件安装Adobe I/O Runtime。
+short-description: Discover how to use Adobe App Builder and install the Adobe I/O Runtime with API Mesh plugin.
 kt: 11801
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: f365e4cbf3f9bd8a0364acb9d28f8d9479809011
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%

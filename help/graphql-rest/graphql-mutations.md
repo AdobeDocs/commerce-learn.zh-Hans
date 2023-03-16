@@ -2,12 +2,13 @@
 title: 使用GraphQL执行变异
 description: 了解有关在Adobe Commerce上使用GraphQL执行变异以及 [!DNL Magento Open Source]. 使用POST调用执行首个变异。
 landing-page-description: 了解有关在Adobe Commerce上使用GraphQL执行变异以及 [!DNL Magento Open Source]. 使用POST调用执行首个变异。
+short-description: Get an introduction about performing a mutation using GraphQL on Adobe Commerce and [!DNL Magento Open Source]. Perform your first mutation using POST calls.
 kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
-source-git-commit: 0fa7ba038f542172c47bea859f8712759fcc52f7
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%

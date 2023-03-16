@@ -2,12 +2,13 @@
 title: 了解如何为Adobe Commerce 2.4.6安装IO事件
 description: 了解如何在Adobe Commerce 2.4.6中安装IO事件所需的模块，以便在Adobe Developer App Builder中使用
 landing-page-description: 了解如何安装Adobe Commerce 2.4.6所需的多个模块。
+short-description: Learn how to install several modules needed for Adobe Commerce 2.4.6.
 kt: 11887
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
 badge: "Adobe Commerce 2.4.6"
-source-git-commit: 4f73e2a6852d545d9b30b03158b6d8a35e3eba49
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%

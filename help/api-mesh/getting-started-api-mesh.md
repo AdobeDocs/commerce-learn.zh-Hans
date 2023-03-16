@@ -2,13 +2,14 @@
 title: API Mesh入门
 description: 了解如何在Adobe Commerce上使用API Mesh和 [!DNL Adobe App Builder]. 了解有关安装Adobe应用程序生成器、处理项目、创建图形反向代理等的信息。
 landing-page-description: 了解如何在Adobe Commerce上使用API Mesh和 [!DNL Adobe App Builder]. 了解如何安装AdobeIO、处理项目、创建图形反向代理等。
+short-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about installing Adobe IO, working with projects, creating a graphql reverse proxy and much more.
 kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 25e10b1acc4c868711f08b0de4997df1e376a0af
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---

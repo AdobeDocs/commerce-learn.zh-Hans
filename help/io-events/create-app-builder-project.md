@@ -2,11 +2,12 @@
 title: 了解如何使用商务事件创建应用程序生成器项目
 description: 了解如何创建App Builder项目以用于商务事件
 landing-page-description: 了解如何创建Adobe应用程序生成器项目以使用Adobe Commerce事件
+short-description: Learn how to create an Adobe App Builder project to use Adobe Commerce events
 kt: 11888
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
-source-git-commit: e31325570a0b816eee5b250224d6442399685611
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%

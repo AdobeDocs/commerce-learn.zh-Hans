@@ -2,13 +2,14 @@
 title: 了解如何使用New Relic识别需要阻止的IP
 description: 使用New Relic，识别可能具有恶意的IP地址。  确定IP后，将在Fastly中使用它来阻止它访问应用程序
 landing-page-description: 此视频会指示New Relic用户查找访问网站时可能需要阻止的潜在IP地址。
+short-description: This video instructs a user of New Relic to find potential IP addresses that may need to be blocked form accessing the site.
 kt: 11566
 doc-type: video
 audience: all
 activity: use
 last-substantial-update: 2022-12-9
 exl-id: 2bd28c6f-5139-485b-a439-dd7dbf2b6f62
-source-git-commit: a034e15f913c06fcad54e669f43fe6acc8fb3f8f
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%

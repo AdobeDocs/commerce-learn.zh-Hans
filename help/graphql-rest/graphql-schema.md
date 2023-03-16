@@ -2,12 +2,13 @@
 title: 使用GraphQL的模式语言
 description: 了解与GraphQL相关的模式。 阅读架构的描述，以及一些有趣的模式和读取架构的方法。
 landing-page-description: 这是对GraphQL的介绍。 了解架构以及如何解释某些元素
+short-description: This is an introduction to GraphQL. Understanding the schema and how to interpret some of the elements
 kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: 0fa7ba038f542172c47bea859f8712759fcc52f7
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 0%
@@ -90,7 +91,7 @@ type Mutation {
 }
 ```
 
-你可以深入研究 [GraphQL文档](https://graphql.org/learn/schema/){target="_blank"} 要了解类型系统的详细信息，包括此处未显示的一些概念的语法。 但是，上例不言自明。 （另外，请注意语法与查询语法有多相似。） 定义GraphQL架构只是表达给定类型的可用参数和字段以及这些字段的类型。 每个复杂的字段类型本身必须有一个定义，依此类推，通过树，直到您得到简单的标量类型，如 `String`.
+你可以深入研究 [GraphQL文档](https://graphql.org/learn/schema/){target="_blank"} 要了解类型系统的详细信息，包括此处未显示的某些概念的语法。 但是，上例不言自明。 （另外，请注意语法与查询语法有多相似。） 定义GraphQL架构只是表达给定类型的可用参数和字段以及这些字段的类型。 每个复杂的字段类型本身必须有一个定义，依此类推，通过树，直到您得到简单的标量类型，如 `String`.
 
 的 `input` 声明在所有方面都像 `type` 但定义可用作参数输入的类型。 另请注意 `interface` 声明。 此函数与PHP中的接口大致相同。 其他类型将从此界面继承。
 

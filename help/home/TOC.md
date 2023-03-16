@@ -2,9 +2,9 @@
 user-guide-title: 视频和Tutorials
 user-guide-description: 通过视频和教程了解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 视频和Tutorials
-source-git-commit: afd88a8996e941e9e6c00ef86d960318b8dcaee6
+source-git-commit: ce23b8d52a027f45a1a1ba633ebd82ea3cf3e1b5
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
@@ -67,6 +67,17 @@ ht-degree: 0%
    + [适用于应用程序生成器的扩展性框架](../app-builder/extensibility-framework-commerce-eventing.md)
    + [应用程序生成器的功能演示](../app-builder/app-builder-functional-demonstration.md)
    + [应用程序生成器技术概述](../app-builder/app-builder-technical-overview.md)
+   + 第一个应用程序 {#first-app}
+      + [概述](../app-builder/first-app/overview.md)
+      + [.env文件](../app-builder/first-app/env-file.md)
+      + [app.config.yaml文件](../app-builder/first-app/app-config-yaml-file.md)
+      + [操作文件夹](../app-builder/first-app/actions-folder.md)
+      + [测试文件夹](../app-builder/first-app/test-folder.md)
+      + [web-src文件夹](../app-builder/first-app/web-src-folder.md)
+      + [在本地测试](../app-builder/first-app/testing-locally.md)
+      + [使用应用程序生成器URL进行测试](../app-builder/first-app/testing-app-builder-url.md)
+      + [结论](../app-builder/first-app/conclusion.md)
+      + [示例模块源代码](https://github.com/magento/app-builder-samples){target="_blank"}
    + Adobe Commerce的IO事件 {#io-events}
       + [Adobe Commerce 2.4.5安装](../io-events/2-4-5-installation.md)
       + [Adobe Commerce 2.4.6安装](../io-events/2-4-6-installation.md)

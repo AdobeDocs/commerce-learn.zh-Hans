@@ -1,7 +1,7 @@
 ---
-source-git-commit: 4a43dd7151e2ad7bd66ed3c062f94e6d9c6a58fe
+source-git-commit: 2c20b58f285f116cd9ddfaa82df98c5f24ebeb47
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -44,11 +44,11 @@ ht-degree: 0%
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] [遵循命名标准]([https://opensource.adobe.com/cla.html](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)){target="_blank"}
+- [ ] 你跟踪 [命名标准](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
 - [ ] 目录和H1对应于要创建或更新的每个页面。
 - [ ] 目录和H1中有一个与其关联的操作，例如：了解如何创建GutHub拉取请求
 - [ ] 在H1中，任何内容都不应具有单间隔
 - [ ] 每个页面标题应以***C***apitol字母开头
 - [ ] 我检查了是否有任何视频应包含章节
 - [ ] 所有视频均分配了海报以正确显示视频
-- [ ] 你用过 [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html){target="_blank"}
+- [ ] 你用过 [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html)

@@ -2,9 +2,9 @@
 user-guide-title: 视频和Tutorials
 user-guide-description: 通过视频和教程了解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 视频和Tutorials
-source-git-commit: f3eb7686068d6be02816d34c08e7ebecc681df5b
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
@@ -67,13 +67,13 @@ ht-degree: 0%
    + [适用于应用程序生成器的扩展性框架](../app-builder/extensibility-framework-commerce-eventing.md)
    + [应用程序生成器的功能演示](../app-builder/app-builder-functional-demonstration.md)
    + [应用程序生成器技术概述](../app-builder/app-builder-technical-overview.md)
-   + 构建您的第一个应用程序 {#first-app}
+   + 第一个应用程序 {#first-app}
       + [概述](../app-builder/first-app/overview.md)
-      + [.env文件](../app-builder/first-app/env-file.md)
-      + [app.config.yaml文件](../app-builder/first-app/app-config-yaml-file.md)
-      + [操作文件夹](../app-builder/first-app/actions-folder.md)
-      + [测试文件夹](../app-builder/first-app/test-folder.md)
-      + [web-src文件夹](../app-builder/first-app/web-src-folder.md)
+      + [生成并配置.env文件](../app-builder/first-app/env-file.md)
+      + [app.config.yaml文件的描述和用法](../app-builder/first-app/app-config-yaml-file.md)
+      + [了解actions文件夹](../app-builder/first-app/actions-folder.md)
+      + [了解测试文件夹](../app-builder/first-app/test-folder.md)
+      + [了解web-src文件夹的用途](../app-builder/first-app/web-src-folder.md)
       + [在本地测试](../app-builder/first-app/testing-locally.md)
       + [使用应用程序生成器URL进行测试](../app-builder/first-app/testing-app-builder-url.md)
       + [结论](../app-builder/first-app/conclusion.md)

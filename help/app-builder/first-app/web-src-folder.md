@@ -6,15 +6,15 @@ kt: 12425
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
 
 
-# 的 `web-src` 文件夹 {#web-src-folder}
+# 了解web-src文件夹的用途 {#web-src-folder}
 
 此示例应用程序的web-src文件夹包含许多JavaScript文件和文件夹。 此文件夹用于具有用户界面的应用程序。 并非所有应用程序都使用此功能。 例如，与外部库存管理系统的商务集成可能不需要前端界面和代码。
 

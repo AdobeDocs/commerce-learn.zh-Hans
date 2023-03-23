@@ -6,15 +6,15 @@ kt: 12423
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
 
-# 的 `.env` 文件 {#env-file}
+# 生成并配置.env文件 {#env-file}
 
 的 `.env` 是一个特殊文件，它不是示例模块的一部分，但对于在Adobe Developer App Builder应用程序中使用很重要。 此文件包含机密和其他信息。 避免将此文件提交到任何代码存储库。
 

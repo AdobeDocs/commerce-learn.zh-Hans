@@ -6,15 +6,15 @@ kt: 12424
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-10T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
 
-# `test` 文件夹 {#test-folder}
+# 了解测试文件夹 {#test-folder}
 
 的 `test` 此示例应用程序的文件夹包含一个JavaScript文件，该文件在应用程序上运行单元测试时使用。
 

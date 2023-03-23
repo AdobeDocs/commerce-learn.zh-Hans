@@ -6,15 +6,15 @@ kt: 12422
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
 
-# `actions` 文件夹 {#actions-folder}
+# 了解actions文件夹 {#actions-folder}
 
 的 `actions` 此示例应用程序的文件夹包含一些JavaScript文件和一个名为 `commerce`. 显示的JavaScript是一个出色的示例文件，如果它与您的工作相关，则可以重复使用。 使用OAuth和REST连接到Adobe Commerce应用程序时，此文件夹可以节省您在开发工作中的时间。
 

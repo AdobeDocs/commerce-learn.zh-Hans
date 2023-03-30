@@ -7,9 +7,9 @@ kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: 01947a4f81409e6f08da9e7feca3e73b724f285e
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,19 @@ ht-degree: 0%
 API Mesh可将多个数据源组合在一起，以获得供应用程序使用的单个响应。
 
 [查看完整的API Mesh文档](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
+
+## 这个视频给谁？
+
+* 不熟悉API Mesh或 [!DNL Adobe Commerce] 使用 [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} 和API网格。
+
+## 视频内容
+
+* API Mesh概述
+* 供应商文档的链接
+* 结帐时进行实时清单检查的用例
+* 将开发工作和资源使用从您的商务应用程序中移出
+
+>[!VIDEO](https://video.tv.adobe.com/v/3417534/)
 
 ## 用例示例
 

@@ -2,9 +2,9 @@
 user-guide-title: 视频和Tutorials
 user-guide-description: 通过视频和教程了解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 视频和Tutorials
-source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
+source-git-commit: 424f0581e9f2c452fdbf4512e19139fec3c88940
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '663'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 0%
    + [适用于应用程序生成器的扩展性框架](../app-builder/extensibility-framework-commerce-eventing.md)
    + [应用程序生成器的功能演示](../app-builder/app-builder-functional-demonstration.md)
    + [应用程序生成器技术概述](../app-builder/app-builder-technical-overview.md)
-   + 第一个应用程序 {#first-app}
+   + 构建您的第一个应用程序生成器应用程序 {#first-app}
       + [概述](../app-builder/first-app/overview.md)
       + [生成并配置.env文件](../app-builder/first-app/env-file.md)
       + [app.config.yaml文件的描述和用法](../app-builder/first-app/app-config-yaml-file.md)

@@ -6,7 +6,7 @@ kt: 12428
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -28,7 +28,7 @@ ht-degree: 0%
 * 连接到其他开发人员的方法
 * 结案评论
 
->[!VIDEO](https://video.tv.adobe.com/v/3416741)
+>[!VIDEO](https://video.tv.adobe.com/v/3416741?quality=12&learn=on)
 
 ## 其他应用程序生成器资源
 

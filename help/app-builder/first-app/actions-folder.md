@@ -6,7 +6,7 @@ kt: 12422
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 * 在 `actions` 和 `commerce` 文件夹
 * OAuth身份验证文件的快速概述
 
->[!VIDEO](https://video.tv.adobe.com/v/3416590)
+>[!VIDEO](https://video.tv.adobe.com/v/3416590?quality=12&learn=on)
 
 ## 代码示例
 

@@ -2,7 +2,7 @@
 title: 使用GraphQL的模式语言
 description: 了解与GraphQL相关的模式。 阅读架构的描述，以及一些有趣的模式和读取架构的方法。
 landing-page-description: 这是对GraphQL的介绍。 了解架构以及如何解释某些元素
-short-description: This is an introduction to GraphQL. Understanding the schema and how to interpret some of the elements
+short-description: 这是对GraphQL的介绍。 了解架构以及如何解释某些元素
 kt: 11524
 doc-type: tutorial
 audience: all
@@ -10,7 +10,7 @@ last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---

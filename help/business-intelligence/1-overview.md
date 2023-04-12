@@ -2,7 +2,7 @@
 title: MBI — 概述
 description: 了解MBI产品中可提供完整商业智能解决方案的三个核心组件。
 landing-page-description: 观看此视频系列，了解如何通过数据聚合、分析和可视化图表来提供更好的业务分析和结果。
-short-description: Watch this video series to learn how you can drive better business insights and results through data aggregation, analysis, and visualization.
+short-description: 观看此视频系列，了解如何通过数据聚合、分析和可视化图表来提供更好的业务分析和结果。
 kt: 5724
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -11,7 +11,7 @@ activity: use
 exl-id: 97115316-bce9-406a-a3f7-24474cf8e030
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---

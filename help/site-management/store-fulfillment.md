@@ -2,7 +2,7 @@
 title: 存储履行概述
 description: 了解Walmart Commerce Technologies为Adobe Commerce提供的商店实现，这是一款先进的全方位实现解决方案，可提供端到端的在线购买、商店内购物(BOPI)体验。
 landing-page-description: 请观看此视频，了解商店履行解决方案如何为客户提供方便的店内和店内提货和商店员工，以更高效、移动就绪的履行工作流，向客户提货、存放和转手商店提货订单。
-short-description: Watch this video to learn how the Store Fulfillment solution offers customers the convenience of in-store and curbside pick-up and store employees more efficient, mobile-ready fulfillment workflows to pick, stage, and hand-off store pickup orders to customers.
+short-description: 请观看此视频，了解商店履行解决方案如何为客户提供方便的店内和店内提货和商店员工，以更高效、移动就绪的履行工作流，向客户提货、存放和转手商店提货订单。
 doc-type: feature video
 solution: Commerce
 audience: all
@@ -10,7 +10,7 @@ activity: use
 exl-id: 53f45eb4-29e0-426d-8e9a-784838e37e03
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---

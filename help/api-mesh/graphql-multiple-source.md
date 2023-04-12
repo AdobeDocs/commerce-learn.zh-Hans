@@ -2,14 +2,15 @@
 title: 创建要在API Mesh中使用的多个源GraphQL
 description: 了解如何在Adobe Commerce上为API网格使用多个源，以及 [!DNL Adobe App Builder]. 了解一些常见错误以及如何解决它们。
 landing-page-description: 了解如何在Adobe Commerce上使用API Mesh和 [!DNL Adobe App Builder]. 了解如何创建具有多个源的网格以及如何解决一些常见错误。
-short-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about creating a mesh that has multiple sources and how to resolve some common errors.
+short-description: 了解如何在Adobe Commerce上使用API Mesh和 [!DNL Adobe App Builder]. 了解如何创建具有多个源的网格以及如何解决一些常见错误。
 kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---

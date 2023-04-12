@@ -2,7 +2,7 @@
 title: MBI — 同类群组Report Builder
 description: 了解如何使用MBI同类群组Report Builder创建与您的业务相关的优化报表和分析。
 landing-page-description: 观看此视频，了解如何使用MBI同类群组Report Builder创建与您的业务相关的优化报表和分析。
-short-description: Watch this video to learn how use the MBI Cohort Report Builder to create optimized reporting and analysis that is relevant to your business.
+short-description: 观看此视频，了解如何使用MBI同类群组Report Builder创建与您的业务相关的优化报表和分析。
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -11,7 +11,7 @@ activity: use
 exl-id: 1d5d6f96-3e0d-4c0d-a8fe-370be6ea1b38
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---

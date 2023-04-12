@@ -2,19 +2,19 @@
 title: 了解如何为Adobe Commerce 2.4.5安装IO事件
 description: 了解如何在Adobe Commerce 2.4.5中安装IO事件所需的模块，以便在Adobe Developer App Builder中使用
 landing-page-description: 了解如何使用编辑器安装Adobe Commerce 2.4.5所需的多个模块。
-short-description: Learn how to install several modules needed for Adobe Commerce 2.4.5 using composer.
+short-description: 了解如何使用编辑器安装Adobe Commerce 2.4.5所需的多个模块。
 kt: 11886
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
-badge: "Adobe Commerce 2.4.5"
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+badge: Adobe Commerce 2.4.5
+exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce 2.4.5安装
 

@@ -2,18 +2,18 @@
 title: 可扩展性框架和商务事件
 description: 了解统一的扩展框架和商务晚会
 landing-page-description: 了解统一的扩展框架和商务晚会
-short-description: Learn about Unified Extensibility Framework and commerce evening
+short-description: 了解统一的扩展框架和商务晚会
 kt: 11740
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 9186ba11-180d-45ca-801a-a86547084cca
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
-
 
 # 适用于应用程序生成器的扩展性框架
 

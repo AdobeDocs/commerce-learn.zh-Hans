@@ -1,54 +1,53 @@
 ---
-title: 应用程序生成器创建您的第一个应用程序
-description: 了解如何使用Adobe Developer App Builder，并创建您的第一个应用程序。
-landing-page-description: 了解与Adobe Commerce一起使用的Adobe Developer App Builder，并创建您的第一个应用程序。
+title: App Builders建立您的第一個應用程式
+description: 瞭解使用Adobe Commerce的Adobe Developer App Builder，並建立您的第一個應用程式。
+landing-page-description: 瞭解搭配Adobe Commerce使用的Adobe Developer App Builder，並建立您的第一個應用程式。
 kt: 12421
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 0%
 
 ---
 
+# 概觀 {#overview}
 
-# 概述 {#overview}
+本教學課程具備下列先決條件：
 
-本教程具有以下先决条件：
+* Adobe Developer主控台存取完成
+* 已授予App Builder的完整存取權或試用存取權
+* [已建立Adobe Developer App Builder應用程式](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}
+* [已建立Adobe Developer App Builder專案](https://developer.adobe.com/console){target="_blank"}
+* [已建立Adobe Developer App Builder工作區 — 步驟2.6](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
+* [已執行初始化專案並執行的AIO CLI命令](https://developer.adobe.com/runtime){target="_blank"}
 
-* Adobe Developer控制台访问完成
-* 已授予应用程序生成器的完全访问权限或试用访问权限
-* [已创建Adobe Developer App Builder应用程序](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}
-* [已创建Adobe Developer App Builder项目](https://developer.adobe.com/console){target="_blank"}
-* [已创建Adobe Developer应用程序生成器工作区 — 步骤2.6](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
-* [已执行用于初始化项目并运行的AIO CLI命令](https://developer.adobe.com/runtime){target="_blank"}
+如需有關建立第一個App Builder應用程式的詳細資訊，您可以檢視以下部落格，以協助您進行此初始設定和設定 [App Builder如何協助提升商務平台的商業靈敏度](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
 
-有关构建您的第一个应用程序生成器应用程序的更多信息，您可以查看以下博客文章以帮助进行此初始设置和配置 [App Builder如何帮助您提高商务平台的业务敏捷性](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
+## 閱讀本教學課程有何期望
 
-## 阅读本教程有何期待
+完成本教學課程後，您應有一個簡單的單頁應用程式，可與Adobe Commerce通訊，以提取訂單歷史記錄和產品。 這些主題包含App Builder功能、程式碼範例和指示。 但願在觀看這些影片後，這能節省一些開發時間，並激發其他想法，並鼓勵您採用程式外開發。
 
-完成本教程后，您应该有一个与Adobe Commerce通信的简单单页应用程序，用于提取订单历史记录和产品。 以下主题涵盖应用程序生成器功能以及代码示例和说明。 希望在观看这些视频后，这可以为您节省一些开发时间并激发其他创意，同时鼓励采用非流程开发。
+## 我應如何依照本教學課程操作
 
-## 我该如何阅读本教程
+本教學課程旨在協助您遵循左側導覽的頁面順序。 但這並非必要條件。 每個頁面都可以個別檢視，因為它們討論建立初始Adobe Developer App Builder應用程式的一般概念。
 
-本教程旨在让您按照左侧导航中页面的顺序进行操作。 但是，这并不是要求。 由于每个页面讨论了构建初始Adobe Developer应用程序生成器应用程序的一般概念，因此可以单独查看每个页面。
+## 這部影片是給誰看的？
 
-## 这个视频给谁？
+* 剛開始使用Adobe Commerce的開發人員，在使用AdobeApp Builder方面經驗有限。
 
-* 开发人员是初次接触Adobe Commerce，但使用Adobe应用程序生成器的体验有限。
+## 視訊內容
 
-## 视频内容
-
-* App Builder简介和示例模块
-* 先决条件
-* 使用示例模块的期望值
-* 示例模块中的可重用部分
+* App Builder和範例模組簡介
+* 必要條件
+* 使用範例模組的期望
+* 範例模組中可重複使用的部分
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416740?quality=12&learn=on)
 
 {{avoid-400-error}}
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
-

@@ -1,8 +1,8 @@
 ---
-title: 存储履行概述
-description: 了解Walmart Commerce Technologies为Adobe Commerce提供的商店实现，这是一款先进的全方位实现解决方案，可提供端到端的在线购买、商店内购物(BOPI)体验。
-landing-page-description: 请观看此视频，了解商店履行解决方案如何为客户提供方便的店内和店内提货和商店员工，以更高效、移动就绪的履行工作流，向客户提货、存放和转手商店提货订单。
-short-description: 请观看此视频，了解商店履行解决方案如何为客户提供方便的店内和店内提货和商店员工，以更高效、移动就绪的履行工作流，向客户提货、存放和转手商店提货订单。
+title: 商店履行概要
+description: 瞭解Walmart Commerce Technologies為Adobe Commerce提供的商店履行，這是進階的全通路履行解決方案，提供端對端線上購買、店內取貨(BOPIS)體驗。
+landing-page-description: 觀看此影片，瞭解Store Fulfillment解決方案如何為客戶提供便利的店內和路邊取貨和商店員工，更有效率、可隨時使用行動裝置的履行工作流程，以提取、暫存和遞送商店取貨訂單給客戶。
+short-description: 觀看此影片，瞭解Store Fulfillment解決方案如何為客戶提供便利的店內和路邊取貨和商店員工，更有效率、可隨時使用行動裝置的履行工作流程，以提取、暫存和遞送商店取貨訂單給客戶。
 doc-type: feature video
 solution: Commerce
 audience: all
@@ -15,33 +15,33 @@ ht-degree: 0%
 
 ---
 
-# 存储履行概述
+# 商店履行概要
 
-Store Fullment for Adobe Commerce由Walmart Commerce Technologies提供高级在线购买、店内提货(BOPIS)客户体验。 它通过提供通过移动设备启用的无缝端到端全渠道履行工作流程，最大限度地提高了商店员工的工作效率。
+Walmart Commerce Technologies為Adobe Commerce提供進階的線上購買、店內取貨(BOPIS)客戶體驗。 透過行動裝置提供順暢的端對端全通路履行工作流程，讓商店員工發揮最大生產力。
 
-此视频快速概述了使用店内和策划装货选项的商店完成端到端BOPI体验。
+這部影片會提供商店履行端對端BOPIS體驗的快速概覽，以及店內和路邊取貨選項。
 
-- 观看客户提交商店提货单：
-   - 浏览在线店面目录。
-   - 选择商店内装货的项目。
-   - 查找并选择具有可用库存的商店位置。
-   - 查看并自定义商店取货选项。
-   - 下订单。
-- 观看商店员工和客户使用商店履行解决方案提供的移动应用程序完成端到端订单履行过程。
+- 觀看客戶提交商店取貨單：
+   - 瀏覽線上店面目錄。
+   - 選取店內取貨的專案。
+   - 尋找並選取有可用庫存的商店位置。
+   - 結帳並自訂商店取貨選項。
+   - 下訂單。
+- 觀看商店員工和客戶使用Store Fulfillment解決方案提供的行動應用程式，完成端對端訂單履行流程。
 
-## 这个视频给谁？
+## 這部影片是給誰看的？
 
-- 电子商务经理
-- 存储操作管理员和管理员
+- 電子商務管理員
+- 存放區操作管理員與管理員
 
-## 视频内容
+## 視訊內容
 
 >[!NOTE]
 >
->视频中的内容反映了安装在Adobe Commerce 2.4店面上的商店完成解决方案1.0版本。请参阅 [存储实施用户指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) 以了解最新信息。
+>影片內容反映了Adobe Commerce 2.4安裝在店面上的Store Fulfillment解決方案1.0版本。請參閱 [Store Fulfillment使用手冊](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) 以取得最新資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343653?quality=12&learn=on)
 
-## 其他资源
+## 其他資源
 
-[存储实施用户指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html)
+[Store Fulfillment使用手冊](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html)

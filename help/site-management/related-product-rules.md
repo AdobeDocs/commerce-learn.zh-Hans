@@ -1,6 +1,6 @@
 ---
-title: 管理相关产品规则
-description: 了解如何提供有针对性的产品选项，以将客户存储为相关产品、向上销售和交叉销售。
+title: 管理相關產品規則
+description: 瞭解如何呈現目標選擇的產品，以將客戶儲存為相關產品、向上銷售和交叉銷售。
 doc-type: feature video
 audience: all
 role: Admin, User
@@ -8,26 +8,26 @@ activity: use
 exl-id: 894523ce-5855-447a-be3b-aa751fb366f2
 source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
-# 管理相关产品规则
+# 管理相關產品規則
 
 {{ee-feature}}
 
-通过相关产品规则，您能够定位作为相关产品、向上销售和交叉销售向客户展示的产品选择。 每个产品规则都可以与客户区段关联，以生成目标促销的动态显示。
+相關產品規則可讓您鎖定向客戶呈現為相關產品、向上銷售和交叉銷售的產品選擇。 每個產品規則都可與客戶區段相關聯，以產生目標銷售的動態顯示。
 
-## 这个视频给谁？
+## 這部影片是給誰看的？
 
-- 电子商务营销人员
-- 网站管理者
+- 電子商務行銷人員
+- 網站管理員
 
-## 视频内容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/343837?quality=12&learn=on)
 
-## 其他资源
+## 其他資源
 
-[相关产品规则 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)
+[相關產品規則 —  [!DNL Commerce] 銷售與促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)

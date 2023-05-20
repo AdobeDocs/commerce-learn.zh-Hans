@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 面向企业用户 — 礼品卡”'
-description: 了解如何在您的 [!DNL Commerce] 存储。
+title: '"[!DNL Commerce] 商務使用者 — 禮品卡」'
+description: 瞭解如何在您的產品中加入禮品卡 [!DNL Commerce] 商店。
 topic: Commerce
 kt: 5774
 doc-type: video
@@ -16,26 +16,26 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 面向企业用户 — 礼品卡
+# [!DNL Commerce] 商務使用者 — 禮品卡
 
-在此视频中：
+在本影片中：
 
-- 礼品卡
+- 禮品卡
 
-## 这个视频给谁？
+## 這部影片是給誰看的？
 
-- 企业用户
+- 商業使用者
 
-## 视频内容
+## 視訊內容
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35959?quality=12&learn=on)
 
-## 其他资源
+## 其他資源
 
-[礼品卡产品 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html)
-[礼品卡购买及赎回 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/gift-cards/product-gift-card-workflow.html)
+[禮卡產品 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html)
+[禮品卡購買與贖回 —  [!DNL Commerce] 商店和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/gift-cards/product-gift-card-workflow.html)
 

@@ -1,6 +1,6 @@
 ---
-title: 创建模块
-description: 创建一个使用一个参数返回json的页面。
+title: 建立模組
+description: 建立一個傳回json的頁面，並帶有一個引數。
 topic: Development
 kt: 5602
 doc-type: video
@@ -8,30 +8,30 @@ activity: use
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
 source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
-# 创建模块
+# 建立模組
 
-模块是 [!DNL Commerce]  — 整个系统都以模块为基础。 通常，创建自定义的第一步是构建模块。
+模組是結構元素 [!DNL Commerce]  — 整個系統是以模組為基礎。 通常，建立自訂化的第一步是建立模組。
 
-## 这个视频给谁？
+## 這部影片是給誰看的？
 
-- 开发人员
+- 開發人員
 
-## 添加模块的步骤
+## 新增模組的步驟
 
-- 创建模块文件夹。
-- 创建etc/module.xml文件。
-- 创建registration.php文件。
-- 运行bin/magento设置。
-- 升级脚本以安装新模块。
-- 检查模块是否正常工作。
+- 建立模組資料夾。
+- 建立etc/module.xml檔案。
+- 建立registration.php檔案。
+- 執行bin/magento設定。
+- 升級指令碼以安裝新模組。
+- 檢查模組是否正常運作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35792?quality=12&learn=on)
 
-## 有用资源
+## 有用的資源
 
-- [模块参考指南](https://developer.adobe.com/commerce/php/module-reference/)
+- [模組參考指南](https://developer.adobe.com/commerce/php/module-reference/)

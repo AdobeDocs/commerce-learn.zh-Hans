@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce云基础架构 — 项目和文件
-description: 了解项目结构和yaml文件。 了解云项目和所有必需存储库的文件结构。
+title: 雲端基礎結構上的Adobe Commerce — 專案和檔案
+description: 瞭解專案結構和yaml檔案。 瞭解Cloud專案的檔案結構和所有必要的存放庫。
 kt: 5658
 doc-type: video
 audience: all
@@ -8,21 +8,21 @@ activity: use
 exl-id: cbda1031-906a-4e25-81be-f3f15347d82c
 source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce云基础架构 — 项目和文件
+# 雲端基礎結構上的Adobe Commerce — 專案和檔案
 
-在此视频中：
+在本影片中：
 
-- 了解云项目的文件结构和相关代码存储库
-- 了解四个主要配置文件
+- 瞭解雲端專案的檔案結構和相關的程式碼存放庫
+- 瞭解四個主要設定檔案
 
 >[!VIDEO](https://video.tv.adobe.com/v/35694?quality=12&learn=on)
 
-## 其他资源
+## 其他資源
 
-- [项目结构 —  [!DNL Commerce] 云基础架构指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/file-structure.html)
-- [配置环境 —  [!DNL Commerce] 云基础架构指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)
+- [專案結構 —  [!DNL Commerce] 雲端基礎結構指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/file-structure.html)
+- [設定環境 —  [!DNL Commerce] 雲端基礎結構指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)

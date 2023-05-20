@@ -1,6 +1,6 @@
 ---
-title: 对Adobe Commerce的使用观察
-description: 观看此技术视频，并了解如何使用Adobe Commerce的观察工具。
+title: 對Adobe Commerce使用觀察
+description: 觀看此技術影片，並瞭解如何使用Adobe Commerce的觀察工具。
 doc-type: technical video
 role: Developer, Admin
 audience: all
@@ -8,25 +8,25 @@ activity: use
 exl-id: 8c7dab74-7fc4-4d1d-866a-a05a23cbf3fd
 source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-# 对Adobe Commerce的使用观察
+# 對Adobe Commerce使用觀察
 
-在此视频中，了解Adobe Commerce的观察工具，它是一款New Relic内部版本，用于查看您的Adobe Commerce网站的状态、当前或过去的查看次数。 插件是使用New Relic One可编程性构建的自定义应用程序。
+在本影片中，瞭解Adobe Commerce的觀察工具，它是一個New Relic Nerdlet，可檢視Adobe Commerce網站的狀態、目前或過去時間檢視。 Nerdlet是以New Relic One程式設計功能建置的自訂應用程式。
 
-## 这个视频给谁？
+## 這部影片是給誰看的？
 
-- 网站管理者
-- 开发人员
+- 網站管理員
+- 開發人員
 
-## 视频内容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/344444?quality=12&learn=on)
 
-## 其他资源
+## 其他資源
 
-- [对Adobe Commerce的观察 — 支助文章](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?)
-- [对Adobe Commerce的使用观察](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
+- [Adobe Commerce的觀察 — 支援文章](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?)
+- [對Adobe Commerce使用觀察](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)

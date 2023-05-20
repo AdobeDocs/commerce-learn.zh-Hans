@@ -1,6 +1,6 @@
 ---
-title: MBI — 共享结果和导出数据
-description: 了解如何共享MBI结果并导出数据以与其他业务工具集成。
+title: MBI — 共用結果和匯出資料
+description: 瞭解如何共用您的MBI結果和匯出資料以與其他商業工具整合。
 kt: 5728
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -9,29 +9,29 @@ activity: use
 exl-id: 4f54f92b-329f-48b8-a14e-d6d8423446aa
 source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-# MBI — 共享结果和导出数据
+# MBI — 共用結果和匯出資料
 
-MBI用户可以被授予只读、标准或管理员权限级别，以控制谁会看到业务数据的特定部分。 其好处不限于MBI用户，它可以根据需要安排和向任意数量的电子邮件地址发送电子邮件摘要。 可以使用导出API导出data warehouse中的数据。
+MBI使用者可以授與唯讀、標準或管理員許可權層級，以控制誰會看到業務資料的特定部分。 其好處不限於MBI使用者，您可以視需要排程電子郵件摘要，並傳送至儘可能多的電子郵件地址。 可以使用Export API匯出Data Warehouse中的資料。
 
-## 这个视频给谁？
+## 這部影片是給誰看的？
 
-- 企业用户
-- 数据分析员
+- 商業使用者
+- 資料分析人員
 
-## 视频内容
+## 視訊內容
 
 >[!NOTE]
 >
->视频中的内容反映了2.2版本。 请参阅 [MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以了解最新信息。
+>影片內容反映2.2版。 請參閱 [MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以取得最新資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35983?quality=12&learn=on)
 
-## 其他资源
+## 其他資源
 
-- [导出图表数据 — MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
-- [创建自动电子邮件摘要 — MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/email-summaries.html)
+- [匯出圖表資料 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
+- [建立自動化電子郵件摘要 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/email-summaries.html)

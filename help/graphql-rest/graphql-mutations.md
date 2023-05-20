@@ -1,8 +1,8 @@
 ---
-title: 使用GraphQL执行变异
-description: 了解有关在Adobe Commerce上使用GraphQL执行变异以及 [!DNL Magento Open Source]. 使用POST调用执行首个变异。
-landing-page-description: 了解有关在Adobe Commerce上使用GraphQL执行变异以及 [!DNL Magento Open Source]. 使用POST调用执行首个变异。
-short-description: 了解有关在Adobe Commerce上使用GraphQL执行变异以及 [!DNL Magento Open Source]. 使用POST调用执行首个变异。
+title: 使用GraphQL執行變異
+description: 瞭解如何在Adobe Commerce上使用GraphQL執行變異，以及 [!DNL Magento Open Source]. 使用POST呼叫執行您的第一個變異。
+landing-page-description: 瞭解如何在Adobe Commerce上使用GraphQL執行變異，以及 [!DNL Magento Open Source]. 使用POST呼叫執行您的第一個變異。
+short-description: 瞭解如何在Adobe Commerce上使用GraphQL執行變異，以及 [!DNL Magento Open Source]. 使用POST呼叫執行您的第一個變異。
 kt: 11524
 doc-type: tutorial
 audience: all
@@ -15,14 +15,14 @@ ht-degree: 0%
 
 ---
 
-# 突变
+# 突變
 
-任何完整的API规范都不仅需要提供查询数据的功能，还需要提供创建和更新数据的功能。
+任何完整的API規格不僅需要提供查詢資料的能力，還需要提供建立和更新資料的能力。
 
-REST区分更改数据的请求和不使用请求类型或“谓词”(GET与POST或PUT)的请求。
-使用GraphQL时，数据修改查询由 `mutation` 与服务器上定义的架构中不同的根类型对应的关键字。
+REST會區分變更資料的請求與不符合請求型別或「動詞」(GET與POST或PUT)的請求。
+使用GraphQL時，資料修改查詢的區別在於 `mutation` 與伺服器上定義之結構描述中的不同根型別對應的關鍵字。
 
-请查看此示例变异，以将产品添加到用户购物车。 (这需要为登录客户的会话或使用 `createEmptyCart` 变异。)
+檢視這個將產品新增到使用者購物車的變異範例。 (這需要為登入客戶的工作階段產生的購物車ID，或是使用 `createEmptyCart` 突變)。
 
 ```graphql
 mutation doAddToCart(
@@ -45,7 +45,7 @@ mutation doAddToCart(
 }
 ```
 
-您可以想象，上述变异与以下变量字典一起在请求中发送：
+您可以想像上述變異會連同下列變數字典一起在要求中傳送：
 
 ```json
 {
@@ -59,7 +59,7 @@ mutation doAddToCart(
 }
 ```
 
-最后，您可能会收到如下响应：
+最後，您可能會收到如下的回應：
 
 ```json
 {
@@ -78,20 +78,20 @@ mutation doAddToCart(
 }
 ```
 
-要注意的是，关于上述示例，除了使用 `mutation` 关键词而不是 `query`，语法与查询相同。 与查询类似，变异包括：
+關於上述範例，需要注意的主要事項是，除了使用 `mutation` 關鍵字而非 `query`，語法與查詢相同。 和查詢一樣，變異包括：
 
-* 任意操作名称(`doAddToCart`)
-* 变量列表(例如， `$cartId`)
-* 初始字段(`addProductsToCart`)(例如， `cartId`，则设置为的值 `$cartId`)在括号中
-* 大括号中字段的子选项
+* 任意操作名稱(`doAddToCart`)
+* 變數清單(例如， `$cartId`)
+* 初始欄位(`addProductsToCart`)與引數(例如， `cartId`，設定為的值 `$cartId`)括弧中
+* 大括弧中的欄位細選
 
-利用字段子选择，可灵活定义要返回的字段（从指定为返回值的类型） `addProductsToCart` - `AddProductsToCartOutput`)。
+欄位子選項可讓您靈活定義想要傳回的欄位（從指派為傳回值的型別） `addProductsToCart` - `AddProductsToCartOutput`)完成變異後。
 
-如前所述，GraphQL架构中定义的字段以查询的根类型开头(通常称为 `Query`)。 同样，还有另一种根类型存在于突变(通常称为 `Mutation`)。 `addProductsToCart` 是该根类型上的字段。
+如前所述，GraphQL結構描述中定義的欄位從查詢的根型別開始(通常稱為 `Query`)。 同樣地，變異也存在另一種根型別(通常稱為 `Mutation`)。 `addProductsToCart` 是該根型別上的欄位。
 
-有关上述示例的其他一些说明：
+關於上述範例的其他幾點備註：
 
-* 的 `!` 字符后缀 `String` 和 `CartItemInput` 表示变量为必需变量。
-* 方括号(`[]`) `CartItemInput` 为指定的类型 `$cartItems` 指示该类型的列表，而不是单个值。
+* 此 `!` 字元尾碼 `String` 和 `CartItemInput` 表示變數為必要專案。
+* 方括弧(`[]`)周圍 `CartItemInput` 為指定的型別 `$cartItems` 表示該型別的清單，而不是單一值。
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

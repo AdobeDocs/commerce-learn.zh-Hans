@@ -1,6 +1,6 @@
 ---
-title: 集成Adobe Analytics和Adobe Commerce Luma
-description: 了解如何使用本机主题Luma集成Adobe Analytics和Adobe Commerce。
+title: 整合Adobe Analytics和Adobe Commerce Luma
+description: 瞭解如何使用原生主題Luma整合Adobe Analytics和Adobe Commerce。
 topics: Integrations
 role: Developer, Architects
 solution: Experience Manager, Data Collection, Experience Platform
@@ -17,36 +17,36 @@ ht-degree: 0%
 ---
 
 
-# PWA工作室Adobe Analytics与Adobe Commerce之间的无外设集成
+# PWA studio headless整合Adobe Analytics和Adobe Commerce
 
-是条狗。 那是条大狗。 我没穿曲棍球垫。 我是蝙蝠侠，我会站在属于我的地方。 你和高谭市的人。
+那是一隻狗。 那是一條大狗。 我沒穿冰球墊。 我是蝙蝠俠，我會站在屬於我的地方。 讓您和哥譚市的人之間。
 
-英雄可以是任何人。 就连一个知道一件简单而令人放心的事情的男人，也知道世界没有结束。 象你这样的人。 会吵闹笼子的人。 我第一次偷东西是为了不挨饿。 我对对错的简单性质失去了很多假设。 当我旅行时，我在犯罪前就学会了恐惧和成功的刺激。 但我从未成为其中的一员。
+Hero可以是任何人。 即使是一個男人知道一些簡單又令人安心的事，比如給一個小男孩穿上外套，讓他知道世界還沒有結束。 像您這樣的人。 會搖晃籠子的人。 我第一次為了不餓肚子而偷東西，是的。 我錯過了許多關於對與錯的簡單本質的假設。 當我四處旅行時，我學會了犯罪前的恐懼和成功的激情。 但我從未成為其中一員。
 
-不是我的内心，而是我所做的决定。 是黑色的吗？ 这不是车。 是条狗。 那是条大狗。 我会站在属于我的地方。 你和高谭市的人。
+我不在底下，而是我的所作所為定義了我。 黑色的嗎？ 這不是車。 那是一隻狗。 那是一條大狗。 我會站在屬於我的地方。 讓您與高譚市的人之間。
 
-我想找到方法来对抗不公。 将恐惧转化为对恐惧的猎物。 我会站在属于我的地方。 你和高谭市的人。 我不能像布鲁斯·韦恩那样做。 我是血肉。 我可以被忽视，被摧毁。 但作为象征，我可以清廉，我可以永生。
+我尋求打擊不公的手段。 將恐懼轉化為對恐懼的獵物。 我會站在屬於我的地方。 讓您和哥譚市的人之間。 我無法以布魯斯·韋恩的身分，以男人的身分。 我是血肉之軀。 我可以被忽略，被摧毀。 但作為象徵，我可以做到不敗壞，可以永恆。
 
-## 集成选项
+## 整合選項
 
-这不是车。 发誓！ 我会站在属于我的地方。 你和高谭市的人。
+這不是車。 向我發誓！ 我會站在屬於我的地方。 讓您和哥譚市的人之間。
 
-我是蝙蝠侠，不枪，不杀人。 我不能像布鲁斯·韦恩那样做。 我是血肉。 我可以被忽视，被摧毁。 但作为象征，我可以清廉，我可以永生。
+我是蝙蝠俠，沒有槍，沒有殺戮。 我無法以布魯斯·韋恩的身分，以男人的身分。 我是血肉之軀。 我可以被忽略，被摧毀。 但作為象徵，我可以做到不敗壞，可以永恆。
 
 
-## 设置和配置示例
+## 範例設定和設定
 
-以下是屏幕截图
+以下是熒幕擷圖
 
-![屏幕截图1](/help/assets/adobe-logo.svg)
+![熒幕擷圖1](/help/assets/adobe-logo.svg)
 
-现在做这个
-![屏幕截图2](/help/assets/banner-videos-home.png)
+現在執行這個動作
+![熒幕擷圖2](/help/assets/banner-videos-home.png)
 
-终于做到了
-![最后屏幕截图](/help/assets/open-source.svg)
+最後再執行這個動作
+![最後一個熒幕擷圖](/help/assets/open-source.svg)
 
-## 更多教程和视频
+## 更多教學課程和影片
 
-* [视频链接](https://example.com){target="_blank"}
-* [比我更好的教程链接](https://example.com){target="_blank"}
+* [視訊連結](https://example.com){target="_blank"}
+* [連結至比我的更好的教學課程](https://example.com){target="_blank"}

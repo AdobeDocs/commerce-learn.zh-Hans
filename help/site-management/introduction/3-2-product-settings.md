@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 适用于企业用户 — 产品设置”'
-description: 了解如何创建产品、配置设置和使用属性。
+title: '"[!DNL Commerce] 適用於企業使用者 — 產品設定」'
+description: 瞭解如何建立產品、設定設定和使用屬性。
 topic: Commerce
 kt: 5768
 doc-type: video
@@ -9,35 +9,35 @@ activity: use
 exl-id: 9022b101-91e1-44a0-819b-507f2c915d95
 source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 适用于企业用户 — 产品设置
+# [!DNL Commerce] 適用於企業使用者 — 產品設定
 
-在此视频中：
+在本影片中：
 
-- 创建产品
-- 完整的产品设置
-- 设置产品属性
+- 建立產品
+- 完成產品設定
+- 設定產品屬性
 
-## 这个视频给谁？
+## 這部影片是給誰看的？
 
-- 企业用户
+- 商業使用者
 
-## 视频内容
+## 視訊內容
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35953?quality=12&learn=on)
 
-## 其他资源
+## 其他資源
 
-[创建产品 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html)
+[建立產品 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html)
 
-[产品设置 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html#product-settings)
+[產品設定 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html#product-settings)
 
-[产品属性概述 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+[產品屬性概觀 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)

@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 适用于企业用户 — 类别定位”'
-description: 在类别中定位产品，以便客户在您希望他们看到的顶部看到产品。
+title: '"[!DNL Commerce] 適用於企業使用者 — 類別定位」'
+description: 在類別中定位產品，讓客戶在頂端看到您希望他們看到的產品。
 topic: Commerce
 kt: 5776
 doc-type: video
@@ -9,29 +9,29 @@ activity: use
 exl-id: 499b4ba1-c0b3-4961-8b03-6f8cbe965ca7
 source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 适用于企业用户 — 类别定位
+# [!DNL Commerce] 適用於企業使用者 — 類別定位
 
-在此视频中：
+在本影片中：
 
-- 类别产品定位
+- 類別產品定位
 
-## 这个视频给谁？
+## 這部影片是給誰看的？
 
-- 企业用户
+- 商業使用者
 
-## 视频内容
+## 視訊內容
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36187?quality=12&learn=on)
 
-## 其他资源
+## 其他資源
 
-[类别产品分配 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
+[類別產品指派 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)

@@ -1,6 +1,6 @@
 ---
-title: 面向开发人员的PWA Studio — 向上
-description: 了解UPPRADCH（统一的渐进式Web应用程序响应定义）。
+title: 適用於開發人員的PWA Studio — 向上
+description: 瞭解UPLOAD （統一的漸進式網頁應用程式回應定義）。
 topic: Development
 kt: 5647
 doc-type: video
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 ---
 
-# 面向开发人员的PWA Studio — 向上
+# 適用於開發人員的PWA Studio — 向上
 
-在此视频中：
+在本影片中：
 
-- UPPRADH（统一的渐进式Web应用程序响应定义）概述
+- UPPER （統一的漸進式網頁應用程式回應定義）概觀
 
-## 这个视频给谁？
+## 這部影片是給誰看的？
 
-- 前端开发人员
-- 项目经理
+- 前端開發人員
+- 專案經理
 
-## 视频内容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/35718?quality=12&learn=on)

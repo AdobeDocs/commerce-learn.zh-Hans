@@ -1,6 +1,6 @@
 ---
-title: API Mesh相关页面
-description: 指向API Mesh部分中相关页面的链接
+title: API網格相關頁面
+description: API網格區段中相關頁面的連結
 source-git-commit: 52972b476a1be405bee727e50df635028fd87050
 workflow-type: tm+mt
 source-wordcount: '48'
@@ -8,12 +8,12 @@ ht-degree: 0%
 
 ---
 
-# API Mesh相关链接
+# API網格相關連結
 
-## 有用的API网格资源
+## 有用的API網格資源
 
-* [API Mesh快速入门](../api-mesh/getting-started-api-mesh.md)
-* [安装Adobe Developer和Mesh插件](../api-mesh/installing-aio-mesh-plugin.md)
-* [使用项目和工作区](../api-mesh/aio-projects-workspaces.md)
-* [创建单源GraphQL API网格](../api-mesh/graphql-single-source.md)
-* [创建多个源GraphQL API请求](../api-mesh/graphql-multiple-source.md)
+* [API Mesh快速入門](../api-mesh/getting-started-api-mesh.md)
+* [安裝Adobe Developer和Mesh外掛程式](../api-mesh/installing-aio-mesh-plugin.md)
+* [使用專案和工作區](../api-mesh/aio-projects-workspaces.md)
+* [建立單一來源GraphQL API網格](../api-mesh/graphql-single-source.md)
+* [建立多來源GraphQL API請求](../api-mesh/graphql-multiple-source.md)

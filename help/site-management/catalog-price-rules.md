@@ -1,6 +1,6 @@
 ---
-title: 创建目录价格规则
-description: 了解如何创建目录价格规则，以根据一组定义的条件以折扣价格向购买者提供产品。
+title: 建立型錄價格規則
+description: 瞭解如何建立目錄價格規則，根據一組已定義的條件以折扣價將產品提供給購買者。
 doc-type: feature video
 audience: all
 role: Admin, User
@@ -8,25 +8,25 @@ activity: use
 exl-id: 0bdbedb1-5aa8-44ba-aef1-6e5cf06d35ce
 source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
-# 创建目录价格规则
+# 建立型錄價格規則
 
-目录价格规则可用于根据一组定义的条件以折扣价格向购买者提供产品。 目录价格规则不使用优惠券代码，因为它们是在产品放入购物车之前触发的。 例如，您可以定义并设置符合价格规则的条件，以便自动显示具有特殊或促销价格的产品。
+目錄價格規則可用於根據一組已定義的條件，以折扣價格提供產品給購買者。 目錄價格規則不會使用優惠券代碼，因為它們會在將產品放入購物車之前觸發。 例如，您可以定義並設定價格規則的條件，當價格規則符合時，會自動顯示具有特殊或促銷價格的產品。
 
-## 这个视频给谁？
+## 這部影片是給誰看的？
 
-- 电子商务营销人员
-- 网站管理者
+- 電子商務行銷人員
+- 網站管理員
 
-## 视频内容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/343834?quality=12&learn=on)
 
-## 其他资源
+## 其他資源
 
-- [创建目录价格规则 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
-- [包含多个SKU的目录价格规则 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)
+- [建立型錄價格規則 —  [!DNL Commerce] 銷售與促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
+- [具有多個SKU的目錄價格規則 —  [!DNL Commerce] 銷售與促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)

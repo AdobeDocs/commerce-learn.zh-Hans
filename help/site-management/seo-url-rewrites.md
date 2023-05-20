@@ -1,6 +1,6 @@
 ---
-title: 为SEO管理URL重写
-description: 了解如何使用URL重写工具更改与产品、类别或CMS页面关联的任何URL。
+title: 管理SEO的URL重寫
+description: 瞭解如何使用URL重寫工具來變更與產品、類別或CMS頁面相關聯的任何URL。
 kt: 10554
 doc-type: feature video
 audience: all
@@ -9,26 +9,26 @@ activity: use
 exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
 source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-# 为SEO管理URL重写
+# 管理SEO的URL重寫
 
-“URL重写”工具允许您更改与产品、类别或CMS页面关联的任何URL。 重写生效后，指向之前URL的任何链接都将被重定向到新地址。
+URL重寫工具可讓您變更與產品、類別或CMS頁面相關聯的任何URL。 當重寫生效時，任何指向先前URL的連結都會重新導向至新位址。
 
-## 这个视频给谁？
+## 這部影片是給誰看的？
 
-- 网站管理器
-- 电子商务促销商
-- 电子商务营销人员
+- 網站管理員
+- 電子商務銷售商
+- 電子商務行銷人員
 
-## 视频内容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/343751?quality=12&learn=on)
 
-## 其他资源
+## 其他資源
 
-- [URL重写 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
-- [常规> Web - [!DNL Commerce] 配置参考指南](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)
+- [URL重寫 —  [!DNL Commerce] 銷售與促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
+- [一般>網頁 —  [!DNL Commerce] 設定參考指南](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)

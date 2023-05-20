@@ -1,6 +1,6 @@
 ---
-title: 依赖关系注入示例
-description: 查看依赖关系注入的示例。
+title: 相依性插入範例
+description: 檢視相依性插入的範例。
 kt: 5621
 doc-type: video
 topic: Development
@@ -8,24 +8,24 @@ activity: use
 exl-id: 17203385-6786-4dd2-9fff-8fb6c4024eb2
 source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
-# 依赖关系注入示例
+# 相依性插入範例
 
-依赖关系注入是一种设计模式，它允许对象A声明其与提供这些依赖关系的外部对象B的依赖关系。 A声明的依赖项通常是类接口，B提供的依赖项是这些接口的具体实现。
+相依性插入是一種設計模式，允許物件A向提供這些相依性的外部物件B宣告其相依性。 A宣告的相依性通常是類別介面，而B提供的相依性是這些介面的具體實施。
 
-## 这个视频给谁？
+## 這部影片是給誰看的？
 
-- 开发人员
+- 開發人員
 
-## 视频内容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/35799?quality=12&learn=on)
 
-## 有用资源
+## 有用的資源
 
-- [依赖注入](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
-- [PHP开发人员指南](https://developer.adobe.com/commerce/php/development/)
+- [相依性插入](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
+- [PHP開發人員指南](https://developer.adobe.com/commerce/php/development/)

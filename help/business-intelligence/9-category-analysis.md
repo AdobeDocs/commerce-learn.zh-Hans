@@ -1,6 +1,6 @@
 ---
-title: MBI — 类别分析
-description: 了解基本类别分析和客户生命周期值。
+title: MBI — 類別分析
+description: 瞭解基本類別分析和客戶期限值。
 kt: 5734
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -14,24 +14,24 @@ ht-degree: 0%
 
 ---
 
-# MBI — 类别分析
+# MBI — 類別分析
 
-类别分析旨在提供所选产品类别的高级概述。 它突出显示了同一客户在其生命周期内购买的类别组合。
+類別分析的設計目的，是為了提供特定產品類別的高階概觀。 它會強調相同客戶在其期限內購買的類別組合。
 
-## 这个视频给谁？
+## 這部影片是給誰看的？
 
-- 企业用户
-- 数据分析员
+- 商業使用者
+- 資料分析人員
 
-## 视频内容
+## 視訊內容
 
 >[!NOTE]
 >
->视频中的内容反映了2.2版本。 请参阅 [MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以了解最新信息。
+>影片內容反映2.2版。 請參閱 [MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以取得最新資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37904?quality=12&learn=on)
 
-## 其他资源
+## 其他資源
 
-- [产品区段 — MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html#product-segments)
-- [业务性能分析 — MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/rfm-analysis.html)
+- [產品區段 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html#product-segments)
+- [Business Performance Analysis - MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/rfm-analysis.html)

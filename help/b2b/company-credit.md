@@ -1,6 +1,6 @@
 ---
 title: 管理公司信用
-description: 了解B2B公司帐户用户如何在其帐户上购买符合授予的信用限额的产品。
+description: 瞭解如何讓B2B公司帳戶使用者在其帳戶中購買產品，最高可達授與的信用額度。
 doc-type: feature video
 audience: all
 role: Admin, User
@@ -18,26 +18,26 @@ ht-degree: 0%
 
 {{b2b-feature}}
 
-对于具有 _[!UICONTROL Payment on Account]_启用及拥有公司信用，则可在其帐户上购买，但购买金额不得超过所授予的信用限额。 使用此功能，客户可以通过其帐户仪表板检查其公司信用的状态。
+適用於擁有下列條件的公司： _[!UICONTROL Payment on Account]_已啟用且有可用的公司信用額度，他們便可以在帳戶中購買商品，金額以授予的信用額度為上限。 透過此功能，客戶可以從其帳戶儀表板檢查其公司信用狀態。
 
-您可以为每个公司配置文件设置以下与信用相关的参数：
+您可以為每個公司設定檔設定下列信用相關引數：
 
-- 贷项币种
-- 信用额度
-- 允许超过信用限额
-- 更改原因
+- 貸方貨幣
+- 信用額度
+- 允許超過信用額度
+- 變更原因
 
-## 这个视频给谁？
+## 這部影片是給誰看的？
 
-- 网站管理者
-- 销售代表
-- 客户服务代表
+- 網站管理員
+- 銷售代表
+- 客戶服務代表
 
-## 视频内容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/344445?quality=12&learn=on)
 
-## 其他资源
+## 其他資源
 
-- [配置帐户付款](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
+- [設定分期付款方式](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
 - [管理公司信用](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)

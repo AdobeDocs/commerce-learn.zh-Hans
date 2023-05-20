@@ -1,8 +1,8 @@
 ---
-title: 了解如何使用New Relic识别需要阻止的IP
-description: 使用New Relic，识别可能具有恶意的IP地址。  确定IP后，将在Fastly中使用它来阻止它访问应用程序
-landing-page-description: 此视频会指示New Relic用户查找访问网站时可能需要阻止的潜在IP地址。
-short-description: 此视频会指示New Relic用户查找访问网站时可能需要阻止的潜在IP地址。
+title: 瞭解如何使用New Relic來識別需要封鎖的IP
+description: 使用New Relic識別本質上可能為惡意的IP位址。  確定IP後，這會在Fastly中使用以阻止其存取應用程式
+landing-page-description: 此影片會指示New Relic的使用者尋找可能需要封鎖以存取網站的潛在IP位址。
+short-description: 此影片會指示New Relic的使用者尋找可能需要封鎖以存取網站的潛在IP位址。
 kt: 11566
 doc-type: video
 audience: all
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 ---
 
-# 识别可能恶意且应被阻止的IP
+# 識別可能是惡意且應該封鎖的IP
 
-在此视频中：
+在本影片中：
 
-- 识别Fastly中可疑或恶意&#x200B;用于阻止的潜在IP
+- 識別在Fastly中&#x200B;用於封鎖的可疑或惡意IP
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412088?quality=12&learn=on)

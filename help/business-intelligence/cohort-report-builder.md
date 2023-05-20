@@ -1,8 +1,8 @@
 ---
-title: MBI — 同类群组Report Builder
-description: 了解如何使用MBI同类群组Report Builder创建与您的业务相关的优化报表和分析。
-landing-page-description: 观看此视频，了解如何使用MBI同类群组Report Builder创建与您的业务相关的优化报表和分析。
-short-description: 观看此视频，了解如何使用MBI同类群组Report Builder创建与您的业务相关的优化报表和分析。
+title: MBI — 同類群組Report Builder
+description: 瞭解如何使用MBI同類群組Report Builder來建立與您的業務相關的最佳化報表和分析。
+landing-page-description: 觀看此影片，瞭解如何使用MBI同類群組Report Builder建立與您的業務相關的最佳化報表和分析。
+short-description: 觀看此影片，瞭解如何使用MBI同類群組Report Builder建立與您的業務相關的最佳化報表和分析。
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -16,31 +16,31 @@ ht-degree: 0%
 
 ---
 
-# MBI — 同类群组Report Builder
+# MBI — 同類群組Report Builder
 
-您是否曾希望研究一段时间内用户的不同子集的行为？ 例如，是否曾想过在促销期间注册的用户的平均生命周期收入是否高于未注册的用户？ 如果答案是 _是_，则同类群组Report Builder是您的完美工具。 MBI经过优化，可执行此分析并使其与您的业务相关。
+您曾經想要研究使用者的不同子集在一段時間內的行為嗎？ 例如，曾經想知道在促銷期間註冊的使用者是否比沒有註冊的使用者擁有更高的平均終身收入？ 如果答案為 _是_，同類群組Report Builder就是最適合您的工具。 MBI已最佳化，可執行此分析，並使其與您的業務相關。
 
-在此视频中：
+在本影片中：
 
-- 什么是同类群组分析
-- 为什么这很重要
-- 如何构建您自己的同类群组分析
+- 同類群組分析是什麼
+- 為什麼這很重要
+- 如何建立您自己的同類群組分析
 
 >[!TIP]
 >
->如果您是MBI的新用户， [快速入门视频系列](1-overview.md) 提供全面的概述，通过数据聚合、分析和可视化图表来提供更好的业务分析和结果。
+>若您為MBI的新手， [快速入門影片系列](1-overview.md) 提供透過資料彙總、分析和視覺化產生更佳業務深入分析和結果的完整概覽。
 
-## 这个视频给谁？
+## 這部影片是給誰看的？
 
-- 企业用户
-- 数据分析员
+- 商業使用者
+- 資料分析人員
 
-## 视频内容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/342407?quality=12&learn=on)
 
-## 有用资源
+## 有用的資源
 
-[使用同类群组Report Builder- MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html)
+[使用同類群組Report Builder- MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html)
 
-[创建定性同类群组分析 — MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html)
+[建立定性同類群組分析 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html)

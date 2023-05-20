@@ -1,8 +1,8 @@
 ---
-title: MBI — 概述
-description: 了解MBI产品中可提供完整商业智能解决方案的三个核心组件。
-landing-page-description: 观看此视频系列，了解如何通过数据聚合、分析和可视化图表来提供更好的业务分析和结果。
-short-description: 观看此视频系列，了解如何通过数据聚合、分析和可视化图表来提供更好的业务分析和结果。
+title: MBI-概述
+description: 了解 MBI 产品中提供完整业务情报解决方案的三个核心组件。
+landing-page-description: 观看此视频系列，了解如何通过数据汇总、分析和可视化来驱动更好的业务分析和结果。
+short-description: 观看此视频系列，了解如何通过数据汇总、分析和可视化来驱动更好的业务分析和结果。
 kt: 5724
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -16,34 +16,34 @@ ht-degree: 0%
 
 ---
 
-# MBI — 概述
+# MBI-概述
 
-MBI是一个完整的解决方案，已针对所有Adobe Commerce和Magento Open Source商户进行优化。 有三个核心组件使其成为完整的商务智能解决方案：
+MBI 是一种完整的解决方案，针对所有 Adobe Systems 商务和 Magento Open Source 商家进行了优化。 有三个核心组件可使其成为完整的业务情报解决方案：
 
-- _数据复制和整合_:首先，将各种数据源连接并将它们整合到一个中心位置。
-- _数据仓库_:要利用所有数据，需要以优化的分析方式对其进行存储和访问。 BI包括托管的data warehouse组件。
-- _功能板和可视化图表_:当您的所有数据都已连接、集中和存储后，MBI会提供一个前端界面供您分析。
+- _数据复制和整合_ ：一切从连接您的各种数据源并将它们集中在一个中心位置。
+- _数据仓库_ ：要利用您的所有数据，需要将其存储起来，并以一种针对分析进行优化的方式进行访问。 BI 包含托管的数据仓库组件。
+- _功能板和可视化_ ：当您的所有数据都已连接、集中和存储时，MBI 会提供一个前端界面供您进行分析。
 
-将这三项核心技术整合到一个解决方案中后，商户将使用MBI:
+通过将这三个核心技术内置到一个解决方案中，商家将使用 MBI 来：
 
-- 节省时间
-- 从其业务数据中获取洞察信息
-- 增强组织内的团队能力
+- 保存时间
+- 从业务数据中获取见解
+- 跨组织提供团队
 
-## 这个视频给谁？
+## 此视频是谁？
 
-- 企业用户
-- 数据分析员
+- 商业用户
+- 数据分析师
 
 ## 视频内容
 
 >[!NOTE]
 >
->视频中的内容反映了2.2版本。 请参阅 [MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以了解最新信息。
+>视频中的内容反映的是2.2 版本。 [有关最新信息，请参阅 MBI 用户指南 ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35979?quality=12&learn=on)
 
-## 有用资源
+## 有用的资源
 
-- [MBI简介 — MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-- [MBI支持](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+- [MBI 简介-MBI 用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+- [MBI 支持](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

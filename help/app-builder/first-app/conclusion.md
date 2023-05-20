@@ -1,41 +1,41 @@
 ---
-title: 结论
-description: 了解转到何处以了解有关应用程序生成器的更多信息。
-landing-page-description: 了解转到何处以了解有关应用程序生成器的更多信息。
+title: 結論
+description: 瞭解如何前往，以取得App Builder的詳細資訊。
+landing-page-description: 瞭解如何前往，以取得App Builder的詳細資訊。
 kt: 12428
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: bb7cb692-16bd-48fe-9e88-eb1b337bc3a3
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
+# 結論 {#conclusion}
 
-# 结论 {#conclusion}
+現在您已建立第一個Adobe Developer App Builder應用程式，接著請瞭解Adobe提供的其他資源。
 
-现在，您已构建第一个Adobe Developer App Builder应用程序，接下来请了解Adobe提供的其他资源。
+## 這部影片是給誰看的？
 
-## 这个视频给谁？
+* 剛開始使用Adobe Commerce、但使用AdobeApp Builder經驗有限的開發人員，已完成其第一個Adobe Developer App Builder應用程式，且已準備好了解更多。
 
-* 新使用Adobe Commerce的开发人员，具有有限的使用Adobe应用程序生成器的体验，他们已完成其首个Adobe Developer应用程序生成器应用程序并准备好了解更多信息。
+## 視訊內容
 
-## 视频内容
-
-* 其他资源
-* 连接到其他开发人员的方法
-* 结案评论
+* 其他資源
+* 連線至其他開發人員的方法
+* 關閉註解
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416741?quality=12&learn=on)
 
-## 其他应用程序生成器资源
+## 其他App Builder資源
 
 * [Adobe Developer App Builder](https://developer.adobe.com/app-builder/){target="_blank"}
-* [Adobe Developer App Builder试用版](https://developer.adobe.com/app-builder/trial/){target="_blank"}
-* [Adobe Developer App Builder文档](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
-* [Adobe Developer App Builder论坛](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly){target="_blank"}
-* [Adobe Developer App Builder贡献准则](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}
+* [Adobe Developer App Builder試用版](https://developer.adobe.com/app-builder/trial/){target="_blank"}
+* [Adobe Developer App Builder檔案](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
+* [Adobe Developer App Builder論壇](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly){target="_blank"}
+* [Adobe Developer App Builder貢獻准則](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

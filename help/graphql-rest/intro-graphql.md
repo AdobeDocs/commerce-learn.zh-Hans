@@ -1,8 +1,8 @@
 ---
-title: GraphQL简介
-description: 了解如何在Adobe Commerce上使用GraphQL和 [!DNL Magento Open Source]. 对Adobe Commerce和 [!DNL Magento Open Source].
-landing-page-description: 了解如何在Adobe Commerce上使用GraphQL和 [!DNL Magento Open Source]. 对Adobe Commerce和 [!DNL Magento Open Source].
-short-description: 了解如何在Adobe Commerce上使用GraphQL和 [!DNL Magento Open Source]. 对Adobe Commerce和 [!DNL Magento Open Source].
+title: GraphQL簡介
+description: 瞭解如何在Adobe Commerce上使用GraphQL和 [!DNL Magento Open Source]. 對Adobe Commerce和POST呼叫使用GraphQLGET和 [!DNL Magento Open Source].
+landing-page-description: 瞭解如何在Adobe Commerce上使用GraphQL和 [!DNL Magento Open Source]. 對Adobe Commerce和POST呼叫使用GraphQLGET和 [!DNL Magento Open Source].
+short-description: 瞭解如何在Adobe Commerce上使用GraphQL和 [!DNL Magento Open Source]. 對Adobe Commerce和POST呼叫使用GraphQLGET和 [!DNL Magento Open Source].
 kt: 11524
 doc-type: tutorial
 audience: all
@@ -15,35 +15,35 @@ ht-degree: 0%
 
 ---
 
-# GraphQL简介
+# GraphQL簡介
 
-GraphQL已迅速成为功能强大的客户端应用程序与后端进行交互的行业标准。 对于Adobe Commerce开发人员而言，这个主题越来越相关，因为该平台在无头实施领域不断扩展其功能。
+GraphQL已迅速成為功能強大的使用者端應用程式與後端通訊的業界標準。 隨著平台持續擴充其在Headless實作領域的功能，對於Adobe Commerce開發人員而言，這是一個日益重要的主題。
 
-如果您是GraphQL的新用户，此部分将介绍基本概念和用法。
+若您為GraphQL的新手，本節將引導您瞭解基本概念及使用方式。
 
-## 什么是GraphQL?
+## 什麼是GraphQL？
 
-GraphQL是唯一API查询语言和运行时的规范，用于响应该查询语言提供数据。
+GraphQL是唯一API查詢語言和執行階段的規格，提供資料以回應該查詢語言。
 
-传统Web API（如REST）对于来回传递数据的不同系统来说非常有用，但对于诸如Progressive Web Application之类的现代应用程序链接体验而言，其性能低于峰值。 在此类应用程序中， _相同_ 应用程序通过web API进行通信。 REST等方案的程序化方法往往没有在需要快速获取多种数据的情况下提供适当的灵活性。
+REST等傳統網頁API適用於不同系統且資料來回傳遞的系統，但對Progressive Web Application等現代應用程式連結體驗而言，這類應用程式提供的效能不及尖峰。 在像這樣的應用程式中， _相同_ 應用程式透過網頁API通訊。 REST等架構的重組方法通常無法在此情境下提供適當的彈性，因為許多型別的資料需要快速擷取。
 
-GraphQL允许客户以表达式描述 _完全_ 所需数据。 单个请求不需要多个网络请求来获取多种数据类型，而是可以查询多种类型。 而且，通过仅包含所请求的类型和字段（以直观地镜像查询的格式），响应会保持精益。
+GraphQL可讓使用者端用表達的方式描述 _完全符合_ 所需的資料。 單一請求可以查詢多種型別，而不需要多個網路請求來擷取多個資料型別。 此外，回應會保持精簡狀態，只包含（以直覺式映象查詢的格式）要求的型別和欄位。
 
-可以使用任何语言构建实施GraphQL规范的运行时。 Adobe Commerce和 [!DNL Magento Open Source] 使用
-[graphql-php](https://webonyx.github.io/graphql-php/){target="_blank"} PHP实施并在其上构建自己的层。
+實作GraphQL規格的執行階段可以用任何語言建置。 Adobe Commerce和 [!DNL Magento Open Source] 使用
+[graphql-php](https://webonyx.github.io/graphql-php/){target="_blank"} PHP實作並在其上建置自己的圖層。
 
-[查看完整的GraphQL文档](https://graphql.org/learn){target="_blank"}
+[檢視完整的GraphQL檔案](https://graphql.org/learn){target="_blank"}
 
-## 使用GraphQL客户端
+## 使用GraphQL使用者端
 
-您需要GUI GraphQL客户端来测试代码示例和教程。 有以下几个选项：
+您需要GUI GraphQL使用者端來測試程式碼範例和教學課程。 有幾個選項：
 
-* [阿尔泰尔](https://altairgraphql.dev/){target="_blank"} 是专为GraphQL构建的卓越且功能齐全的客户端。 Adobe在演示视频中使用Altair。
-* 如果您不想安装桌面应用程序，则还有一些Altair扩展会直接在
-   [铬黄](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja){target="_blank"}, Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa){target="_blank"} 浏览器。
-* [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql){target="_blank"} 是GraphQL IDE在GraphQL Foundation中的实施。 这不是一个可安装的工具，而是一个可用于自行构建界面的包。
-* 如果您已经熟悉 [Postman](https://www.postman.com/){target="_blank"}，但它对GraphQL查询有不错的支持，但其功能不如专门的GraphQL客户那样全面。
+* [Altair](https://altairgraphql.dev/){target="_blank"} 是專為GraphQL打造的優秀且功能齊全的使用者端。 Adobe在逐步說明影片中使用Altair。
+* 如果您不想安裝案頭應用程式，還有可在
+   [鉻黃](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja){target="_blank"}, Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa){target="_blank"} 瀏覽器。
+* [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql){target="_blank"} 是來自GraphQL Foundation的GraphQL IDE實作。 這不是可安裝的工具，而是您可以自行用來建置介面的套件。
+* 如果您已經熟悉 [Postman](https://www.postman.com/){target="_blank"}，雖然不如專用的GraphQL使用者端具備完整功能，但已相當支援GraphQL查詢。
 
-在GraphQL客户端中，您应将请求提交到URL路径 `/graphql` 在您的Adobe Commerce或 [!DNL Magento Open Source] 实例。 如果您希望将现有实例用于测试，则可以使用Venia主题演示(PWA Studio的示例实施): `https://venia.magento.com/graphql`
+在您的GraphQL使用者端中，您應該將請求提交至URL路徑 `/graphql` 在您的Adobe Commerce上或 [!DNL Magento Open Source] 執行個體。 如果您偏好將現有例項用於測試，可以使用Venia主題的示範(PWA Studio的範例實作)： `https://venia.magento.com/graphql`
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

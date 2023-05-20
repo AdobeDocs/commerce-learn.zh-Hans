@@ -1,6 +1,6 @@
 ---
-title: 创建产品属性
-description: 了解如何创建用于管理与产品、客户和产品评级相关信息的产品属性。
+title: 建立產品屬性
+description: 瞭解如何建立用於管理與產品、客戶和產品評級相關的資訊的產品屬性。
 kt: 10552
 doc-type: feature video
 audience: all
@@ -9,26 +9,26 @@ activity: use
 exl-id: c65b4e42-2cfe-4f7e-8a15-d0271461e4a2
 source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
-# 创建产品属性
+# 建立產品屬性
 
-Adobe Commerce使用属性来管理与产品、客户和产品评级相关的信息。 属性是可能在表单、报表、产品评论、分层导航和电子邮件消息中显示为字段的信息段。 它们是产品目录的构建基块，用于描述产品的特定特性。
+Adobe Commerce使用屬性來管理與產品、客戶和產品評等相關聯的資訊。 屬性是資訊片段，可能會顯示為表單、報告、產品評論、分層導覽和電子郵件訊息中的欄位。 它們是產品目錄的建置組塊，並描述產品的特定特性。
 
-## 这个视频给谁？
+## 這部影片是給誰看的？
 
-- 网站管理者
-- 电子商务促销商
+- 網站管理員
+- 電子商務銷售商
 
-## 视频内容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/343749?quality=12&learn=on)
 
-## 其他资源
+## 其他資源
 
-[产品属性概述 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+[產品屬性概觀 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
 
-[属性集 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)
+[屬性集 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

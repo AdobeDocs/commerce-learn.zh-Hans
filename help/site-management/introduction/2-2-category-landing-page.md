@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 适用于企业用户 — 登陆页面”'
-description: 了解如何设置类别登陆页面和控制外观。
+title: '"[!DNL Commerce] 適用於企業使用者 — 登陸頁面」'
+description: 瞭解如何設定類別登陸頁面及控制外觀。
 topic: Commerce
 kt: 5766
 doc-type: video
@@ -14,30 +14,30 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 适用于企业用户 — 登陆页面
+# [!DNL Commerce] 適用於企業使用者 — 登陸頁面
 
-在此视频中：
+在本影片中：
 
-- 产品类别的登陆页面
-- 页面查看选项
-- 店面设置
+- 產品類別的登陸頁面
+- 頁面檢視選項
+- 店面設定
 
-## 这个视频给谁？
+## 這部影片是給誰看的？
 
-- 企业用户
+- 商業使用者
 
-## 视频内容
+## 視訊內容
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36388?quality=12&learn=on)
 
-## 其他资源
+## 其他資源
 
-[类别内容 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-content-settings.html)
+[類別內容 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-content-settings.html)
 
-[显示设置 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-display-settings.html)
+[顯示設定 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-display-settings.html)
 
-[设计设置 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-custom-design.html)
+[設計設定 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-custom-design.html)

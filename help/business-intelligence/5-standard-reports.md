@@ -1,6 +1,6 @@
 ---
-title: MBI — 标准报表
-description: 了解现成可用的标准MBI报表。
+title: MBI — 標準報表
+description: 瞭解現成可用的標準MBI報表。
 kt: 5733
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -14,24 +14,24 @@ ht-degree: 0%
 
 ---
 
-# MBI — 标准报表
+# MBI — 標準報表
 
-默认的现成MBI功能板包含预定义的报表，这些报表涵盖大多数商户所需的电子商务KPI报表。 商户可以自动执行这些报表，以便更高效地运行其业务，并且无需手动进行SQL查询或Excel中的分析。
+預設的現成可用MBI儀表板包含預先定義的報表，這些報表涵蓋大多數商家所需的電子商務KPI報表。 商戶可以自動化這些報表，以更有效率地執行業務，並消除可能使用SQL查詢或Excel手動執行的分析。
 
-## 这个视频给谁？
+## 這部影片是給誰看的？
 
-- 企业用户
-- 数据分析员
+- 商業使用者
+- 資料分析人員
 
-## 视频内容
+## 視訊內容
 
 >[!NOTE]
 >
->视频中的内容反映了2.2版本。 请参阅 [MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以了解最新信息。
+>影片內容反映2.2版。 請參閱 [MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以取得最新資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35987?quality=12&learn=on)
 
-## 其他资源
+## 其他資源
 
-- [现成功能板 — MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html)
-- [使用功能板群组 — MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/using-dashboard-groups.html)
+- [現成可用的儀表板 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html)
+- [使用儀表板群組 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/using-dashboard-groups.html)

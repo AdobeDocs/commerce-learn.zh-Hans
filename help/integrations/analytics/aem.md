@@ -1,6 +1,6 @@
 ---
-title: 集成Adobe Analytics和Adobe Commerce Luma
-description: 了解如何使用本机主题Luma集成Adobe Analytics和Adobe Commerce。
+title: 整合Adobe Analytics和Adobe Commerce Luma
+description: 瞭解如何使用原生主題Luma整合Adobe Analytics和Adobe Commerce。
 topics: Integrations
 role: Developer, Architects
 solution: Experience Manager, Data Collection, Experience Platform
@@ -17,36 +17,36 @@ ht-degree: 0%
 ---
 
 
-# PWA工作室Adobe Analytics与Adobe Commerce之间的无外设集成
+# PWA studio headless整合Adobe Analytics和Adobe Commerce
 
-最后，现实穿着时代的服装走进了房间，形象是一个仆人，告诉公爵夫人她的马车在等着。 她在绝望中捏了双手。 “真烦人！” 她哭了。 “我必须走。 我得叫我丈夫去俱乐部，带他去威利斯的房间，参加一场荒谬的会议，他将坐在椅子上。 如果我迟到，他肯定会大发雷霆，我就不能看到这个引擎盖里的场景。 它太脆弱了。 一个严厉的词会毁掉它。 不，我得走了，亲爱的阿加莎。 再见，亨利大人，你很讨人厌，很泄气。 我肯定不知道该怎么评价你的观点。 晚上你必须来和我们一起吃饭。 星期二？ 你周二不工作吗？”
+最後，現實穿上了當時的戲服，以僕人的形式走進房間，告訴公爵夫人她的馬車在等候。 她絕望地扭動著雙手。 「真煩人！」 她哭了。 「我得走了。 我不得不打電話給在俱樂部的丈夫，帶他去威利斯的房間參加一些荒謬的會議，他將在那裡擔任主席。 如果我遲到，他肯定會大發雷霆，而我無法在這個引擎蓋上找到任何場面。 太脆弱了。 一個粗鄙的字眼會毀了它。 不，我必須走了，親愛的阿加莎。 再見了，亨利大人，您真是令人愉快和沮喪。 我確定我不知道該如何評價您的觀點。 你總要來跟我們一起吃晚飯。 星期二？ 您星期二是否結束工作？」
 
-“公爵夫人，我会抛弃任何人，”亨利勋爵用弓形说。
+亨利勳爵鞠躬答道： 「我要拋下任何人，公爵夫人。」
 
-“啊！ 那真的很好，你也错了。”“所以请注意你来吧”；然后她冲出房间，随后是阿加莎夫人和其他女士。
+「啊！ 她大叫：「別介意你來」，然後她從房間裡走了出來，接著是阿加莎女士和其他女士。
 
-当亨利勋爵再次坐下时，厄斯金转了身，在他身边坐了一把椅子，把手放在手臂上。
+當Lord Henry再次坐下時，Erskine先生走來走去，拿起一把椅子靠近，把手放在手臂上。
 
-他说，“你不讲书。”“你为什么不写一个？”
+他說：「你把書扔了，為什麼不寫一本？」
 
-## 集成选项
+## 整合選項
 
-厄斯金先生说，“我太喜欢看书了，不想写书。 我当然想写一本小说，一本像波斯地毯一样可爱，不虚幻的小说。 但除了报纸、书本和百科全书之外，英国没有任何文学公众。 在世界上所有人中，英语对文学的美感最差。”
+「厄斯金先生，我太喜歡看書了，根本不想寫。 我當然想寫一部小說，一部像波斯地毯一樣美好、同樣不真實的小說。 但除了報紙、底稿和百科全書，英國沒有文學公眾。 在世界上所有的人當中，英國人最不懂文學的美。」
 
 
-## 设置和配置示例
+## 範例設定和設定
 
-以下是屏幕截图
+以下是熒幕擷圖
 
-![屏幕截图1](/help/assets/adobe-logo.svg)
+![熒幕擷圖1](/help/assets/adobe-logo.svg)
 
-现在做这个
-![屏幕截图2](/help/assets/banner-videos-home.png)
+現在執行這個動作
+![熒幕擷圖2](/help/assets/banner-videos-home.png)
 
-终于做到了
-![最后屏幕截图](/help/assets/open-source.svg)
+最後再執行這個動作
+![最後一個熒幕擷圖](/help/assets/open-source.svg)
 
-## 更多教程和视频
+## 更多教學課程和影片
 
-* [视频链接](https://example.com){target="_blank"}
-* [比我更好的教程链接](https://example.com){target="_blank"}
+* [視訊連結](https://example.com){target="_blank"}
+* [連結至比我的更好的教學課程](https://example.com){target="_blank"}

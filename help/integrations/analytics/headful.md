@@ -1,6 +1,6 @@
 ---
-title: 集成Adobe Analytics和Adobe Commerce Luma
-description: 了解如何使用本机主题Luma集成Adobe Analytics和Adobe Commerce。
+title: 整合Adobe Analytics和Adobe Commerce Luma
+description: 瞭解如何使用原生主題Luma整合Adobe Analytics和Adobe Commerce。
 topics: Integrations
 role: Developer, Architects
 solution: Experience Manager, Data Collection, Experience Platform
@@ -17,27 +17,27 @@ ht-degree: 0%
 ---
 
 
-# Adobe Analytics与Adobe Commerce的Headful集成
+# Adobe Analytics與Adobe Commerce之間的Headful整合
 
-Gmail利用此功能，JavaScript调度请求。 Rhino引擎是基于创新功能和用户阅读习惯以及播放音频和媒体查询的可扩展测试框架。 ES是一个框架。 OO框架、广泛的Ajax支持、更高顺序的编程。 符合ECMAScript 3。
+Gmail可針對JavaScript Dispatches請求利用此功能。 Rhino引擎是一種可擴充的測試架構，以創新功能和使用者的閱讀習慣以及播放音訊和媒體查詢為基礎。 ES是一個架構。 OO架構、廣泛的Ajax支援、高階程式設計。 ECMAScript 3相容。
 
-## 集成选项
+## 整合選項
 
-早午餐是图书馆。 宽Web服务器。 Canvas是一种常用的浏览器，通常创建的功能完备的Promise是一种动态生成Web浏览器的工具。 API。 与面向对象编程一起使用的Promise库也利用了这一优势。
+Brunch是一個資料庫。 Wide Web server。 Canvas是一種常用的瀏覽器，通常建立的是一種功能完善的Promise工具，可用來動態產生網頁瀏覽器。 API。 與物件導向程式設計搭配使用的Promise程式庫同樣會利用此優點。
 
-## 设置和配置示例
+## 範例設定和設定
 
-以下是屏幕截图
+以下是熒幕擷圖
 
-![屏幕截图1](/help/assets/adobe-logo.svg)
+![熒幕擷圖1](/help/assets/adobe-logo.svg)
 
-现在做这个
-![屏幕截图2](/help/assets/banner-videos-home.png)
+現在執行這個動作
+![熒幕擷圖2](/help/assets/banner-videos-home.png)
 
-终于做到了
-![最后屏幕截图](/help/assets/open-source.svg)
+最後再執行這個動作
+![最後一個熒幕擷圖](/help/assets/open-source.svg)
 
-## 更多教程和视频
+## 更多教學課程和影片
 
-* [视频链接](https://example.com){target="_blank"}
-* [比我更好的教程链接](https://example.com){target="_blank"}
+* [視訊連結](https://example.com){target="_blank"}
+* [連結至比我的更好的教學課程](https://example.com){target="_blank"}

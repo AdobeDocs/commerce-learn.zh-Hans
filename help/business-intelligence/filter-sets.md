@@ -1,8 +1,8 @@
 ---
-title: MBI — 过滤器集
-description: 了解如何使用MBI过滤器集功能简化Adobe Commerce和Magento Open Source的业务数据报告。
-landing-page-description: 观看此视频，了解如何使用MBI过滤器集功能简化业务数据报告。
-short-description: 观看此视频，了解如何使用MBI过滤器集功能简化业务数据报告。
+title: MBI — 篩選集
+description: 瞭解如何使用MBI篩選集功能，簡化Adobe Commerce和Magento Open Source的業務資料報告。
+landing-page-description: 觀看此影片，瞭解如何使用MBI篩選器集功能來簡化業務資料報告。
+short-description: 觀看此影片，瞭解如何使用MBI篩選器集功能來簡化業務資料報告。
 kt: 10289
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -16,32 +16,32 @@ ht-degree: 0%
 
 ---
 
-# MBI — 过滤器集
+# MBI — 篩選集
 
-是否仅分析您的业务数据的某些部分？ 厌倦了手动清理吗？ 在MBI中，您可以使用过滤器集功能来简化此过程。
+您只想分析某些業務資料片段嗎？ 厭倦了進行手動清理？ 在MBI中，您可以使用篩選集合功能來簡化此程式。
 
-在此视频中：
+在本影片中：
 
-- 创建过滤器集
-- 使用过滤器运算符
-- 将过滤器集应用于量度
-- 将过滤器集应用于计算数据维度
+- 建立篩選器集
+- 使用篩選器運運算元
+- 套用篩選器集至量度
+- 套用篩選器集至計算的資料維度
 
 >[!TIP]
 >
->如果您是MBI的新用户， [快速入门视频系列](1-overview.md) 提供全面的概述，通过数据聚合、分析和可视化图表来提供更好的业务分析和结果。
+>若您為MBI的新手， [快速入門影片系列](1-overview.md) 提供透過資料彙總、分析和視覺化產生更佳業務深入分析和結果的完整概覽。
 
-## 这个视频给谁？
+## 這部影片是給誰看的？
 
-- 企业用户
-- 数据分析员
+- 商業使用者
+- 資料分析人員
 
-## 视频内容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/342408?quality=12&learn=on)
 
-## 有用资源
+## 有用的資源
 
-[创建过滤器集 — MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
+[建立篩選器集 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
 
-[用于分段和过滤的推荐数据Dimension- MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[分段和篩選的建議資料Dimension- MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

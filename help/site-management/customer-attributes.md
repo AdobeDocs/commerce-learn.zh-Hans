@@ -1,6 +1,6 @@
 ---
-title: 创建客户属性
-description: 了解如何向客户帐户的“帐户信息”、“通讯簿”和“帐单信息”部分添加自定义属性。
+title: 建立客戶屬性
+description: 瞭解如何將自訂屬性新增到客戶帳戶的「帳戶資訊」、「通訊錄」和「帳單資訊」區段。
 kt: 10547
 doc-type: feature video
 audience: all
@@ -9,25 +9,25 @@ activity: use
 exl-id: 75a8213a-145b-4fb2-898c-1ae7ba272748
 source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
-# 创建客户属性
+# 建立客戶屬性
 
-客户属性提供支持订单、履行和客户管理流程所需的信息。 由于您的业务是独特的，因此除了系统提供的默认字段之外，您可能还需要字段。 您可以向客户帐户的“帐户信息”、“通讯簿”和“帐单信息”部分添加自定义属性。
+客戶屬性提供支援訂單、履行及客戶管理流程所需的資訊。 由於您的業務是獨一無二的，因此除了系統提供的預設欄位外，您可能還需要欄位。 您可以將自訂屬性新增至客戶帳戶的「帳戶資訊」、「通訊錄」及「帳單資訊」區段。
 
-## 这个视频给谁？
+## 這部影片是給誰看的？
 
-- 存储管理员
-- 电子商务营销人员
+- 存放區管理員
+- 電子商務行銷人員
 
-## 视频内容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/343661?quality=12&learn=on)
 
-## 其他资源
+## 其他資源
 
-- [客户属性属性 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
-- [创建单个客户帐户 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+- [客戶屬性屬性 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
+- [建立個別客戶帳戶 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)

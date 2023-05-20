@@ -1,6 +1,6 @@
 ---
-title: 面向开发人员的PWA Studio- Peregrine
-description: 了解Peregrine，包括Peregrine库。 了解Peregrine背后的动​机，了解Peregrine钩子和爪子之间的差异。
+title: 开发人员 PWA Studio-Peregrine
+description: 了解 Peregrine，包括 Peregrine Libraries。 Peregrine Peregrine 挂钩和 talons 之间的差异，了解背后的动机。
 topic: Development
 kt: 5649
 doc-type: video
@@ -13,16 +13,16 @@ ht-degree: 0%
 
 ---
 
-# 面向开发人员的PWA Studio- Peregrine
+# 开发人员 PWA Studio-Peregrine
 
 在此视频中：
 
-- 佩雷格林简介
-- 佩雷格林图书馆
-- 理解Peregrine背后的动机
-- Peregrine钩子与爪子的区别
+- Peregrine 简介
+- Peregrine Libraries
+- 了解 Peregrine 背后的动机
+- 区分 Peregrine 挂钩和 talons
 
-## 这个视频给谁？
+## 此视频是谁？
 
 - 前端开发人员
 - 项目经理

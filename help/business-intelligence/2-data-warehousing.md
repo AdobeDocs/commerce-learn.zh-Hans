@@ -1,6 +1,6 @@
 ---
-title: MBI — 数据仓库
-description: 了解Data warehouse管理器，该管理器可用于MBI中的管理员用户。
+title: MBI — 資料倉儲
+description: 瞭解MBI中管理員使用者可用的Data Warehouse管理員。
 kt: 5729
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -9,31 +9,31 @@ activity: use
 exl-id: 9c266205-3c04-400c-a94d-e3f9818e1b58
 source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
-# MBI — 数据仓库
+# MBI — 資料倉儲
 
-data warehouse是配置为整合和存储数据以运行业务分析的关系数据库。 Data warehouse允许访问数据，以取消生产数据库的标准化并组织它们，以便更高效地运行分析。
+Data Warehouse是關聯式資料庫，設定為合併及儲存資料，以執行業務分析。 資料倉儲可存取資料，以便還原生產資料庫的標準化並加以整理，以便更有效率地執行分析。
 
-使用Data warehouse管理器，具有管理员级别访问权限的用户可以管理表和列同步设置，向下访问表的架构，以及创建要在报表中使用的计算列。
+使用「Data Warehouse管理員」，具有管理員層級存取許可權的使用者可以管理表格和欄同步設定、深入研究表格的綱要，以及建立計算欄以用於報表。
 
-## 这个视频给谁？
+## 這部影片是給誰看的？
 
-- 企业用户
-- 数据分析员
+- 商業使用者
+- 資料分析人員
 
-## 视频内容
+## 視訊內容
 
 >[!NOTE]
 >
->视频中的内容反映了2.2版本。 请参阅 [MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以了解最新信息。
+>影片內容反映2.2版。 請參閱 [MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以取得最新資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35984?quality=12&learn=on)
 
-## 其他资源
+## 其他資源
 
-- [data warehouse管理器 — MBI用户指南浏览](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
-- [连接数据 — MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)
+- [瀏覽Data Warehouse管理員 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
+- [連線您的資料 — MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)

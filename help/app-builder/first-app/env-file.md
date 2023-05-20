@@ -1,37 +1,37 @@
 ---
-title: .env文件
-description: 了解此示例应用程序的.env文件中的文件类型
-landing-page-description: 了解与Adobe Commerce一起使用的Adobe Developer App Builder以及.env文件中使用的内容类型
+title: .env檔案
+description: 瞭解此範例應用程式的.env檔案中的檔案型別
+landing-page-description: 瞭解搭配Adobe Commerce使用的Adobe Developer App Builder以及.env檔案中使用的內容型別
 kt: 12423
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 934fcdd1-ee61-4914-89ce-f6f04b1bc763
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
+# 產生和設定.env檔案 {#env-file}
 
-# 生成并配置.env文件 {#env-file}
+此 `.env` 是一個特殊檔案，不屬於範例模組，但對Adobe Developer App Builder應用程式中的使用非常重要。 此檔案包含密碼和其他資訊。 避免將此檔案提交至任何程式碼存放庫。
 
-的 `.env` 是一个特殊文件，它不是示例模块的一部分，但对于在Adobe Developer App Builder应用程序中使用很重要。 此文件包含机密和其他信息。 避免将此文件提交到任何代码存储库。
+## 這部影片是給誰看的？
 
-## 这个视频给谁？
+* 剛開始使用Adobe Commerce但使用AdobeApp Builder經驗有限的開發人員，想要瞭解 `.env` 檔案。
 
-* 初次接触Adobe Commerce的开发人员，在使用Adobe应用程序生成器方面具有有限的经验，他们希望了解 `.env` 文件。
+## 視訊內容
 
-## 视频内容
-
-* .env文件简介及其用途
-* 如何生成.env文件
-* 如何附加文件以添加新密钥
-* 避免提交此文件，因为它包含敏感信息
+* .env檔案及其用途簡介
+* 如何產生.env檔案
+* 如何附加檔案以新增密碼
+* 避擴音交此檔案，因為它包含敏感資訊
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416593?quality=12&learn=on)
 
-## 代码示例
+## 程式碼範例
 
 ```bash
 # Specify your secrets here
@@ -51,7 +51,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-您可以在文件的示例模块中看到这些静态值 `actions/commerce.index.js`.
+您可以在檔案中看到範例模組使用這些靜態值 `actions/commerce.index.js`.
 
 ```javascript
         const oauth = getCommerceOauthClient(

@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 面向开发人员 — 开发工作流程”'
-description: 了解商务的典型开发工作流。
+title: '"[!DNL Commerce] 適用於開發人員 — 開發工作流程」'
+description: 瞭解Commerce的典型開發工作流程。
 kt: 5691
 doc-type: video
 topic: Development
@@ -11,25 +11,25 @@ activity: use
 exl-id: f6c0dcbc-a0ef-43fb-bc38-cc7692c73487
 source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 面向开发人员 — 开发工作流程
+# [!DNL Commerce] 適用於開發人員 — 開發工作流程
 
-在此视频中：
+在本影片中：
 
-- 典型的开发工作流
+- 典型的開發工作流程
 
-## 视频内容
+## 視訊內容
 
 >[!IMPORTANT]
 >
->Commerce Marketplace不再包含 **下载** 按钮。 必须使用命令行安装或升级扩展。 请参阅 [安装扩展](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/extensions.html) 页面 _安装指南_ 以了解更多信息。
+>Commerce Marketplace不再包含 **下載** 按鈕。 您必須使用命令列來安裝或升級擴充功能。 請參閱 [安裝擴充功能](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/extensions.html) 中的頁面 _安裝指南_ 以取得詳細資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36193?quality=12&learn=on)
 
-## 其他资源
+## 其他資源
 
-[[!DNL Commerce] PHP开发人员指南](https://developer.adobe.com/commerce/php/development/)
+[[!DNL Commerce] PHP開發人員指南](https://developer.adobe.com/commerce/php/development/)

@@ -1,11 +1,11 @@
 ---
-title: 采购订单和批准
-description: 了解如何为您的B2B公司帐户启用采购订单和批准规则。
+title: 购买订购和批准
+description: 了解如何为您的 B2B 公司帐户启用采购订单和批准规则。
 doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
-badge: label="B2B for Adobe Commerce" type="Positive"
+badge: 标签 = "B2B Adobe Systems 商务" type = "正值"
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
 source-git-commit: d10020b33cfd86031d8cbd156eb22f788c301743
 workflow-type: tm+mt
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 ---
 
-# 采购订单和批准
+# 购买订购和批准
 
 {{b2b-feature}}
 
-大多数B2B公司都对采购订单制定了订单批准规则。 公司可以控制谁可以创建采购订单以及他们可以花费的金额。 例如：
+大多数 B2B 公司都具有购买订单的订购批准规则。 公司可以控件谁可以创建购买订单，以及他们可以花费多少钱。 例如：
 
-- 任何小于X的PO值都会自动获得批准。
-- 超过X值但小于Q的PO必须由Y批准。
-- 任何X以上的PO值都必须由Y和Z批准。
-- 由Director级别或更高级别的任何人创建的PO将自动获得批准。
+- 任何小于 X 值的采购订单都将自动获得批准。
+- 位于 X 值处但小于 Q 的位置必须由 Y 批准。
+- 任何按 X 值划分的 PO 都必须通过 Y 和 Z 批准。
+- 由 Director 或更高级别的任何人创建的 PO 将自动获得批准。
 
-B2B客户拥有其角色所需的权限，可设置批准规则以强制实施公司策略。
+对于角色的必需权限，B2B 客户可以设置批准规则，以实施公司策略。
 
-## 这个视频给谁？
+## 此视频是谁？
 
-- 公司客户经理
-- 采购经理
+- 公司帐户经理
+- 购买经理
 
 ## 视频内容
 
@@ -38,5 +38,5 @@ B2B客户拥有其角色所需的权限，可设置批准规则以强制实施�
 
 ## 其他资源
 
-- [公司的采购订单](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html){target="_blank"}
+- [公司的购买订单](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html){target="_blank"}
 - [采购订单批准规则](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html){target="_blank"}

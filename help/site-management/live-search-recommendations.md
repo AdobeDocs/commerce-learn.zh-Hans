@@ -1,6 +1,6 @@
 ---
-title: '''[!DNL Live Search] （適用於recommendations）'
-description: 瞭解如何新增 [!DNL Live Search] 提供產品推薦給您的商店，並提供極為引人入勝、相關且個人化的購物體驗。
+title: ‘[!DNL Live Search] 推荐'
+description: 了解如何添加 [!DNL Live Search] ，获得您商店的产品推荐，并提供引人入胜、相关且个性化的购物体验。
 doc-type: feature video
 audience: all
 role: Admin, User
@@ -13,25 +13,25 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Live Search] 適用於建議
+# [!DNL Live Search] 推荐
 
 {{ee-feature}}
 
-[!DNL Live Search] Adobe Commerce可免費提供快速、超級相關且直覺式的Adobe Commerce搜尋體驗。 [!DNL Live Search] 由Adobe Sensei提供技術支援，會使用人工智慧和機器學習演演算法，對彙整的訪客資料執行深入分析。 此資料與Adobe Commerce目錄結合後，可提供極為引人入勝、相關且個人化的購物體驗。 此影片有助於說明如何使用即時搜尋來強化產品推薦，並且是正在進行之網路研討會系列「商務快速獲勝」的一部分。
+[!DNL Live Search] 从Adobe Commerce免费为Adobe Commerce提供快速、超级相关且直观的搜索体验。 [!DNL Live Search] 由Adobe Sensei提供支持的，可使用人工智能和机器学习算法对汇总的访客数据执行深度分析。 此数据与Adobe Commerce目录结合使用后，可提供引人入胜、相关且个性化的购物体验。 此视频帮助说明如何使用实时搜索来加强产品推荐，并且是正在进行的一系列网络研讨会（“Commerce快速入门”）的一部分。
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 網站管理員
-- 網頁銷售商
+- 网站管理员
+- Web促销活动
 
-## 視訊內容
+## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412586?quality=12&learn=on)
 
 
-## 其他資源
+## 其他资源
 
-- [簡介 [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html)
-- [[!DNL Live Search] 概觀](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
-- [商務服務聯結器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
-- [產品Recommendations簡介](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
+- [简介 [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html)
+- [[!DNL Live Search] 概述](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
+- [商务服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+- [产品Recommendations简介](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)

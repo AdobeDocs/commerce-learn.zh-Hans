@@ -1,8 +1,8 @@
 ---
-title: 雲端基礎結構上的Adobe Commerce — 概觀
-description: 識別雲端棧疊中的關鍵技術​。 說明Adobe Commerce的內容傳遞策略。 瞭解唯讀檔案系統的價值。
-landing-page-description: 觀看此影片系列，開始使用部署和管理Adobe Commerce所用的雲端基礎結構。
-short-description: 觀看此影片系列，開始使用部署和管理Adobe Commerce所用的雲端基礎結構。
+title: 云基础架构上的Adobe Commerce — 概述
+description: 确定云栈栈中的关键技术​。 描述Adobe Commerce的内容投放策略。 了解只读文件系统的价值。
+landing-page-description: 观看本视频系列，开始使用用于部署和管理Adobe Commerce的云基础架构。
+short-description: 观看本视频系列，开始使用用于部署和管理Adobe Commerce的云基础架构。
 kt: 5656
 doc-type: video
 audience: all
@@ -15,16 +15,16 @@ ht-degree: 0%
 
 ---
 
-# 雲端基礎結構上的Adobe Commerce — 概觀
+# 云基础架构上的Adobe Commerce — 概述
 
-在本影片中：
+在本视频中：
 
-- 識別雲端棧疊中的關鍵技術&#x200B;。
-- 說明雲端基礎結構上Adobe Commerce的內容傳遞策略
-- 瞭解唯讀檔案系統的價值
+- 确定云栈栈中的关键技术&#x200B;。
+- 描述云基础架构上Adobe Commerce的内容投放策略
+- 了解只读文件系统的价值
 
 >[!VIDEO](https://video.tv.adobe.com/v/35298?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-[[!DNL Commerce] 雲端基礎結構指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html)
+[[!DNL Commerce] 关于云基础架构的指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html)

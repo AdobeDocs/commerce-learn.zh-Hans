@@ -1,7 +1,7 @@
 ---
-title: 動作資料夾
-description: 瞭解此範例應用程式actions資料夾中的檔案型別。
-landing-page-description: 瞭解搭配Adobe Commerce使用的Adobe Developer App Builder以及動作資料夾中的檔案型別。
+title: 操作文件夹
+description: 了解此示例应用程序的actions文件夹中的文件类型。
+landing-page-description: 了解与Adobe Commerce一起使用的Adobe Developer App Builder以及actions文件夹中的文件类型。
 kt: 12422
 doc-type: tutorial
 audience: all
@@ -14,26 +14,26 @@ ht-degree: 0%
 
 ---
 
-# 瞭解動作資料夾 {#actions-folder}
+# 了解操作文件夹 {#actions-folder}
 
-此 `actions` 此範例應用程式的資料夾包含一些JavaScript檔案和一個名為的資料夾 `commerce`. 顯示的JavaScript是極佳的範例檔案，如果您的工作相關，則可重複使用。 使用OAuth和REST連線至Adobe Commerce應用程式時，此資料夾可節省您開發工作的時間。
+此 `actions` 此示例应用程序的文件夹包含一些JavaScript文件和一个名为的文件夹 `commerce`. 所示的JavaScript是一个非常好的示例文件，如果与您的工作相关，则可以重复使用。 使用OAuth和REST连接到Adobe Commerce应用程序时，此文件夹可以节省开发时间。
 
-此範例中的資料夾實際名稱是任意的，但知道其名稱有助於您解譯範常式式碼。 透過使用有意義的命名慣例，您可以避免在應用程式變得更加複雜時造成混淆。
+此示例中文件夹的实际名称是任意的，但了解其名称可以帮助您解释示例代码。 通过使用有意义的命名约定，可以避免在应用程序变得更加复杂时造成混淆。
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-* 剛開始接觸Adobe Commerce且使用AdobeApp Builder經驗有限的開發人員，瞭解範例應用程式中的Actions資料夾。
+* 刚开始接触Adobe Commerce、但对AdobeApp Builder经验有限的开发人员，正在了解示例应用程序中的actions文件夹。
 
-## 視訊內容
+## 视频内容
 
-* App Builder簡介和範例模組，重點說明 `actions` 資料夾
-* 如何使用「actions」資料夾
-* 在中找到JavaScript檔案的目的 `actions` 和 `commerce` 資料夾
-* OAuth驗證檔案的快速總覽
+* App Builder和示例模块简介，重点介绍 `actions` 文件夹
+* 如何使用“actions”文件夹
+* 在中找到JavaScript文件的用途 `actions` 和 `commerce` 文件夹
+* OAuth身份验证文件的快速概述
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416590?quality=12&learn=on)
 
-## 程式碼範例
+## 代码示例
 
 actions/oauth1a.js
 

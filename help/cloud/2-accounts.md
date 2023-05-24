@@ -1,6 +1,6 @@
 ---
-title: 雲端基礎結構上的Adobe Commerce — 託管和帳戶
-description: 瞭解現有的Adobe Commerce託管解決方案​。 瞭解Starter與Pro帳戶之間的差​異。
+title: 云基础架构上的Adobe Commerce — 托管和帐户
+description: 了解Adobe Commerce的现有托管解决方案​。 了解Starter和Pro客户之间的区别​。
 kt: 5657
 doc-type: video
 audience: all
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 ---
 
-# 雲端基礎結構上的Adobe Commerce — 託管和帳戶
+# 云基础架构上的Adobe Commerce — 托管和帐户
 
-在本影片中：
+在本视频中：
 
-- 瞭解適用於Adobe Commerce的現有&#x200B;雲端託管解決方案
-- 瞭解Starter與Pro帳戶之間的差&#x200B;異
+- 了解现有的适用于Adobe Commerce&#x200B;的云托管解决方案
+- 了解Starter和Pro客户之间的区别&#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/35813?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-[雲端架構 —  [!DNL Commerce] 雲端基礎結構指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html)
+[云架构 —  [!DNL Commerce] 关于云基础架构的指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html)

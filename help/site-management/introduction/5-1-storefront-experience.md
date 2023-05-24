@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 適用於企業使用者 — 店面」'
-description: 瞭解店面的客戶體驗，包括建立帳戶、願望清單，以及將願望清單專案新增到購物車
+title: ”[!DNL Commerce] 商业用户 — Storefront
+description: 了解店面的客户体验，包括创建帐户、愿望清单以及将愿望清单项目添加到购物车
 topic: Commerce
 kt: 5778
 doc-type: video
@@ -14,29 +14,29 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於企業使用者 — 店面
+# [!DNL Commerce] 面向企业用户 — 店面
 
-在本影片中：
+在本视频中：
 
-- 店面的客戶體驗
-- 帳戶建立
-- 願望清單
-- 新增願望清單專案至購物車
+- 店面的客户体验
+- 帐户创建
+- 愿望清单
+- 将愿望清单项目添加到购物车
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 商業使用者
+- 商业用户
 
-## 視訊內容
+## 视频内容
 
 >[!NOTE]
 >
->影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36188?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-[客戶帳戶範圍 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
+[客户帐户范围 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
 
-[希望清單店面體驗 —  [!DNL Commerce] 商店和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)
+[希望列表店面体验 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)

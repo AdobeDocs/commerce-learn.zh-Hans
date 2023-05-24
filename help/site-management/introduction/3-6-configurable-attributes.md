@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 適用於企業使用者 — 可設定的屬性」'
-description: 瞭解如何設定可設定的產品屬性。
+title: ”[!DNL Commerce] （业务用户 — 可配置属性）”
+description: 了解如何设置可配置的产品属性。
 topic: Commerce
 kt: 5772
 doc-type: video
@@ -14,26 +14,26 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於企業使用者 — 可設定的屬性
+# [!DNL Commerce] 企业用户 — 可配置属性
 
-在本影片中：
+在本视频中：
 
-- 可設定的產品屬性
+- 可配置产品属性
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 商業使用者
+- 商业用户
 
-## 視訊內容
+## 视频内容
 
 >[!NOTE]
 >
->影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35957?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-[可設定的產品 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html)
+[可配置产品 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html)
 
-[屬性集 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)
+[属性集 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

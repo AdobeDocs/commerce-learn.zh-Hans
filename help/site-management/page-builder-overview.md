@@ -1,6 +1,6 @@
 ---
-title: '''[!DNL Page Builder] 總覽'
-description: 瞭解如何建立頁面 [!DNL Commerce] 在「管理員」中儲存頁面，使用 [!DNL Page Builder].
+title: ‘[!DNL Page Builder] 概述
+description: 了解如何构建页面 [!DNL Commerce] 使用以下方式将页面存储在“管理员”中 [!DNL Page Builder].
 kt: 5563
 doc-type: feature video
 role: Admin, Leader, User
@@ -14,31 +14,31 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Page Builder] 概觀
+# [!DNL Page Builder] 概述
 
-[!DNL Page Builder] 可讓您使用自訂版面輕鬆建立內容豐富的頁面，以增強您的視覺敘事能力，並提高客戶參與度和忠誠度。
+[!DNL Page Builder] 通过自定义版面轻松创建内容丰富的页面，以增强您的视觉叙事能力，并提高客户参与度和忠诚度。
 
-從2.4.3版開始， [!DNL Page Builder] 預設可在Adobe Commerce和Magento Open Source中使用。 替換為 [!DNL Page Builder] 在Adobe Commerce中，您可以結合測試和預覽、個人化內容和產品推薦，以及即將推出的其他功能。
+从2.4.3版本开始， [!DNL Page Builder] 默认情况下在Adobe Commerce和Magento Open Source中均可用。 替换为 [!DNL Page Builder] 在Adobe Commerce中，您可以整合暂存和预览、个性化内容和产品推荐，以及即将推出的其他功能。
 
-在本影片中，瞭解如何：
+在本视频中，了解如何：
 
-- 編輯現有頁面
-- 編輯新頁面
-- 將產品新增至現有頁面
-- 新增及格式化列與欄
-- 將媒體和元素新增至欄和列
-- 新增滑桿並設定其格式
+- 编辑现有页面
+- 编辑新页面
+- 将产品添加到现有页面
+- 添加行和列并设置其格式
+- 将媒体和元素添加到列和行
+- 添加滑块并设置其格式
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 網站設計工具
-- 商店銷售商
+- 网站设计人员
+- 商店推销员
 
-## 視訊內容
+## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/343781?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-- [Page Builder使用手冊](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
-- [Page Builder開發人員指南](https://developer.adobe.com/commerce/frontend-core/page-builder/)
+- [Page Builder用户指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
+- [Page Builder开发人员指南](https://developer.adobe.com/commerce/frontend-core/page-builder/)

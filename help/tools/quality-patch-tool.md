@@ -1,6 +1,6 @@
 ---
-title: 使用品質修補工具
-description: 觀看此技術影片，瞭解如何使用Adobe Commerce和Magento Open Source的Quality Patch Tool。
+title: 使用Quality Patch工具
+description: 观看此技术视频，了解如何使用Quality Patch Tool进行Adobe Commerce和Magento Open Source。
 doc-type: technical video
 role: Developer
 audience: all
@@ -13,26 +13,26 @@ ht-degree: 0%
 
 ---
 
-# 使用品質修補工具
+# 使用Quality Patch工具
 
-品質修補工具是命令列工具，可為Adobe Commerce和Magento Open Source提供高品質的修補程式。 它可讓您：
+Quality Patch Tool是一个命令行工具，可为Adobe Commerce和Magento Open Source提供高质量的修补程序。 它允许您：
 
-- 檢視最新品質修補程式的一般資訊
-- 套用品質修補程式
-- 還原已套用的修補程式
+- 查看有关最新质量修补程序的常规信息
+- 应用质量补丁程序
+- 还原应用的修补程序
 
-Adobe Commerce支援團隊和Magento Open Source社群會開發品質修補程式。
+Adobe Commerce支持团队和Magento Open Source社区将开发质量补丁。
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 後端開發人員
-- 網站管理員
+- 后端开发人员
+- 站点管理器
 
-## 視訊內容
+## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/344000?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-- [品質修補工具](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
-- [GitHub上的品質修補工具](https://github.com/magento/quality-patches)
+- [Quality Patch工具](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+- [GitHub上的高质量修补工具](https://github.com/magento/quality-patches)

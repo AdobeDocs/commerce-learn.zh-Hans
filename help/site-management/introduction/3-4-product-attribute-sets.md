@@ -1,5 +1,5 @@
 ---
-title: " [!DNL Commerce] 商业用户-属性集"
+title: ”[!DNL Commerce] （业务用户 — 属性集）
 description: 了解产品属性集以及如何在目录中使用它们。
 topic: Commerce
 kt: 5770
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 对于商业用户-属性集
+# [!DNL Commerce] 业务用户 — 属性集
 
-在此视频中：
+在本视频中：
 
 - 属性集
 
-## 此视频是谁？
+## 此视频面向谁？
 
 - 商业用户
 
@@ -28,10 +28,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1 版本。 有关后续版本中的更新的信息，请参阅 [ 发行说明 ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html) 。
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35955?quality=12&learn=on)
 
 ## 其他资源
 
-[属性集-  [!DNL Commerce]  目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)
+[属性集 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

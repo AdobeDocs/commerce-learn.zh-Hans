@@ -1,6 +1,6 @@
 ---
-title: 管理SEO中繼資料
-description: 瞭解如何整合關鍵字豐富的中繼資料，以改進搜尋引擎為您的網站編制索引的方式。
+title: 管理SEO元数据
+description: 了解如何整合关键词丰富的元数据，以改进搜索引擎对网站编制索引的方式。
 kt: 10553
 doc-type: feature video
 audience: all
@@ -14,20 +14,20 @@ ht-degree: 0%
 
 ---
 
-# 管理SEO中繼資料
+# 管理SEO元数据
 
-您的存放區會載入一些位置，您可以在其中輸入關鍵字豐富的中繼資料，以改善搜尋引擎為您的網站編制索引的方式。 隨著時間推移，您可以微調中繼資料，以鎖定客戶的購買模式和偏好設定。
+您的存储中加载了可在其中输入富含关键词的元数据的位置，以改进搜索引擎为您的网站编制索引的方式。 随着时间的推移，您可以微调元数据，以定位客户的购买模式和偏好。
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 網站管理員
-- 電子商務銷售商
-- 電子商務行銷人員
+- 网站管理员
+- 电子商务促销商
+- 电子商务营销人员
 
-## 視訊內容
+## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/343750?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-[中繼資料 —  [!DNL Commerce] 銷售與促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)
+[元数据 —  [!DNL Commerce] Merchandising and Promotions指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)

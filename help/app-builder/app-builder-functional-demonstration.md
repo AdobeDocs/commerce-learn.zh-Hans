@@ -1,8 +1,8 @@
 ---
-title: App Builder功能示範
-description: 透過技術示範瞭解Adobe Commerce中使用的Adobe Developer App Builder
-landing-page-description: 透過技術示範瞭解Adobe Commerce中使用的Adobe Developer App Builder
-short-description: 透過技術示範瞭解Adobe Commerce中使用的Adobe Developer App Builder
+title: App Builder功能演示
+description: 通过技术演示了解Adobe Commerce中使用的Adobe Developer App Builder
+landing-page-description: 通过技术演示了解Adobe Commerce中使用的Adobe Developer App Builder
+short-description: 通过技术演示了解Adobe Commerce中使用的Adobe Developer App Builder
 kt: 11762
 doc-type: tutorial
 audience: all
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 ---
 
-# App Builder的功能示範
+# App Builder的功能演示
 
-若要進一步瞭解如何搭配App Builder使用Adobe Commerce，請觀看以下影片，以瞭解如何將Adobe Commerce連結至Amazon賣家中心。 此示範使用App Builder所使用的Adobe Commerce事件，以持續整合Amazon Marketplace。 此功能示範會說明此整合的運作方式，並探索AdobeApp Builder的潛力。
+要详细了解如何将Adobe Commerce与App Builder结合使用，请观看以下视频，其中演示了如何将Adobe Commerce连接到Amazon销售中心。 此演示使用App Builder使用的Adobe Commerce中的事件，实现与Amazon Marketplace的持续集成。 此功能演示介绍了此集成的工作方式，并探索了AdobeApp Builder的潜力。
 
 >[!IMPORTANT]
 >
->AmazonSales Channel擴充功能仍在開發中，尚未正式發行。  這些影片和教學課程旨在示範如何將Adobe Developer App Builder用於實際使用案例。
+>AmazonSales Channel扩展仍在开发中，尚未正式发布。  这些视频和教程旨在向您展示如何将Adobe Developer App Builder用于实际用例。
 
-## 適用於Adobe Commerce的App Builder {#app-builder-functional-demonstration}
+## 适用于Adobe Commerce的应用程序生成器 {#app-builder-functional-demonstration}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413502?quality=12&learn=on)
 

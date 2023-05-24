@@ -1,8 +1,8 @@
 ---
-title: 使用專案和工作區
-description: 瞭解如何使用Adobe Developer主控台來處理專案和工作區。
-landing-page-description: 瞭解如何使用Adobe Developer主控台。 瞭解要與API Mesh搭配使用的專案和工作區。
-short-description: 瞭解如何使用Adobe Developer主控台。 瞭解要與API Mesh搭配使用的專案和工作區。
+title: 使用项目和工作区
+description: 了解如何使用Adobe Developer控制台处理项目和工作区。
+landing-page-description: 了解如何使用Adobe Developer控制台。 了解要与API Mesh一起使用的项目和工作区。
+short-description: 了解如何使用Adobe Developer控制台。 了解要与API Mesh一起使用的项目和工作区。
 kt: 11803
 doc-type: tutorial
 audience: all
@@ -15,33 +15,33 @@ ht-degree: 0%
 
 ---
 
-# 使用專案和工作區
+# 使用项目和工作区
 
-本教學課程討論如何建立專案和工作區以包含您的網格。 此工作主要在 [Adobe Developer主控台](https://developer.adobe.com/console){target="_blank"} UI。
+本教程讨论如何创建项目和工作区以包含网格。 此工作主要在 [Adobe Developer控制台](https://developer.adobe.com/console){target="_blank"} UI。
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-* 有權存取Adobe Developer Console帳戶且想要建立專案和工作區的開發人員。
+* 有权访问Adobe Developer Console帐户并想要创建项目和工作区的开发人员。
 
-## 視訊內容
+## 视频内容
 
-* 在Adobe Developer Console中使用專案和工作區
-* 在Adobe Developer主控台中將API網格新增至工作區
-* 在CLI中登入Adobe Developer主控台
-* 在CLI中檢視選取的專案和工作區
-* 在CLI中變更選取的組織、專案或工作區
-* 測試簡單的API網格命令
+* 在Adobe Developer控制台中使用项目和工作区
+* 在Adobe Developer控制台中将API网格添加到工作区
+* 在CLI中登录Adobe Developer控制台
+* 在CLI中查看选定的项目和工作区
+* 在CLI中更改选定的组织、项目或工作区
+* 测试简单的API网格命令
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414123?quality=12&learn=on)
 
-## 瞭解Adobe Developer Console
+## 了解Adobe Developer控制台
 
-在Adobe Developer Console中，下列階層代表API如何融入您的組織： `Organization > Project > Workspace > [API]`. 若要深入瞭解AdobeApp Builder、登入主控台及基本疑難排解，請造訪 [建立您的第一個App Builder應用程式](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
+在Adobe Developer Console中，以下层次结构表示API如何适合您的组织： `Organization > Project > Workspace > [API]`. 要了解有关AdobeApp Builder、登录到控制台和基本疑难解答的更多信息，请访问 [创建您的第一个App Builder应用程序](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
 
-## Adobe Developer Console專案簡介
+## Adobe Developer控制台中的项目简介
 
-Adobe Developer Console中的所有開發工作都是作為專案的一部分完成的。 專案可包含一或多個產品，以及API、事件、執行階段和外掛程式的組合。 如需Adobe Developer主控台中專案的詳細資訊，請造訪 [專案](https://developer.adobe.com/developer-console/docs/guides/projects/){target="_blank"}.
+Adobe Developer控制台中的所有开发工作都是作为项目的一部分完成的。 一个项目可以包含一个或多个产品以及API、事件、运行时和插件的组合。 有关Adobe Developer控制台中项目的更多详细信息，请访问 [项目](https://developer.adobe.com/developer-console/docs/guides/projects/){target="_blank"}.
 
-如需在API網格內容中使用專案和工作區的詳細資訊，請參閱 [修改專案和工作區](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces){target="_blank"}.
+有关在API Mesh上下文中使用项目和工作区的更多信息，请参阅 [修改项目和工作区](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces){target="_blank"}.
 
 {{$include /help/_includes/api-mesh-related-links.md}}

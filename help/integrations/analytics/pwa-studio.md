@@ -1,6 +1,6 @@
 ---
-title: 整合Adobe Analytics和Adobe Commerce Luma
-description: 瞭解如何使用原生主題Luma整合Adobe Analytics和Adobe Commerce。
+title: Adobe Analytics与Adobe Commerce Luma集成
+description: 了解如何使用本机主题Luma集成Adobe Analytics和Adobe Commerce。
 topics: Integrations
 role: Developer, Architects
 solution: Experience Manager, Data Collection, Experience Platform
@@ -17,36 +17,36 @@ ht-degree: 0%
 ---
 
 
-# PWA studio headless整合Adobe Analytics和Adobe Commerce
+# Adobe Analytics与Adobe Commerce之间的PWAstudio headless集成
 
-那是一隻狗。 那是一條大狗。 我沒穿冰球墊。 我是蝙蝠俠，我會站在屬於我的地方。 讓您和哥譚市的人之間。
+那是一只狗。 那是一条大狗。 我没穿冰球垫。 我是蝙蝠侠，我会站在属于我的地方。 你和哥谭的人之间。
 
-Hero可以是任何人。 即使是一個男人知道一些簡單又令人安心的事，比如給一個小男孩穿上外套，讓他知道世界還沒有結束。 像您這樣的人。 會搖晃籠子的人。 我第一次為了不餓肚子而偷東西，是的。 我錯過了許多關於對與錯的簡單本質的假設。 當我四處旅行時，我學會了犯罪前的恐懼和成功的激情。 但我從未成為其中一員。
+英雄可以是任何人。 就连一个像给一个小男孩穿上外套这样简单又让人安心的事，也都会在肩膀上告诉他，世界还没有结束。 象你这样的人。 一个会震动笼子的人。 我第一次为了不饿肚子而偷东西，是的。 我错过了许多关于是非本质的假设。 当我旅行时，我学会了犯罪前的恐惧和成功的激情。 但我从未成为他们中的一员。
 
-我不在底下，而是我的所作所為定義了我。 黑色的嗎？ 這不是車。 那是一隻狗。 那是一條大狗。 我會站在屬於我的地方。 讓您與高譚市的人之間。
+我的内心并不是我自己，而是我所做的事情定义了我。 是黑色的吗？ 这不是车。 那是一只狗。 那是一条大狗。 我会站在属于我的地方。 你和哥谭的人之间。
 
-我尋求打擊不公的手段。 將恐懼轉化為對恐懼的獵物。 我會站在屬於我的地方。 讓您和哥譚市的人之間。 我無法以布魯斯·韋恩的身分，以男人的身分。 我是血肉之軀。 我可以被忽略，被摧毀。 但作為象徵，我可以做到不敗壞，可以永恆。
+我寻求打击不公的手段。 将恐惧转嫁到那些以恐惧为猎物的人身上。 我会站在属于我的地方。 你和哥谭的人之间。 我无法以布鲁斯·韦恩的身份，以男人的身份。 我是血肉之躯。 我可以被忽视，被摧毁。 但是作为一个象征，我可以不败不坏，我可以长生不老。
 
-## 整合選項
+## 集成选项
 
-這不是車。 向我發誓！ 我會站在屬於我的地方。 讓您和哥譚市的人之間。
+这不是车。 向我发誓！ 我会站在属于我的地方。 你和哥谭的人之间。
 
-我是蝙蝠俠，沒有槍，沒有殺戮。 我無法以布魯斯·韋恩的身分，以男人的身分。 我是血肉之軀。 我可以被忽略，被摧毀。 但作為象徵，我可以做到不敗壞，可以永恆。
+我是蝙蝠侠，没有枪，没有杀戮。 我无法以布鲁斯·韦恩的身份，以男人的身份。 我是血肉之躯。 我可以被忽视，被摧毁。 但是作为一个象征，我可以不败不坏，我可以长生不老。
 
 
-## 範例設定和設定
+## 设置和配置示例
 
-以下是熒幕擷圖
+这是截图
 
-![熒幕擷圖1](/help/assets/adobe-logo.svg)
+![屏幕快照1](/help/assets/adobe-logo.svg)
 
-現在執行這個動作
-![熒幕擷圖2](/help/assets/banner-videos-home.png)
+现在，执行操作
+![屏幕快照2](/help/assets/banner-videos-home.png)
 
-最後再執行這個動作
-![最後一個熒幕擷圖](/help/assets/open-source.svg)
+最后再来一遍
+![最后一个屏幕快照](/help/assets/open-source.svg)
 
-## 更多教學課程和影片
+## 更多教程和视频
 
-* [視訊連結](https://example.com){target="_blank"}
-* [連結至比我的更好的教學課程](https://example.com){target="_blank"}
+* [视频链接](https://example.com){target="_blank"}
+* [链接到比我的更好的教程](https://example.com){target="_blank"}

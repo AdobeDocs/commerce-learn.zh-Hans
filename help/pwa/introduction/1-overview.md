@@ -1,8 +1,8 @@
 ---
-title: 適用於開發人員的PWA Studio — 簡介
-description: 什麼是Progressive Web Application(PWA)，以及為什麼PWA Studio是未來​。
-landing-page-description: 觀看此影片系列，瞭解Progressive Web Application(PWA)以及為何未來會推出PWA Studio [!DNL Commerce] 網站。
-short-description: 觀看此影片系列，瞭解Progressive Web Application(PWA)以及為何未來會推出PWA Studio [!DNL Commerce] 網站。
+title: 面向开发人员的PWA Studio — 简介
+description: 什么是Progressive Web Application(PWA)，为什么PWA Studio是未来​。
+landing-page-description: 观看本视频系列，了解Progressive Web Application(PWA)以及PWA Studio是未来趋势的原因 [!DNL Commerce] 站点。
+short-description: 观看本视频系列，了解Progressive Web Application(PWA)以及PWA Studio是未来趋势的原因 [!DNL Commerce] 站点。
 topic: Development
 kt: 5644
 doc-type: video
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 ---
 
-# PWA Studio — 簡介
+# PWA Studio — 简介
 
-在本影片中：
+在本视频中：
 
-- 什麼是PWA(Progressive Web Application)？
-- 為何PWA電子商務的未來？
+- PWA(Progressive Web Application)是什么？
+- 为什么PWA电子商务的未来？
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 前端開發人員
-- 專案經理
+- 前端开发人员
+- 项目经理
 
-## 視訊內容
+## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/35715?quality=12&learn=on)
 
-## 有用的資源
+## 有用的资源
 
-- [PWA Studio檔案](https://developer.adobe.com/commerce/pwa-studio/)
-- [PWA StudioGitHub存放庫](https://github.com/magento/pwa-studio)
+- [PWA Studio文档](https://developer.adobe.com/commerce/pwa-studio/)
+- [PWA StudioGitHub存储库](https://github.com/magento/pwa-studio)

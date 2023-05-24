@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 適用於企業使用者 — 網站、商店和檢視」'
-description: 瞭解的基礎知識 [!DNL Commerce] 架構，包括網站、商店、商店檢視和應用程式範圍之間的差異。 瞭解索引和快取。
+title: ”[!DNL Commerce] 适用于企业用户 — 站点、商店和视图”
+description: 了解的基础知识 [!DNL Commerce] 架构，包括网站、商店、商店视图和应用程序范围之间的差异。 了解索引和缓存。
 topic: Commerce
 kt: 5760
 doc-type: video
@@ -14,28 +14,28 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於企業使用者 — 網站、商店和檢視
+# [!DNL Commerce] 企业用户 — 站点、商店和视图
 
-在本影片中：
+在本视频中：
 
-- 基本知識 [!DNL Commerce] 架構，包括網站、商店和商店檢視之間的差異
-- 應用程式範圍概念
-- 索引和快取是什麼，以及如何執行的概述 [!DNL Commerce] 處理它們
+- 的基础知识 [!DNL Commerce] 架构，包括网站、商店和商店视图之间的差异
+- 应用程序范围的概念
+- 有关索引和缓存以及如何执行的概述 [!DNL Commerce] 处理它们
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 商業使用者
+- 商业用户
 
-## 視訊內容
+## 视频内容
 
 >[!NOTE]
 >
->影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35945?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-[網站、商店和檢視 —  [!DNL Commerce] 快速入門手冊](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+[网站、商店和视图 —  [!DNL Commerce] 快速入门指南](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
 
-[範圍設定 —  [!DNL Commerce] 快速入門手冊](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html#scope-settings)
+[范围设置 —  [!DNL Commerce] 快速入门指南](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html#scope-settings)

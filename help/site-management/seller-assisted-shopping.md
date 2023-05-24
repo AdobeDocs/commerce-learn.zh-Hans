@@ -1,6 +1,6 @@
 ---
-title: 賣家輔助購物
-description: 瞭解如何新增功能，為已註冊您商店帳戶的訪客和客戶提供即時協助。
+title: 卖方辅助购物
+description: 了解如何添加，以便向已注册您商店帐户的来宾和客户提供即时帮助。
 kt: 10548
 doc-type: feature video
 audience: all
@@ -14,20 +14,20 @@ ht-degree: 0%
 
 ---
 
-# 賣家輔助購物
+# 卖方辅助购物
 
-客戶有時需要協助才能完成購買。 有些客戶喜歡線上購物，但可能偏好透過電話訂購。 已向您商店註冊帳戶的訪客和客戶，均可立即獲得協助。
+客户有时需要帮助才能完成购买。 有些客户喜欢网上购物，但可能更喜欢通过电话订购。 您可以为已注册您商店帐户的访客和客户提供即时帮助。
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 銷售經理
-- 客戶服務代表
+- 销售经理
+- 客户服务代表
 
-## 視訊內容
+## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/343662?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-- [為購物者提供協助 —  [!DNL Commerce] 商店和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
-- [購物協助 —  [!DNL Commerce] 商店和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)
+- [为购物者提供帮助 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
+- [购物帮助 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)

@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce的目錄服務
-description: 瞭解如何安裝和測試目錄服務。
+title: Adobe Commerce的目录服务
+description: 了解如何安装和测试目录服务。
 doc-type: feature video
 audience: all
 role: Developer, Admin
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce的目錄服務
+# Adobe Commerce的目录服务
 
-Adobe Commerce的目錄服務是多租使用者SaaS功能，提供唯讀目錄資料以支援店面購物體驗。 透過GraphQL API消耗，提供新的API查詢來提升效能及改善目錄資料擷取的擴充性。
+Adobe Commerce的目录服务是一项多租户SaaS功能，它提供只读目录数据以支持店面购物体验。 它可通过GraphQL API使用，提供新的API查询以提高性能和改进目录数据检索的可扩展性。
 
-在本影片中：
+在本视频中：
 
-- 如何下載和安裝目錄服務
-- 如何測試功能
+- 如何下载和安装目录服务
+- 如何测试功能
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 開發人員
-- 系統管理員
+- 开发人员
+- 系统管理员
 
-## 視訊內容
+## 视频内容
 
 第1部分：
 
@@ -39,7 +39,7 @@ Adobe Commerce的目錄服務是多租使用者SaaS功能，提供唯讀目錄�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415600?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-- [Adobe Commerce的目錄服務指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/guide-overview.html)
-- [#storefront-services社群Slack頻道](https://magentocommeng.slack.com/?redir=%2Farchives%2FC03HVPG8RS4)
+- [Adobe Commerce的目录服务指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/guide-overview.html)
+- [#storefront-services社区Slack渠道](https://magentocommeng.slack.com/?redir=%2Farchives%2FC03HVPG8RS4)

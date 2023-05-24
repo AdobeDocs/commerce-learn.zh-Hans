@@ -1,6 +1,6 @@
 ---
-title: 將表格新增至資料庫
-description: '"[!DNL Commerce] 擁有特殊機制，可讓您建立資料庫表格、修改現有表格，甚至新增部分資料。」'
+title: 向数据库添加表
+description: ”[!DNL Commerce] 有一种特殊的机制使您能够创建数据库表、修改现有表，甚至向表中添加一些数据。”
 topic: Development
 kt: 5613
 doc-type: video
@@ -13,33 +13,33 @@ ht-degree: 0%
 
 ---
 
-# 將表格新增至資料庫
+# 向数据库添加表
 
 >[!IMPORTANT]
 >
->不再建議使用此功能，請參閱https://developer.adobe.com/commerce/php/development/components/declarative-schema/
+>不再建议这样做，请参阅https://developer.adobe.com/commerce/php/development/components/declarative-schema/
 
 
-[!DNL Commerce] 擁有特殊機制，可讓您建立資料庫表格、修改現有表格，甚至新增部分資料，例如安裝資料（安裝模組時必須新增）。 此機制可讓這些變更在不同的安裝之間轉換。
+[!DNL Commerce] 具有一种特殊的机制，允许您创建数据库表、修改现有表，甚至可以向表中添加一些数据，如安装数据，安装模块时必须添加这些数据。 此机制允许在不同的安装之间传输这些更改。
 
-開發人員不會重複在重新安裝系統時執行手動SQL操作，而是會建立包含資料的安裝（或升級）指令碼。 指令碼會在每次安裝模組時執行。
+开发人员创建包含数据的安装（或升级）脚本，而不是在重新安装系统时重复执行手动SQL操作。 每次安装模块时，该脚本都会运行。
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 開發人員
+- 开发人员
 
-## 視訊內容
+## 视频内容
 
-- 建立模組
-- 建立InstallSchema指令碼
-- 建立InstallData指令碼
-- 新增模組並確認已建立包含資料的表格
-- 建立UpgradeSchema指令碼
-- 建立UpgradeData指令碼
-- 執行升級指令碼並確認表格已變更
+- 创建模块
+- 创建InstallSchema脚本
+- 创建InstallData脚本
+- 添加新模块并验证是否创建了包含数据的表
+- 创建UpgradeSchema脚本
+- 创建UpgradeData脚本
+- 运行升级脚本并验证表是否已更改
 
 >[!VIDEO](https://video.tv.adobe.com/v/35791?quality=12&learn=on)
 
-## 有用的資源
+## 有用的资源
 
-- [將安裝/升級指令碼移轉至宣告式結構描述](https://developer.adobe.com/commerce/php/development/components/declarative-schema/migration-scripts/)
+- [将安装/升级脚本迁移到声明性架构](https://developer.adobe.com/commerce/php/development/components/declarative-schema/migration-scripts/)

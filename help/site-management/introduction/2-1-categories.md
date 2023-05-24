@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 適用於企業使用者 — 產品類別」'
-description: 瞭解如何透過設定類別來管理產品目錄。
+title: ”[!DNL Commerce] （商业用户 — 产品类别）”
+description: 了解如何通过设置类别来管理产品目录。
 topic: Commerce
 kt: 5765
 doc-type: videos
@@ -14,20 +14,20 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於企業使用者 — 產品類別
+# [!DNL Commerce] 企业用户 — 产品类别
 
-在本影片中：
+在本视频中：
 
-- 為您的產品目錄建立類別
+- 为您的产品目录创建类别
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 商業使用者
+- 商业用户
 
-## 視訊內容
+## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/35950?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-[類別 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html)
+[类别 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html)

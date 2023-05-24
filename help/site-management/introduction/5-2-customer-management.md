@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 適用於企業使用者 — 客戶管理」'
-description: 瞭解客戶服務的建議許可權，在中建立客戶 [!DNL Admin]、管理客戶資訊和建立客戶群組。
+title: ”[!DNL Commerce] 面向商业用户 — 客户管理”
+description: 了解客户服务的建议权限，在中创建客户 [!DNL Admin]、管理客户信息和创建客户组。
 topic: Commerce
 kt: 5779
 doc-type: video
@@ -14,25 +14,25 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於企業使用者 — 客戶管理
+# [!DNL Commerce] 面向企业用户 — 客户管理
 
-在本影片中：
+在本视频中：
 
-- CSR （客戶服務代表）的建議許可權
-- 在中建立客戶 [!DNL Admin]
-- 管理客戶資訊
-- 建立客戶群組
+- CSR（客户服务代表）的建议权限
+- 在中创建客户 [!DNL Admin]
+- 管理客户信息
+- 创建客户组
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 商業使用者
+- 商业用户
 
-## 視訊內容
+## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/36189?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-[建立個別客戶帳戶 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+[创建单个客户帐户 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
 
-[客戶群組 —  [!DNL Commerce] 客戶管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+[客户组 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)

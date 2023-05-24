@@ -1,8 +1,8 @@
 ---
-title: 在PHP Storm上使用升級相容性工具
-description: 觀看此技術影片，瞭解如何將升級相容性工具與PHP Storm外掛程式一起使用。
-landing-page-description: 瞭解如何將升級相容性工具與PHP Storm外掛程式一起使用，以便輕鬆識別和解決不相容問題。
-short-description: 瞭解如何將升級相容性工具與PHP Storm外掛程式一起使用，以便輕鬆識別和解決不相容問題。
+title: 使用PHP Storm上的升级兼容性工具
+description: 观看此技术视频，了解如何将升级兼容性工具与PHP Storm插件结合使用。
+landing-page-description: 了解如何将升级兼容性工具与PHP Storm插件一起使用，以便轻松识别和解决不兼容问题。
+short-description: 了解如何将升级兼容性工具与PHP Storm插件一起使用，以便轻松识别和解决不兼容问题。
 kt: 9651
 doc-type: technical video
 role: Developer
@@ -16,26 +16,26 @@ ht-degree: 0%
 
 ---
 
-# 在PHP Storm上使用升級相容性工具
+# 使用PHP Storm上的升级兼容性工具
 
-升級相容性工具(UCT)是免費工具，可在幾分鐘內分析目前版本和目標升級版本之間的不相容性。 PHP Storm外掛程式可讓此工具更易於使用。
+升级兼容性工具(UCT)是一款免费工具，可在几分钟内分析当前版本与目标升级版本之间的不兼容性。 PHP Storm插件使此工具更易于使用。
 
-在本影片中：
+在本视频中：
 
-- 什麼是升級相容性工具？
-- 如何將其與MagentoPHP Storm外掛程式一起使用
-- 如何存取HTML結果，以協助依嚴重性和不相容性數目將模組視覺化
+- 什么是升级兼容性工具？
+- 如何将其与MagentoPHP Storm插件一起使用
+- 如何访问HTML结果，以帮助按严重性和不兼容性数量可视化模块
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 開發人員
+- 开发人员
 
-## 視訊內容
+## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/340150?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-- [升級相容性工具](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
-- [MagentoPHP Storm外掛程式](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
-- [發行版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [升级兼容性工具](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
+- [MagentoPHP Storm插件](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
+- [已发布版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)

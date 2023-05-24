@@ -1,6 +1,6 @@
 ---
-title: 適用於開發人員的PWA Studio — 專案設定
-description: 開始使用新的PWA Studio專案，包括產生本機SSL憑證和組建套件CLI命令。
+title: 面向开发人员的PWA Studio — 项目设置
+description: 开始使用新的PWA Studio项目，包括生成本地SSL证书和构建包CLI命令。
 topic: Development
 kt: 5648
 doc-type: video
@@ -13,20 +13,20 @@ ht-degree: 0%
 
 ---
 
-# 適用於開發人員的PWA Studio — 專案設定
+# 面向开发人员的PWA Studio — 项目设置
 
-在本影片中：
+在本视频中：
 
-- PWA Studio快速入門
-- 初始專案設定
-- 產生本機SSL憑證
+- PWA Studio快速入门
+- 初始项目设置
+- 生成本地SSL证书
 - [!DNL Buildpack] CLI命令
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 前端開發人員
-- 專案經理
+- 前端开发人员
+- 项目经理
 
-## 影片內容：
+## 视频内容：
 
 >[!VIDEO](https://video.tv.adobe.com/v/35719?quality=12&learn=on)

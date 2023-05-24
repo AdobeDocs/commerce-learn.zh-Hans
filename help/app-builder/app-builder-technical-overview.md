@@ -1,8 +1,8 @@
 ---
-title: 应用程序生成器技术概述
-description: 了解在 Adobe Systems 商务中用于技术概述 Adobe Systems 开发人员应用程序生成器
-landing-page-description: 了解在 Adobe Systems 商务中用于技术概述 Adobe Systems 开发人员应用程序生成器
-short-description: 了解在 Adobe Systems 商务中用于技术概述 Adobe Systems 开发人员应用程序生成器
+title: App Builder技术概述
+description: 通过技术概述了解Adobe Commerce中使用的Adobe Developer App Builder
+landing-page-description: 通过技术概述了解Adobe Commerce中使用的Adobe Developer App Builder
+short-description: 通过技术概述了解Adobe Commerce中使用的Adobe Developer App Builder
 kt: 11763
 doc-type: tutorial
 audience: all
@@ -15,16 +15,16 @@ ht-degree: 0%
 
 ---
 
-# 应用程序生成器的技术概述
+# App Builder技术概述
 
-以下视频提供了有关连接 Adobe Systems 商务和 Amazon Sales Channel 的技术概述。 此教程还探讨了如何将 Adobe Systems 应用程序生成器用于自定义功能和集成。
+以下视频提供了有关连接Adobe Commerce和AmazonSales Channel的技术概述。 本教程还探讨了如何使用AdobeApp Builder实现自定义功能和集成。
 
 >[!IMPORTANT]
 >
->Amazon Sales Channel 扩展仍处于开发阶段，尚未正式发布。  这些视频和教程旨在向您展示如何将 Adobe Systems 开发人员应用程序生成器用于实际用例。
+>AmazonSales Channel扩展仍在开发中，尚未正式发布。  这些视频和教程旨在向您展示如何将Adobe Developer App Builder用于实际用例。
 
 
-## Adobe Systems 商务应用程序生成器 {#app-builder-technical-overview}
+## 适用于Adobe Commerce的应用程序生成器 {#app-builder-technical-overview}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413512?quality=12&learn=on)
 

@@ -1,6 +1,6 @@
 ---
-title: 管理類別中的產品
-description: 瞭解如何在類別中建立產品、視覺化銷售，以及使用自動化類別排序功能。
+title: 管理类别中的产品
+description: 了解如何在类别中创建产品、可视化促销以及使用自动类别排序功能。
 kt: 10550
 doc-type: feature videos
 audience: all
@@ -14,20 +14,20 @@ ht-degree: 0%
 
 ---
 
-# 管理類別中的產品
+# 管理类别中的产品
 
-將產品組織成類別是管理目錄的關鍵。 在本影片中，您將會瞭解如何在類別中建立產品、視覺化銷售，以及使用自動化類別排序功能。
+将产品组织到不同类别中是管理目录的关键。 在本视频中，您将了解如何在类别中创建产品、可视化促销以及使用自动类别排序功能。
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 網站管理員
-- 電子商務銷售商
+- 网站管理员
+- 电子商务促销商
 
-## 視訊內容
+## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/343747?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-- [類別產品指派 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
-- [銷售類別規則 —  [!DNL Commerce] 銷售與促銷指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)
+- [类别产品分配 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
+- [促销 — 的类别规则 [!DNL Commerce] Merchandising and Promotions指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)

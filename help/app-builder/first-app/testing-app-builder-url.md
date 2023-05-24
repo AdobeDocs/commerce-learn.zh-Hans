@@ -1,7 +1,7 @@
 ---
-title: 使用 Adobe Systems 开发人员应用程序生成器进行测试 URL
-description: 了解如何从您项目的所提供的应用程序生成器 URL 中测试第一个 Adobe Systems 开发人员应用程序生成器应用程序。
-landing-page-description: 了解如何从您的项目中所提供的 URL 中测试第一个 Adobe Systems 开发人员应用程序生成器应用程序。
+title: 使用Adobe Developer App Builder URL进行测试
+description: 了解如何从为项目提供的App Builder URL测试您的第一个Adobe Developer App Builder应用程序。
+landing-page-description: 了解如何从提供的项目URL测试您的第一个Adobe Developer App Builder应用程序。
 kt: 12427
 doc-type: tutorial
 audience: all
@@ -14,18 +14,18 @@ ht-degree: 0%
 
 ---
 
-# 使用应用程序生成器进行测试 URL {#testing-app-builder-url}
+# 使用应用程序生成器URL进行测试 {#testing-app-builder-url}
 
-了解如何测试您的新 Adobe Systems 开发人员应用程序生成器应用程序使用项目中的 URL。
+了解如何使用项目中的URL测试新的Adobe Developer App Builder应用程序。
 
-## 此视频是谁？
+## 此视频面向谁？
 
-* 使用有限体验 Adobe Systems 商务的开发人员，Adobe Systems 应用程序生成器，他们已准备好测试其第一个 Adobe Systems 开发人员应用程序生成器应用程序。
+* 刚开始使用Adobe Commerce、但使用AdobeApp Builder经验有限的开发人员，已准备好测试其第一个Adobe Developer App Builder应用程序。
 
 ## 视频内容
 
 * 如何部署应用程序
-* 在部署中查找 URL 的位置
+* 部署后可在何处查找URL
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416664?quality=12&learn=on)
 

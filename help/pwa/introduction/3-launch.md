@@ -1,6 +1,6 @@
 ---
-title: 適用於開發人員的PWA Studio — 啟動和載入
-description: 瞭解PWA啟動前的必要步驟​、載入時間的基準，以​及效能如何改善轉換。
+title: 面向开发人员的PWA Studio — 启动和加载
+description: 了解PWA启动之前所需的步骤​、加载时间基准​以及性能如何提高转化率。
 topic: Development
 kt: 5646
 doc-type: video
@@ -13,19 +13,19 @@ ht-degree: 0%
 
 ---
 
-# 適用於開發人員的PWA Studio — 啟動和載入
+# 面向开发人员的PWA Studio — 启动和加载
 
-在本影片中：
+在本视频中：
 
-- 啟動PWA的必要步驟&#x200B;。
-- 載入時間的基準&#x200B;線
-- 效能如何改善轉換
+- 启动PWA所需的步骤&#x200B;。
+- 加载时间基准&#x200B;
+- 性能如何提高转化率
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 前端開發人員
-- 專案經理
+- 前端开发人员
+- 项目经理
 
-## 視訊內容
+## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/35717?quality=12&learn=on)

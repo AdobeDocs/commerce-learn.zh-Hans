@@ -1,6 +1,6 @@
 ---
 title: 使用付款服务
-description: 了解如何在商店中添加支付服务，降低操作开销，增加收入，并改进整个购物者体验。
+description: 了解如何向您的商店添加支付服务并降低运营开销、增加收入并改善整个购物者体验。
 doc-type: feature video
 audience: all
 role: Admin, User
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 # 使用付款服务
 
-对于小型企业、中 Market contender 或大型企业，Adobe Systems 商务和 Magento Open Source 的支付服务有助于降低运营开销，增加收入。 它提供可提高整个购物者体验的工具。 付款服务为：
+对于小型企业、中端市场竞争者或大型企业，“Adobe Commerce和Magento Open Source支付服务”有助于减少运营开销，增加收入。 它提供了可改善整个购物者体验的工具。 支付服务是：
 
 - 易于设置和维护
-- 旨在最大化您的利润
-- 安全可靠
-- 旨在满足您所有的支付需要
+- 旨在最大限度地提高您的利润
+- 安全无虞
+- 旨在满足您的所有支付需求
 - 在管理员中自包含
 
-## 此视频是谁？
+## 此视频面向谁？
 
-- 操作工程师
+- 运营工程师
 - 网站管理员
 
 ## 视频内容
@@ -34,5 +34,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [付款服务指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html)
+- [支付服务指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html)
 - [商务服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)

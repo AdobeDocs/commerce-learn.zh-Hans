@@ -1,6 +1,6 @@
 ---
-title: 云架构部署中的 Adobe Systems Commerce
-description: 了解部署阶段和脚本。 了解部署过程如何从基础架构端运行。
+title: 云基础架构上的Adobe Commerce — 部署
+description: 了解部署阶段和脚本。 从基础架构方面了解部署过程的工作方式​。
 kt: 5659
 doc-type: video
 audience: all
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 ---
 
-# 云架构部署中的 Adobe Systems Commerce
+# 云基础架构上的Adobe Commerce — 部署
 
-在此视频中：
+在本视频中：
 
 - 了解部署阶段和脚本
-- 了解部署过程如何从基础架构端运行
+- 从基础架构方面了解部署过程的工作方式&#x200B;。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35695?quality=12&learn=on)
 
 ## 其他资源
 
-[云部署处理  [!DNL Commerce]  云基础设施指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
+[云部署过程 —  [!DNL Commerce] 关于云基础架构的指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)

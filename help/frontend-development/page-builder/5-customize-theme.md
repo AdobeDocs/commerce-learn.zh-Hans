@@ -1,5 +1,5 @@
 ---
-title: 开发人员页面生成器-主题自定义
+title: 面向开发人员的页面生成器 — 主题自定义
 description: 了解如何自定义页面生成器主题。
 topic: Commerce, Development
 kt: 5654
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# 开发人员页面生成器-主题自定义
+# 面向开发人员的页面生成器 — 主题自定义
 
-在此视频中：
+在本视频中：
 
 - 自定义页面生成器主题
 
-## 此视频是谁？
+## 此视频面向谁？
 
 - 内容创建者
 - 前端开发人员
@@ -28,12 +28,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此内容反映了 Adobe Systems 商务2.3.1 的页面生成器1.0.0 版本。有关后续版本中的更新的信息，请参阅 [ 页面生成器发行说明 ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html) 。
+>此内容反映了适用于Adobe Commerce 2.3.1的Page Builder 1.0.0版本。有关更高版本中的更新的信息，请参阅 [Page Builder发行说明](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35713?quality=12&learn=on)
 
 ## 有用的资源
 
-[页面生成器开发人员文档](https://developer.adobe.com/commerce/frontend-core/page-builder/)
+[Page Builder开发人员文档](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[页面生成器指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Page Builder指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

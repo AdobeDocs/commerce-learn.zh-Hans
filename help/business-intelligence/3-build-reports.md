@@ -1,6 +1,6 @@
 ---
-title: MBI-构建报表
-description: 了解 MBI 中可用的报表生成选项。
+title: MBI — 生成报告
+description: 了解MBI中可用的报表构建选项。
 kt: 5726
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ---
 
-# MBI-构建报表
+# MBI — 生成报告
 
-有两个用于在 MBI 中生成报表和分析的选项：可视化报表生成器和 SQL 报表生成器。
+在MBI中构建报表和分析有两个选项：可视化Report Builder和SQL Report Builder。
 
-## 此视频是谁？
+## 此视频面向谁？
 
 - 商业用户
 - 数据分析师
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映的是2.2 版本。 [有关最新信息，请参阅 MBI 用户指南 ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 。
+>视频中的内容反映了2.2版本。 请参阅 [MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以获取最新信息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35981?quality=12&learn=on)
 
 ## 其他资源
 
-- [我应该使用哪些 Report Builder？ -MBI 用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/report-builder-options.html)
-- [Visual Report Builder-MBI 用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-rpt-build-visual.html)
+- [我应该使用哪种Report Builder？ - MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/report-builder-options.html)
+- [可视化Report Builder- 《MBI用户指南》](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-rpt-build-visual.html)

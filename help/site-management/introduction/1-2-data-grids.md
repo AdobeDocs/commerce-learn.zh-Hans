@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 適用於業務使用者 — 資料網格」'
-description: 瞭解如何使用中的資料網格 [!DNL Commerce Admin].
+title: ”[!DNL Commerce] （商业用户 — 数据网格）
+description: 了解如何在中使用数据网格 [!DNL Commerce Admin].
 topic: Commerce
 kt: 5759
 doc-type: video
@@ -14,24 +14,24 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於業務使用者 — 資料網格
+# [!DNL Commerce] 业务用户 — 数据网格
 
-在本影片中：
+在本视频中：
 
-- 使用中的資料網格 [!DNL Commerce Admin]
+- 在中使用数据网格 [!DNL Commerce Admin]
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 商業使用者
+- 商业用户
 
-## 視訊內容
+## 视频内容
 
 >[!NOTE]
 >
->影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35960?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-[管理網格控制項 —  [!DNL Commerce] 快速入門手冊](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html)
+[管理网格控件 —  [!DNL Commerce] 快速入门指南](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html)

@@ -1,6 +1,6 @@
 ---
-title: 建立類別
-description: 瞭解如何定義產品目錄的基本類別結構。
+title: 创建类别
+description: 了解如何定义产品目录的基本类别结构。
 kt: 10549
 doc-type: feature video
 audience: all
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 ---
 
-# 建立類別
+# 创建类别
 
-將產品新增至目錄之前，您必須先建立目錄的基本類別結構。 產品可指派至零個或多個類別。 類別通常會在產品新增至目錄之前預先建立。 不過，您也可以在建立產品時「即時」新增類別。
+在将产品添加到目录之前，必须建立目录的基本类别结构。 可将产品分配到零个或多个类别。 类别通常是在将产品添加到目录之前预先创建的。 但是，您还可以在创建产品时“动态”添加类别。
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 網站管理員
-- 電子商務銷售商
+- 网站管理员
+- 电子商务促销商
 
-## 視訊內容
+## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/343746?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-- [建立類別 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
-- [類別許可權 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
-- [頂端導覽 —  [!DNL Commerce] 目錄管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)
+- [创建类别 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
+- [类别权限 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
+- [顶部导航 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)

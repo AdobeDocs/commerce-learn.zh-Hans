@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 適用於開發人員 — 宣告式結構描述」'
-description: 瞭解宣告式結構描述。
+title: ”[!DNL Commerce] 适用于开发人员 — 声明性模式”
+description: 了解声明性模式。
 kt: 5669
 doc-type: video
 topic: Development
@@ -16,20 +16,20 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於開發人員 — 宣告式結構描述
+# [!DNL Commerce] 对于开发人员 — 声明性模式
 
-在本影片中：
+在本视频中：
 
-- 宣告式結構描述概述
+- 声明性模式概述
 
-## 視訊內容
+## 视频内容
 
 >[!NOTE]
 >
->影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36198?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-[宣告式結構描述](https://developer.adobe.com/commerce/php/development/components/declarative-schema/)
+[声明性模式](https://developer.adobe.com/commerce/php/development/components/declarative-schema/)

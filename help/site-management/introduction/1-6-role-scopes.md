@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 適用於企業使用者 — 角色範圍和許可權」'
-description: 瞭解如何依網站或商店定義角色範圍(Adobe Commerce專用)和相關許可權。
+title: ”[!DNL Commerce] 适用于企业用户 — 角色范围和权限”
+description: 了解如何按网站或商店定义角色范围(Adobe Commerce独有)和相关权限。
 topic: Commerce
 kt: 5763
 doc-type: video
@@ -14,26 +14,26 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於企業使用者 — 角色範圍和許可權
+# [!DNL Commerce] 企业用户 — 角色范围和权限
 
-在本影片中：
+在本视频中：
 
-- 角色範圍(僅限Adobe Commerce)
+- 角色范围(仅限Adobe Commerce)
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 商業使用者
+- 商业用户
 
-## 視訊內容
+## 视频内容
 
 >[!NOTE]
 >
->影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35948?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-[管理管理員使用者帳戶 —  [!DNL Commerce] Admin System指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+[管理管理员用户帐户 —  [!DNL Commerce] 管理系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[使用者角色 —  [!DNL Commerce] Admin System指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
+[用户角色 —  [!DNL Commerce] 管理系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

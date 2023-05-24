@@ -1,6 +1,6 @@
 ---
-title: 雲端基礎結構上的Adobe Commerce — 服務和網站啟動
-description: 檢閱上線、DNS、TLS和Fastly服務。 瞭解如何設定DNS以指向Adobe Commerce執行個體的生產網域。
+title: 云基础架构上的Adobe Commerce — 服务和站点启动
+description: 查看上线、DNS、TLS和Fastly服务。 了解如何将DNS配置为指向Adobe Commerce实例的生产域。
 kt: 5661
 doc-type: video
 audience: all
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 ---
 
-# 雲端基礎結構上的Adobe Commerce — 服務和網站啟動
+# 云基础架构上的Adobe Commerce — 服务和站点启动
 
-在本影片中：
+在本视频中：
 
-- 稽核上線、DNS、TLS和Fastly
-- 如何設定DNS以指向Adobe Commerce執行個體的生產網域
+- 对上线、DNS、TLS和Fastly的审查
+- 如何配置DNS以指向Adobe Commerce实例的生产域
 
 >[!VIDEO](https://video.tv.adobe.com/v/35697?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-[網站啟動 —  [!DNL Commerce] 雲端基礎結構指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/overview.html)
+[站点启动 —  [!DNL Commerce] 关于云基础架构的指南](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/overview.html)

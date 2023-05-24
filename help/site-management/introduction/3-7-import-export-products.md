@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 適用於業務使用者 — 匯入和匯出產品」'
-description: 瞭解如何匯入和匯出目錄產品。
+title: ”[!DNL Commerce] （商业用户 — 导入和导出产品）
+description: 了解如何导入和导出目录产品。
 topic: Commerce
 kt: 5773
 doc-type: video
@@ -14,27 +14,27 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於企業使用者 — 匯入和匯出產品
+# [!DNL Commerce] 企业用户 — 导入和导出产品
 
-在本影片中：
+在本视频中：
 
-- 匯入產品
-- 匯出產品
+- 正在导入产品
+- 导出产品
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 商業使用者
+- 商业用户
 
-## 視訊內容
+## 视频内容
 
 >[!NOTE]
 >
->影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35958?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-[匯入 —  [!DNL Commerce] Admin System指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-import.html)
+[导入 —  [!DNL Commerce] 管理系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-import.html)
 
-[匯出 —  [!DNL Commerce] Admin System指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-export.html)
+[导出 —  [!DNL Commerce] 管理系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-export.html)

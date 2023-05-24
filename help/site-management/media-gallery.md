@@ -1,6 +1,6 @@
 ---
-title: 管理媒體集
-description: 瞭解如何使用新的增強型媒體收藏集來整理和管理伺服器上的媒體檔案。
+title: 管理媒体集
+description: 了解如何使用新的增强型媒体集来组织和管理服务器上的媒体文件。
 doc-type: feature video
 role: Admin, User
 audience: all
@@ -13,20 +13,20 @@ ht-degree: 0%
 
 ---
 
-# 管理媒體集
+# 管理媒体集
 
-透過Adobe Commerce或Magento Open Source 2.4，商家可以使用新的增強型媒體收藏館來整理和管理他們在伺服器上的媒體檔案。
+借助Adobe Commerce或Magento Open Source2.4，商家可以使用新的增强型媒体集来整理和管理服务器上的媒体文件。
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 網站管理員
-- 電子商務銷售商
+- 网站管理员
+- 电子商务促销商
 
-## 視訊內容
+## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/343785?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-- [媒體集 —  [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/gallery/media-gallery.html)
-- [替代媒體儲存空間 —  [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/storage/media-storage.html)
+- [媒体集 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/gallery/media-gallery.html)
+- [备用介质存储 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/storage/media-storage.html)

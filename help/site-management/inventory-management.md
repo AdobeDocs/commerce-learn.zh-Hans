@@ -1,6 +1,6 @@
 ---
 title: Inventory management
-description: 瞭解Inventory management功能，以及如何在單一倉儲或複雜出貨網路中使用這些功能。
+description: 了解Inventory management功能以及如何使用它们从单个仓库或复杂配送网络工作。
 kt: 10551
 doc-type: feature video
 audience: all
@@ -16,18 +16,18 @@ ht-degree: 0%
 
 # Inventory management
 
-擁有單一商店至多個倉庫、倉庫、取貨地點、製造商及其他的商家，可以使用存貨管理功能來維護銷售數量，並處理出貨以完成訂單。 您可以追蹤存貨數量、為所有網站的客戶提供準確的可銷售存貨量，並根據距離或優先順序的建議出貨。 您也可以針對所有商店和產品、每個來源和每個產品，全域設定您偏好的產品組態。 這些功能會隨著您的企業成長，讓您從單一倉儲或複雜的出貨網路工作。
+具有单一商店到多个仓库、商店、提货地点、卸货发货人等的商家可以使用库存管理功能来维护销售数量，并处理发运以完成订单。 您可以跟踪库存数量，为所有网站的客户提供准确的可销售库存量，并根据距离或优先级根据建议进行发货。 您还可以按来源、每个产品全局配置首选产品配置（适用于所有商店和产品）。 这些功能会随着您的业务增长而增加，让您能够从单个仓库或复杂的运输网络工作。
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 網站管理員
-- 電子商務銷售商
+- 网站管理员
+- 电子商务促销商
 
-## 視訊內容
+## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/343748?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
 - [Inventory management指南](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
-- [Inventory management - Developer REST檔案](https://developer.adobe.com/commerce/webapi/rest/inventory/)
+- [Inventory management — 开发人员REST文档](https://developer.adobe.com/commerce/webapi/rest/inventory/)

@@ -1,6 +1,6 @@
 ---
-title: 管理公司帳戶
-description: 瞭解如何管理您的B2B公司帳戶，包括任何待核准的要求。
+title: 管理公司帐户
+description: 了解如何管理您的B2B公司帐户，包括任何待处理的审批请求。
 doc-type: feature video
 audience: all
 role: Admin, User
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 ---
 
-# 管理公司帳戶
+# 管理公司帐户
 
 {{b2b-feature}}
 
-對於B2B商家， _[!UICONTROL Companies]_頁面列出所有目前公司帳戶及其狀態。 您可以在此處管理您的公司帳戶，任何待核准的請求都會顯示在清單頂端。 標準工作區控制項可用於篩選清單、變更欄配置、儲存檢視及匯出資料。
+对于B2B商家， _[!UICONTROL Companies]_页面列出了所有当前公司帐户及其状态。 您可以在此处管理公司帐户，任何待批准的请求都会显示在列表顶部。 标准工作区控件可用于筛选列表、更改列布局、保存视图和导出数据。
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 網站管理員
-- 銷售代表
-- 客戶服務代表
+- 网站管理员
+- 销售代表
+- 客户服务代表
 
-## 視訊內容
+## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/344447?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-- [公司帳戶](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html){target="_blank"}
-- [管理公司帳戶](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"}
+- [公司帐户](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html){target="_blank"}
+- [管理公司帐户](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"}

@@ -1,6 +1,6 @@
 ---
-title: MBI — 投資報酬率追蹤
-description: 瞭解有助於追蹤您投資報酬率的MBI深入分析。
+title: MBI — 投资回报跟踪
+description: 了解有助于跟踪您的投资回报的MBI见解。
 kt: 5737
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -14,24 +14,24 @@ ht-degree: 0%
 
 ---
 
-# MBI — 投資報酬率追蹤
+# MBI — 投资回报跟踪
 
-MBI提供深入分析，協助您監控及管理投資報酬率。 例如，如果您投資於線上廣告，您想要追蹤您的支出報酬率，以針對進一步的投資做出資料導向式決策。
+MBI提供见解以帮助您监控和管理您的投资回报。 例如，如果您投资在线广告，则需要跟踪您的支出回报率，以便做出以数据为导向的进一步投资决策。
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 商業使用者
-- 資料分析人員
+- 商业用户
+- 数据分析师
 
-## 視訊內容
+## 视频内容
 
 >[!NOTE]
 >
->影片內容反映2.2版。 請參閱 [MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以取得最新資訊。
+>视频中的内容反映了2.2版本。 请参阅 [MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) 以获取最新信息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35991?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-- [Campaign Analysis - MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/ess-coupon-code-analysis.html)
-- [行銷ROI - MBI使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/marketing-roi.html)
+- [Campaign Analysis - MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/ess-coupon-code-analysis.html)
+- [营销ROI - MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/marketing-roi.html)

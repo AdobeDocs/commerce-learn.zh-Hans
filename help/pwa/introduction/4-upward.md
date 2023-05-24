@@ -1,6 +1,6 @@
 ---
-title: 適用於開發人員的PWA Studio — 向上
-description: 瞭解UPLOAD （統一的漸進式網頁應用程式回應定義）。
+title: 面向开发人员的PWA Studio — 向上
+description: 了解UPLOAD（统一渐进式Web应用程序响应定义）。
 topic: Development
 kt: 5647
 doc-type: video
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 ---
 
-# 適用於開發人員的PWA Studio — 向上
+# 面向开发人员的PWA Studio — 向上
 
-在本影片中：
+在本视频中：
 
-- UPPER （統一的漸進式網頁應用程式回應定義）概觀
+- UPPER（统一渐进式Web应用程序响应定义）概述
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 前端開發人員
-- 專案經理
+- 前端开发人员
+- 项目经理
 
-## 視訊內容
+## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/35718?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: 適用於開發人員的頁面產生器 — 自訂內容型別
-description: 瞭解如何自訂和建立內容型別。 瞭解建立內容型別所涉及的步驟​。 瞭解擴充現有內容型別所涉及的步驟。
+title: 面向开发人员的页面生成器 — 自定义内容类型
+description: 了解如何自定义和创建内容类型。 了解创建内容类型所涉及的步骤​。 了解扩展现有内容类型所涉及的步骤。
 topic: Commerce, Development
 kt: 5655
 doc-type: video
@@ -13,29 +13,29 @@ ht-degree: 0%
 
 ---
 
-# 適用於開發人員的頁面產生器 — 自訂內容型別
+# 面向开发人员的页面生成器 — 自定义内容类型
 
-在本影片中：
+在本视频中：
 
-- 自訂和建立其他內容型別
-- 瞭解建立內容型別所涉及的步驟&#x200B;。
-- 瞭解擴充現有內容型別所涉及的步驟
+- 自定义和创建其他内容类型
+- 了解创建内容类型所涉及的步骤&#x200B;。
+- 了解扩展现有内容类型所涉及的步骤
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 內容建立者
-- 前端開發人員
+- 内容创建者
+- 前端开发人员
 
-## 視訊內容
+## 视频内容
 
 >[!NOTE]
 >
->此內容反映適用於Adobe Commerce 2.3.1的Page Builder 1.0.0版本。如需更新版本的相關資訊，請參閱 [Page Builder發行說明](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>此内容反映了适用于Adobe Commerce 2.3.1的Page Builder 1.0.0版本。有关更高版本中的更新的信息，请参阅 [Page Builder发行说明](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35714?quality=12&learn=on)
 
-## 有用的資源
+## 有用的资源
 
-[Page Builder開發人員檔案](https://developer.adobe.com/commerce/frontend-core/page-builder/)
+[Page Builder开发人员文档](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
 [Page Builder指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

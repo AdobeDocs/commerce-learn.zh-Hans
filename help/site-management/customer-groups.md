@@ -1,6 +1,6 @@
 ---
-title: 创建客户群组
-description: 了解如何创建客户群组，以及如何将客户分配给特定的群组，以确定可用的折扣及关联的税务类。
+title: 创建客户组
+description: 了解如何创建客户组以及如何将客户分配给特定组，这些组确定可用折扣和相关税分类。
 kt: 10546
 doc-type: feature video
 audience: all
@@ -14,14 +14,14 @@ ht-degree: 0%
 
 ---
 
-# 创建客户群组
+# 创建客户组
 
-客户群组决定了可用的折扣和与群组相关联的税务类。 默认客户群组包括 _&quot;一般_ &quot;、 _&quot;未登录_ &quot; 和 _&quot;批发_ &quot;。 在此视频中，您将了解如何创建客户群组以及如何将客户分配到特定的群组。
+客户组确定哪些折扣可用，以及与该组关联的税分类。 默认客户组为 _常规_， _未登录_、和 _批发_. 在本视频中，您将了解如何创建客户组以及如何将客户分配给特定组。
 
-## 此视频是谁？
+## 此视频面向谁？
 
-- 存储管理员
-- 电子商务营销
+- 商店管理员
+- 电子商务营销人员
 
 ## 视频内容
 
@@ -29,5 +29,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [客户群-  [!DNL Commerce]  客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
-- [客户群组限制（按网站）-  [!DNL Commerce]  客户管理指南](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)
+- [客户组 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+- [按网站划分的客户组限制 —  [!DNL Commerce] 客户管理指南](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

@@ -1,6 +1,6 @@
 ---
-title: 为 PWA 开发设置 Venia
-description: 了解如何为 PWA 开发项目设置 Venia 店面。
+title: 为PWA开发设置Venia
+description: 了解如何为您的PWA开发项目设置Venia店面。
 topic: Development
 kt: 5564
 doc-type: video
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 ---
 
-# 为 PWA 开发设置 Venia
+# 为PWA开发设置Venia
 
-## 此视频是谁？
+## 此视频面向谁？
 
 - 前端开发人员
 - 项目经理
@@ -26,4 +26,4 @@ ht-degree: 0%
 
 ## 有用的资源
 
-[PWA Studio 指南-Venia 设置](https://developer.adobe.com/commerce/pwa-studio/tutorials/setup-storefront/)
+[PWA Studio指南 — Venia设置](https://developer.adobe.com/commerce/pwa-studio/tutorials/setup-storefront/)

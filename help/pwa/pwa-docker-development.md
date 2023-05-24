@@ -1,6 +1,6 @@
 ---
-title: PWADocker開發
-description: 瞭解Docker上的PWA開發。
+title: PWADocker开发
+description: 了解Docker上的PWA开发。
 topic: Development
 kt: 5564
 doc-type: video
@@ -13,16 +13,16 @@ ht-degree: 0%
 
 ---
 
-# PWADocker開發
+# PWADocker开发
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 前端開發人員
+- 前端开发人员
 
-## 視訊內容
+## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/35784?quality=12&learn=on)
 
-## 有用的資源
+## 有用的资源
 
 [PWA Studio指南](https://developer.adobe.com/commerce/pwa-studio/)

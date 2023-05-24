@@ -1,11 +1,11 @@
 ---
 title: 内容暂存
-description: 了解如何从管理员处直接为您的商店创建、预览和安排广泛的内容更新。
+description: 了解如何直接从管理员为您的商店创建、预览和计划各种内容更新。
 doc-type: feature video
 role: Admin, User
 audience: all
 activity: use
-badge: label = "仅在 Adobe Systems 商务" type = "正值" 中
+badge: label="仅在Adobe Commerce中" type="Positive"
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
 source-git-commit: 884f7b71c9996d29d1c8eb07a30c445338b660f0
 workflow-type: tm+mt
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 {{ee-feature}}
 
-通过内容暂存，您的业务团队可以轻松地为您的商店创建、预览和安排广泛的内容更新。 例如，您不必考虑静态页面，而是将页面视为可根据计划添加或删除的不同元素的收藏集。 您可以使用内容暂存创建在一年中按计划自动更改的页面。
+内容暂存使您的业务团队能够直接从管理员轻松地创建、预览和计划存储的各种内容更新。 例如，不要考虑静态页面，而应将页面视为可以按照计划添加或删除的不同元素的集合。 您可以使用内容暂存创建一个页面，该页面会在一年中按计划自动更改。
 
-## 此视频是谁？
+## 此视频面向谁？
 
 - 网站管理员
-- 电子商务营销
+- 电子商务营销人员
 
 ## 视频内容
 
@@ -31,5 +31,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [内容暂存-  [!DNL Commerce]  内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
-- [预览 Campaign  [!DNL Commerce]  内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}
+- [内容暂存 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
+- [预览营销活动 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}

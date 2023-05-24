@@ -1,6 +1,6 @@
 ---
-title: 无头体系结构会话1
-description: 了解什么是无头架构、可组合商务和个性化体验
+title: Headless架构会议1
+description: 了解什么是Headless架构、可组合商务和个性化体验
 kt: 13144
 doc-type: tutorial
 audience: all
@@ -13,25 +13,25 @@ ht-degree: 0%
 
 ---
 
-# Adobe Systems 商务无头架构
+# Adobe Commerce Headless架构
 
-简要概述 Adobe Systems 商务的历史，以及如何移动以完全支持无外设。  无头体系结构的优势包括接触点之间的奇偶校验，分离开发活动，改进可扩展性等。
+全面概述Adobe Commerce的历史以及一切如何转向完全支持Headless。  Headless架构的好处包括跨接触点的对等性、开发活动的分离、改进的可扩展性等等。
 
-## 观看此视频的预期内容
+## 观看此视频有什么可期待的
 
-了解什么是无外设，以及 Adobe Systems 商务如何支持完全无外设的架构。
+了解什么是Headless以及Adobe Commerce如何支持完全的Headless架构。
 
-## 此视频是谁？
+## 此视频面向谁？
 
-* 为 Adobe Systems 商务新增的开发人员和商店所有者，并希望了解无头架构和一些基本策略的更多信息。
+* 刚开始接触Adobe Commerce并希望详细了解Headless架构和一些基本策略的开发人员和商店所有者。
 
 ## 视频内容
 
-* 从后端分离前端
-* 什么是 API
-* 多种无外设方法
+* 前端与后端分离
+* 什么是API
+* 多种Headless方法
 * 可组合商务的说明
-* Adobe Systems Commerce 是 API first，但不只是 API
-* 在继续进行无头商务之前需考虑的资格
+* Adobe Commerce首先是API，但不仅仅是API
+* 在开始使用Headless商务之前要考虑的资格
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418862?learn=on)

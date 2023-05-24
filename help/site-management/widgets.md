@@ -1,6 +1,6 @@
 ---
-title: 建立Widget
-description: 瞭解如何建立Widget及修改現有元件，以自動更新整個商店的內容。
+title: 创建小组件
+description: 了解如何创建并修改现有构件，以自动更新整个存储中的内容。
 kt: null
 doc-type: feature video
 role: Admin, User
@@ -14,20 +14,20 @@ ht-degree: 0%
 
 ---
 
-# 建立Widget
+# 创建小组件
 
-Widget是可重複使用的元件，您可以輕鬆建立和修改，以自動更新整個商店的內容。 在本影片中，瞭解如何建立和管理Widget。
+构件是可重用的组件，您可以轻松地创建和修改这些组件，以自动更新整个存储中的内容。 在本视频中，了解如何创建和管理构件。
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 網站管理員
-- 內容設計工具
+- 网站管理员
+- 内容设计器
 
-## 視訊內容
+## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/343786?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-- [Widget - [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html)
-- [建立和管理Widget - [!DNL Commerce] 內容與設計手冊](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html)
+- [小组件 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html)
+- [创建和管理构件 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html)

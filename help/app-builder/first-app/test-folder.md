@@ -1,7 +1,7 @@
 ---
-title: 測試資料夾
-description: 瞭解此範例應用程式測試資料夾中的檔案型別。
-landing-page-description: 瞭解搭配Adobe Commerce使用的Adobe Developer App Builder以及測試資料夾中的檔案型別。
+title: 测试文件夹
+description: 了解此示例应用程序的测试文件夹中的文件类型。
+landing-page-description: 了解与Adobe Commerce一起使用的Adobe Developer App Builder以及测试文件夹中的文件类型。
 kt: 12424
 doc-type: tutorial
 audience: all
@@ -14,25 +14,25 @@ ht-degree: 0%
 
 ---
 
-# 瞭解測試資料夾 {#test-folder}
+# 了解测试文件夹 {#test-folder}
 
-此 `test` 此範例應用程式的資料夾內含單一JavaScript檔案，可在應用程式上執行單元測試時使用。
+此 `test` 此示例应用程序的文件夹包含一个JavaScript文件，在应用程序上运行单元测试时将使用该文件。
 
-此為簡單範例，可展開以針對特定應用程式建立全面的測試。
+这是一个简单的示例，可以扩展为针对特定应用程序创建全面的测试。
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-* 剛開始使用Adobe Commerce但使用AdobeApp Builder經驗有限的開發人員，想要瞭解 `test` 資料夾。
+* 刚开始使用Adobe Commerce但使用AdobeApp Builder经验有限的开发人员，他们想要了解 `test` 文件夹。
 
-## 視訊內容
+## 视频内容
 
-* 為何使用 `test` 資料夾？
-* 單元測試檔案及其元件的簡短說明
-* 端對端測試簡介
+* 为何使用 `test` 文件夹？
+* 单元测试文件及其组件的简要说明
+* 端到端测试简介
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416662?quality=12&learn=on)
 
-## 程式碼範例
+## 代码示例
 
 test/utils.test.js
 

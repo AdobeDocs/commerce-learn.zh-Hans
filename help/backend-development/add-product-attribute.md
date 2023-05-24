@@ -1,6 +1,6 @@
 ---
-title: 建立產品屬性
-description: 建立一個傳回json的頁面，並帶有一個引數。
+title: 创建产品属性
+description: 创建一个返回带有一个参数的json的页面。
 topic: Development
 kt: 5602
 doc-type: video
@@ -13,27 +13,27 @@ ht-degree: 0%
 
 ---
 
-# 建立產品屬性
+# 创建产品属性
 
-新增產品屬性是中最常用的操作之一 [!DNL Commerce]. 屬性是解決與產品相關的許多實際任務的強大方法。 將下拉式清單型別屬性新增至產品的程式相當簡單。
+添加产品属性是中最常用的操作之一 [!DNL Commerce]. 属性是解决许多与产品相关的实际任务的强大方法。 向产品添加下拉列表类型属性的过程非常简单。
 
-在本影片中：
+在本视频中：
 
-- 使用可能的值新增名為clothing_material的屬性：棉花、皮革、絲綢、牛仔布、毛皮和羊毛
-- 以粗體文字將此屬性顯示在產品檢視頁面上
-- 將其指派給預設屬性集並新增限制
-- 新增屬性
+- 添加一个名为clothing_material的属性，可能的值包括：棉花、皮革、丝绸、牛仔布、毛皮和羊毛
+- 以粗体文本使此属性在产品视图页面上可见
+- 将其分配给Default属性集并添加限制
+- 添加新属性
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 開發人員
+- 开发人员
 
-## 視訊內容
+## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/35789?quality=12&learn=on)
 
-## 有用的資源
+## 有用的资源
 
-[建立產品屬性](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
+[创建产品属性](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
 
-[新增自訂文字欄位屬性](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
+[添加自定义文本字段属性](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)

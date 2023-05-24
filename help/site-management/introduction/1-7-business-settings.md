@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 適用於企業使用者 — 商店設定」'
-description: 瞭解地區設定、商店資訊、安全和不安全的URL、網站標題、標誌、版權資訊、通訊電子郵件標誌、商店電子郵件地址、貨幣選項和匯率。
+title: ”[!DNL Commerce] 适用于企业用户 — 商店设置”
+description: 了解区域设置、商店信息、安全和不安全的URL、网站标题、徽标、版权信息、通信电子邮件徽标、商店电子邮件地址、货币选项和汇率。
 topic: Commerce
 kt: 5764
 doc-type: video
@@ -14,32 +14,32 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 適用於企業使用者 — 商店設定
+# [!DNL Commerce] 企业用户 — 商店设置
 
-在本影片中：
+在本视频中：
 
-- 地區設定
-- 存放區資訊
+- 区域设置
+- 存储信息
 - 安全和不安全的URL
-- 網站標題、標誌和版權資訊
-- 儲存通訊電子郵件標誌
-- 儲存電子郵件地址
-- 商業發票、出貨及銷退折讓單標誌
-- 貨幣選項
-- 匯率
+- 网站标题、徽标和版权信息
+- 存储通信电子邮件徽标
+- 存储电子邮件地址
+- 发票、发运和贷项通知单标志
+- 货币选项
+- 汇率
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 商業使用者
+- 商业用户
 
-## 視訊內容
+## 视频内容
 
 >[!NOTE]
 >
->影片內容反映2.3.1版。 如需更新版本的相關資訊，請參閱 [發行說明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35949?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-[存放區詳細資料 —  [!DNL Commerce] 快速入門手冊](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)
+[商店详细信息 —  [!DNL Commerce] 快速入门指南](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)

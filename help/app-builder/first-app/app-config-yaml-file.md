@@ -1,7 +1,7 @@
 ---
-title: Yaml 文件
-description: 了解应用程序此示例的 app.config 文件中的文件类型。
-landing-page-description: 了解与 Adobe Systems 商务一起使用的 Adobe Systems 开发人员应用程序生成器以及应用程序 yaml 中的文件类型。
+title: app.config.yaml文件
+description: 了解此示例应用程序的app.config.yaml文件中的文件类型。
+landing-page-description: 了解与Adobe Commerce一起使用的Adobe Developer App Builder以及app.config.yaml中会包含哪些类型的文件。
 kt: 12426
 doc-type: tutorial
 audience: all
@@ -14,22 +14,22 @@ ht-degree: 0%
 
 ---
 
-# Yaml 文件的描述和使用情况 {#app-config-yaml}
+# app.config.yaml文件的描述和用法 {#app-config-yaml}
 
-此文件可确定应用程序的配置。
+此文件确定应用程序的配置。
 
-## 此视频是谁？
+## 此视频面向谁？
 
-* 开发人员 Adobe Systems 商务的新功能，具有有限的体验，Adobe Systems 应用程序生成器 `app.config.yaml` ，以了解示例应用程序。
+* 刚开始接触Adobe Commerce但对AdobeApp Builder经验有限的开发人员，他们正了解 `app.config.yaml` 在示例应用程序中。
 
 ## 视频内容
 
-* 讨论的 `app.config.yaml` 文件
-* 如何将定义关联其他 `.js` 文件
+* 此 `app.config.yaml` 讨论的文件
+* 定义如何链接到其他 `.js` 文件
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
 
-## Code 示例
+## 代码示例
 
 ```bash
 # Specify your secrets here
@@ -49,7 +49,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-您可以查看文件中示例模块使用的静态值 `actions/commerce.index.js`
+您可以在文件中看到示例模块中使用这些静态值 `actions/commerce.index.js`
 
 ```javascript
         const oauth = getCommerceOauthClient(

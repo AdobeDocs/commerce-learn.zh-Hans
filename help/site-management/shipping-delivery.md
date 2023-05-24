@@ -1,6 +1,6 @@
 ---
-title: 管理送貨和交貨方式
-description: 瞭解如何為您的Commerce商店設定出貨來源、多批出貨、運送費用和電信業者設定。
+title: 管理配送和交货方式
+description: 了解如何为Commerce商店配置发货地、多发货、交货费用和承运人设置。
 kt: 10543
 doc-type: feature video
 audience: all
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 ---
 
-# 管理送貨和交貨方式
+# 管理配送和交货方式
 
-管理您的送貨和交貨方式，是確保您的產品交到客戶手中的關鍵。 在本影片中，您將會瞭解如何管理您的出貨來源、多批出貨、運送費用和電信業者設定。
+管理您的配送方式对于确保能够将产品送到客户手中至关重要。 在本视频中，您将了解如何管理发运来源、多批发运、运费和运营商设置。
 
-## 這部影片是給誰看的？
+## 此视频面向谁？
 
-- 存放區管理員
-- 電子商務管理員
+- 商店管理员
+- 电子商务经理
 
-## 視訊內容
+## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/343658?quality=12&learn=on)
 
-## 其他資源
+## 其他资源
 
-- [送貨設定 —  [!DNL Commerce] 商店和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
-- [基本傳遞方法 —  [!DNL Commerce] 商店和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
-- [出貨承運商設定 —  [!DNL Commerce] 商店和購買體驗指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)
+- [配送设置 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
+- [基本投放方法 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
+- [装运承运人设置 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)

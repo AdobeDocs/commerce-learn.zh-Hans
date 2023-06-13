@@ -2,9 +2,9 @@
 user-guide-title: 视频和Tutorials
 user-guide-description: 通过视频和教程了解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 视频和Tutorials
-source-git-commit: 9c25b5980c34347eecfa8fc608f50576615f0ac4
+source-git-commit: b8dd6c146735721612d55365e9559c925953f062
 workflow-type: tm+mt
-source-wordcount: '680'
+source-wordcount: '714'
 ht-degree: 0%
 
 ---
@@ -138,6 +138,14 @@ ht-degree: 0%
    + [管理共享目录](../b2b/shared-catalogs.md)
    + [管理公司信用](../b2b/company-credit.md)
    + [采购订单和审批](../b2b/purchase-orders.md)
+   + 引用 {#b2b-quote}
+      + [销售代表启动报价](../b2b/sales-rep-initiates-quote.md)
+      + [来自管理员的报价验证](../b2b/quote-validation-admin-panel.md)
+      + [销售代表启动报价REST API](../b2b/sales-rep-initiates-quote-api.md)
+      + [报价单行项目折扣](../b2b/quote-line-item-discount.md)
+      + [报价单明细项目注释](../b2b/quote-line-item-notes.md)
+      + [报价单行项目折扣GraphQL](../b2b/quote-graphql-line-item-discount.md)
+      + [报价单行项目折扣REST API](../b2b/quote-rest-api-line-item-notes.md)
 + 工具和外部服务 {#tools}
    + [站点范围分析工具仪表板](../tools/site-wide-analysis-tool.md)
    + [对Adobe Commerce的观察](../tools/observation-tool.md)

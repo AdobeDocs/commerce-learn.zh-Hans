@@ -2,9 +2,9 @@
 user-guide-title: 视频和Tutorials
 user-guide-description: 通过视频和教程了解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 视频和Tutorials
-source-git-commit: 2cc6f6594640244e5ccc3a40325850363d59e71f
+source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
 workflow-type: tm+mt
-source-wordcount: '625'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -117,31 +117,11 @@ ht-degree: 0%
    + [Quality Patch工具](../tools/quality-patch-tool.md)
    + New Relic {#new-relic}
       + [定位恶意IP](../new-relic/malicious-ip.md)
-+ MBI {#mbi}
++ Commerce Intelligence {#mbi}
    + [筛选器集](../business-intelligence/filter-sets.md)
    + [同类群组Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQLREPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [为未来做准备](../business-intelligence/prepare-for-future.md)
-   + 录制的网络研讨会 {#webinars}
-      + [MBI快速入门](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/getting-started.html)
-      + [在MBI中管理数据集](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2022/manage-data-sets.html)
-      + [优化您的MBIData warehouse](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/optimize-data-warehouse.html)
-      + [MBI功能板深入探讨](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/dashboards-deep-dive.html)
-      + [MBI为假期做好准备](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/holiday-readiness.html)
-      + [MBI — 咨询专家](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/ask-expert.html)
-   + MBI视频系列简介 {#introduction}
-      + [概述](../business-intelligence/1-overview.md)
-      + [数据仓库](../business-intelligence/2-data-warehousing.md)
-      + [生成报告](../business-intelligence/3-build-reports.md)
-      + [量度](../business-intelligence/4-metrics.md)
-      + [标准报表](../business-intelligence/5-standard-reports.md)
-      + [执行摘要](../business-intelligence/6-executive-summary-dashboard.md)
-      + [订单仪表板](../business-intelligence/7-orders-dashboard.md)
-      + [以客户为中心的功能板](../business-intelligence/8-customer-focused-dashboards.md)
-      + [类别分析](../business-intelligence/9-category-analysis.md)
-      + [投资回报率跟踪](../business-intelligence/10-roi-tracking.md)
-      + [共享结果和导出数据](../business-intelligence/11-share-results-export-data.md)
-      + [客户成功案例](../business-intelligence/12-customer-success.md)
 + Commerce升级 {#upgrade}
    + [Adobe Commerce 2.4升级研讨会](../upgrade/2.4-upgrade-workshop.md)
    + [升级兼容性工具概述](../upgrade/upgrade-compatibility-tool-overview.md)

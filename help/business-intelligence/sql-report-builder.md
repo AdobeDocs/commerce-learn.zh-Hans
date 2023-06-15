@@ -1,17 +1,17 @@
 ---
-title: MBI - SQLREPORT BUILDER
-description: 了解如何使用MBI SQLReport Builder直接查询您的data warehouse、查看结果并快速将其转换为图表。
-landing-page-description: 观看本视频，了解如何使用MBI SQLReport Builder直接查询您的data warehouse、查看结果并快速将其转换为图表。
-short-description: 观看本视频，了解如何使用MBI SQLReport Builder直接查询您的data warehouse、查看结果并快速将其转换为图表。
+title: Commerce Intelligence - SQLReport Builder
+description: 了解如何使用Commerce Intelligence SQLReport Builder直接查询您的data warehouse、查看结果并快速将其转换为图表。
+landing-page-description: 观看此视频，了解如何使用Commerce Intelligence SQLReport Builder直接查询您的data warehouse、查看结果并快速将其转换为图表。
+short-description: 观看此视频，了解如何使用Commerce Intelligence SQLReport Builder直接查询您的data warehouse、查看结果并快速将其转换为图表。
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ SQLReport Builder允许您直接查询data warehouse、查看结果并快速将�
 
 >[!TIP]
 >
->如果您不熟悉MBI，则可以 [入门视频系列](1-overview.md) 提供完整概述，介绍如何通过数据聚合、分析和可视化图表来获取更好的业务洞察信息和结果。
+>如果您不熟悉Commerce Intelligence，则可以 [Adobe Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} 提供完整概述，介绍如何通过数据聚合、分析和可视化图表来获取更好的业务洞察信息和结果。
 
 ## 此视频面向谁？
 
@@ -45,6 +45,6 @@ SQLReport Builder允许您直接查询data warehouse、查看结果并快速将�
 
 ## 有用的资源
 
-[使用SQLReport Builder- MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
+[使用SQLReport Builder- Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
 
-[Creating Visualizations from SQL Queries - MBI用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)
+[从SQL查询创建可视化图表 — Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)

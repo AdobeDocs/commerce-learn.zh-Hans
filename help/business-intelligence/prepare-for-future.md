@@ -1,5 +1,5 @@
 ---
-title: MBI — 为未来做准备
+title: Commerce Intelligence — 为未来做准备
 description: 观看本系列视频，以阐明您对塑造数字商业未来的空前变化的理解。
 landing-page-description: 观看本系列视频，以阐明您对塑造数字商业未来的空前变化的理解。
 short-description: 观看本系列视频，以阐明您对塑造数字商业未来的空前变化的理解。
@@ -9,24 +9,24 @@ solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 2ff2e1c8-384a-453f-bb8b-f6c834ca334b
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
-# MBI — 为未来做准备
+# Commerce Intelligence — 为未来做准备
 
 随着新型冠状病毒肺炎疫情在全球蔓延，数以百万计的人依赖数字商业来满足他们最基本的需求。 随着企业为了适应历史性的消费者需求而加班加点，将未来作为关注点变得越来越重要。
 
-在这个由三部分组成的视频系列中，MBI分析团队重点介绍基础的、以数据为导向的电子商务实践，以帮助您的业务在当今充满挑战的时代中蓬勃发展，并受多个商业行业的汇总统计数据的支持。
+在这个由三部分组成的视频系列中，商务智能分析团队重点介绍基础的、以数据为导向的电子商务实践，以帮助您的业务在充满挑战的时代中蓬勃发展，并受跨多个商业行业的汇总统计数据的支持。
 
 观看本系列视频，以阐明您对塑造数字商业未来的空前变化的理解，以及如何为未来的发展做好准备。
 
 >[!TIP]
 >
->如果您不熟悉MBI，则可以 [入门视频系列](1-overview.md) 提供完整概述，介绍如何通过数据聚合、分析和可视化图表来获取更好的业务洞察信息和结果。
+>如果您不熟悉Commerce Intelligence，则可以 [Adobe Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} 提供完整概述，介绍如何通过数据聚合、分析和可视化图表来获取更好的业务洞察信息和结果。
 
 ## 此视频面向谁？
 

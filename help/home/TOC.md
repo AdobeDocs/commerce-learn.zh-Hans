@@ -2,9 +2,9 @@
 user-guide-title: 视频和Tutorials
 user-guide-description: 通过视频和教程了解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 视频和Tutorials
-source-git-commit: 94a690fb12faa26385b42069682dd72fe2a22a6a
+source-git-commit: 2cc6f6594640244e5ccc3a40325850363d59e71f
 workflow-type: tm+mt
-source-wordcount: '695'
+source-wordcount: '625'
 ht-degree: 0%
 
 ---
@@ -21,30 +21,6 @@ ht-degree: 0%
       + [4 — 部署](../cloud/4-deployment.md)
       + [5 — 开发](../cloud/5-dev-config.md)
       + [6 — 服务和DNS](../cloud/6-launch.md)
-   + [!DNL Commerce] 企业用户 {#merchants}
-      + [1.1 - [!DNL Admin] 菜单](../site-management/introduction/1-1-menus.md)
-      + [1.2 — 数据网格](../site-management/introduction/1-2-data-grids.md)
-      + [1.3 — 范围、站点和商店](../site-management/introduction/1-3-apps-scopes-sites-stores.md)
-      + [1.4 — 商店视图和缓存](../site-management/introduction/1-4-store-views-cache.md)
-      + [1.5 — 管理员用户帐户和角色](../site-management/introduction/1-5-users-roles.md)
-      + [1.6 — 角色范围](../site-management/introduction/1-6-role-scopes.md)
-      + [1.7 — 业务设置](../site-management/introduction/1-7-business-settings.md)
-      + [2.1 — 类别](../site-management/introduction/2-1-categories.md)
-      + [2.2 — 类别登陆页面](../site-management/introduction/2-2-category-landing-page.md)
-      + [3.1 — 产品类型和选项](../site-management/introduction/3-1-product-types-options.md)
-      + [3.2 — 产品设置](../site-management/introduction/3-2-product-settings.md)
-      + [3.3 — 产品属性](../site-management/introduction/3-3-product-attributes.md)
-      + [3.4 — 产品属性集](../site-management/introduction/3-4-product-attribute-sets.md)
-      + [3.5 — 创建简单的产品](../site-management/introduction/3-5-create-simple-product.md)
-      + [3.6 — 可配置属性](../site-management/introduction/3-6-configurable-attributes.md)
-      + [3.7 — 进出口产品](../site-management/introduction/3-7-import-export-products.md)
-      + [3.8 — 礼品卡](../site-management/introduction/3-8-gift-cards.md)
-      + [4.1 — 分层导航](../site-management/introduction/4-1-layered-navigation.md)
-      + [4.2 — 排列产品类别](../site-management/introduction/4-2-arrange-product-categories.md)
-      + [5.1 — 店面体验](../site-management/introduction/5-1-storefront-experience.md)
-      + [5.2 — 客户管理](../site-management/introduction/5-2-customer-management.md)
-      + [5.3 — 电子邮件通信](../site-management/introduction/5-3-store-communications.md)
-      + [5.4 — 全球参考架构](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/architecture/global-reference.html)
 + GraphQL和REST {#graphql-rest}
    + [GraphQL入门](../graphql-rest/getting-started-graphql.md)
    + [GraphQL基础](../graphql-rest/intro-graphql.md)

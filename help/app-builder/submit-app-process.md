@@ -1,14 +1,15 @@
 ---
-title: 将应用程序提交到商城
-description: 了解将应用程序提交到Marketplace的过程。
-landing-page-description: 了解Adobe Developer App Builder以及如何将应用程序提交到市场。
+title: 将应用程序提交到Adobe Commerce Marketplace
+description: 了解将应用程序提交到Commerce Marketplace的过程。
+landing-page-description: 了解Adobe Developer App Builder以及如何向Commerce Marketplace提交应用程序。
 kt: 13436
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-06-08T00:00:00Z
-source-git-commit: 88e30e9424f40c18a5d67b32d6546e56091978f5
+last-substantial-update: 2023-6-19
+exl-id: 085b5a67-4a67-4ce0-9da4-c9d4460cd356
+source-git-commit: 0932a1715cccafc0795e6932ab8888a1c53b5b49
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---

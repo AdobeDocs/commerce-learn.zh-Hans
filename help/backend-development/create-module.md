@@ -1,13 +1,13 @@
 ---
 title: 创建模块
-description: 创建一个返回带有一个参数的json的页面。
+description: 创建记录到PSR记录器的模块
 topic: Development
 kt: 5614
 doc-type: video
 activity: use
 last-substantial-update: 2023-6-2
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
-source-git-commit: d13796a10bee364db6ebcf441af4b73c37b446d7
+source-git-commit: 36f53fab217d114e1d80ada6dda94873356ee421
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%

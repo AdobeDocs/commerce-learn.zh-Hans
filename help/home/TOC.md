@@ -2,9 +2,9 @@
 user-guide-title: 视频和Tutorials
 user-guide-description: 通过视频和教程了解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 视频和Tutorials
-source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
+source-git-commit: fcaa2869b09aa0b66152234bb1643d1eb8f72c32
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '519'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,6 @@ ht-degree: 0%
    + [管理币种和税则](../site-management/currency-tax-rules.md)
    + [添加网站、商店和商店视图](../site-management/add-websites-stores-views.md)
    + [更改商店URL](../site-management/change-store-url.md)
-   + [存储网站地图设置](../site-management/site-map-setup.md)
    + [配送方式](../site-management/shipping-delivery.md)
    + [使用付款服务](../site-management/payment-services.md)
 + 客户管理 {#customers}

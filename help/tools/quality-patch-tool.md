@@ -2,11 +2,15 @@
 title: 使用Quality Patch工具
 description: 观看此技术视频，了解如何使用Quality Patch Tool进行Adobe Commerce和Magento Open Source。
 doc-type: technical video
-role: Developer
 audience: all
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Security, Tools and External Services
+topic: Commerce, Administration
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: d3d42654-8574-48d1-814c-ec46107f1371
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%

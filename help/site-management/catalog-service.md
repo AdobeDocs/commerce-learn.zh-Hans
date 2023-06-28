@@ -3,12 +3,15 @@ title: Adobe Commerce的目录服务
 description: 了解如何安装和测试目录服务。
 doc-type: feature video
 audience: all
-role: Developer, Admin
-last-substantial-update: 2022-09-19T00:00:00Z
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 9b41f6ab-5f05-4985-af93-8ea8db062598
 hidefromtoc: true
 hide: true
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%

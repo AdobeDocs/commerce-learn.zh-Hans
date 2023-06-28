@@ -3,11 +3,15 @@ title: 管理公司帐户
 description: 了解如何管理您的B2B公司帐户，包括任何待处理的审批请求。
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
 badge: label="B2B for Adobe Commerce" type="Positive"
+last-substantial-update: 2023-2-16
+feature: Configuration, System, B2B, Companies, Roles/Permissions
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
-source-git-commit: 7e09ceadf377bf5ed15988cf0db493af1c0ead0a
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%

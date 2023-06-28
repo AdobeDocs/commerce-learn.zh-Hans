@@ -3,12 +3,14 @@ title: “简介 [!DNL Live Search]”
 description: “了解如何添加 [!DNL Live Search] 并打造高度引人入胜、相关且个性化的购物体验。”
 doc-type: feature video
 audience: all
-role: Admin, User
-activity: use
-last-substantial-update: 2023-04-27T00:00:00Z
 badge: label="仅在Adobe Commerce中" type="Positive"
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Personalization, Search
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
-source-git-commit: eda066240960ae7c0b36bd7c22f8598e613a2d73
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%

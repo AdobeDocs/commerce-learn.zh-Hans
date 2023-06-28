@@ -5,11 +5,15 @@ landing-page-description: 观看此技术视频，了解升级兼容性工具如
 short-description: 观看此技术视频，了解升级兼容性工具如何使您的下次升级变得更轻松、更便宜和更快速。
 kt: 9983
 doc-type: technical video
-role: Admin, Leader, Developer
 audience: all
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Upgrade, Tools and External Services
+topic: Commerce, Administration
+role: Architect, Developer, Admin
+level: Beginner, Intermediate
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%

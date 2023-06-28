@@ -3,10 +3,14 @@ title: ‘[!DNL Live Search] 推荐'
 description: 了解如何添加 [!DNL Live Search] ，获得您商店的产品推荐，并提供引人入胜、相关且个性化的购物体验。
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Personalization, Search
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: af13f1c2-d888-4774-8254-efdb3ce383bb
-source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%

@@ -7,8 +7,12 @@ kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
+feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
+topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '331'
 ht-degree: 0%
@@ -47,6 +51,6 @@ API Mesh将多个数据源整合在一起，得到单个响应以供应用程序
 作为使用AdobeApp Builder和API Mesh的开发人员，无需了解什么是反向代理。 但是，如果您对与AdobeApp Builder相关的整体功能感兴趣，请使用以下资源：
 
 * [什么是反向代理](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
-* [什么是反向代理以及它为什么重要](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
+* [什么是反向代理？它为什么重要](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}

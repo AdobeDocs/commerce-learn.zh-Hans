@@ -3,11 +3,15 @@ title: 设置产品Recommendations
 description: 了解如何在您的Adobe Commerce商店中使用产品推荐。
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
 badge: label="仅在Adobe Commerce中" type="Positive"
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: a62f9984-782c-40cf-a140-498b58b24bcd
-source-git-commit: dc2e8aa92feda8f5243621a6a1febd38c7ef222f
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%

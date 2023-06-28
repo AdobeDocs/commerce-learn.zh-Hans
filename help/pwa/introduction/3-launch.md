@@ -1,12 +1,16 @@
 ---
 title: 面向开发人员的PWA Studio — 启动和加载
 description: 了解PWA启动之前所需的步骤​、加载时间基准​以及性能如何提高转化率。
-topic: Development
 kt: 5646
 doc-type: video
 activity: use
+last-substantial-update: 2023-5-28
+feature: GraphQL, REST, Tools and External Services
+topic: Commerce, Headless, Development
+role: Architect, Developer, User
+level: Beginner, Intermediate
 exl-id: d1744a5c-7e56-48d3-971e-5abf21196cfa
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%

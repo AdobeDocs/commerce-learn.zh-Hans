@@ -3,10 +3,14 @@ title: 创建购物车价格规则
 description: 了解如何创建根据一组条件在购物车中应用折扣的购物车价格规则。
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Catalogs, Customers, Shopping Cart
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
-source-git-commit: 3ee6eae696d33ce792beabdf91c584e039ab3b54
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '632'
 ht-degree: 0%

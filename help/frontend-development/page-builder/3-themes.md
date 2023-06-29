@@ -4,8 +4,12 @@ description: 了解主题实践和惯例，​包括页面生成器主题每个�
 kt: 5652
 doc-type: video
 activity: use
+feature: Page Content, Native Luma Frontend Development, Themes
+topic: Commerce, Development
+role: Admin, Developer, User
+level: Beginner, Intermediate
 exl-id: 3c86bf88-b5f9-42be-aabb-f9db1957911f
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%

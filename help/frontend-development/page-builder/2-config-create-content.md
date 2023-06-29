@@ -1,12 +1,15 @@
 ---
 title: 面向开发人员的Page Builder — 配置和内容自定义
 description: 配置和设置页面生成器​。 了解Page Builder工作区​。 了解并使用内容类型 — 布局、元素、媒体和其他内容​。 使用页面生成器添加目录内容。
-topic: Commerce, Development
 kt: 5651
 doc-type: video
 activity: use
+feature: Page Content, Native Luma Frontend Development
+topic: Commerce, Development
+role: Admin, Developer, User
+level: Beginner, Intermediate
 exl-id: 589d13fe-3b9d-4a48-a26e-a43b44726f93
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%

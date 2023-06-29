@@ -1,12 +1,15 @@
 ---
 title: 面向开发人员的页面生成器 — 自定义内容类型
 description: 了解如何自定义和创建内容类型。 了解创建内容类型所涉及的步骤​。 了解扩展现有内容类型所涉及的步骤。
-topic: Commerce, Development
 kt: 5655
 doc-type: video
 activity: use
+feature: Page Content, Native Luma Frontend Development, Themes, Configuration
+topic: Commerce, Development
+role: Admin, Developer, User
+level: Beginner, Intermediate
 exl-id: c5c0c325-9b69-4531-b57d-5d8183f320d8
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%

@@ -12,23 +12,19 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 9186ba11-180d-45ca-801a-a86547084cca
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 6b1bd8ff86b840cf8c16fcce20249eb547991022
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
 # App Builder的可扩展框架
 
-要了解如何将Adobe Commerce与Adobe Developer App Builder结合使用，请观看以下视频，其中演示了如何将Commerce事件与App Builder结合使用。 此功能演示介绍了集成的工作方式，并探索了App Builder的潜力。 本演示介绍了可扩展性框架、Commerce Eventing，以及如何使用它来开发AmazonSales Channel扩展。
-
->[!IMPORTANT]
->
->AmazonSales Channel扩展仍在开发中，尚未正式发布。  这些视频和教程旨在向您展示如何将Adobe Developer App Builder用于实际用例。
+此功能演示介绍了App Builder及其潜在的Adobe Commerce用例。 此视频介绍了可扩展性框架、关键客户优势和功能。
 
 ## 适用于Adobe Commerce的应用程序生成器 {#app-builder-extensibility}
 
->[!VIDEO](https://video.tv.adobe.com/v/3413328?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413328?learn=on)
 
 {{$include /help/_includes/app-builder-related-links.md}}

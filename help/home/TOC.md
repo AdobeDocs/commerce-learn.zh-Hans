@@ -3,9 +3,9 @@ user-guide-title: 视频和Tutorials
 user-guide-description: 通过视频和教程了解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 视频和Tutorials
 solution: Commerce
-source-git-commit: 280129eff96d1d4528b53081219bce2a8fb5baf8
+source-git-commit: 38fcf6e2f618fe8014ffa71f937087fe2b39248c
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -132,6 +132,7 @@ ht-degree: 0%
    + [创建模块](../backend-development/create-module.md)
    + [添加产品属性](../backend-development/add-product-attribute.md)
    + [依赖项注入示例](../backend-development/dependency-injection.md)
+   + [Galera群集复制缓慢](../backend-development/galera-db-slow-replication.md)
 + 原生前端Luma开发 {#frontend-development}
    + 面向开发人员的Page Builder {#page-builder}
       + [1 — 简介](../frontend-development/page-builder/1-intro-case-studies.md)

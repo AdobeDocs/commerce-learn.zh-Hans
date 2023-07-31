@@ -3,9 +3,9 @@ user-guide-title: 视频和Tutorials
 user-guide-description: 通过视频和教程了解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 视频和Tutorials
 solution: Commerce
-source-git-commit: 38fcf6e2f618fe8014ffa71f937087fe2b39248c
+source-git-commit: 09f807bfb9917e892e53c984e03e63d9ddd277a3
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '526'
 ht-degree: 0%
 
 ---
@@ -24,16 +24,16 @@ ht-degree: 0%
       + [6 — 服务和DNS](../cloud/6-launch.md)
 + GraphQL和REST {#graphql-rest}
    + [GraphQL入门](../graphql-rest/getting-started-graphql.md)
-   + [GraphQL基础](../graphql-rest/intro-graphql.md)
+   + [GraphQL基础知识](../graphql-rest/intro-graphql.md)
    + [查询](../graphql-rest/graphql-queries.md)
    + [突变](../graphql-rest/graphql-mutations.md)
    + [架构](../graphql-rest/graphql-schema.md)
 + Adobe Developer App Builder {#adobe-developer-app-builder}
    + [App Builder简介](../app-builder/introduction-to-app-builder.md)
-   + [App Builder的可扩展框架](../app-builder/extensibility-framework-commerce-eventing.md)
+   + [App Builder的可扩展性框架](../app-builder/extensibility-framework-commerce-eventing.md)
    + [App Builder的功能演示](../app-builder/app-builder-functional-demonstration.md)
    + [App Builder技术概述](../app-builder/app-builder-technical-overview.md)
-   + [将应用程序提交到商城](../app-builder/submit-app-process.md)
+   + [将应用程序提交到市场](../app-builder/submit-app-process.md)
    + 构建您的第一个App Builder应用程序 {#first-app}
       + [概述](../app-builder/first-app/overview.md)
       + [生成和配置.env文件](../app-builder/first-app/env-file.md)
@@ -41,7 +41,7 @@ ht-degree: 0%
       + [了解操作文件夹](../app-builder/first-app/actions-folder.md)
       + [了解测试文件夹](../app-builder/first-app/test-folder.md)
       + [了解web-src文件夹的用途](../app-builder/first-app/web-src-folder.md)
-      + [本地测试](../app-builder/first-app/testing-locally.md)
+      + [在本地测试](../app-builder/first-app/testing-locally.md)
       + [使用应用程序生成器URL进行测试](../app-builder/first-app/testing-app-builder-url.md)
       + [结论](../app-builder/first-app/conclusion.md)
       + [示例模块源代码](https://github.com/magento/app-builder-samples){target="_blank"}
@@ -83,7 +83,7 @@ ht-degree: 0%
 + 内容管理 {#content}
    + [Page Builder概述](../site-management/page-builder-overview.md)
    + [创建静态块和动态块](../site-management/static-dynamic-blocks.md)
-   + [创建小组件](../site-management/widgets.md)
+   + [创建构件](../site-management/widgets.md)
    + [使用内容模板](../site-management/content-templates.md)
    + [内容暂存](../site-management/content-staging.md)
    + [管理媒体集](../site-management/media-gallery.md)
@@ -95,7 +95,7 @@ ht-degree: 0%
    + [Live Search简介](../site-management/live-search.md)
    + [推荐的实时搜索](../site-management/live-search-recommendations.md)
    + [Live Search完整演示](../site-management/live-search-full-demonstration.md)
-+ 订单和完成 {#orders}
++ 订单和履行 {#orders}
    + [商店履行概述](../site-management/store-fulfillment.md)
    + [管理订单状态](../site-management/order-status.md)
 + 适用于Adobe Commerce的B2B {#b2b}
@@ -108,17 +108,17 @@ ht-degree: 0%
       + [来自管理员的报价验证](../b2b/quote-validation-admin-panel.md)
       + [销售代表启动报价REST API](../b2b/sales-rep-initiates-quote-api.md)
       + [报价单行项目折扣](../b2b/quote-line-item-discount.md)
-      + [报价单明细项目注释](../b2b/quote-line-item-notes.md)
+      + [报价单行项目注释](../b2b/quote-line-item-notes.md)
       + [报价单行项目折扣GraphQL](../b2b/quote-graphql-line-item-discount.md)
       + [报价单行项目折扣REST API](../b2b/quote-rest-api-line-item-notes.md)
 + 工具和外部服务 {#tools}
    + [站点范围分析工具仪表板](../tools/site-wide-analysis-tool.md)
-   + [对Adobe Commerce的观察](../tools/observation-tool.md)
-   + [Quality Patch工具](../tools/quality-patch-tool.md)
+   + [Adobe Commerce观察](../tools/observation-tool.md)
+   + [Quality修补工具](../tools/quality-patch-tool.md)
    + New Relic {#new-relic}
-      + [定位恶意IP](../new-relic/malicious-ip.md)
+      + [查找恶意IP](../new-relic/malicious-ip.md)
 + Commerce Intelligence {#mbi}
-   + [筛选器集](../business-intelligence/filter-sets.md)
+   + [筛选条件集](../business-intelligence/filter-sets.md)
    + [同类群组Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQLREPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [为未来做准备](../business-intelligence/prepare-for-future.md)
@@ -133,6 +133,7 @@ ht-degree: 0%
    + [添加产品属性](../backend-development/add-product-attribute.md)
    + [依赖项注入示例](../backend-development/dependency-injection.md)
    + [Galera群集复制缓慢](../backend-development/galera-db-slow-replication.md)
+   + [MySQL查询缓存](../backend-development/mysql-query-cache.md)
 + 原生前端Luma开发 {#frontend-development}
    + 面向开发人员的Page Builder {#page-builder}
       + [1 — 简介](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -143,7 +144,6 @@ ht-degree: 0%
       + [6 — 自定义内容类型](../frontend-development/page-builder/6-custom-content-types.md)
    + [添加JavaScript模块](../frontend-development/add-javascript-module.md)
    + [创建页面](../frontend-development/create-page.md)
-
 + Headless体系结构 {#headless-architecture}
    + Headless简介 {#introduction-to-headless}
       + [Headless架构 — 第1场会议](../headless/session-1.md)

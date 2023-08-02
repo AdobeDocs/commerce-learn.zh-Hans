@@ -3,9 +3,9 @@ user-guide-title: 视频和Tutorials
 user-guide-description: 通过视频和教程了解Adobe Commerce和Magento Open Source。
 breadcrumb-title: 视频和Tutorials
 solution: Commerce
-source-git-commit: 09f807bfb9917e892e53c984e03e63d9ddd277a3
+source-git-commit: 925f3581757548393ada567d523aedab24d1527d
 workflow-type: tm+mt
-source-wordcount: '526'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,6 @@ ht-degree: 0%
    + [创建客户属性](../site-management/customer-attributes.md)
    + [卖方辅助购物](../site-management/seller-assisted-shopping.md)
 + 目录管理 {#catalog}
-   + [Adobe Commerce的目录服务](../site-management/catalog-service.md)
    + [创建类别](../site-management/category-create.md)
    + [管理类别中的产品](../site-management/category-products.md)
    + [Inventory management](../site-management/inventory-management.md)

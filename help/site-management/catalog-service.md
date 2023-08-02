@@ -11,18 +11,18 @@ level: Beginner, Intermediate
 exl-id: 9b41f6ab-5f05-4985-af93-8ea8db062598
 hidefromtoc: true
 hide: true
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: 14c981835752b1cc370679559a0294088e4a3d9c
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce的目录服务
 
-Adobe Commerce的目录服务是一项多租户SaaS功能，它提供只读目录数据以支持店面购物体验。 它可通过GraphQL API使用，提供新的API查询以提高性能和改进目录数据检索的可扩展性。
+Adobe Commerce的目录服务是一项多租户SaaS功能，可提供只读目录数据以支持店面购物体验。 它可通过GraphQL API使用，提供新的API查询以提高性能并改进目录数据检索的可扩展性。
 
-在本视频中：
+在此视频中：
 
 - 如何下载和安装目录服务
 - 如何测试功能
@@ -45,4 +45,4 @@ Adobe Commerce的目录服务是一项多租户SaaS功能，它提供只读目�
 ## 其他资源
 
 - [Adobe Commerce的目录服务指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/guide-overview.html)
-- [#storefront-services社区Slack渠道](https://magentocommeng.slack.com/?redir=%2Farchives%2FC03HVPG8RS4)
+

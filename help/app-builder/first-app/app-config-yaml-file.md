@@ -1,8 +1,8 @@
 ---
 title: app.config.yaml文件
 description: 了解此示例应用程序的app.config.yaml文件中的文件类型。
-landing-page-description: 了解与Adobe Commerce一起使用的Adobe Developer App Builder以及app.config.yaml中会包含哪些类型的文件。
-kt: 12426
+landing-page-description: 了解与Adobe Developer一起使用的Adobe Commerce App Builder以及app.config.yaml中会包含哪些类型的文件。
+kt: 12429
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-3-13
@@ -11,7 +11,7 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: ee3e25c0b697f2e434f866932771cb7e4084fd9e
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -53,7 +53,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-您可以在文件中看到示例模块中使用这些静态值 `actions/commerce.index.js`
+您可以在文件中看到示例模块中使用的这些静态值 `actions/commerce.index.js`
 
 ```javascript
         const oauth = getCommerceOauthClient(

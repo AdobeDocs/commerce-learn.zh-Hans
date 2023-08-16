@@ -1,6 +1,6 @@
 ---
-title: ”[!DNL Commerce] 面向企业用户 — 电子邮件通信”
-description: 使用由客户在店面上的操作触发的事务性电子邮件与其通信。 自定义和配置商店的电子邮件模板。
+title: '"[!DNL Commerce] 面向企业用户 — 电子邮件通信”'
+description: 使用由客户在店面上的操作触发的事务性电子邮件与其通信。 自定义和配置应用商店的电子邮件模板。
 kt: 5780
 doc-type: video
 activity: use
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # [!DNL Commerce] 面向企业用户 — 电子邮件通信
 
-在本视频中：
+在此视频中：
 
 - 触发的事务性电子邮件
 - 事务性电子邮件模板

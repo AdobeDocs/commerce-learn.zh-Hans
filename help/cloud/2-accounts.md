@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 云基础架构上的Adobe Commerce — 托管和帐户
 
-在本视频中：
+在此视频中：
 
 - 了解现有的适用于Adobe Commerce&#x200B;的云托管解决方案
 - 了解Starter和Pro客户之间的区别&#x200B;

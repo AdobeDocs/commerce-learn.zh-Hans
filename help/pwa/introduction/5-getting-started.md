@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 面向开发人员的PWA Studio — 项目设置
 
-在本视频中：
+在此视频中：
 
 - PWA Studio快速入门
 - 初始项目设置

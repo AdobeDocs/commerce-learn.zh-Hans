@@ -1,5 +1,5 @@
 ---
-title: ”[!DNL Commerce] 面向商业用户 — 客户管理”
+title: '"[!DNL Commerce] 面向企业用户 — 客户管理”'
 description: 了解客户服务的建议权限，在中创建客户 [!DNL Admin]、管理客户信息和创建客户组。
 kt: 5779
 doc-type: video
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 面向企业用户 — 客户管理
+# [!DNL Commerce] 企业用户 — 客户管理
 
-在本视频中：
+在此视频中：
 
 - CSR（客户服务代表）的建议权限
 - 在中创建客户 [!DNL Admin]

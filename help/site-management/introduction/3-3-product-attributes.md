@@ -1,5 +1,5 @@
 ---
-title: ”[!DNL Commerce] （业务用户 — 属性）”
+title: '"[!DNL Commerce] 企业用户 — 属性”'
 description: 了解产品的自定义属性和系统属性。
 kt: 5769
 doc-type: video
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # [!DNL Commerce] 企业用户 — 属性
 
-在本视频中：
+在此视频中：
 
 - 系统属性
 - 自定义属性

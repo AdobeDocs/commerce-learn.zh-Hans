@@ -25,13 +25,13 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-* 刚开始使用I/O事件的Adobe Commerce和Adobe Developer App Builder的开发人员，需要创建AdobeApp Builder项目。
+* 刚开始使用I/O事件的Adobe Commerce和Adobe Developer App Builder的开发人员，需要创建一个Adobe的App Builder项目。
 
 ## 视频内容 {#video-content}
 
-* Commerce管理员中Adobe I/O事件的配置
+* 在Commerce管理员中配置Adobe I/O事件
 * 在Commerce管理员中保存私钥
-* 在Commerce管理员中保存唯一标识符
+* 在商务管理员中保存唯一标识符
 * 创建事件提供程序
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415799?quality=12&learn=on)

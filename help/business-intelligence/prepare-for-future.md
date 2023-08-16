@@ -1,8 +1,8 @@
 ---
-title: Commerce Intelligence — 为未来做准备
-description: 观看本系列视频，以阐明您对塑造数字商业未来的空前变化的理解。
-landing-page-description: 观看本系列视频，以阐明您对塑造数字商业未来的空前变化的理解。
-short-description: 观看本系列视频，以阐明您对塑造数字商业未来的空前变化的理解。
+title: Commerce Intelligence — 为未来做好准备
+description: 观看本系列视频，以澄清您对塑造数字商业未来的空前变化的理解。
+landing-page-description: 观看本系列视频，以澄清您对塑造数字商业未来的空前变化的理解。
+short-description: 观看本系列视频，以澄清您对塑造数字商业未来的空前变化的理解。
 kt: 10411
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -21,17 +21,17 @@ ht-degree: 0%
 
 ---
 
-# Commerce Intelligence — 为未来做准备
+# Commerce Intelligence — 为未来做好准备
 
-随着新型冠状病毒肺炎疫情在全球蔓延，数以百万计的人依赖数字商业来满足他们最基本的需求。 随着企业为了适应历史性的消费者需求而加班加点，将未来作为关注点变得越来越重要。
+随着新型冠状病毒肺炎疫情在全球蔓延，数百万人依赖数字商业来满足他们最基本的需求。 随着企业为了适应历史性的消费者需求而加班加点，关注未来变得前所未有地重要。
 
-在这个由三部分组成的视频系列中，商务智能分析团队重点介绍基础的、以数据为导向的电子商务实践，以帮助您的业务在充满挑战的时代中蓬勃发展，并受跨多个商业行业的汇总统计数据的支持。
+在这个由三部分组成的视频系列中，Commerce Intelligence分析团队重点介绍基础性的数据驱动型电子商务实践，以帮助您的企业在多个商业行业的汇总统计数据支持下在这段充满挑战的时期实现繁荣。
 
-观看本系列视频，以阐明您对塑造数字商业未来的空前变化的理解，以及如何为未来的发展做好准备。
+观看本系列视频，明确您对塑造数字商业未来的空前变化的理解，以及如何为未来做好准备。
 
 >[!TIP]
 >
->如果您不熟悉Commerce Intelligence，则可以 [Adobe Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} 提供完整概述，介绍如何通过数据聚合、分析和可视化图表来获取更好的业务洞察信息和结果。
+>如果您是初次使用Commerce Intelligence，则 [Adobe Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} 提供通过数据汇总、分析和可视化获得更佳业务洞察和结果的完整概述。
 
 ## 此视频面向谁？
 

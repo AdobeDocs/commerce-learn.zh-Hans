@@ -1,10 +1,10 @@
 ---
 title: 采购订单和审批
-description: 了解如何为B2B公司帐户启用采购订单和批准规则。
+description: 了解如何为B2B公司帐户启用采购订单和审批规则。
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B for Adobe Commerce" type="Positive"
+badge: label="适用于Adobe Commerce的B2B" type="Positive"
 last-substantial-update: 2023-2-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
@@ -13,8 +13,8 @@ level: Beginner, Intermediate
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 0%
+source-wordcount: '160'
+ht-degree: 1%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 - 任何超过X值的PO都必须由Y和Z批准。
 - 由Director级别或更高级别的人员创建的PO会自动获得批准。
 
-凭借其角色所需的权限，B2B客户可以设置批准规则以强制执行公司策略。
+凭借其角色所需的权限，B2B客户可以设置审批规则以强制实施公司策略。
 
 ## 此视频面向谁？
 

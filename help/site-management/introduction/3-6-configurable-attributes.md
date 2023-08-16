@@ -1,5 +1,5 @@
 ---
-title: ”[!DNL Commerce] （业务用户 — 可配置属性）”
+title: '"[!DNL Commerce] 企业用户 — 可配置的属性”'
 description: 了解如何设置可配置的产品属性。
 kt: 5772
 doc-type: video
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 企业用户 — 可配置属性
+# [!DNL Commerce] 企业用户 — 可配置的属性
 
-在本视频中：
+在此视频中：
 
-- 可配置产品属性
+- 可配置的产品属性
 
 ## 此视频面向谁？
 

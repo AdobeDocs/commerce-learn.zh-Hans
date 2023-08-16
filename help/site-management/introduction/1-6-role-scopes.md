@@ -1,6 +1,6 @@
 ---
-title: ”[!DNL Commerce] 适用于企业用户 — 角色范围和权限”
-description: 了解如何按网站或商店定义角色范围(Adobe Commerce独有)和相关权限。
+title: '"[!DNL Commerce] 业务用户 — 角色范围和权限”'
+description: 了解如何按网站或存储定义角色范围(Adobe Commerce独有)和相关权限。
 kt: 5763
 doc-type: video
 activity: use
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # [!DNL Commerce] 企业用户 — 角色范围和权限
 
-在本视频中：
+在此视频中：
 
 - 角色范围(仅限Adobe Commerce)
 

@@ -1,5 +1,5 @@
 ---
-title: ”[!DNL Commerce] （商业用户 — 产品类别）”
+title: '"[!DNL Commerce] （企业用户 — 产品类别）”'
 description: 了解如何通过设置类别来管理产品目录。
 kt: 5765
 doc-type: videos
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # [!DNL Commerce] 企业用户 — 产品类别
 
-在本视频中：
+在此视频中：
 
 - 为您的产品目录创建类别
 

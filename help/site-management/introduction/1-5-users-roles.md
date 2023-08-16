@@ -1,6 +1,6 @@
 ---
-title: ”[!DNL Commerce] 适用于企业用户 — 用户和角色”
-description: 了解关于以下内容的基础知识： [!DNL Admin] 决定权限的用户帐户和用户角色。
+title: '"[!DNL Commerce] 适用于企业用户 — 用户和角色”'
+description: 了解关于以下内容的基础知识 [!DNL Admin] 决定权限的用户帐户和用户角色。
 kt: 5762
 doc-type: video
 activity: use
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # [!DNL Commerce] 企业用户 — 用户和角色
 
-在本视频中：
+在此视频中：
 
 - [!DNL Admin] 用户帐户
 - 用户角色和权限

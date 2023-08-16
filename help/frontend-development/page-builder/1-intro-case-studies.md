@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 面向开发人员的Page Builder — 简介
 
-在本视频中：
+在此视频中：
 
 - Page Builder简介
 - 了解Page Builder功能
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此内容反映了适用于Adobe Commerce 2.3.1的Page Builder 1.0.0版本。有关更高版本中的更新的信息，请参阅 [Page Builder发行说明](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>此内容反映了Adobe Commerce 2.3.1的Page Builder 1.0.0版本。有关更高版本中的更新的信息，请参阅 [Page Builder发行说明](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35709?quality=12&learn=on)
 

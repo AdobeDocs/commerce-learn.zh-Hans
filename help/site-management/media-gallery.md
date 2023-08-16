@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 管理媒体集
 
-借助Adobe Commerce或Magento Open Source2.4，商家可以使用新的增强型媒体集来整理和管理服务器上的媒体文件。
+借助Adobe Commerce或Magento Open Source 2.4，商家可以使用新的增强型媒体集来组织和管理服务器上的媒体文件。
 
 ## 此视频面向谁？
 

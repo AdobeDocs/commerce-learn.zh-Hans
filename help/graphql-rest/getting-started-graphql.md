@@ -1,8 +1,8 @@
 ---
 title: GraphQL入门
-description: GraphQL了解如何在Adobe Commerce和 [!DNL Magento Open Source]. 了解如何使用查询、变化和架构。
-landing-page-description: GraphQL了解如何在Adobe Commerce和 [!DNL Magento Open Source]. 了解如何使用查询、变化和架构。
-short-description: GraphQL了解如何在Adobe Commerce和 [!DNL Magento Open Source]. 了解如何使用查询、变化和架构。
+description: 了解如何在 Adobe Commerce 和  [!DNL Magento Open Source] 上使用 GraphQL。了解使用查询、变化和架构。
+landing-page-description: 了解如何在 Adobe Commerce 和  [!DNL Magento Open Source] 上使用 GraphQL。了解使用查询、变化和架构。
+short-description: 了解如何在 Adobe Commerce 和  [!DNL Magento Open Source] 上使用 GraphQL。了解使用查询、变化和架构。
 kt: 11524
 doc-type: tutorial
 audience: all
@@ -15,13 +15,13 @@ exl-id: b799bd7b-11a4-4a1c-b2f4-893f6ff2994d
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 44%
 
 ---
 
 # 开始使用适用于Adobe Commerce的GraphQL
 
-如果您是GraphQL的新用户，Adobe建议先观看此介绍性视频，然后再深入了解随附的教程。
+如果您是GraphQL的新用户，Adobe建议在深入研究随附的教程之前，先从这段介绍性视频开始。
 
 ## 此视频面向谁？
 

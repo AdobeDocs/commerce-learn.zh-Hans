@@ -13,10 +13,10 @@ ht-degree: 0%
 ## 其他相关教程
 
 * [App Builder简介](../app-builder/introduction-to-app-builder.md)
-* [App Builder的可扩展框架](../app-builder/extensibility-framework-commerce-eventing.md)
+* [App Builder的可扩展性框架](../app-builder/extensibility-framework-commerce-eventing.md)
 * [App Builder的功能演示](../app-builder/app-builder-functional-demonstration.md)
 * [App Builder技术概述](../app-builder/app-builder-technical-overview.md)
-* [将应用程序提交到商城](../app-builder/submit-app-process.md)
+* [将应用程序提交到市场](../app-builder/submit-app-process.md)
 * [完成扩展信息概述](https://developer.adobe.com/commerce/marketplace/guides/sellers/extension-information/){target="_blank"}
 * [App Builder上的AmazonSales Channel](https://developer.adobe.com/commerce/extensibility/amazon-sales-channel/){target="_blank"}
-* [管理UI SDK](https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/){target="_blank"}
+* [管理员UI SDK](https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/){target="_blank"}

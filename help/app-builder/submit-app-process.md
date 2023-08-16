@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 了解如何将应用程序提交到Adobe Commerce Marketplace
 
-Adobe Commerce Marketplace现在接受提交App Builder应用程序列表。 App Builder是我们的新一代可扩展性平台，为开发人员提供了为Adobe Commerce构建安全且可扩展的应用程序所需的所有工具和服务。 开发人员现在可以将他们的应用程序发布到Adobe Commerce Marketplace，这是企业发现和购买高质量应用程序以满足其需求的可靠来源。 您可以提交应用程序以供审阅，方法是转到 [https://commercedeveloper.adobe.com](https://commercedeveloper.adobe.com/){target="blank"}.
+Adobe Commerce Marketplace现在接受提交App Builder应用程序列表。 App Builder是我们的新一代可扩展性平台，为开发人员提供了为Adobe Commerce构建安全、可扩展应用程序所需的所有工具和服务。 开发人员现在可以将他们的应用程序发布到Adobe Commerce Marketplace，这是企业发现和购买高质量应用程序以满足其需求的可靠来源。 您可以通过转到以下位置提交应用程序以供审查 [https://commercedeveloper.adobe.com](https://commercedeveloper.adobe.com/){target="blank"}.
 
 ## 此视频面向谁？
 
@@ -31,7 +31,7 @@ Adobe Commerce Marketplace现在接受提交App Builder应用程序列表。 App
 * 向Commerce Marketplace提交应用程序简介
 * 应用程序提交周期
 * 应用程序提交的技术和营销部分
-* 应用程序通过审核后将收到的示例电子邮件。
+* 应用程序通过审核后将收到的电子邮件示例。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420313)
 

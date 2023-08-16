@@ -1,5 +1,5 @@
 ---
-title: ”[!DNL Commerce] （商业用户 — 数据网格）
+title: '"[!DNL Commerce] 业务用户 — 数据网格”'
 description: 了解如何在中使用数据网格 [!DNL Commerce Admin].
 kt: 5759
 doc-type: video
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # [!DNL Commerce] 业务用户 — 数据网格
 
-在本视频中：
+在此视频中：
 
 - 在中使用数据网格 [!DNL Commerce Admin]
 

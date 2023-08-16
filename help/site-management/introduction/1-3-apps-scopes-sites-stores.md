@@ -1,5 +1,5 @@
 ---
-title: ”[!DNL Commerce] 适用于企业用户 — 站点、商店和视图”
+title: '"[!DNL Commerce] 适用于企业用户 — 站点、商店和视图”'
 description: 了解的基础知识 [!DNL Commerce] 架构，包括网站、商店、商店视图和应用程序范围之间的差异。 了解索引和缓存。
 kt: 5760
 doc-type: video
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 # [!DNL Commerce] 企业用户 — 站点、商店和视图
 
-在本视频中：
+在此视频中：
 
 - 的基础知识 [!DNL Commerce] 架构，包括网站、商店和商店视图之间的差异
 - 应用程序范围的概念
-- 有关索引和缓存以及如何执行的概述 [!DNL Commerce] 处理它们
+- 概述什么是索引和缓存，以及如何 [!DNL Commerce] 处理它们
 
 ## 此视频面向谁？
 

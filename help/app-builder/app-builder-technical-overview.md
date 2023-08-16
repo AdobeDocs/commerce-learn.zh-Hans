@@ -28,7 +28,7 @@ ht-degree: 0%
 >AmazonSales Channel扩展仍在开发中，尚未正式发布。  这些视频和教程旨在向您展示如何将Adobe Developer App Builder用于实际用例。
 
 
-## 适用于Adobe Commerce的应用程序生成器 {#app-builder-technical-overview}
+## 适用于Adobe Commerce的App Builder {#app-builder-technical-overview}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413512?quality=12&learn=on)
 

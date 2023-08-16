@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 卖方辅助购物
 
-客户有时需要帮助才能完成购买。 有些客户喜欢网上购物，但可能更喜欢通过电话订购。 您可以为已注册您商店帐户的访客和客户提供即时帮助。
+客户有时需要帮助才能完成购买。 有些客户喜欢在线购物，但可能更喜欢通过电话订购。 对于在商店中注册了帐户的访客和客户，您可以立即提供帮助。
 
 ## 此视频面向谁？
 
@@ -33,5 +33,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [为购物者提供帮助 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
-- [购物帮助 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)
+- [为购物者提供帮助 —  [!DNL Commerce] 存储和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
+- [购物协助 —  [!DNL Commerce] 存储和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)

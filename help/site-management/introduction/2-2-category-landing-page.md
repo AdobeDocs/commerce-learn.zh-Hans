@@ -1,5 +1,5 @@
 ---
-title: ”[!DNL Commerce] 适用于企业用户 — 登陆页面”
+title: '"[!DNL Commerce] 商业用户 — 登陆页面”'
 description: 了解如何设置类别登陆页面和控制外观。
 kt: 5766
 doc-type: video
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # [!DNL Commerce] 企业用户 — 登陆页面
 
-在本视频中：
+在此视频中：
 
 - 产品类别的登陆页面
 - 页面查看选项

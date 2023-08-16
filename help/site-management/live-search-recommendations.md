@@ -1,6 +1,6 @@
 ---
-title: ‘[!DNL Live Search] 推荐'
-description: 了解如何添加 [!DNL Live Search] ，获得您商店的产品推荐，并提供引人入胜、相关且个性化的购物体验。
+title: ’[!DNL Live Search] （推荐）
+description: 了解如何添加 [!DNL Live Search] ，获得您商店的产品推荐，并提供极具吸引力、相关且个性化的购物体验。
 doc-type: feature video
 audience: all
 activity: use
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 {{ee-feature}}
 
-[!DNL Live Search] 从Adobe Commerce免费为Adobe Commerce提供快速、超级相关且直观的搜索体验。 [!DNL Live Search] 由Adobe Sensei提供支持的，可使用人工智能和机器学习算法对汇总的访客数据执行深度分析。 此数据与Adobe Commerce目录结合使用后，可提供引人入胜、相关且个性化的购物体验。 此视频帮助说明如何使用实时搜索来加强产品推荐，并且是正在进行的一系列网络研讨会（“Commerce快速入门”）的一部分。
+[!DNL Live Search] 从Adobe Commerce可以免费为Adobe Commerce提供快速、超级相关且直观的搜索体验。 [!DNL Live Search] 由Adobe Sensei提供支持的，可使用人工智能和机器学习算法对汇总的访客数据执行深度分析。 此数据与Adobe Commerce目录相结合，可提供引人入胜、相关且个性化的购物体验。 此视频帮助说明如何使用实时搜索来增强产品推荐，并且是正在进行的一个网络研讨会系列 — “商务快速入门”的一部分。
 
 ## 此视频面向谁？
 
@@ -37,5 +37,5 @@ ht-degree: 0%
 
 - [简介 [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html)
 - [[!DNL Live Search] 概述](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
-- [商务服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+- [Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
 - [产品Recommendations简介](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)

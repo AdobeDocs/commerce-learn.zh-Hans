@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # Adobe Commerce Live Search完整演示
 
-Adobe Live Search的完整演示。
+Adobe Live搜索的完整演示。
 
-## 观看此视频有什么可期待的
+## 观看此视频的期待完成的任务
 
 了解如何使用Adobe Live Search配置和设置。 更好地了解方面、报表和同义词。
 
@@ -31,9 +31,9 @@ Adobe Live Search的完整演示。
 
 ## 视频内容
 
-* 了解面向客户的Facet
+* 了解面向客户的方面
 * 什么是API
-* 实时搜索报表
+* 实时搜索报告
 * 了解Facet的后台配置及其使用方式
 * 了解同义词
 * 智能促销

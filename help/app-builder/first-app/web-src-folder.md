@@ -1,6 +1,6 @@
 ---
 title: web-src文件夹
-description: 了解Web-src文件夹中的文件类型以及此示例应用程序的嵌套文件和文件夹。
+description: 了解web-src文件夹中的文件类型以及此示例应用程序的嵌套文件和文件夹。
 landing-page-description: 了解与Adobe Commerce一起使用的Adobe Developer App Builder以及web-src文件夹中的文件类型。
 kt: 12425
 doc-type: tutorial
@@ -24,12 +24,12 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-* 刚开始使用Adobe Commerce但使用AdobeApp Builder经验有限的开发人员，他们正了解 `web-src` 文件夹及其内容。
+* 刚开始接触Adobe Commerce但使用AdobeApp Builder经验有限的开发人员，他们正了解 `web-src` 文件夹及其内容。
 
 ## 视频内容
 
 * 的主要用途是什么 `web-src` 文件夹？
-* 通常包括的文件和文件夹
+* 通常包括文件和文件夹
 * 如何 `web-src` 文件夹及其中的内容在示例应用程序中使用
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)

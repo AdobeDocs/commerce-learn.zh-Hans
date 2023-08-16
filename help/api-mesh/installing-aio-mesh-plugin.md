@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-* 不熟悉API Mesh的开发人员或 [!DNL Adobe Commerce] 使用经验有限 [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} 和API Mesh。
+* 刚开始接触API Mesh或是 [!DNL Adobe Commerce] 在使用方面经验有限 [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} 和API Mesh。
 
 ## 视频内容
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 npm install -g @adobe/aio-cli
 ```
 
-安装Adobe I/O Runtime CLI后，使用以下命令安装API Mesh插件：
+安装Adobe I/O Runtime CLI后，请使用以下命令安装API Mesh插件：
 
 ```bash
 aio plugins:install @adobe/aio-cli-plugin-api-mesh

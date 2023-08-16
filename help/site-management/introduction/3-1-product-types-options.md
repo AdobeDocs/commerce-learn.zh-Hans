@@ -1,5 +1,5 @@
 ---
-title: ”[!DNL Commerce] （商业用户 — 产品类型）”
+title: '"[!DNL Commerce] （业务用户 — 产品类型）'
 description: 了解 [!DNL Commerce] 产品类型和每个类型的选项。
 kt: 5767
 doc-type: video
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # [!DNL Commerce] 企业用户 — 产品类型
 
-在本视频中：
+在此视频中：
 
 - 产品类型
 - 每种产品类型的选项

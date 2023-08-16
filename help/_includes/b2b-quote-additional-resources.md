@@ -1,5 +1,5 @@
 ---
-title: B2B报价其他资源
+title: B2B报价附加资源
 description: B2B报价的相关页面链接
 source-git-commit: eac61e862279fe0884db305fbb0a3b33feb035f1
 workflow-type: tm+mt
@@ -18,4 +18,4 @@ ht-degree: 0%
 - [协商报价](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-price-negotiation.html){target="_blank"}
 - [我的报价](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes.html){target="_blank"}
 - [管理可转让报价](https://developer.adobe.com/commerce/webapi/rest/b2b/negotiable-manage/){target="_blank"}
-- [与NegobableQuote模块集成](https://developer.adobe.com/commerce/webapi/rest/b2b/negotiable-quote/){target="_blank"}
+- [与NegotialQuote模块集成](https://developer.adobe.com/commerce/webapi/rest/b2b/negotiable-quote/){target="_blank"}

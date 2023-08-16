@@ -1,5 +1,5 @@
 ---
-title: ”[!DNL Commerce] （业务用户 — 属性集）
+title: '"[!DNL Commerce] （业务用户 — 属性集）'
 description: 了解产品属性集以及如何在目录中使用它们。
 kt: 5770
 doc-type: video
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 业务用户 — 属性集
+# [!DNL Commerce] 企业用户 — 属性集
 
-在本视频中：
+在此视频中：
 
 - 属性集
 

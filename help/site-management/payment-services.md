@@ -13,7 +13,7 @@ exl-id: 4229e78b-d1b7-4784-ac87-42d45a3d8ef7
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -38,5 +38,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [支付服务指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html)
-- [商务服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+- [Payment Services 指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html)
+- [Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)

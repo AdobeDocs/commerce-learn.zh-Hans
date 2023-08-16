@@ -1,6 +1,6 @@
 ---
-title: ”[!DNL Commerce] 面向企业用户 — 分层导航”
-description: 在您的中启用分层导航 [!DNL Commerce] 以便客户可以轻松快速地找到产品。
+title: '"[!DNL Commerce] 业务用户 — 分层导航”'
+description: 在您的网站中启用分层导航 [!DNL Commerce] 以便客户能够轻松而快速地找到产品。
 kt: 5775
 doc-type: video
 activity: use
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # [!DNL Commerce] 面向企业用户 — 分层导航
 
-在本视频中：
+在此视频中：
 
 - 启用分层导航
 

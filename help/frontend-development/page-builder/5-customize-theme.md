@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 面向开发人员的页面生成器 — 主题自定义
 
-在本视频中：
+在此视频中：
 
 - 自定义页面生成器主题
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此内容反映了适用于Adobe Commerce 2.3.1的Page Builder 1.0.0版本。有关更高版本中的更新的信息，请参阅 [Page Builder发行说明](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>此内容反映了Adobe Commerce 2.3.1的Page Builder 1.0.0版本。有关更高版本中的更新的信息，请参阅 [Page Builder发行说明](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35713?quality=12&learn=on)
 

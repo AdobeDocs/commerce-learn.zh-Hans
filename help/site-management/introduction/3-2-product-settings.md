@@ -1,5 +1,5 @@
 ---
-title: ”[!DNL Commerce] 面向商业用户 — 产品设置”
+title: '"[!DNL Commerce] 商业用户 — 产品设置”'
 description: 了解如何创建产品、配置设置和使用属性。
 kt: 5768
 doc-type: video
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # [!DNL Commerce] 企业用户 — 产品设置
 
-在本视频中：
+在此视频中：
 
 - 创建产品
 - 完成产品设置

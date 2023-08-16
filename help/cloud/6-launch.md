@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # 云基础架构上的Adobe Commerce — 服务和站点启动
 
-在本视频中：
+在此视频中：
 
-- 对上线、DNS、TLS和Fastly的审查
+- 查看上线、DNS、TLS和Fastly
 - 如何配置DNS以指向Adobe Commerce实例的生产域
 
 >[!VIDEO](https://video.tv.adobe.com/v/35697?quality=12&learn=on)

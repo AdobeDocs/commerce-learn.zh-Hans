@@ -1,8 +1,8 @@
 ---
 title: Commerce Intelligence - SQLReport Builder
-description: 了解如何使用Commerce Intelligence SQLReport Builder直接查询您的data warehouse、查看结果并快速将其转换为图表。
-landing-page-description: 观看此视频，了解如何使用Commerce Intelligence SQLReport Builder直接查询您的data warehouse、查看结果并快速将其转换为图表。
-short-description: 观看此视频，了解如何使用Commerce Intelligence SQLReport Builder直接查询您的data warehouse、查看结果并快速将其转换为图表。
+description: 了解如何使用Commerce Intelligence SQLReport Builder直接查询您的数据仓库、查看结果并快速将其转换为图表。
+landing-page-description: 观看此视频，了解如何使用Commerce Intelligence SQLReport Builder直接查询您的数据仓库、查看结果并快速将其转换为图表。
+short-description: 观看此视频，了解如何使用Commerce Intelligence SQLReport Builder直接查询您的数据仓库、查看结果并快速将其转换为图表。
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -23,21 +23,21 @@ ht-degree: 0%
 
 # MBI - SQLREPORT BUILDER
 
-SQLReport Builder允许您直接查询data warehouse、查看结果并快速将其转换为图表。 使用SQL构建报告的最佳部分是，您不必等待更新周期来迭代您创建的列。 如果结果不正确，您可以快速编辑并重新运行查询，直到符合您的预期为止。
+SQLReport Builder允许您直接查询数据仓库、查看结果，并快速将其转换为图表。 使用SQL构建报告的最佳部分是，您不必等待更新周期来迭代您创建的列。 如果结果不正确，您可以快速编辑并重新运行查询，直到符合您的预期为止。
 
 >[!IMPORTANT]
 >
 >您必须具有管理员权限才能访问SQLReport Builder。
 
-在本视频中：
+在此视频中：
 
 - 运行SQL查询
 - 可视化您的结果
-- 将报表保存到功能板
+- 将报告保存到仪表板
 
 >[!TIP]
 >
->如果您不熟悉Commerce Intelligence，则可以 [Adobe Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} 提供完整概述，介绍如何通过数据聚合、分析和可视化图表来获取更好的业务洞察信息和结果。
+>如果您是初次使用Commerce Intelligence，则 [Adobe Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} 提供通过数据汇总、分析和可视化获得更佳业务洞察和结果的完整概述。
 
 ## 此视频面向谁？
 

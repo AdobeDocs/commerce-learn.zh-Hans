@@ -1,7 +1,7 @@
 ---
 title: 操作文件夹
 description: 了解此示例应用程序的actions文件夹中的文件类型。
-landing-page-description: 了解与Adobe Commerce一起使用的Adobe Developer App Builder以及actions文件夹中的文件类型。
+landing-page-description: 了解与Adobe Developer一起使用的Adobe Commerce App Builder以及actions文件夹中的文件类型。
 kt: 12422
 doc-type: tutorial
 audience: all
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # 了解操作文件夹 {#actions-folder}
 
-此 `actions` 此示例应用程序的文件夹包含一些JavaScript文件和一个名为的文件夹 `commerce`. 所示的JavaScript是一个非常好的示例文件，如果与您的工作相关，则可以重复使用。 使用OAuth和REST连接到Adobe Commerce应用程序时，此文件夹可以节省开发时间。
+此 `actions` 此示例应用程序的文件夹包含一些JavaScript文件和一个名为的文件夹 `commerce`. 所显示的JavaScript是一个非常好的示例文件，如果您的工作与它相关，则可以重复使用。 使用OAuth和REST连接到Adobe Commerce应用程序时，此文件夹可以节省开发时间。
 
-此示例中文件夹的实际名称是任意的，但了解其名称可以帮助您解释示例代码。 通过使用有意义的命名约定，可以避免在应用程序变得更加复杂时造成混淆。
+本示例中文件夹的实际名称是任意的，但了解其名称可以帮助您解释示例代码。 通过使用有意义的命名约定，可以避免在应用程序变得更复杂时造成混淆。
 
 ## 此视频面向谁？
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 * App Builder和示例模块简介，重点介绍 `actions` 文件夹
 * 如何使用“actions”文件夹
 * 在中找到JavaScript文件的用途 `actions` 和 `commerce` 文件夹
-* OAuth身份验证文件的快速概述
+* OAuth身份验证文件快速概述
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416590?quality=12&learn=on)
 

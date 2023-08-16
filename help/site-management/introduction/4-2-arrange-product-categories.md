@@ -1,5 +1,5 @@
 ---
-title: ”[!DNL Commerce] 面向企业用户 — 类别定位”
+title: '"[!DNL Commerce] 面向企业用户 — 类别定位”'
 description: 在类别中定位产品，以便客户在顶部看到您希望他们看到的产品。
 kt: 5776
 doc-type: video
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # [!DNL Commerce] 面向企业用户 — 类别定位
 
-在本视频中：
+在此视频中：
 
 - 类别产品定位
 

@@ -1,5 +1,5 @@
 ---
-title: ”[!DNL Commerce] 适用于企业用户 — 商店视图和缓存清除”
+title: '"[!DNL Commerce] 适用于企业用户 — 商店视图和缓存清除”'
 description: 了解如何创建商店视图和清除缓存。
 kt: 5761
 doc-type: video
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 适用于企业用户 — 商店视图和缓存清除
+# [!DNL Commerce] 对于企业用户 — 商店视图和缓存清除
 
-在本视频中：
+在此视频中：
 
 - 创建商店视图
 - 清除缓存

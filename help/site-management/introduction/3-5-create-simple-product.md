@@ -1,5 +1,5 @@
 ---
-title: ”[!DNL Commerce] 面向企业用户 — 简单产品”
+title: '"[!DNL Commerce] 适用于企业用户 — 简单产品”'
 description: 了解如何使用产品属性集创建简单产品。
 kt: 5771
 doc-type: video
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 面向企业用户 — 简单的产品
+# [!DNL Commerce] 面向企业用户 — 简单产品
 
-在本视频中：
+在此视频中：
 
 - 使用产品属性集创建简单产品
 

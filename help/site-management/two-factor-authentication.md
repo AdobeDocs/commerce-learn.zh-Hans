@@ -37,5 +37,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [双重身份验证(2FA) — 管理系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html)
+- [双重身份验证(2FA) — 管理员系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html)
 - [配置双重身份验证(2FA) — 开发人员文档](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)

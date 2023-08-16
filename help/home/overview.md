@@ -1,5 +1,5 @@
 ---
-title: ‘[!DNL Commerce] 视频和Tutorials
+title: '[!DNL Commerce] 视频和教程'
 description: Adobe Commerce和Magento Open Source的视频和教程集合
 last-substantial-update: 2023-01-19T00:00:00Z
 feature: B2B, GraphQL, REST, Commerce Intelligence, Cloud, Best Practices, API Mesh, App Builder
@@ -10,13 +10,13 @@ exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 # Commerce教程 {#videos}
 
-欢迎使用 [!DNL Commerce] 视频和教程集合。 使用这些资源以及 [文档](https://experienceleague.adobe.com/docs/commerce.html)，提供了学习如何使用Adobe Commerce和Magento Open Source支持您的电子商务业务的机会。 该集合旨在为后端开发人员、前端开发人员、系统管理员、商家和组织内的其他角色提供有用的内容。
+欢迎使用 [!DNL Commerce] 视频和教程集合。 使用这些资源以及 [文档](https://experienceleague.adobe.com/docs/commerce.html)，提供了一个学习如何使用Adobe Commerce和Magento Open Source来支持您的电子商务业务的机会。 该集合旨在为后端开发人员、前端开发人员、系统管理员、商家和组织内的其他角色提供有用的内容。
 
 <div id="whats-new-section">
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 - [Adobe Developer App Builder](../app-builder/introduction-to-app-builder.md)
 - [API Mesh入门](../api-mesh/getting-started-api-mesh.md)
 - [GraphQL简介](../graphql-rest/intro-graphql.md)
-- [定位恶意IP](../new-relic/malicious-ip.md)
+- [查找恶意IP](../new-relic/malicious-ip.md)
 
 </div>
 <div id="recs-overview-body-1"></div>
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->此 [Commerce事件](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) 通过空间，您可以访问可根据需要观看的录制事件内容。
+>此 [商务事件](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) 通过共享空间，您可以访问根据需要观看的录制事件内容。
 
 ## 其他资源
 

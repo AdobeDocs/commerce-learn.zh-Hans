@@ -1,5 +1,5 @@
 ---
-title: 了解如何使用Commerce事件创建应用程序生成器项目
+title: 了解如何使用商务事件创建App Builder项目
 description: 了解如何创建用于Commerce事件的应用程序生成器项目
 landing-page-description: 了解如何创建AdobeApp Builder项目以使用Adobe Commerce事件
 short-description: 了解如何创建AdobeApp Builder项目以使用Adobe Commerce事件
@@ -25,12 +25,12 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-* 刚开始使用I/O事件的Adobe Commerce和Adobe Developer App Builder的开发人员，需要创建AdobeApp Builder项目。
+* 刚开始使用I/O事件的Adobe Commerce和Adobe Developer App Builder的开发人员，需要创建一个Adobe的App Builder项目。
 
 ## 视频内容 {#video-content}
 
 * 创建App Builder项目
-* 使用Adobe Developer控制台
+* 使用Adobe Developer Console
 * 使用Adobe I/O
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415797?quality=12&learn=on)

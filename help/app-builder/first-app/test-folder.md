@@ -1,7 +1,7 @@
 ---
 title: 测试文件夹
 description: 了解此示例应用程序的测试文件夹中的文件类型。
-landing-page-description: 了解与Adobe Commerce一起使用的Adobe Developer App Builder以及测试文件夹中的文件类型。
+landing-page-description: 了解与Adobe Developer一起使用的Adobe Commerce App Builder以及测试文件夹中的文件类型。
 kt: 12424
 doc-type: tutorial
 audience: all
@@ -20,13 +20,13 @@ ht-degree: 0%
 
 # 了解测试文件夹 {#test-folder}
 
-此 `test` 此示例应用程序的文件夹包含一个JavaScript文件，在应用程序上运行单元测试时将使用该文件。
+此 `test` 此示例应用程序的文件夹包含单个JavaScript文件，在应用程序上运行单元测试时将使用该文件。
 
-这是一个简单的示例，可以扩展为针对特定应用程序创建全面的测试。
+这是一个简单的示例，可以展开它以便为特定的应用程序创建全面的测试。
 
 ## 此视频面向谁？
 
-* 刚开始使用Adobe Commerce但使用AdobeApp Builder经验有限的开发人员，他们想要了解 `test` 文件夹。
+* 刚开始接触Adobe Commerce但使用AdobeApp Builder经验有限的开发人员，他们想要了解 `test` 文件夹。
 
 ## 视频内容
 

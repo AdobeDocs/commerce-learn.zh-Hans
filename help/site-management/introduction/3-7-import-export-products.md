@@ -1,5 +1,5 @@
 ---
-title: ”[!DNL Commerce] （商业用户 — 导入和导出产品）
+title: '"[!DNL Commerce] 商业用户 — 导入和导出产品”'
 description: 了解如何导入和导出目录产品。
 kt: 5773
 doc-type: video
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # [!DNL Commerce] 企业用户 — 导入和导出产品
 
-在本视频中：
+在此视频中：
 
 - 正在导入产品
 - 导出产品

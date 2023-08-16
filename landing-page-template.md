@@ -1,7 +1,7 @@
 ---
-title: 指南標題
+title: 指南标题
 seo-title: seo title
-description: 指南說明
+description: 指南描述
 seo-description: seo-description
 source-git-commit: 505de9cb6be2624984b0d6adf3ec28960d07978c
 workflow-type: tm+mt
@@ -11,75 +11,72 @@ ht-degree: 0%
 ---
 
 
-# 概觀 {#overview}
+# 概述 {#overview}
 
-本使用手冊主要介紹的產品1-2句概觀。 本使用手冊包含許多功能的相關影片和教學課程 *xyz*.
+本用户指南中心产品的1-2句概述。 本用户指南包含了视频和教程，其中介绍了的众多特性和功能 *xyz*.
 
 ## 新增功能
 
-* **[新功能影片（影片）](README.md)**
+* **[新增功能视频（视频）](README.md)**
+  <br>
+  *了解这项全新的酷炫功能。*
 
-   <br>
-   *瞭解這項嶄新功能。*
+* **[新增功能视频（视频）](README.md)**
+  <br>
+  *了解这项全新的酷炫功能。*
 
-* **[新功能影片（影片）](README.md)**
+* **[新文章(Article)](README.md)**
+  <br>
+  *单击此处了解有关功能xyz的更多信息！*
 
-   <br>
-   *瞭解這項嶄新功能。*
-
-* **[新文章（文章）](README.md)**
-
-   <br>
-   *按一下這裡以深入瞭解功能xyz！*
-
-## 工作人員選擇
+## 员工精选
 
 <table>
 <tr>
   <td>
     <a href="#">
-      <img alt="400 x 225畫素" src="myimage.png" />
+      <img alt="400 x 225像素" src="myimage.png" />
     </a>
     <div>
       <a href="#">
-    <strong>啟用內容1</strong>
+    <strong>启用内容1</strong>
     </a>
     </div>
     <p>
-    <em>啟用內容的簡短說明。</em>
+    <em>有关启用内容的简短描述。</em>
     <p>
   </td>
    <td>
     <a href="#">
-      <img alt="400 x 225畫素" src="myimage.png" />
+      <img alt="400 x 225像素" src="myimage.png" />
     </a>
     <div>
       <a href="#">
-    <strong>啟用內容1</strong>
+    <strong>启用内容1</strong>
     </a>
     </div>
     <p>
-    <em>啟用內容的簡短說明。</em>
+    <em>有关启用内容的简短描述。</em>
     <p>
   </td>
   <td>
     <a href="#">
-      <img alt="400 x 225畫素" src="myimage.png" />
+      <img alt="400 x 225像素" src="myimage.png" />
     </a>
     <div>
       <a href="#">
-    <strong>啟用內容1</strong>
+    <strong>启用内容1</strong>
     </a>
     </div>
     <p>
-    <em>啟用內容的簡短說明。</em>
+    <em>有关启用内容的简短描述。</em>
     <p>
   </td>
 </tr>
 </table>
 
-## 其他資源
+## 其他资源
 
-* [資源#1](README.md)
-* [資源#2](README.md)
-* [資源#3](README.md)
+* [资源#1](README.md)
+* [资源#2](README.md)
+* [资源#3](README.md)

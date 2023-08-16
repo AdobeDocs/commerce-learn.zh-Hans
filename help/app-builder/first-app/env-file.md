@@ -1,7 +1,7 @@
 ---
-title: 环境文件
+title: .env文件
 description: 了解此示例应用程序的.env文件中的文件类型
-landing-page-description: 了解与Adobe Commerce一起使用的Adobe Developer App Builder以及在.env文件中使用什么类型的内容
+landing-page-description: 了解与Adobe Developer一起使用的Adobe Commerce App Builder以及.env文件中使用的内容类型
 kt: 12423
 doc-type: tutorial
 audience: all
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 # 生成和配置.env文件 {#env-file}
 
-此 `.env` 是一个特殊文件，不是示例模块的一部分，但非常重要，可用于您的Adobe Developer App Builder应用程序。 此文件包含密钥和其他信息。 避免将此文件提交到任何代码存储库。
+此 `.env` 是一个特殊文件，不是示例模块的一部分，但非常重要，适合在Adobe Developer App Builder应用程序中使用。 此文件包含密钥和其他信息。 避免将此文件提交到任何代码存储库。
 
 ## 此视频面向谁？
 
-* 刚开始使用Adobe Commerce但使用AdobeApp Builder经验有限的开发人员，他们想要了解 `.env` 文件。
+* 刚开始接触Adobe Commerce但使用AdobeApp Builder经验有限的开发人员，他们想要了解 `.env` 文件。
 
 ## 视频内容
 
-* .env文件及其用途简介
+* .env文件简介及其用途
 * 如何生成.env文件
 * 如何附加文件以添加新密钥
 * 避免提交此文件，因为它包含敏感信息
@@ -55,7 +55,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-您可以在文件中看到示例模块中使用这些静态值 `actions/commerce.index.js`.
+您可以在文件中看到示例模块中使用的这些静态值 `actions/commerce.index.js`.
 
 ```javascript
         const oauth = getCommerceOauthClient(

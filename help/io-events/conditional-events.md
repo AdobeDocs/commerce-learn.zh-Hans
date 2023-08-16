@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-* 刚开始使用I/O事件的Adobe Commerce和Adobe Developer App Builder的开发人员，需要创建AdobeApp Builder项目。
+* 刚开始使用I/O事件的Adobe Commerce和Adobe Developer App Builder的开发人员，需要创建一个Adobe的App Builder项目。
 
 ## 视频内容 {#video-content}
 

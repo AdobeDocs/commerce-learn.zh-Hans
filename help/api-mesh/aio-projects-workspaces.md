@@ -44,7 +44,7 @@ ht-degree: 0%
 
 ## Adobe Developer控制台中的项目简介
 
-Adobe Developer控制台中的所有开发工作都是作为项目的一部分完成的。 一个项目可以包含一个或多个产品以及API、事件、运行时和插件的组合。 有关Adobe Developer控制台中项目的更多详细信息，请访问 [项目](https://developer.adobe.com/developer-console/docs/guides/projects/){target="_blank"}.
+Adobe Developer控制台中的所有开发工作都是作为项目的一部分完成的。 项目可以包含一个或多个产品以及API、事件、运行时和插件的组合。 有关Adobe Developer控制台中项目的更多详细信息，请访问 [项目](https://developer.adobe.com/developer-console/docs/guides/projects/){target="_blank"}.
 
 有关在API Mesh上下文中使用项目和工作区的更多信息，请参阅 [修改项目和工作区](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces){target="_blank"}.
 

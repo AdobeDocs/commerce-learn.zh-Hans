@@ -1,8 +1,8 @@
 ---
-title: ”[!DNL Commerce] 企业用户 —  [!DNL Admin] 菜单”
+title: '"[!DNL Commerce] 企业用户 —  [!DNL Admin] 菜单”'
 description: 中的功能菜单概述 [!DNL Commerce] v2.3 [!DNL Admin].
-landing-page-description: 观看本视频系列，了解Adobe Commerce的基础知识以及如何在Admin中工作。
-short-description: 观看本视频系列，了解Adobe Commerce的基础知识以及如何在Admin中工作。
+landing-page-description: 观看本视频系列，开始了解 Adobe Commerce 的基础知识以及如何在 Admin 中工作。
+short-description: 观看本视频系列，开始了解 Adobe Commerce 的基础知识以及如何在 Admin 中工作。
 kt: 5758
 doc-type: video
 activity: use
@@ -15,17 +15,17 @@ exl-id: 96e36923-d24b-4259-9b91-cd4ea73ead6f
 source-git-commit: 79529c8d77df74e6f77ab3a01b45541a38dbf680
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 27%
 
 ---
 
 # [!DNL Commerce] 企业用户 —  [!DNL Admin] 菜单
 
-此 [!DNL Commerce Admin] 是受密码保护的后台，您可以在这里设置产品和促销活动、履行客户订单并配置您的 [!DNL Commerce] 存储以满足您的业务需求。
+此 [!DNL Commerce Admin] 是受密码保护的后台，您可以在此设置产品和促销活动、完成客户订单并配置 [!DNL Commerce] 存储以满足您的业务需求。
 
-在本视频中：
+在此视频中：
 
-- 查看管理员菜单
+- 查看Admin菜单
 
 ## 此视频面向谁？
 

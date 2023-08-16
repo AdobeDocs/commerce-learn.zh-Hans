@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 管理订单状态
 
-客户下订单时，销售订单将创建为事务处理的临时记录。 销售订单的状态为 _待处理_ 直到收到付款。 处于“待定”状态时，可以编辑或取消订单，直到收到付款并生成发票为止。 在本视频中，了解如何检查订单状态及其详细信息，以及如何根据需要更改订单的状态。
+客户下达订单时，销售订单将创建为事务处理的临时记录。 销售订单的状态为 _待处理_ 直到收到付款。 处于“待定”状态时，可以编辑或取消订单，直到收到付款并生成发票为止。 在本视频中，了解如何检查订单状态及其详细信息，以及如何根据需要更改订单的状态。
 
 ## 此视频面向谁？
 
@@ -32,5 +32,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [处理订单 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
-- [订单状态 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)
+- [处理订单 —  [!DNL Commerce] 存储和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
+- [订单状态 —  [!DNL Commerce] 存储和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)

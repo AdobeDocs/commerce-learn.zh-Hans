@@ -19,11 +19,11 @@ ht-degree: 0%
 
 # 面向开发人员的PWA Studio- Peregrine
 
-在本视频中：
+在此视频中：
 
 - Peregrine简介
-- Peregrine库
-- 了解佩雷格林背后的动机
+- 佩雷格林图书馆
+- 了解Peregrine背后的动机
 - 区分Peregrine钩子和爪子
 
 ## 此视频面向谁？

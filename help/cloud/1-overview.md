@@ -12,7 +12,7 @@ doc-type: video
 audience: all
 activity: use
 exl-id: 13ebcc7f-c0ed-4e8f-8344-1d1adb4249db
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: bf8571af4d06b26fd038efea71b9f0890c780ae7
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 52%
@@ -23,7 +23,7 @@ ht-degree: 52%
 
 在此视频中：
 
-- 确定云栈栈中的关键技术&#x200B;。
+- 确定云栈栈中的关键技术
 - 描述云基础架构上Adobe Commerce的内容投放策略
 - 了解只读文件系统的价值
 

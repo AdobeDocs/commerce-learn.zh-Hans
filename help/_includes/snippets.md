@@ -1,7 +1,7 @@
 ---
 title: 版本横幅
 description: 重用了可视元素来记录应用于特定版本的功能或页面
-source-git-commit: 8c7c64ddff456815b0a1649f497e917da8b8fca0
+source-git-commit: 066e031bd98458c8692f1cb3234ff1ecd1b99e6e
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 ## 仅限B2B的功能 {#b2b-feature}
 
 <table style="border:1px solid green">
-<tr><td><img alt="Adobe Commerce功能" src="../assets/b2b.svg" width="20" height="20" /> 独占功能仅适用于 <a href="https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html#product-editions">适用于Adobe Commerce的B2B</a></td></tr>
+<tr><td><img alt="Adobe Commerce功能" src="../assets/b2b.svg" width="20" height="20" /> 独占功能仅适用于 <a href="https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html">适用于Adobe Commerce的B2B</a></td></tr>
 </table>
 
 ## 400问题 {#avoid-400-error}

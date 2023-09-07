@@ -5,24 +5,24 @@ doc-type: feature video
 audience: all
 activity: use
 kt: 13801
-badge: label="适用于Adobe Commerce的B2B" type="Positive"
 last-substantial-update: 2023-6-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 2c573690-d7b3-43ce-832b-06aca0596ee9
-source-git-commit: b98ed52f24260d1840087b7d0f5040a9cd522859
+source-git-commit: 8b29c9d82a3dbcf5a8382eea2512e2d67b38d0f4
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
 # 使用REST API的B2B销售报价单行项目注释
 
-{{b2b-feature}}
 了解如何通过REST API为Adobe Commerce B2B报价使用行项目注释。
+
+{{b2b-feature}}
 
 ## 此视频面向谁？
 

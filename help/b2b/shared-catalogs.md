@@ -4,27 +4,26 @@ description: 了解如何使用B2B共享目录来维护不同公司的带自定�
 doc-type: feature video
 audience: all
 activity: use
-badge: label="适用于Adobe Commerce的B2B" type="Positive"
 last-substantial-update: 2023-5-10
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 74fb5548-a077-4c09-a351-0be830060841
-source-git-commit: ff0ae0d4df028341967b1e0f186e85d83c56ece4
+source-git-commit: abde2b1e7d1fd1fd5387f2564e79b086fb808b2f
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
 # 管理共享目录
 
-{{b2b-feature}}
-
 Adobe Commerce的B2B使您能够使用自定义定价为不同的公司维护封闭共享目录。 除了标准的主要产品目录外，它还允许客户访问具有不同定价结构的两种共享目录。
 
 如果配置中启用了共享目录功能，则管理员仍可看到原始主目录，但店面中只能看到默认（常规）公共共享目录。 此外，可以创建仅对特定公司帐户成员可见的自定义目录。
+
+{{b2b-feature}}
 
 ## 此视频面向谁？
 

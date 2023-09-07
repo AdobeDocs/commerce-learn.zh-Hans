@@ -4,25 +4,25 @@ description: 了解如何直接从管理员为您的商店创建、预览和计�
 doc-type: feature video
 audience: all
 activity: use
-badge: label="仅在Adobe Commerce中" type="Positive"
+kt: 13907
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Staging
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 85cd8ab916d2125333d5fe11affeab7620f7f6b1
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
 # 内容暂存
 
-{{ee-feature}}
-
 内容暂存使您的业务团队能够直接从管理员轻松创建、预览和计划存储的各种内容更新。 例如，不是考虑静态页面，而是将页面视为可以按照计划添加或删除的不同元素的集合。 您可以使用内容暂存创建一个页面，该页面会在一年中按计划自动更改。
+
+{{ee-feature}}
 
 ## 此视频面向谁？
 

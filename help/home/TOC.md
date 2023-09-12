@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 68942d6c26da75adf93671b2d6a8bada38c1989a
+source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '526'
 ht-degree: 3%
 
 ---
@@ -23,7 +23,6 @@ ht-degree: 3%
       + [5 — 开发](../cloud/5-dev-config.md)
       + [6 — 服务和DNS](../cloud/6-launch.md)
 + GraphQL和REST {#graphql-rest}
-   + [GraphQL入门](../graphql-rest/getting-started-graphql.md)
    + [GraphQL基础知识](../graphql-rest/intro-graphql.md)
    + [查询](../graphql-rest/graphql-queries.md)
    + [突变](../graphql-rest/graphql-mutations.md)

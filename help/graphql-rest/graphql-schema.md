@@ -3,25 +3,35 @@ title: GraphQL的架构语言
 description: 了解GraphQL中涉及的架构。 阅读架构的说明，以及一些有趣的模式和读取架构的方法。
 landing-page-description: 以下是GraphQL的简介。 了解架构以及如何解释某些元素
 short-description: 以下是GraphQL的简介。 了解架构以及如何解释某些元素
-kt: 11524
-doc-type: tutorial
+kt: 13939
+doc-type: video
 audience: all
-last-substantial-update: 2022-12-13T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
 
 # 架构语言
 
-使用的查询和突变依赖于在服务器上实现的特定数据图，GraphQL运行时将使用这些数据图解析查询。 GraphQL规范定义了一种不可知语言，用于表示数据图的类型和关系。
+这是GraphQL和Adobe Commerce系列的第4部分。 使用的查询和突变依赖于在服务器上实现的特定数据图，GraphQL运行时将使用这些数据图解析查询。 GraphQL规范定义了一种不可知语言，用于表示数据图的类型和关系。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
+
+## 本系列中GraphQL的相关视频和教程
+
+* [第1部分GraphQL — 简介](../graphql-rest/intro-graphql.md)
+* [第2部分GraphQL — 查询](../graphql-rest/graphql-queries.md)
+* [第3部分GraphQL — 突变](../graphql-rest/graphql-mutations.md)
+
+## 模式示例
 
 下面是一个缩写型架构，它支持您目前所查看的查询和突变：
 

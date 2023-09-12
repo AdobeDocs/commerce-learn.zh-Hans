@@ -4,26 +4,34 @@ description: 了解如何在Adobe Commerce上使用GraphQL和 [!DNL Magento Open
 landing-page-description: 了解如何在Adobe Commerce上使用GraphQL和 [!DNL Magento Open Source]. 对Adobe Commerce和GET使用GraphQL和POST调用 [!DNL Magento Open Source].
 short-description: 了解如何在Adobe Commerce上使用GraphQL和 [!DNL Magento Open Source]. 对Adobe Commerce和GET使用GraphQL和POST调用 [!DNL Magento Open Source].
 kt: 11524
-doc-type: tutorial
+doc-type: video
 audience: all
-last-substantial-update: 2022-12-13T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
 
 # GraphQL简介
 
-GraphQL已迅速成为功能强大的客户端应用程序与后端交互的行业标准。 随着该平台在Headless实施领域的不断扩展，它对于Adobe Commerce开发人员来说越来越重要。
+这是GraphQL和Adobe Commerce系列的第1部分。 GraphQL已迅速成为功能强大的客户端应用程序与后端交互的行业标准。 随着该平台在Headless实施领域的不断扩展，它对于Adobe Commerce开发人员来说越来越重要。
 
 如果您不熟悉GraphQL，本节将引导您了解基本概念和用法。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424117?learn=on)
+
+## 本系列中GraphQL的相关视频和教程
+
+* [第2部分GraphQL — 查询](../graphql-rest/graphql-queries.md)
+* [第3部分GraphQL — 突变](../graphql-rest/graphql-mutations.md)
+* [第4部分GraphQL — 模式](../graphql-rest/graphql-schema.md)
 
 ## 什么是GraphQL？
 

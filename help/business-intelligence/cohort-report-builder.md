@@ -5,7 +5,7 @@ landing-page-description: 观看本视频，了解如何使用Commerce Intellige
 short-description: 观看本视频，了解如何使用Commerce Intelligence同类群组Report Builder创建与您的业务相关的优化报表和分析。
 kt: 10288
 doc-type: feature video
-solution: Commerce,Magento Business Intelligence
+solution: Commerce,Commerce Intelligence
 audience: all
 activity: use
 last-substantial-update: 2023-2-10
@@ -14,7 +14,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 1d5d6f96-3e0d-4c0d-a8fe-370be6ea1b38
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%

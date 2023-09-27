@@ -5,7 +5,7 @@ landing-page-description: 观看此视频，了解如何使用Commerce Intellige
 short-description: 观看此视频，了解如何使用Commerce Intelligence SQLReport Builder直接查询您的数据仓库、查看结果并快速将其转换为图表。
 kt: 10288
 doc-type: feature video
-solution: Commerce,Magento Business Intelligence
+solution: Commerce,Commerce Intelligence
 audience: all
 activity: use
 last-substantial-update: 2023-2-10
@@ -14,7 +14,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%

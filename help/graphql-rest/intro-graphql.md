@@ -1,7 +1,7 @@
 ---
 title: GraphQL简介
-description: 了解如何在Adobe Commerce上使用GraphQL和 [!DNL Magento Open Source]. 对Adobe Commerce和GET使用GraphQL和POST调用 [!DNL Magento Open Source].
-short-description: 了解如何使用Adobe Commerce的GraphQLGET和POST调用，以及 [!DNL Magento Open Source].
+description: 了解如何在 Adobe Commerce 和  [!DNL Magento Open Source] 上使用 GraphQL。对 Adobe Commerce 和  [!DNL Magento Open Source] 使用 GraphQL GET 和 POST 调用。
+short-description: 了解如何对 Adobe Commerce 和  [!DNL Magento Open Source] 使用 GraphQL GET 和 POST 调用。
 kt: 11524
 doc-type: video
 audience: all
@@ -14,7 +14,7 @@ exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
 source-git-commit: 750c8c9c5c6b3e01b9af8aacae31f3d521c4f7b7
 workflow-type: tm+mt
 source-wordcount: '497'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 

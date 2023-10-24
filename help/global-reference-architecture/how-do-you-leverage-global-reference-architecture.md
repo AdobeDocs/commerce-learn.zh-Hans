@@ -10,9 +10,10 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: eaee7e251c3b55d6d9991f61ddeffc6036725889
+exl-id: 3b733e3c-b292-4b1a-96f2-30c14f35ac67
+source-git-commit: 803b418ec85c907d087f8fe243799b56a281219b
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 了解如何利用全球参考架构或GRA。 为了更好地为成功实施准备GRA，Adobe专家讨论了项目的各个阶段，并详细介绍了发现阶段。 讨论QA资源，以及它们如何成为GRA实施的宝贵资源。
 
-## 此视频面向谁？
+## 受众
 
 * 任何需要了解此概念的人。
 * 具有多个品牌的大型项目

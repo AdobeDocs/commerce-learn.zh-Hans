@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 3c020ae0cdf8fd45752dd44bfa4f914371d89549
+source-git-commit: 3f354cbac9d0f64fec509fc06c6cf0d41c7287ae
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '540'
 ht-degree: 3%
 
 ---
@@ -27,6 +27,9 @@ ht-degree: 3%
       + [利用全球参考体系结构](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
       + [架构师GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
       + [实施全球参考体系结构](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
+   + 商务功能 {#capabilities}
+      + [数据连接](../capabilities/data-connection.md)
+      + [Live Search完整演示](../capabilities/live-search-full-demonstration.md)
 + GraphQL和REST {#graphql-rest}
    + [GraphQL基础知识](../graphql-rest/intro-graphql.md)
    + [查询](../graphql-rest/graphql-queries.md)
@@ -99,7 +102,7 @@ ht-degree: 3%
    + [设置产品Recommendations](../site-management/product-recommendations.md)
    + [Live Search简介](../site-management/live-search.md)
    + [推荐的实时搜索](../site-management/live-search-recommendations.md)
-   + [Live Search完整演示](../site-management/live-search-full-demonstration.md)
+
 + 订单和履行 {#orders}
    + [商店履行概述](../site-management/store-fulfillment.md)
    + [管理订单状态](../site-management/order-status.md)

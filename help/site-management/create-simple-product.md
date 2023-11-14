@@ -5,33 +5,33 @@ kt: 14446
 doc-type: video
 audience: all
 activity: use
-last-substantial-update: 2023-11-13T00:00:00Z
+last-substantial-update: 2023-11-14T00:00:00Z
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 9f5d0e83995d12b5884c53fc8bcb0e9d1913768e
+source-git-commit: 89dc3b7f456c9434921ed870369712a721895d02
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
 # 创建简单产品
 
-了解如何使用REST API和商务管理员创建简单产品。
+了解如何使用REST API和Adobe Commerce管理员创建简单的产品。
 
 ## 此视频面向谁？
 
 - 网站管理员
 - 电子商务促销商
-- Adobe Commerce的新开发人员，需要了解如何使用REST在Adobe Commerce中创建产品
+- 新的Adobe Commerce开发人员，他们想要了解如何使用REST API在Adobe Commerce中创建产品。
 
 ## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425650?learn=on)
 
-## 用于创建产品的CURL代码示例
+## 使用curl创建产品
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -49,7 +49,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }
 ```
 
-## 用于获取产品的CURL代码示例
+## 使用curl获取产品
 
 ```bash
 curl --location '{{your.url.here}}rest/default/V1/products/some-product-sku' \

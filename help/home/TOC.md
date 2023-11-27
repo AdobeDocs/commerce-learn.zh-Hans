@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 04936bd18dd2a34f8a1aa738594c7dd99cbeb37c
+source-git-commit: bc425e44acbd8cf726a7f947065cc59daa785b62
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '552'
 ht-degree: 3%
 
 ---
@@ -57,6 +57,7 @@ ht-degree: 3%
       + [结论](../app-builder/first-app/conclusion.md)
       + [示例模块源代码](https://github.com/magento/app-builder-samples){target="_blank"}
    + Adobe Commerce的IO事件 {#io-events}
+      + [IO事件快速入门](../io-events/getting-started-io-events.md)
       + [Adobe Commerce 2.4.5安装](../io-events/2-4-5-installation.md)
       + [Adobe Commerce 2.4.6安装](../io-events/2-4-6-installation.md)
       + [创建App Builder项目](../io-events/create-app-builder-project.md)

@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: eec9a85198f963404f5ba82fc2fc76315a82f964
+source-git-commit: b44376f9f30e3c02d2c43934046e86faac76f17d
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,9 @@ ht-degree: 0%
 
 # 创建分组产品
 
-分组产品由简单独立产品组成，这些产品以组形式显示。 您可以提供单个产品的变体或按季节或主题对它们进行分组。 在创建分组产品之前，请验证要包含在分组中的所有简单产品在Adobe Commerce中均可用，并创建任何不存在的产品。 在本教程中，您将了解如何使用REST API和Adobe Commerce管理员创建分组产品。
+分组产品由简单独立产品组成，这些产品以组形式显示。 您可以提供单个产品的变体或按季节或主题对它们进行分组。 在创建分组产品之前，请验证要包含在分组中的所有简单产品在Adobe Commerce中均可用，并创建任何不存在的产品。
+
+在本教程中，您将了解如何使用REST API和Adobe Commerce管理员创建分组产品。
 
 使用REST API在管理员中创建组产品：
 
@@ -29,9 +31,9 @@ ht-degree: 0%
 1. 使用简单产品填充空的分组产品。
 1. 创建一个空的分组产品并关联简单产品。
 
-在Adobe Commerce管理员中创建分组产品时，建议先创建简单产品。 准备好创建分组产品后，将简单产品分配给一个批次中的分组产品，以关联这些产品。
+   将简单产品与分组产品关联时，排序顺序属性(`position`)时，前端会使用有效负荷，以按所需顺序显示关联的产品。 如果 `position` 属性未指定，则产品会按添加到分组产品的顺序显示。
 
-有效负载中的排序顺序属性是必需的，并且前端用于按所需顺序显示关联产品。
+从Adobe Commerce管理员创建分组产品时，请先创建简单产品。 准备好创建分组产品后，将简单产品分配给一个批次中的分组产品，以关联这些产品。
 
 ## 此视频面向谁？
 

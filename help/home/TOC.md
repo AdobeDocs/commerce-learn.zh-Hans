@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 4d6b9e8fcdd7f544075ff9bb28fd95e28ab3d6a4
+source-git-commit: 7ffd5c0edaa446f8841e15012ff4a0ff4923466b
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '578'
 ht-degree: 3%
 
 ---
@@ -79,7 +79,10 @@ ht-degree: 3%
    + [添加网站、商店和商店视图](../site-management/add-websites-stores-views.md)
    + [更改商店URL](../site-management/change-store-url.md)
    + [配送方式](../site-management/shipping-delivery.md)
-   + [使用付款服务](../site-management/payment-services.md)
+   + Adobe Commerce服务 {#adobe-commerce-services}
+      + [配置服务连接器](../site-management/configure-adobe-commerce-services-connector.md)
+      + [配置支付服务](../site-management/configure-adobe-payment-services.md)
+      + [使用付款服务](../site-management/payment-services.md)
 + 客户管理 {#customers}
    + [创建客户区段](../site-management/customer-segments.md)
    + [创建客户组](../site-management/customer-groups.md)

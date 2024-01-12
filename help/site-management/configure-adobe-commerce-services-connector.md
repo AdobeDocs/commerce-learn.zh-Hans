@@ -1,6 +1,7 @@
 ---
 title: 配置Adobe Commerce服务连接器
 description: 了解如何配置Adobe Commerce服务连接器以用于Commerce SaaS产品，并了解如何解决常见问题。
+kt: 14777
 doc-type: video
 audience: all
 activity: use
@@ -9,16 +10,18 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 6ee0e0f90864899dd717397a672e1ba4a1ba4351
+source-git-commit: 08063ea820f91af5667e0abd2fd5d95207bd290e
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
 
 # 配置Adobe Commerce服务连接器
 
-要使用Adobe Commerce和Magento Open Source的支付服务，您必须完成一些入门培训步骤。 观看以下视频，了解如何为Adobe Commerce配置Payment Services。
+Commerce Services连接器是由Adobe开发的配置，用于解锁各种SaaS功能。 要将支付服务用于Adobe Commerce和Magento Open Source，您必须使用生产和沙盒API密钥连接您的Commerce实例，并在配置中指定数据空间以进行设置。
+
+观看“如何配置Adobe Commerce服务连接器”视频，帮助您设置支付服务。
 
 ## 此视频面向谁？
 

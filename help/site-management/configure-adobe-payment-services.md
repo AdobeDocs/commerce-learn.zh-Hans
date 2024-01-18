@@ -10,16 +10,16 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 9eac97ced3643d9cb3c2d77ab0bd93f61d6917e5
+source-git-commit: 49dd1cecc9af2ed68150a8385e7800f35ca983fc
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
 # 为Adobe Commerce配置支付服务
 
-要开始使用Adobe Commerce和Magento Open Source的支付服务，您必须完成一些入门步骤，观看如何为Adobe Commerce配置支付服务视频以了解如何入门的示例。
+要开始使用Adobe Commerce和Magento Open Source的支付服务，您必须完成一些入门步骤。 观看 _为Adobe Commerce配置支付服务_ 有关如何入门的示例的视频。
 
 ## 此视频面向谁？
 

@@ -1,6 +1,6 @@
 ---
-title: 了解如何集成Adobe Commerce和Adobe Journey Optimizer
-description: 了解为何以及如何实施Adobe Commerce与Adobe Journey Optimizer的集成
+title: 集成Adobe Commerce和Adobe Journey Optimizer
+description: 了解为何以及如何实施Adobe Commerce与Adobe Journey Optimizer的集成。
 feature: Audience Activation, Communications, Marketing Tools, Promotions/Events
 topic: Administration, Commerce, Integrations, Personalization
 role: Admin, Developer
@@ -10,17 +10,17 @@ duration: 512
 last-substantial-update: 2024-01-17T00:00:00Z
 jira: KT-14793
 thumbnail: 3426855.jpeg
-source-git-commit: b790ca7921fb5999c211619a2bf56e39a0dcf960
+exl-id: 2f12c90f-710b-4680-a12e-62c436793b9c
+source-git-commit: 8ffbcb364ce2a1bc3c6be0cb39fbece8f5fbd320
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
 
+# 集成Adobe Commerce和Adobe Journey Optimizer
 
-# 了解如何集成Adobe Commerce和Adobe Journey Optimizer
-
-了解如何使用 [数据连接](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"} Adobe Commerce中的数据，以便通过Adobe Journey Optimizer实时解锁商业数据并提供端到端、个性化的购物者体验。
+了解如何使用 [数据连接](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"} Adobe Commerce中的数据，以便通过Adobe Journey Optimizer实时解锁商业数据并提供端到端、个性化的购物者体验。
 
 ## 此视频面向谁？
 

@@ -1,6 +1,6 @@
 ---
-title: 了解如何使用命令行查看和设置管理员配置
-description: 演示如何使用命令行查看和设置配置值
+title: 使用命令行查看和设置管理员配置
+description: 了解如何使用命令行查看和设置管理员配置。
 feature: Configuration,Console,System
 topic: Administration,Commerce
 role: Developer
@@ -10,15 +10,15 @@ duration: 462
 last-substantial-update: 2024-01-31T00:00:00Z
 jira: KT-14877
 thumbnail: KT-14877.jpeg
-source-git-commit: 9d4b01d383e5492ccc0cbd27636a49581e8ffb5b
+source-git-commit: a5ddf7591519b89efa2feb20ae601d36f5e5a1a7
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
 
-# 了解如何使用命令行查看和设置管理员配置
+# 使用命令行查看和设置管理员配置
 
 演示如何使用Commerce CLI查看、设置和查找配置值。 了解值的保存位置以及默认值的来源。
 

@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 606b2aa8cc1df64816b459e7ca9e0a65d538463a
+source-git-commit: 535c9dbe9f1247cebd848f184dcf7ea07eab405e
 workflow-type: tm+mt
-source-wordcount: '590'
+source-wordcount: '598'
 ht-degree: 3%
 
 ---
@@ -144,7 +144,7 @@ ht-degree: 3%
    + [SQLREPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [为未来做准备](../business-intelligence/prepare-for-future.md)
 + Commerce升级 {#upgrade}
-   + [Adobe Commerce 2.4升级研讨会](../upgrade/2.4-upgrade-workshop.md)
+   + [Adobe Commerce 2.4升级研讨会](../upgrade/2-4-upgrade-workshop.md)
    + [升级兼容性工具概述](../upgrade/upgrade-compatibility-tool-overview.md)
    + [使用PHP Storm中的升级兼容性工具](../upgrade/uct-phpstorm.md)
 + 后端开发 {#backend-development}
@@ -155,6 +155,7 @@ ht-degree: 3%
    + [Galera群集复制缓慢](../backend-development/galera-db-slow-replication.md)
    + [MySQL查询缓存](../backend-development/mysql-query-cache.md)
    + [PT查询摘要](../backend-development/pt-query-digest.md)
+   + [连接和下载Adobe Commerce数据库](../backend-development/remote-db-connection-execute-queries.md)
 + 原生前端Luma开发 {#frontend-development}
    + 面向开发人员的Page Builder {#page-builder}
       + [1 — 简介](../frontend-development/page-builder/1-intro-case-studies.md)

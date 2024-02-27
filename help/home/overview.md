@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] 视频和教程'
+title: ’[!DNL Commerce] 视频和Tutorials
 description: Adobe Commerce和Magento Open Source的视频和教程集合
 last-substantial-update: 2023-01-19T00:00:00Z
 feature: B2B, GraphQL, REST, Commerce Intelligence, Cloud, Best Practices, API Mesh, App Builder
@@ -7,10 +7,10 @@ topic: Commerce, Architecture
 role: Architect, Developer, User
 level: Beginner, Intermediate
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: efe622f410a45ffbad210af2b5bbb1bda83b026b
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 2%
+source-wordcount: '108'
+ht-degree: 0%
 
 ---
 
@@ -18,16 +18,6 @@ ht-degree: 2%
 
 欢迎使用 [!DNL Commerce] 视频和教程集合。 使用这些资源以及 [文档](https://experienceleague.adobe.com/docs/commerce.html)，提供了一个学习如何使用Adobe Commerce和Magento Open Source来支持您的电子商务业务的机会。 该集合旨在为后端开发人员、前端开发人员、系统管理员、商家和组织内的其他角色提供有用的内容。
 
-<div id="whats-new-section">
-
-## 新增功能
-
-- [Adobe Developer App Builder](../app-builder/introduction-to-app-builder.md)
-- [API Mesh入门](../api-mesh/getting-started-api-mesh.md)
-- [GraphQL简介](../graphql-rest/intro-graphql.md)
-- [查找恶意IP](../new-relic/malicious-ip.md)
-
-</div>
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
 <div id="recs-overview-body-3"></div>

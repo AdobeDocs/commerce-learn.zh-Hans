@@ -1,7 +1,7 @@
 ---
 title: GraphQL简介
-description: 了解如何在 Adobe Commerce 和  [!DNL Magento Open Source] 上使用 GraphQL。对 Adobe Commerce 和  [!DNL Magento Open Source] 使用 GraphQL GET 和 POST 调用。
-short-description: 了解如何对 Adobe Commerce 和  [!DNL Magento Open Source] 使用 GraphQL GET 和 POST 调用。
+description: 了解如何在Adobe Commerce上使用GraphQL和 [!DNL Magento Open Source]. 对Adobe Commerce和GET使用GraphQL和POST调用 [!DNL Magento Open Source].
+short-description: 了解如何使用Adobe Commerce的GraphQLGET和POST调用，以及 [!DNL Magento Open Source].
 kt: 11524
 doc-type: video
 audience: all
@@ -11,10 +11,10 @@ topic: Commerce, Architecture, Headless
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
-source-git-commit: 750c8c9c5c6b3e01b9af8aacae31f3d521c4f7b7
+source-git-commit: b8b1e40a2f4d38954f0d21bc6f1a91b7ec0bd8c9
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 6%
+source-wordcount: '478'
+ht-degree: 0%
 
 ---
 
@@ -51,7 +51,7 @@ GraphQL允许客户用表达的方式描述 _完全匹配_ 所需的数据。 �
 
 * [阿尔泰](https://altairgraphql.dev/){target="_blank"} 是专门为GraphQL构建的优秀且功能齐全的客户端。 Adobe在演练视频中使用Altair。
 * 如果不想安装桌面应用程序，则还有可在
-  [铬黄](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja){target="_blank"}, Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa){target="_blank"} 浏览器。
+  [铬黄](https://chromewebstore.google.com/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja){target="_blank"}, Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa){target="_blank"} 浏览器。
 * [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql){target="_blank"} 是来自GraphQL Foundation的GraphQL IDE的实现。 这不是一个可安装的工具，而是一个可用于自行构建界面的软件包。
 * 如果您已经熟悉 [Postman](https://www.postman.com/){target="_blank"}，它已经为GraphQL查询提供了很好的支持，但是还没有像专用的GraphQL客户端那样提供全面的功能。
 

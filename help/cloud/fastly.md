@@ -1,0 +1,42 @@
+---
+title: Adobe Commerce Cloud Fastly
+description: 了解Adobe Commerce Cloud Fastly的使用和配置。
+feature: Cloud
+topic: Commerce, Architecture, Development
+role: Architect, Developer
+level: Intermediate
+doc-type: Technical Video
+duration: 0
+last-substantial-update: 2024-03-05T00:00:00Z
+jira: KT-15018
+kt: 15018
+source-git-commit: 15aabeb0aff824919ac1463a1d2a85674fbe0619
+workflow-type: tm+mt
+source-wordcount: '76'
+ht-degree: 0%
+
+---
+
+
+# Adobe Commerce Cloud技术入门和硬件移交 — Fastly
+
+了解Fastly在Adobe Commerce中的云用法。
+
+## 此视频面向谁？
+
+- 网站管理员
+- 商务架构师
+- 电子商务网站所有者
+
+## 视频内容
+
+>[!VIDEO](https://video.tv.adobe.com/v/3427695?learn=on)
+
+## Experience League文档和视频中提到的Fastly Adobe Commerce检查器
+
+- [Fastly检查程序](https://adobe-commerce-tester.freetls.fastly.net/adobe-commerce-tester/)
+- [Fastly在Experience League中提供服务](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html)
+- [Fastly WAF常见问题解答](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html)
+- [图像优化](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html)
+
+{{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

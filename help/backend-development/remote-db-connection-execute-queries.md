@@ -1,5 +1,5 @@
 ---
-title: 了解如何针对Adobe Commerce数据库连接和运行查询
+title: 连接并运行对数据库的查询
 description: 了解几种连接到Adobe Commerce云项目的方法。 了解如何提取数据库以使用非现场数据库。 了解一些用于屏蔽PII和删除它的方法。
 feature: Backend Development,Console,Cloud
 topic: Commerce,Development
@@ -10,18 +10,17 @@ duration: 0
 last-substantial-update: 2024-02-14T00:00:00Z
 jira: KT-14910
 thumbnail: KT-14910.jpeg
-source-git-commit: 8499cae40bc14bfc505f0a84c7f481eddd80589b
+exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
+source-git-commit: a951f61ff71ad3777f8aebfa3c237b2ec1a4b1a5
 workflow-type: tm+mt
-source-wordcount: '1056'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
 
+# 针对Adobe Commerce数据库连接并运行查询
 
-# 了解如何针对Adobe Commerce数据库连接和运行查询
-
-在本教程中，您将了解如何连接到云项目上的Adobe Commerce、转储数据库以供在异地使用，以及屏蔽PII和删除它。
-
+在本教程中，您将学习如何连接到云项目上的Adobe Commerce、转储数据库以供在异地使用，以及屏蔽PII和删除它。
 
 您可以使用以下任一方法从云项目访问Adobe Commerce数据：
 
@@ -378,4 +377,3 @@ MariaDB [main]>
 [设置MySQL服务](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
 [设置远程MySQL数据库连接](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
 [在云基础架构上的Adobe Commerce上创建数据库转储](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
-

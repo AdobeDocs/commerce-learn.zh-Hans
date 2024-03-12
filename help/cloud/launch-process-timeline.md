@@ -11,15 +11,15 @@ last-substantial-update: 2024-02-27T00:00:00Z
 jira: KT-14941
 kt: 14941
 thumbnail: KT-14941.jpeg
-source-git-commit: e47331eb080318c164aa7c0f9841ddb47d4e320a
+exl-id: e68a8389-2cdc-495b-829b-24ea7502f66f
+source-git-commit: eae2b8a2eb815ff1b32a80dbd0f29fbfa82a0dc0
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
-
-# Adobe Commerce Cloud技术入门和硬件交付 — Launch流程时间表
+# 技术入门 — Launch流程时间表
 
 了解启动流程时间线的Adobe Commerce Cloud技术入门。
 

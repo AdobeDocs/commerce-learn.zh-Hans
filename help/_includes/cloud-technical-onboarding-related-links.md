@@ -1,9 +1,9 @@
 ---
 title: Adobe Commerce Cloud技术入门相关页面
 description: 指向Adobe Commerce Cloud技术入门培训中相关页面的链接
-source-git-commit: eae2b8a2eb815ff1b32a80dbd0f29fbfa82a0dc0
+source-git-commit: 4ab9dab5562a9d150c238a6ca3e543e013ad0305
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---
@@ -17,3 +17,4 @@ ht-degree: 0%
 - [Fastly](../cloud/fastly.md)
 - [配置和调试](../cloud/configuration-and-debugging.md)
 - [部署、测试、监控和安全性](../cloud/deployments-testing-monitoring-security.md)
+- [Saas产品、支持和其他通信，以及后续步骤](../cloud/saas-offerings-support-communications-next-steps.md)

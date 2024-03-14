@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 4ab9dab5562a9d150c238a6ca3e543e013ad0305
+source-git-commit: cebfa71f156a77fcfee57d5e9d0048b1326d4e27
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '614'
 ht-degree: 3%
 
 ---
@@ -23,13 +23,6 @@ ht-degree: 3%
       + [部署、测试、监控和安全性](../cloud/deployments-testing-monitoring-security.md)
       + [SaaS产品、支持和通信以及后续步骤](../cloud/saas-offerings-support-communications-next-steps.md)
 + 快速入门 {#getting-started}
-   + [!DNL Commerce] 云{#cloud}
-      + [1 — 概述](../cloud/1-overview.md)
-      + [2 — 托管帐户](../cloud/2-accounts.md)
-      + [3 — 云项目](../cloud/3-projects.md)
-      + [4 — 部署](../cloud/4-deployment.md)
-      + [5 — 开发](../cloud/5-dev-config.md)
-      + [6 — 服务和DNS](../cloud/6-launch.md)
    + 全球参考体系结构{#global-reference-architecture}
       + [全球参考体系结构](../global-reference-architecture/what-is-global-reference-architecture.md)
       + [利用全球参考体系结构](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)

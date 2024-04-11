@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 503ed9349ade7d5da47592fb60fbb7114dbbf899
+source-git-commit: 36bc1dfcc069e97a64d3af8e7852ed132eaa2bb5
 workflow-type: tm+mt
-source-wordcount: '622'
+source-wordcount: '619'
 ht-degree: 3%
 
 ---
@@ -16,7 +16,6 @@ ht-degree: 3%
 + [[!DNL Commerce] 教程](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
    + 技术入门和硬件移交 {#technical-onboarding-hardware-handoff}
-      + [启动流程时间线](../cloud/launch-process-timeline.md)
       + [基础设施和发展最佳实践](../cloud/infrastructure-development-best-practices.md)
       + [Fastly](../cloud/fastly.md)
       + [配置和调试](../cloud/configuration-and-debugging.md)

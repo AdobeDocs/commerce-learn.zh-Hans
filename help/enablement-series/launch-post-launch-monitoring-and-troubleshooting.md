@@ -1,6 +1,6 @@
 ---
 title: Adobe Commerce启动和启动后以及持续监控和故障排除
-description: 本教程提供了有关准备和启动网站的最佳实践和提示。 选择正确的暂存环境，在支持工单中提供相关详细信息，并使用与支持团队相同的监控工具以便更好地通信。 强调需要彻底测试外围系统（如支付处理器），并规划潜在的生产问题（如性能瓶颈和缓存变暖）。 强调有效的沟通、主动的规划和了解共同责任模式。 通过遵循这些最佳实践，网站启动可以更顺畅、更成功。
+description: 了解准备和启动网站的最佳实践和提示。 了解如何选择正确的暂存环境、在支持工单中提供相关详细信息，以及使用与支持团队相同的监控工具更好地通信。
 feature: Best Practices, Cloud
 topic: Architecture, Commerce, Performance
 role: Architect, Data Architect, Leader
@@ -9,14 +9,15 @@ doc-type: Technical Video
 duration: 3483
 last-substantial-update: 2024-05-07T00:00:00Z
 jira: KT-15467
-source-git-commit: 88a50f1377207b99b524fb29017bc0cfe296d524
+exl-id: e3748ec2-b449-4cc2-927d-e7ba4f4dbaf8
+source-git-commit: 0822d94079879592bd88fd0fb318ce5fd143f487
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce Cloud的启动、监控和故障排除
+# 启动Adobe Commerce Cloud，对其进行监控和排除故障
 
 此网络研讨会提供了有关准备和启动网站的几个最佳实践和提示。 它强调选择适当的暂存环境并在支持票证中提供准确详细信息以促进与支持团队进行有效沟通的重要性。 为更好地进行协作和解决问题，建议使用与支持团队相同的监控工具，例如New Relic。 重点介绍对外围系统（如支付处理器）进行全面测试，以确保它们在启动期间正常运行。 该文件还强调，需要预测和规划潜在的生产问题，如性能瓶颈和高速缓存预热问题，以确保顺利成功地启动。 了解共享责任模型是讨论的另一个关键方面，其中阐明，某些任务（如数据库恢复和应用程序代码安全）是网站所有者的责任。 通过遵循这些最佳实践，可以简化网站启动操作，主动解决潜在问题，并成功启动启动
 

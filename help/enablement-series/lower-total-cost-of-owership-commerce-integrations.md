@@ -1,6 +1,6 @@
 ---
 title: 降低Adobe Commerce集成的目录
-description: 此网络研讨会讨论了降低Adobe Commerce集成的总拥有成本的最佳实践。 它强调传统集成面临的挑战，并强调使用扩展点和与其他Experience Cloud产品的本机集成来降低成本，提高ROI。 目标是提供灵活性，在不自定义核心的情况下扩展产品，使其更易于维护和升级。
+description: 了解降低与Adobe Commerce集成的总拥有成本的最佳实践。
 feature: API Mesh, App Builder, Backend Development, Best Practices, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
 role: Architect, Data Architect, Leader
@@ -11,16 +11,18 @@ last-substantial-update: 2024-04-26T00:00:00Z
 jira: KT-15393
 auto-video-transcripts: true
 exl-id: 3c31c204-a33f-4f8a-b74d-d81f5ad6c433
-source-git-commit: 32f748b0489f165f43cbebb025709ad4cf929d61
+source-git-commit: 1293fcc506043601ced55286ea4d31b47a68d546
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
 # 降低Adobe Commerce集成的目录
 
-此网络研讨会将介绍降低与Adobe Commerce集成的总拥有成本的方法。&#x200B;AEM 网络研讨会中的发言者讨论了与集成相关的挑战和成本、减少技术债务的重要性以及使用Adobe Commerce提供的扩展点的好处。 他们还提及了涉及使用WhatsApp的精益订单管理系统以及发送个性化产品推荐数据的智能宠物沙箱的特定用例。  该团队还讨论了如何使用Commerce的Adobe数据连接，通过该连接，您可以在Adobe Commerce和其他Adobe产品之间发送和接收数据。
+此网络研讨会将介绍降低与Adobe Commerce集成的总拥有成本的方法。
+
+网络研讨会中的发言者讨论了与集成相关的挑战和成本、减少技术债务的重要性以及使用Adobe Commerce提供的扩展点的好处。 他们还提及了涉及使用WhatsApp的精益订单管理系统以及发送个性化产品推荐数据的智能宠物沙箱的特定用例。  该团队还讨论了如何使用Commerce的Adobe数据连接，通过该连接，您可以在Adobe Commerce和其他Adobe产品之间发送和接收数据。
 
 ## 受众
 

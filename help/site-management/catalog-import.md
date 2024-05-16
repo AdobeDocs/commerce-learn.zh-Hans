@@ -10,9 +10,10 @@ feature: Backend Development, Data Import/Export, REST
 topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 46855a18faf94c0d7347663ba6f83f423ef79c3c
+exl-id: 18713a44-df39-4b94-91ce-c7efeb4ce2b3
+source-git-commit: 47a71d3523d5a894ca4edc458f7e2cf71c283618
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '829'
 ht-degree: 0%
 
 ---
@@ -29,7 +30,7 @@ ht-degree: 0%
 
 ## 手动创建产品 {#manual-import}
 
-如果您的目录有限并且更新不频繁，手动创建它们可能是最佳选择。 输入每个产品需要时间，并且有关如何使用Commerce管理员的培训也有限。 手动目录管理不是大多数商店的正确选择，但在某些情况下，它可能是合理的。 要查看有关此流程的其他文档，请访问 [创建产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. Do not forget, you can use more than one method to manage your catalog, however once automation is used, manual edits must be limited. Automated updates have the opportunity to overwrite any changes performed manually, and therefore cause confusion. Once the integration with Adobe Commerce to manage the catalog is using automation and APIs, it is advised to restrict management of the catalog from the admin through [user roles and permissions](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
+如果您的目录有限并且更新不频繁，手动创建它们可能是最佳选择。 输入每个产品都需要时间，并且有关如何使用Commerce管理员需要进行一些有限的培训。 手动目录管理不是大多数商店的正确选择，但在某些情况下，它可能是合理的。 要查看有关此流程的其他文档，请访问 [创建产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. 请不要忘记，您可以使用多种方法管理您的目录，但是，一旦使用自动化，必须限制手动编辑。 自动更新有机会覆盖手动执行的任何更改，因此会导致混淆。 一旦与Adobe Commerce的集成使用自动化和API来管理目录，建议限制从管理员到管理目录 [用户角色和权限](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
 
 
 
@@ -92,7 +93,7 @@ ht-degree: 0%
 
 - 目录为任意大小
 - 更新频繁，一天可以进行1次以上的更新
-- 导入时间很重要，但并不重要
+- 导入时间很重要，但并不重要，处理导入数据的短暂延迟是可以接受的
 - 数据不是以CSV格式结构化的，您无法使用自动化对其进行转换
 
 
@@ -112,8 +113,6 @@ ht-degree: 0%
 缺点：
 
 - 不支持GET请求
-- 您需要使用选项属性ID，而不是标签
-
 
 ### 何时考虑这种方法
 
@@ -138,7 +137,6 @@ ht-degree: 0%
 缺点：
 
 - 必须单独上传关联的图像和视频
-- 您需要使用选项属性ID，而不是标签
 - 数据需要采用CSV格式
 
 ### 何时考虑这种方法

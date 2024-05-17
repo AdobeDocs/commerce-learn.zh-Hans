@@ -11,9 +11,9 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 18713a44-df39-4b94-91ce-c7efeb4ce2b3
-source-git-commit: 47a71d3523d5a894ca4edc458f7e2cf71c283618
+source-git-commit: b0fe49352b00a68554e662327cd66983c30d8285
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -32,8 +32,6 @@ ht-degree: 0%
 
 如果您的目录有限并且更新不频繁，手动创建它们可能是最佳选择。 输入每个产品都需要时间，并且有关如何使用Commerce管理员需要进行一些有限的培训。 手动目录管理不是大多数商店的正确选择，但在某些情况下，它可能是合理的。 要查看有关此流程的其他文档，请访问 [创建产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. 请不要忘记，您可以使用多种方法管理您的目录，但是，一旦使用自动化，必须限制手动编辑。 自动更新有机会覆盖手动执行的任何更改，因此会导致混淆。 一旦与Adobe Commerce的集成使用自动化和API来管理目录，建议限制从管理员到管理目录 [用户角色和权限](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
 
-
-
 ### 何时考虑这种方法
 
 - 目录非常小，例如少于50个产品
@@ -41,8 +39,6 @@ ht-degree: 0%
 - 您拥有所有产品详细信息、图像、视频，并且不希望花费时间学习如何将数据转换为CSV
 - 创建产品时要包含添加图像和视频
 - 您的团队是 `not` 熟悉API以及OAUTH的工作方式
-
-
 
 >[!TAB 管理员CSV]
 
@@ -61,16 +57,12 @@ ht-degree: 0%
 - 计划导入限制为每天1次
 - 必须单独上传关联的图像和视频
 
-
-
 ### 何时考虑这种方法
 
 - 目录大小适中
 - 更新每天不超过1次
 - 在必须增加最大文件上传大小的情况下，您可以对服务器配置进行一些访问
 - 您的团队是 `not` 熟悉API以及OAUTH的工作方式
-
-
 
 >[!TAB 批量REST API]
 
@@ -85,9 +77,6 @@ ht-degree: 0%
 
 - 必须单独上传关联的图像和视频
 - 受托管提供商的带宽限制
-- 您需要使用选项属性ID，而不是标签
-
-
 
 ### 何时考虑这种方法
 
@@ -95,8 +84,6 @@ ht-degree: 0%
 - 更新频繁，一天可以进行1次以上的更新
 - 导入时间很重要，但并不重要，处理导入数据的短暂延迟是可以接受的
 - 数据不是以CSV格式结构化的，您无法使用自动化对其进行转换
-
-
 
 >[!TAB 异步REST API]
 
@@ -118,7 +105,6 @@ ht-degree: 0%
 
 - 频繁导入
 - 从通过API提交这些请求并从消息队列进行处理开始，没有发生很短的延迟问题。
-
 
 
 >[!TAB CSV REST API]
@@ -145,8 +131,6 @@ ht-degree: 0%
 - 更新频繁，一天可以进行1次以上的更新
 - 总体导入时间很重要
 - 数据已经是CSV格式，或者可以使用自动化轻松地进行转换
-
-
 
 >[!ENDTABS]
 

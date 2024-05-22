@@ -10,13 +10,13 @@ duration: 0
 last-substantial-update: 2024-04-17T00:00:00Z
 jira: KT-15180
 kt: 15180
-source-git-commit: 7cc6ee2906e5f223575d98f0f1b6f4bdf4c936d0
+exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
+source-git-commit: 00a8d6883473de796abc79ef2e9be34f56429a17
 workflow-type: tm+mt
-source-wordcount: '1578'
+source-wordcount: '1605'
 ht-degree: 0%
 
 ---
-
 
 # Commerce Cloud启动前核对清单
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 ## 3. Fastly配置
 
-1. [!BADGE 阻断因素]{type=caution tooltip="潜在的阻断因素"}[全页缓存](https://developer.adobe.com/commerce/frontend-core/guide/caching/){target="_blank"} or [GraphQL caching](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}). Read the [Fastly set up guide](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly){target="_blank"}.
+1. [!BADGE 阻断因素]{type=caution tooltip="潜在的阻断因素"}[全页缓存](https://developer.adobe.com/commerce/frontend-core/guide/caching/){target="_blank"} 或 [GraphQL缓存](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"})。 阅读 [Fastly设置向导](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly){target="_blank"}.
 2. 适用时，在PWA/Headless网站上使用GraphQL查询GET方法。
 
    >[!NOTE]
@@ -94,9 +94,9 @@ Adobe Commerce Cloud使用MariaDB Galera群集作为暂存环境和生产环境�
 
 ## 6.部署
 
-1. 查看静态内容部署(SCD)理想状态，以减少在生产环境中进行部署期间的维护时间。 审核 [静态内容部署(SCD)策略](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/deploy/static-content){target="_blank"} and [Store configuration management](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure-store/store-settings){target="_blank"} 指南。
+1. 查看静态内容部署(SCD)理想状态，以减少在生产环境中进行部署期间的维护时间。 审核 [静态内容部署(SCD)策略](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/deploy/static-content){target="_blank"} 和 [存储配置管理](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure-store/store-settings){target="_blank"} 指南。
 2. 查看HTML、JavaScript和CSS的缩小设置。 (这不适用于PWA/Headless网站)。
-3. 确认以下云变量的使用符合其预期目的。 ([SCD矩阵](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build#scd_matrix){target="_blank"}, [SCD_ON_DEMAND](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-global#scd_on_demand){target="_blank"} and [SKIP_SCD](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-deploy#skip_scd){target="_blank"})
+3. 确认以下云变量的使用符合其预期目的。 ([SCD矩阵](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build#scd_matrix){target="_blank"}， [SCD_ON_DEMAND](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-global#scd_on_demand){target="_blank"} 和 [SKIP_SCD](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-deploy#skip_scd){target="_blank"})
 
 ## 7.测试和故障排除
 
@@ -136,7 +136,7 @@ Adobe Commerce Cloud使用MariaDB Galera群集作为暂存环境和生产环境�
 5. 如果在开发期间启用，请确保禁用XDebug(请参阅 [配置Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/){target="_blank"})。
 6. 验证是否已在php.ini文件中准确更新了操作缓存和其他配置([请参阅此示例](https://github.com/magento/magento-cloud/blob/master/php.ini#L41){target="_blank"})。
 7. 订购 [**Adobe Commerce状态页面**](https://status.adobe.com/cloud/experience_cloud#/){target="_blank"}.
-8. 订购New Relic »[Adobe Commerce的受管警报](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-for-magento-commerce){target="_blank"}" notification channels to monitor the given performance metrics ([read more](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service){target="_blank"})。
+8. 订购New Relic »[Adobe Commerce的受管警报](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-for-magento-commerce){target="_blank"}»通知渠道以监控给定的性能指标([了解更多](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service){target="_blank"})。
 
 ## 9.安全
 
@@ -182,7 +182,7 @@ Adobe Commerce Cloud使用MariaDB Galera群集作为暂存环境和生产环境�
 在站点上线后，发送电子邮件给分配的CTA（客户技术咨询）、CSE（客户成功工程师）和AM（客户经理）。 但是，如果没有为项目分配客户经理，则可以创建一个支持工单，要求在站点上线后启用高SLA监控。 一旦验证站点是否会在启用Fastly和缓存的情况下启动，CTA/CSE就会立即执行以下任务：
 
 - 将群集标记为活动并创建支持票证以激活高SLA（服务水平协议）监视。
-- 激活Pingdom检查以监视正常运行时间。
+- 激活New Relic Synthetics以监控正常运行时间。
 
 >[!MORELIKETHIS]
 > 

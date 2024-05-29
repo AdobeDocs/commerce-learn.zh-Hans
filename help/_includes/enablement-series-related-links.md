@@ -1,9 +1,9 @@
 ---
 title: 启用系列相关链接
-description: 指向支持系列中相关页面的链接
-source-git-commit: 5fdc149b4618a95de839942b26fef874ce1b5c47
+description: 指向启用系列中相关页面的链接，以供在所有单独页面上使用
+source-git-commit: e5b9d8cc85412acf086bcb9ac5ee86ed53c7ae9c
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---

@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 60b17889ea48d9594cf659972e0c256f01312bf3
+source-git-commit: 4b88c82052f8505cfe05255dd74bb2da5fa0f792
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '664'
 ht-degree: 3%
 
 ---
@@ -128,8 +128,9 @@ ht-degree: 3%
    + [推荐的实时搜索](../site-management/live-search-recommendations.md)
    + [将Commerce与AJO集成](../site-management/integrate-commerce-ajo.md)
 + 订单和履行 {#orders}
-   + [商店履行概述](../site-management/store-fulfillment.md)
-   + [管理订单状态](../site-management/order-status.md)
+   + [商店履行概述](../orders-and-fulfillment/store-fulfillment.md)
+   + [管理订单状态](../orders-and-fulfillment/order-status.md)
+   + [检查库存状态](../orders-and-fulfillment/checking-inventory-status.md)
 + 适用于Adobe Commerce的B2B {#b2b}
    + [管理公司帐户](../b2b/company-accounts.md)
    + [管理共享目录](../b2b/shared-catalogs.md)

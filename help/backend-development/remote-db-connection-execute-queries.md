@@ -7,20 +7,29 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
 duration: 0
-last-substantial-update: 2024-02-14T00:00:00Z
+last-substantial-update: 2024-06-25T00:00:00Z
 jira: KT-14910
 thumbnail: KT-14910.jpeg
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
-source-git-commit: a951f61ff71ad3777f8aebfa3c237b2ec1a4b1a5
+source-git-commit: 435364592c0b609b3c379bb58df80e2691c82d40
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1143'
 ht-degree: 0%
 
 ---
 
 # 针对Adobe Commerce数据库连接并运行查询
 
-在本教程中，您将学习如何连接到云项目上的Adobe Commerce、转储数据库以供在异地使用，以及屏蔽PII和删除它。
+了解如何连接到Adobe Commerce on cloud项目、创建数据库转储以供异地使用，以及通过屏蔽或删除来处理个人身份信息(PII)。 了解如何使用各种方法访问Adobe Commerce数据，包括本地数据库转储、与MySQL Workbench或TablesPlus等应用程序的远程数据库连接，以及通过MagentoCloud CLI工具建立的直接连接。
+
+## 视频内容
+
+* 了解如何使用MysqlWorkbench或TablesPlus等工具快速连接到远程Adobe Commerce Cloud项目。
+* 了解如何快速连接到Adobe Commerce项目以通过命令行运行SQL
+
+>[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+
+了解如何连接到云项目上的Adobe Commerce、转储数据库以供异地使用，以及屏蔽PII并将其删除。
 
 您可以使用以下任一方法从云项目访问Adobe Commerce数据：
 

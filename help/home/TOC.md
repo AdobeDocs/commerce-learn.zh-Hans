@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 4165664069b889e015bfc4b993dc9975ce3f5385
+source-git-commit: 0b42ffc1c0b55c75fdb7b25b86ec8049edb5db97
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '670'
 ht-degree: 2%
 
 ---
@@ -30,9 +30,10 @@ ht-degree: 2%
       + [利用全球参考体系结构](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
       + [架构师GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
       + [实施全球参考体系结构](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
-   + 商务功能 {#capabilities}
+   + Commerce功能 {#capabilities}
       + [数据连接](../capabilities/data-connection.md)
       + [Live Search完整演示](../capabilities/live-search-full-demonstration.md)
+      + [可组合的Commerce](../capabilities/what-is-composable-commerce.md)
    + 创建产品 {#create-products}
       + [简单产品](../site-management/create-simple-product.md)
       + [虚拟产品](../site-management/create-virtual-product.md)
@@ -68,7 +69,7 @@ ht-degree: 2%
       + [了解测试文件夹](../app-builder/first-app/test-folder.md)
       + [了解web-src文件夹的用途](../app-builder/first-app/web-src-folder.md)
       + [在本地测试](../app-builder/first-app/testing-locally.md)
-      + [使用应用程序生成器URL进行测试](../app-builder/first-app/testing-app-builder-url.md)
+      + [使用App Builder URL进行测试](../app-builder/first-app/testing-app-builder-url.md)
       + [结论](../app-builder/first-app/conclusion.md)
       + [示例模块源代码](https://github.com/magento/app-builder-samples){target="_blank"}
    + Adobe Commerce的IO事件 {#io-events}

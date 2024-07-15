@@ -1,7 +1,7 @@
 ---
 title: 在本地测试
-description: 了解如何测试您的首个Adobe Developer App Builder应用程序。
-landing-page-description: 了解如何测试您的首个Adobe Developer App Builder应用程序。
+description: 了解如何测试您的第一个Adobe Developer App Builder应用程序。
+landing-page-description: 了解如何测试您的第一个Adobe Developer App Builder应用程序。
 kt: 12427
 doc-type: tutorial
 audience: all
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: c916c94b-eb14-48c5-ad1d-695730135939
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-* 刚开始使用Adobe Commerce但使用AdobeApp Builder经验有限的开发人员，已准备好测试其首个Adobe Developer App Builder应用程序。
+* 刚开始接触Adobe Commerce但使用AdobeApp Builder经验有限的开发人员，已准备好测试其首个Adobe Developer App Builder应用程序。
 
 ## 视频内容
 

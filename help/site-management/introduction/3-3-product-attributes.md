@@ -1,5 +1,5 @@
 ---
-title: '"[!DNL Commerce] 企业用户 — 属性”'
+title: "[!DNL Commerce] for business users - Attribute"
 description: 了解产品的自定义属性和系统属性。
 kt: 5769
 doc-type: video
@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: 17dca70a-bd71-4f52-b034-8f8f31b71fec
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 企业用户 — 属性
+# 业务用户[!DNL Commerce] — 属性
 
 在此视频中：
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35954?quality=12&learn=on)
 

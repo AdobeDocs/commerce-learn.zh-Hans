@@ -9,7 +9,8 @@ doc-type: Technical Video
 duration: 3511
 last-substantial-update: 2024-05-07T00:00:00Z
 jira: KT-15465
-source-git-commit: fd5b387c1ac8f207d866ae7a3b95c5c28055a744
+exl-id: a8e1cd14-e9ff-46ba-87ea-c1cba3b4f72f
+source-git-commit: 670f1676128544811e471a3dfbcab80cdb95b94f
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%
@@ -18,7 +19,8 @@ ht-degree: 0%
 
 # 规划现代Adobe Commerce实施
 
-此网络研讨会全面概述了与Adobe Commerce相关的各种主题，包括目录服务、了解客户架构和Edge Delivery Services。&#x200B;AEM主题包括每项服务的新增或现有功能和好处，例如Adobe Commerce Catalog as a Service中的实时搜索和产品推荐，分析API和数据流以了解客户架构，以及Edge Delivery Services的高性能和低延迟。 此外，该文档还提到在与客户互动时拥有标准文档和问题列表的重要性，以及全球参考体系结构(GRA)概念对于高效项目构建的重要性。
+此网络研讨会全面概述了与Adobe Commerce相关的各种主题，包括目录服务、了解客户架构和Edge Delivery Services。
+&#x200B;AEM主题包括每项服务的新增或现有功能和好处，例如Adobe Commerce Catalog as a Service中的实时搜索和产品推荐，分析API和数据流以了解客户架构，以及Edge Delivery Services的高性能和低延迟。 此外，该文档还提到在与客户互动时拥有标准文档和问题列表的重要性，以及全球参考体系结构(GRA)概念对于高效项目构建的重要性。
 
 ## 受众
 

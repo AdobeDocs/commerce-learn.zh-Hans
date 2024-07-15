@@ -14,14 +14,14 @@ level: Beginner, Intermediate
 exl-id: e8103fe0-116a-499c-ae0a-3ad0511f44d0
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce模块开发
 
-了解如何注册事件、查找支持的事件以及如何使用新的XML文件 `io_events.xml` 在自定义模块开发中。 此视频还将向开发人员展示如何查找可以使用的已注册事件，以及取消订阅可能已经定义的任何事件。 其他文档可在 [安装适用于Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+了解如何注册事件、查找支持的事件以及如何在自定义模块开发中使用新的XML文件`io_events.xml`。 此视频还将向开发人员展示如何查找可以使用的已注册事件，以及取消订阅可能已经定义的任何事件。 在[安装Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}中找到其他文档。
 
 ## 此视频面向谁？
 
@@ -29,10 +29,10 @@ ht-degree: 0%
 
 ## 视频内容 {#video-content}
 
-* 在Commerce中注册事件以在Adobe Developer App Builder中使用
+* 在Commerce中注册事件以用于Adobe Developer App Builder
 * 识别可以注册的事件
 * 了解如何在io_events.xml中注册事件
-* 了解如何在商务实例中注册事件 `app/etc/config.php`
+* 了解如何在Commerce实例`app/etc/config.php`中注册事件
 * 了解如何取消订阅事件
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)

@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ## 手动创建产品 {#manual-import}
 
-如果您的目录有限并且更新不频繁，手动创建它们可能是最佳选择。 输入每个产品都需要时间，并且有关如何使用Commerce管理员需要进行一些有限的培训。 手动目录管理不是大多数商店的正确选择，但在某些情况下，它可能是合理的。 要查看有关此流程的其他文档，请访问 [创建产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. 请不要忘记，您可以使用多种方法管理您的目录，但是，一旦使用自动化，必须限制手动编辑。 自动更新有机会覆盖手动执行的任何更改，因此会导致混淆。 一旦与Adobe Commerce的集成使用自动化和API来管理目录，建议限制从管理员到管理目录 [用户角色和权限](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
+如果您的目录有限并且更新不频繁，手动创建它们可能是最佳选择。 输入每个产品都需要时间，并且有关如何使用Commerce管理员需要进行一些有限的培训。 手动目录管理不是大多数商店的正确选择，但在某些情况下，它可能是合理的。 若要查看有关此过程的其他文档，请访问[创建产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}。 请不要忘记，您可以使用多种方法管理您的目录，但是，一旦使用自动化，必须限制手动编辑。 自动更新有机会覆盖手动执行的任何更改，因此会导致混淆。 一旦与Adobe Commerce的集成使用自动化和API来管理目录，建议限制从管理员到[用户角色和权限](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}的目录管理。
 
 ### 何时考虑这种方法
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 - 更新不频繁
 - 您拥有所有产品详细信息、图像、视频，并且不希望花费时间学习如何将数据转换为CSV
 - 创建产品时要包含添加图像和视频
-- 您的团队是 `not` 熟悉API以及OAUTH的工作方式
+- 您的团队`not`熟悉API和OAUTH的工作方式
 
 >[!TAB 管理员CSV]
 
@@ -47,7 +47,8 @@ ht-degree: 0%
 此工具允许商店所有者使用商务管理员提供的CSV权限导入目录。
 [从Commerce管理员导入数据](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
 
-优点：从管理员上传CSV是一种直接进行目录管理的方法。 它允许对中等大小的目录进行更快的目录产品更新。
+优点：
+从管理员上传CSV是直接进行目录管理的方法。 它允许对中等大小的目录进行更快的目录产品更新。
 
 缺点：
 
@@ -62,7 +63,7 @@ ht-degree: 0%
 - 目录大小适中
 - 更新每天不超过1次
 - 在必须增加最大文件上传大小的情况下，您可以对服务器配置进行一些访问
-- 您的团队是 `not` 熟悉API以及OAUTH的工作方式
+- 您的团队`not`熟悉API和OAUTH的工作方式
 
 >[!TAB 批量REST API]
 
@@ -71,7 +72,8 @@ ht-degree: 0%
 批量REST API允许自动化和更频繁的更新。 此API比使用CSV的管理员上传速度更快。
 [批量端点文档](https://developer.adobe.com/commerce/webapi/rest/use-rest/bulk-endpoints/){target="_blank"}
 
-优点：能够导入非CSV格式的大数据集。
+优点：
+导入不采用CSV格式的大型数据集的功能。
 
 缺点：
 
@@ -95,7 +97,7 @@ ht-degree: 0%
 优点：
 
 - 快速导入数据
-- 支持存储范围，或者您可以指定 `all` 对所有现有存储执行操作
+- 支持存储范围，或者您可以指定`all`对所有现有存储执行操作
 
 缺点：
 
@@ -138,5 +140,5 @@ ht-degree: 0%
 
 - [使用新的REST CSV导入数据](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
 - [导入数据主文档](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
-- [Adobe Commerce版本2.4.6发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html){target="_blank"}
+- [Adobe Commerce 2.4.6版发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html){target="_blank"}
 - [用户、角色和权限](../site-management/users-roles-permissions.md){target="_blank"}

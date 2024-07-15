@@ -13,14 +13,14 @@ level: Beginner, Intermediate
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
 source-git-commit: 9eb66d4d0da8aa0e26183dea2459fa6e923c430b
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 # 管理公司帐户
 
-对于B2B商家， _[!UICONTROL Companies]_页面列出了所有当前公司帐户及其状态。 您可以在此处管理公司帐户，任何待批准的请求都会显示在列表顶部。 标准工作区控件可用于筛选列表、更改列布局、保存视图和导出数据。
+对于B2B商家，_[!UICONTROL Companies]_页面列出了所有当前公司帐户及其状态。 您可以在此处管理公司帐户，任何待批准的请求都会显示在列表顶部。 标准工作区控件可用于筛选列表、更改列布局、保存视图和导出数据。
 
 {{b2b-feature}}
 

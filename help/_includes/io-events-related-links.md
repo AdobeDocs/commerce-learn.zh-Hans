@@ -22,4 +22,4 @@ ht-degree: 0%
 
 ## Adobe Developer文档
 
-* [Adobe Commerce的Adobe I/O事件概述](https://developer.adobe.com/commerce/events/get-started/){target="_blank"}
+* Adobe Commerce概述的[Adobe I/O活动](https://developer.adobe.com/commerce/events/get-started/){target="_blank"}

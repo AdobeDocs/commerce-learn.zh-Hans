@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # App Builder的功能演示
 
-要详细了解如何将Adobe Commerce与App Builder结合使用，请观看以下视频，其中演示了如何将Adobe Commerce连接到Amazon Seller Central。 此演示使用App Builder使用的Adobe Commerce中的事件，实现与Amazon Marketplace的连续集成。 本功能演示将介绍此集成的工作方式，并探索AdobeApp Builder的潜力。
+要详细了解如何将Adobe Commerce与App Builder结合使用，请观看以下视频，其中演示了如何将Adobe Commerce连接到Amazon Seller Central。 此演示使用App Builder使用的Adobe Commerce中的事件来实现与Amazon Marketplace的持续集成。 本功能演示将介绍此集成的工作方式，并探索AdobeApp Builder的潜力。
 
 ## 适用于Adobe Commerce的App Builder {#app-builder-functional-demonstration}
 

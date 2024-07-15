@@ -25,7 +25,7 @@ ht-degree: 0%
 ## 此视频面向谁？
 
 - 网站管理员
-- 商务架构师
+- Commerce架构师
 - 电子商务网站所有者
 
 ## 视频内容
@@ -34,8 +34,8 @@ ht-degree: 0%
 
 ## Experience League文档和视频中提到的Fastly Adobe Commerce检查器
 
-- [Fastly检查程序](https://adobe-commerce-tester.freetls.fastly.net/adobe-commerce-tester/)
-- [Fastly在Experience League中提供服务](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html)
+- [快速检查程序](https://adobe-commerce-tester.freetls.fastly.net/adobe-commerce-tester/)
+- Experience League中的[Fastly服务](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html)
 - [Fastly WAF常见问题解答](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html)
 - [图像优化](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html)
 

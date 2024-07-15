@@ -43,7 +43,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了随Adobe Commerce 2.4一起安装在店面上的Store Fulfillment解决方案1.0版本。请参阅 [存储履行用户指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) 以获取最新信息。
+>视频中的内容反映了随Adobe Commerce 2.4一起安装在店面上的Store Fulfillment解决方案1.0版本。有关最新信息，请参阅[商店履行用户指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343653?quality=12&learn=on)
 

@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
 source-git-commit: 273119420a7051b1833d9b796bdce36e17d893c7
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '687'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,9 @@ ht-degree: 0%
 
 >[!BEGINSHADEBOX]
 
-购物车价格规则=应用于购物车中2个产品的10%折扣价格规则生效的条件：购物车中的项目总数是2操作应用产品价格折扣的百分比，折扣金额是10
+购物车价格规则=对购物车中2个产品应用了10%的折扣
+价格规则生效的条件：购物车中的项目总数为2
+操作应用产品价格折扣的百分比，且折扣金额为10
 
 购物车中添加了2个项目，每个项目的价格为19.95美元
 
@@ -54,34 +56,46 @@ ht-degree: 0%
 
 >[!BEGINSHADEBOX]
 
-与上面生效的购物车规则相同的10%折扣向购物车中添加2个价格为19.95的商品
+与上面生效的购物车规则相同的10%折扣
+将2种产品(19.95)添加到购物车
 
-每个产品可获得1.995美元的折扣。产品1 - 19.95 x 0.1 = 1.995 2 - 19.95 x 0.1 = 1.995
+每件产品可获得1.995美元的折扣
+产品1 - 19.95 x 0.1 = 1.995
+2 - 19.95 x 0.1 = 1.995
 
 总共3.99元作为客户的折扣
 
-在管理员中向商店所有者显示行项目时，我们需要调整第一个项目并将其四舍五入到2.000。第二项我们舍弃了第三个小数乘积1 = 2.00乘积2 = 1.99
+在管理员中向商店所有者显示行项目时，
+我们需要调整第一项，将其四舍五入到2.000。第二项，我们将舍弃小数点后三项
+产品1 = 2.00
+产品2 = 1.99
 
 这两种产品的合计总折扣现在与提供给客户的实际折扣匹配。
 >[!ENDSHADEBOX]
 
 以下是一个屏幕截图，它将显示在具有此方案的订单的管理员中：
 
-![显示具有不同值的已排序项目的“管理员”视图](../assets/commerce-admin-cart-price-rule-values-different.png)
+![显示具有不同值的排序项的管理员视图](../assets/commerce-admin-cart-price-rule-values-different.png)
 
 ### 其他可能的解决方案以及未使用它们的原因
 
 >[!BEGINSHADEBOX]
 
-与上面生效的购物车规则相同的10%折扣向购物车中添加2个价格为19.95的商品
+与上面生效的购物车规则相同的10%折扣
+将2种产品(19.95)添加到购物车
 
-每件产品应该有1.995美元的折扣，但如果我们只是把它们凑起来，就会显示太多的折扣。
+每个产品可获得1.995美元的折扣，
+然而，如果我们只是把它们围起来，就会显示太多的折扣。
 
-产品1 - 19.95 x 0.1 = 1.995产品2 - 19.95 x 0.1 = 1.995
+产品1 - 19.95 x 0.1 = 1.995
+产品2 - 19.95 x 0.1 = 1.995
 
-转换为四舍五入所有项目产品1新值为2.00产品2新值为2.00
+转换为对所有项目进行向上舍入
+产品1新值为2.00
+产品2新值为2.00
 
-实际提供给客户的总折扣为3.99，但是如果我们汇总，就会显示给了$4.00，这是不正确的。
+实际提供给客户的3.99毛额为折扣，
+但是，如果我们汇总，就会显示4.00美元已经提供，这是不正确的。
 
 2.00 + 2.00 = $4.00
 
@@ -91,13 +105,19 @@ ht-degree: 0%
 
 >[!BEGINSHADEBOX]
 
-与上面生效的购物车规则相同的10%折扣向购物车中添加2个价格为19.95的商品
+与上面生效的购物车规则相同的10%折扣
+将2种产品(19.95)添加到购物车
 
-每个产品可获得$1.995的折扣，但如果我们仅舍弃小数点后三位，则折扣会增加：产品1 - 19.95 x 0.1 = 1.995产品2 - 19.95 x 0.1 = 1.995
+每个产品应获得1.995美元的折扣，但如果我们只舍弃小数点后三位，就会出现以下情况：
+产品1 - 19.95 x 0.1 = 1.995
+产品2 - 19.95 x 0.1 = 1.995
 
-转换为删除所有项目的第三个小数点产品1新值为1.99产品2新值为1.99
+转换为拖放所有项目的第三个小数
+产品1新值为1.99
+产品2新值为1.99
 
-实际提供给客户的总额为3.99美元，作为折扣，但如果我们舍弃小数点后三位，就会显示实际为3.98美元，这是不正确的。
+实际提供给客户的3.99毛额为折扣，
+但是，如果我们舍弃小数点后三位，则会显示$3.98已提供，并且不正确。
 
 1.99 + 1.99 = $3.98
 
@@ -106,5 +126,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [创建购物车价格规则 —  [!DNL Commerce] Merchandising and Promotions指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html)
-- [优惠券代码 —  [!DNL Commerce] Merchandising and Promotions指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html)
+- [创建购物车价格规则 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html)
+- [优惠券代码 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html)

@@ -14,14 +14,14 @@ level: Beginner, Intermediate
 exl-id: 03787aa3-051b-4a35-b2e8-ecf6762b5eb4
 source-git-commit: e02da0901c01871360bcc556666e310acd7c7224
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce条件事件
 
-了解Adobe Commerce中可以在Adobe Developer App Builder中使用的条件事件。 其他文档可在 [安装适用于Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"}.
+了解Adobe Commerce中可以在Adobe Developer App Builder中使用的条件事件。 在[安装Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"}中找到其他文档。
 
 ## 此视频面向谁？
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 * 了解新XML文件io_events.xml的正确用法
 * 了解如何配置条件事件
 * 定义条件事件中使用的规则
-* 了解如何在商务实例中注册事件 `app/etc/config.php`
+* 了解如何在Commerce实例`app/etc/config.php`中注册事件
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415806?quality=12&learn=on)
 

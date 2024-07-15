@@ -86,9 +86,9 @@ ht-degree: 0%
 - [Commerce社区论坛](https://community.magento.com/)
 -= [配置Fastly](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html)
 - [性能测试](https://experienceleague.adobe.com/docs/commerce-operations/deliver-commerce-at-scale/launch.html)
-- [全站点分析工具 — SWAT](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html?)
+- [网站范围分析工具 — SWAT](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html?)
 - [适用于Adobe Commerce的New Relic观察](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
   [安全修补程序](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/security-patches/overview.html)
-- [启动项核对清单](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
+- [启动项清单](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

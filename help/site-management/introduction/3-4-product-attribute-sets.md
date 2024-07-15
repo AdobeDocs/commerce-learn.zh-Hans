@@ -1,5 +1,5 @@
 ---
-title: '"[!DNL Commerce] （业务用户 — 属性集）'
+title: "[!DNL Commerce] for business users — 属性集"
 description: 了解产品属性集以及如何在目录中使用它们。
 kt: 5770
 doc-type: video
@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: c3cedc33-a5a5-489a-954b-a001a4ea2eb4
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 企业用户 — 属性集
+# 业务用户的[!DNL Commerce] — 属性集
 
 在此视频中：
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35955?quality=12&learn=on)
 

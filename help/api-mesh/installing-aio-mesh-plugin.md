@@ -14,19 +14,19 @@ level: Beginner, Intermediate
 exl-id: 898a0918-0362-4fa4-9204-d770ff1a7e6f
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
 # 安装Adobe I/O Runtime CLI和Mesh插件
 
-在开始为Adobe Developer App Builder使用API Mesh之前，您需要安装 `aio` CLI和API网格插件。
-有关安装说明和先决条件，请访问API网格 [快速入门](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"} 页面。
+在开始为Adobe Developer App Builder使用API Mesh之前，您需要安装`aio` CLI和API Mesh插件。
+有关安装说明和先决条件，请访问API Mesh [快速入门](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"}页面。
 
 ## 此视频面向谁？
 
-* 刚开始接触API Mesh或是 [!DNL Adobe Commerce] 在使用方面经验有限 [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} 和API Mesh。
+* 刚开始使用API Mesh或使用[Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"}和API Mesh且经验有限的[!DNL Adobe Commerce]的开发人员。
 
 ## 视频内容
 
@@ -36,9 +36,9 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
 
-## 安装 `aio` CLI和API Mesh插件
+## 安装`aio` CLI和API Mesh插件
 
-安装后 `node` 和 `npm`，运行以下命令以安装 `aio` CLI：
+安装`node`和`npm`后，请运行以下命令以安装`aio` CLI：
 
 ```bash
 npm install -g @adobe/aio-cli

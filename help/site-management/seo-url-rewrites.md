@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -34,5 +34,5 @@ URL重写工具允许您更改与产品、类别或CMS页面关联的任何URL�
 
 ## 其他资源
 
-- [URL重写 —  [!DNL Commerce] Merchandising and Promotions指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
+- [URL重写 —  [!DNL Commerce] 销售和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
 - [常规> Web - [!DNL Commerce] 配置参考指南](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)

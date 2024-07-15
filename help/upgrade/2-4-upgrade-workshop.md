@@ -43,5 +43,5 @@ ht-degree: 33%
 ## 其他资源
 
 - [升级指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
-- [已发布版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [已发布的版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
 - [发布计划](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

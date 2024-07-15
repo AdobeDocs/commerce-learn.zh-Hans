@@ -1,6 +1,6 @@
 ---
 title: 使用Adobe Developer App Builder URL进行测试
-description: 了解如何从为您的项目提供的App Builder URL测试您的第一个Adobe Developer App Builder应用程序。
+description: 了解如何从为项目提供的Adobe Developer App Builder URL测试您的第一个App Builder应用程序。
 landing-page-description: 了解如何从提供的项目URL测试您的第一个Adobe Developer App Builder应用程序。
 kt: 12427
 doc-type: tutorial
@@ -18,13 +18,13 @@ ht-degree: 0%
 
 ---
 
-# 使用应用程序生成器URL进行测试 {#testing-app-builder-url}
+# 使用App Builder URL进行测试 {#testing-app-builder-url}
 
 了解如何使用项目中的URL测试新的Adobe Developer App Builder应用程序。
 
 ## 此视频面向谁？
 
-* 刚开始使用Adobe Commerce但使用AdobeApp Builder经验有限的开发人员，已准备好测试其首个Adobe Developer App Builder应用程序。
+* 刚开始接触Adobe Commerce但使用AdobeApp Builder经验有限的开发人员，已准备好测试其首个Adobe Developer App Builder应用程序。
 
 ## 视频内容
 

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # App Builder的可扩展性框架
 
-此功能演示介绍了App Builder及其在Adobe Commerce中的潜在用例。 此视频介绍了可扩展性框架、关键客户优势和功能。
+此功能演示介绍了App Builder及其用于Adobe Commerce的潜在用例。 此视频介绍了可扩展性框架、关键客户优势和功能。
 
 ## 适用于Adobe Commerce的App Builder {#app-builder-extensibility}
 

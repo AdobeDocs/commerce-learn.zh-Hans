@@ -21,7 +21,8 @@ ht-degree: 0%
 
 # Adobe Commerce Intelligence集成和配置
 
-本教程概述了Adobe Commerce Intelligence中的“管理数据”选项卡，并说明了如何设置和配置集成、Data Warehouse和报表功能。&#x200B;AEM
+本教程概述了Adobe Commerce Intelligence中的“管理数据”选项卡，并说明了如何设置和配置集成、Data Warehouse和报表功能。
+&#x200B;AEM
 此视频讨论了集成的选项，包括预置集成、标准集成、高级集成，以及添加自定义集成的功能。
 本文档还介绍了将表格同步到Data Warehouse、添加新表格和列以及创建用于报表的量度和过滤器的过程。
 

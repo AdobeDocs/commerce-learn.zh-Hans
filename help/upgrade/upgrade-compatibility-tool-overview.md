@@ -15,8 +15,8 @@ level: Beginner, Intermediate
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 25%
+source-wordcount: '206'
+ht-degree: 29%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 25%
 - 它如何帮助您快速识别升级到较新Adobe Commerce版本所需的错误和修复
 - 如何访问HTML结果，以帮助按严重性和不兼容数量可视化模块
 
-要了解有关该工具的更多信息，请参阅 [升级兼容性工具文档](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en). 如果您想了解有关执行和简化升级的更多信息，请参见 [升级指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
+要了解有关该工具的更多信息，请参阅[升级兼容性工具文档](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)。 如果您想了解有关执行和简化升级的详细信息，请参阅[升级指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)。
 
 ## 此视频面向谁？
 
@@ -45,5 +45,5 @@ ht-degree: 25%
 
 - [升级兼容性工具文档](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
 - [升级指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
-- [已发布版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [已发布的版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
 - [发布计划](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

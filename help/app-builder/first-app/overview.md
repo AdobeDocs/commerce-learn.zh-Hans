@@ -1,7 +1,7 @@
 ---
 title: App Builder创建您的第一个应用程序
 description: 了解使用Adobe Commerce的Adobe Developer App Builder并创建您的第一个应用程序。
-landing-page-description: 了解与Adobe Commerce一起使用的Adobe Developer App Builder并创建您的第一个应用程序。
+landing-page-description: 了解用于Adobe Commerce的Adobe Developer App Builder并创建您的第一个应用程序。
 kt: 12421
 doc-type: tutorial
 audience: all
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -22,18 +22,18 @@ ht-degree: 0%
 
 本教程包含以下先决条件：
 
-* Adobe Developer控制台访问完成
-* 已授予对App Builder的完全访问权限或试用访问权限
+* Adobe Developer Console访问完成
+* 已授予App Builder的完全访问权限或试用权限
 * [已创建Adobe Developer App Builder应用程序](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}
-* [已创建Adobe Developer应用程序生成器项目](https://developer.adobe.com/console){target="_blank"}
+* [已创建Adobe Developer App Builder项目](https://developer.adobe.com/console){target="_blank"}
 * [已创建Adobe Developer App Builder工作区 — 步骤2.6](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
 * [已执行用于初始化项目并运行的AIO CLI命令](https://developer.adobe.com/runtime){target="_blank"}
 
-有关构建您的第一个App Builder应用程序的更多信息，您可以查看以下博客帖子，以获得有关此初始设置和配置的帮助 [App Builder如何帮助提高商务平台的业务敏捷性](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
+有关构建您的第一个App Builder应用程序的更多信息，您可以查看以下博客帖子来帮助完成此初始设置和配置[App Builder如何帮助提高您的商务平台的业务敏捷性](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}。
 
 ## 阅读本教程期待完成的任务
 
-完成本教程后，您应该拥有一个简单的单页应用程序，该应用程序与Adobe Commerce进行通信，以提取订单历史记录和产品。 以下主题包含代码示例和说明的App Builder功能。 但愿在观看了这些视频后，这可以节省一些开发时间，激发其他想法并鼓励采用进程外开发。
+完成本教程后，您应该拥有一个简单的单页应用程序，该应用程序与Adobe Commerce进行通信，以提取订单历史记录和产品。 以下主题包含代码示例和说明，其中涵盖了App Builder功能。 但愿在观看了这些视频后，这可以节省一些开发时间，激发其他想法并鼓励采用进程外开发。
 
 ## 我应如何遵循本教程
 

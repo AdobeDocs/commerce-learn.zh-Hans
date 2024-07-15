@@ -1,6 +1,6 @@
 ---
 title: 创建礼品卡产品
-description: 了解如何使用REST API和商务管理员创建礼品卡产品。
+description: 了解如何使用REST API和Commerce管理员创建礼品卡产品。
 kt: 14587
 doc-type: video
 audience: all
@@ -11,7 +11,8 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 duration: 579
-source-git-commit: bcef1e34627bac55cfc75c85ef837474d53c193a
+exl-id: c18fd80e-1a25-4346-a8c5-3b5449d49965
+source-git-commit: 48a98261a827741459e45f14f7463f4a989c49d2
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -324,6 +325,6 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## 其他资源
 
-- [从商务管理员创建礼品卡产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html){target="_blank"}
+- [从Commerce管理员创建礼品卡产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html){target="_blank"}
 - [Adobe Developer REST教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

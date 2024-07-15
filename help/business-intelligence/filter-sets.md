@@ -1,6 +1,6 @@
 ---
 title: Commerce Intelligence — 过滤器集
-description: 了解如何使用Commerce Intelligence过滤器集功能来简化Adobe Commerce和Magento Open Source的业务数据报表。
+description: 了解如何使用Commerce Intelligence筛选器集功能简化Adobe Commerce和Magento Open Source的业务数据报表。
 landing-page-description: 观看此视频，了解如何使用Commerce Intelligence过滤器集功能简化业务数据报告。
 short-description: 观看本视频，了解如何使用MBCommerce IntelligenceI过滤器集功能简化业务数据报告。
 kt: 10289
@@ -16,7 +16,7 @@ level: Beginner, Intermediate
 exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
 source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您是初次使用Commerce Intelligence，则 [Adobe Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} 提供通过数据汇总、分析和可视化获得更佳业务洞察和结果的完整概述。
+>如果您是Commerce Intelligence的新用户，[Adobe Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"}将全面概述如何通过数据汇总、分析和可视化来获取更好的业务见解和结果。
 
 ## 此视频面向谁？
 
@@ -47,6 +47,6 @@ ht-degree: 0%
 
 ## 有用的资源
 
-[创建过滤器集 — Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
+[创建筛选器集 — 《Commerce Intelligence用户指南》](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
 
-[有关分段和筛选的建议数据Dimension- Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[分段和筛选的建议数据Dimension- Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

@@ -10,13 +10,13 @@ duration: 462
 last-substantial-update: 2024-01-31T00:00:00Z
 jira: KT-14877
 thumbnail: KT-14877.jpeg
-source-git-commit: a5ddf7591519b89efa2feb20ae601d36f5e5a1a7
+exl-id: 6cecba51-8d39-46f5-9864-80126d8ca3da
+source-git-commit: 48a98261a827741459e45f14f7463f4a989c49d2
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
-
 
 # 使用命令行查看和设置管理员配置
 
@@ -59,7 +59,7 @@ SELECT * FROM core_config_data WHERE path = 'trans_email/ident_sales/email';
 如何查找在代码库中某处定义的配置值？
 `grep -rnw vendor/magento/ -e 'sales@example.com'`
 
-在终端中查看页面并显示行号 `cat -n vendor/magento/module-email/etc/config.xml`
+在终端中查看页面并显示行号`cat -n vendor/magento/module-email/etc/config.xml`
 
 ## 其他资源
 

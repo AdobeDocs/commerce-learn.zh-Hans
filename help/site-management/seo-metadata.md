@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: affdc3d3-886f-4b39-8c82-c13ee2e79df9
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -34,4 +34,4 @@ ht-degree: 0%
 
 ## 其他资源
 
-[元数据 —  [!DNL Commerce] Merchandising and Promotions指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)
+[元数据 —  [!DNL Commerce] 销售和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)

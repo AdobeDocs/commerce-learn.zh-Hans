@@ -1,6 +1,6 @@
 ---
 title: 创建捆绑产品
-description: 了解如何使用REST API和商务管理员创建捆绑产品。
+description: 了解如何使用REST API和Commerce管理员创建捆绑包产品。
 kt: 14589
 doc-type: video
 audience: all
@@ -10,19 +10,19 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: e02540438df1cc85e6be7440351a72e77cfc1bf2
+exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
 
 ---
 
-
 # 创建捆绑产品
 
 捆绑产品是一种将多个产品分组到父产品下的方法。 这些子产品可以是一组已定义的产品，也可以提供一些变体，以便为客户提供灵活的配置选项。 捆绑产品类型的设置时间确实要长一些，在配置它们之前，您必须进行一些规划。 但是，提供捆绑产品可让客户更轻松地自定义其产品选择，从而改善购物体验。
 
-例如，您可以提供一个名为的产品捆绑包 `Learning to surf` 在您的网络商店中。 捆绑包是父产品，用作已分配子产品的容器，这些子产品指定可用选项：
+例如，您可以在网络商店中提供名为`Learning to surf`的产品捆绑包。 捆绑包是父产品，用作已分配子产品的容器，这些子产品指定可用选项：
 
 - 标准冲浪板
 - 典型的冲浪板拉链
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 在提交请求之前，请使用环境的值更新示例。
 
-- 更改 `"attribute-set": 4` 要替换 `4` 环境中属性集ID的位置。
+- 更改`"attribute-set": 4`以使用您环境中的属性集ID替换`4`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -192,7 +192,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 在提交请求之前，请使用环境的值更新示例。
 
-- 更改 `"attribute_set_id": 4,` 和替换 `4` 环境中属性集id的位置。
+- 更改`"attribute_set_id": 4,`并使用您环境中的属性集ID替换`4`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -321,7 +321,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-produ
 
 在更新捆绑产品选项时，请确保包括要与此产品关联的所有选项。 如果原始选项集包含三个产品并且一个已删除，请在POST请求中包含所有三个选项，以确保产品捆绑包指定所有选项。 如果仅包含您删除的选项，则更新的产品捆绑包将仅包含该选项。
 
-通过查看从为捆绑包产品创建的响应来查找选项ID。 在该回应中， `option_id` 是 `35`.
+通过查看从为捆绑包产品创建的响应来查找选项ID。 在该响应中，`option_id`是`35`。
 
 ```json
 ...
@@ -429,7 +429,7 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 
 ## 其他资源
 
-- [创建捆绑包产品教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
+- [创建捆绑产品教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
 - [捆绑产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
 - [Adobe Developer REST教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

@@ -9,13 +9,13 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: Commerce Marketplace中可用的AR查看器
-source-git-commit: d1d794a94cc60ad6441d95ff5b372092eeb28402
+exl-id: c57d44b3-2a9c-4623-b45a-678203d9a894
+source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
-
 
 # 适用于Adobe Commerce的增强现实查看器
 
@@ -24,7 +24,7 @@ AR Viewer是Adobe Commerce的一项扩展，它向在线商店所有者带来了
 
 AR Viewer在实体零售和数字零售之间架起了一座桥梁，使销售商能够在不具备丰富的技术知识或大量手动操作的情况下提供丰富的交互式客户体验。 其用户友好的界面无缝集成到Adobe Commerce管理员中，使其成为任何在线商店的方便补充。
 
-AR查看器用于 [!DNL bridge] 实体零售和数字零售之间的鸿沟，使销售商能够在不要求丰富的技术知识或大量手动操作的情况下提供丰富的交互式客户体验。 其用户友好的界面无缝集成到Adobe Commerce管理员中，使其成为任何在线商店的方便补充。
+AR Viewer填补了实体零售与数字零售之间的空白[!DNL bridge]，使销售商能够在不具备丰富的技术知识或大量手动操作的情况下提供丰富的交互式客户体验。 其用户友好的界面无缝集成到Adobe Commerce管理员中，使其成为任何在线商店的方便补充。
 
 ## 功能
 
@@ -39,7 +39,7 @@ AR查看器用于 [!DNL bridge] 实体零售和数字零售之间的鸿沟，使
 ## 将3D模型添加到产品
 
 在Adobe Commerce上安装此模块后，将新的3D模型添加到产品是一个简单的过程。
-在以下视频中，新增了一个部分来支持上传 `.USDZ` 文件上传。
+在以下视频中，新增了一个部分来支持`.USDZ`文件上传的上传。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422370?learn=on)
 
@@ -57,10 +57,9 @@ AR查看器用于 [!DNL bridge] 实体零售和数字零售之间的鸿沟，使
 
 ## 有用的资源
 
-[Adobe Commerce的AR查看器](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
-[使用AR Viewer for Adobe Commerce管理产品3D模型](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
+Adobe Commerce的[AR查看器](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
+[使用Adobe Commerce的AR查看器管理产品3D模型](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
 
 ## Adobe Commerce Marketplace扩展
 
 [AR查看器](https://commercemarketplace.adobe.com/magento-module-arviewer.html){target="_blank"}
-

@@ -12,14 +12,14 @@ level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
 source-git-commit: 88b957a33d6061c8053e598248fcbfff5cf0f010
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
 # 创建产品属性
 
-添加产品属性是中最常用的操作之一 [!DNL Commerce]. 属性是解决许多与产品相关的实际任务的强大方法。 向产品添加下拉列表类型属性的过程非常简单。
+添加产品属性是[!DNL Commerce]中最常用的操作之一。 属性是解决许多与产品相关的实际任务的强大方法。 向产品添加下拉列表类型属性的过程非常简单。
 
 在此视频中：
 
@@ -64,7 +64,7 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->如果您的模块正在使用声明性架构，并且大多数模块自2.3.0之后便已使用，则应当忽略setup_version。 但是，如果您有一些旧版项目，您可能会看到使用此方法。  请参阅 [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} 以了解更多信息。
+>如果您的模块正在使用声明性架构，并且大多数模块自2.3.0之后便已使用，则应当忽略setup_version。 但是，如果您有一些旧版项目，您可能会看到使用此方法。  有关详细信息，请参阅[developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"}。
 
 
 ```xml

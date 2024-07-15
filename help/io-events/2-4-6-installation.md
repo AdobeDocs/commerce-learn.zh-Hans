@@ -1,6 +1,6 @@
 ---
 title: 了解如何安装Adobe Commerce 2.4.6的IO事件
-description: 了解如何在Adobe Commerce 2.4.6中安装IO事件所需的模块，以便在Adobe Developer App Builder中使用
+description: 了解如何在Adobe Commerce 2.4.6中安装用于Adobe Developer App Builder的IO事件所需的模块
 landing-page-description: 了解如何安装Adobe Commerce 2.4.6所需的几个模块。
 short-description: 了解如何安装Adobe Commerce 2.4.6所需的几个模块。
 kt: 11887
@@ -15,14 +15,14 @@ level: Beginner, Intermediate
 exl-id: 41b31ed8-04c5-4d50-aaff-abc3718b5957
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce 2.4.6安装
 
-了解如何使用适用于版本2.4.6的编辑器在Adobe Commerce中安装多个新模块。其他文档可在 [安装适用于Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+了解如何使用适用于版本2.4.6的编辑器在Adobe Commerce中安装多个新模块。在[安装Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}中找到其他文档。
 
 ## 此视频面向谁？
 
@@ -56,7 +56,7 @@ bin/magento setup:upgrade && bin/magento setup:di:compile
 composer info magento/ece-tools
 ```
 
-Commerce Cloud `.magento.env.yaml`：
+Commerce Cloud`.magento.env.yaml`：
 
 ```yaml
 stage:

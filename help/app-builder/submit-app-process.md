@@ -10,17 +10,17 @@ feature: API Mesh, App Builder, Extensibility, Tools and External Services
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Architect, Developer
 level: Beginner, Intermediate
-exl-id: 085b5a67-4a67-4ce0-9da4-c9d4460cd356
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+exl-id: 6a217ea6-8d6b-4ecb-bbc3-b5b27df3bde9
+source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
 # 了解如何将应用程序提交到Adobe Commerce Marketplace
 
-Adobe Commerce Marketplace现在接受提交App Builder应用程序列表。 App Builder是我们的新一代可扩展性平台，为开发人员提供了为Adobe Commerce构建安全、可扩展应用程序所需的所有工具和服务。 开发人员现在可以将他们的应用程序发布到Adobe Commerce Marketplace，这是企业发现和购买高质量应用程序以满足其需求的可靠来源。 您可以通过转到以下位置提交应用程序以供审查 [https://commercedeveloper.adobe.com](https://commercedeveloper.adobe.com/){target="blank"}.
+Adobe Commerce Marketplace现在接受提交App Builder应用程序列表。 App Builder是我们的新一代可扩展性平台，为开发人员提供了为Adobe Commerce构建安全、可扩展应用程序所需的所有工具和服务。 开发人员现在可以将他们的应用程序发布到Adobe Commerce Marketplace，这是企业发现和购买高质量应用程序以满足其需求的可靠来源。 您可以转到[https://commercedeveloper.adobe.com](https://commercedeveloper.adobe.com/){target="blank"}提交应用程序以供审阅。
 
 ## 此视频面向谁？
 

@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 0b42ffc1c0b55c75fdb7b25b86ec8049edb5db97
 workflow-type: tm+mt
 source-wordcount: '670'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -16,36 +16,36 @@ ht-degree: 2%
 + [[!DNL Commerce] 教程](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
    + [从自托管解决方案迁移](../cloud/overview.md)
-   + 技术入门和硬件移交 {#technical-onboarding-hardware-handoff}
+   + 技术入门和硬件移交{#technical-onboarding-hardware-handoff}
       + [基础设施和发展最佳实践](../cloud/infrastructure-development-best-practices.md)
       + [Fastly](../cloud/fastly.md)
       + [配置和调试](../cloud/configuration-and-debugging.md)
       + [部署、测试、监控和安全性](../cloud/deployments-testing-monitoring-security.md)
       + [SaaS产品、支持和通信以及后续步骤](../cloud/saas-offerings-support-communications-next-steps.md)
-   + 最佳实践 {#commerce-cloud-best-practices}
+   + 最佳实践{#commerce-cloud-best-practices}
       + [启动前核对清单](../cloud/best-practices/pre-launch-checklist.md)
-+ 快速入门 {#getting-started}
-   + 全球参考体系结构{#global-reference-architecture}
++ 快速入门{#getting-started}
+   + 全局参考体系结构{#global-reference-architecture}
       + [全球参考体系结构](../global-reference-architecture/what-is-global-reference-architecture.md)
       + [利用全球参考体系结构](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
       + [架构师GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
       + [实施全球参考体系结构](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
-   + Commerce功能 {#capabilities}
+   + Commerce功能{#capabilities}
       + [数据连接](../capabilities/data-connection.md)
       + [Live Search完整演示](../capabilities/live-search-full-demonstration.md)
       + [可组合的Commerce](../capabilities/what-is-composable-commerce.md)
-   + 创建产品 {#create-products}
+   + 创建产品{#create-products}
       + [简单产品](../site-management/create-simple-product.md)
       + [虚拟产品](../site-management/create-virtual-product.md)
       + [可下载的产品](../site-management/create-downloadable-product.md)
       + [已分组的产品](../site-management/create-grouped-product.md)
-      + [可配置产品](../site-management/create-configurable-product.md)
+      + [可配置的产品](../site-management/create-configurable-product.md)
       + [捆绑产品](../site-management/create-bundle-product.md)
       + [礼品卡产品](../site-management/create-gift-card-product.md)
-   + 后台集成入门工具包 {#back-office-integration-starter-kit}
+   + 后台集成入门工具包{#back-office-integration-starter-kit}
       + [入门套件演示](../back-office-integrations/starter-kit-demo.md)
-+ 网络研讨会和活动 {#webinars-and-events}
-   + 启用系列 {#enablement-series}
++ 网络研讨会和活动{#webinars-and-events}
+   + 启用系列{#enablement-series}
       + [降低Commerce集成的目录](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
       + [规划现代Adobe Commerce实施](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
       + [启动、启动后、监控和故障排除](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
@@ -54,17 +54,17 @@ ht-degree: 2%
    + [GraphQL基础知识](../graphql-rest/intro-graphql.md)
    + [查询](../graphql-rest/graphql-queries.md)
    + [突变](../graphql-rest/graphql-mutations.md)
-   + [架构](../graphql-rest/graphql-schema.md)
+   + [模式](../graphql-rest/graphql-schema.md)
 + Adobe Developer App Builder {#adobe-developer-app-builder}
    + [App Builder简介](../app-builder/introduction-to-app-builder.md)
    + [App Builder的可扩展性框架](../app-builder/extensibility-framework-commerce-eventing.md)
    + [App Builder的功能演示](../app-builder/app-builder-functional-demonstration.md)
    + [App Builder技术概述](../app-builder/app-builder-technical-overview.md)
    + [将应用程序提交到市场](../app-builder/submit-app-process.md)
-   + 构建您的第一个App Builder应用程序 {#first-app}
+   + 构建您的第一个App Builder App {#first-app}
       + [概述](../app-builder/first-app/overview.md)
-      + [生成和配置.env文件](../app-builder/first-app/env-file.md)
-      + [app.config.yaml文件的描述和用法](../app-builder/first-app/app-config-yaml-file.md)
+      + [生成并配置.env文件](../app-builder/first-app/env-file.md)
+      + [app.config.yaml文件的说明和使用情况](../app-builder/first-app/app-config-yaml-file.md)
       + [了解操作文件夹](../app-builder/first-app/actions-folder.md)
       + [了解测试文件夹](../app-builder/first-app/test-folder.md)
       + [了解web-src文件夹的用途](../app-builder/first-app/web-src-folder.md)
@@ -72,7 +72,7 @@ ht-degree: 2%
       + [使用App Builder URL进行测试](../app-builder/first-app/testing-app-builder-url.md)
       + [结论](../app-builder/first-app/conclusion.md)
       + [示例模块源代码](https://github.com/magento/app-builder-samples){target="_blank"}
-   + Adobe Commerce的IO事件 {#io-events}
+   + Adobe Commerce {#io-events}的IO事件
       + [IO事件快速入门](../io-events/getting-started-io-events.md)
       + [Adobe Commerce 2.4.5安装](../io-events/2-4-5-installation.md)
       + [Adobe Commerce 2.4.6安装](../io-events/2-4-6-installation.md)
@@ -80,13 +80,13 @@ ht-degree: 2%
       + [配置Adobe Commerce](../io-events/configure-commerce.md)
       + [Adobe Commerce模块开发](../io-events/commerce-module-development.md)
       + [Adobe Commerce条件事件](../io-events/conditional-events.md)
-   + API网格 {#api-mesh}
+   + API网格{#api-mesh}
       + [API Mesh入门](../api-mesh/getting-started-api-mesh.md)
       + [安装AdobeIO和Mesh插件](../api-mesh/installing-aio-mesh-plugin.md)
       + [使用项目和工作区](../api-mesh/aio-projects-workspaces.md)
       + [创建单一源GraphQL API网格](../api-mesh/graphql-single-source.md)
       + [创建多源GraphQL API网格](../api-mesh/graphql-multiple-source.md)
-+ 商店管理 {#admin}
++ 商店管理{#admin}
    + [管理用户角色和权限](../site-management/users-roles-permissions.md)
    + [双重身份验证](../site-management/two-factor-authentication.md)
    + [管理币种和税则](../site-management/currency-tax-rules.md)
@@ -94,16 +94,16 @@ ht-degree: 2%
    + [更改商店URL](../site-management/change-store-url.md)
    + [配送方式](../site-management/shipping-delivery.md)
    + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
-   + Adobe Commerce服务 {#adobe-commerce-services}
+   + Adobe Commerce服务{#adobe-commerce-services}
       + [配置Commerce服务连接器](../site-management/configure-adobe-commerce-services-connector.md)
       + [配置支付服务](../site-management/configure-adobe-payment-services.md)
       + [使用付款服务](../site-management/payment-services.md)
-+ 客户管理 {#customers}
++ 客户管理{#customers}
    + [创建客户区段](../site-management/customer-segments.md)
    + [创建客户组](../site-management/customer-groups.md)
    + [创建客户属性](../site-management/customer-attributes.md)
    + [卖方辅助购物](../site-management/seller-assisted-shopping.md)
-+ 目录管理 {#catalog}
++ 目录管理{#catalog}
    + [创建类别](../site-management/category-create.md)
    + [管理类别中的产品](../site-management/category-products.md)
    + [Inventory management](../site-management/inventory-management.md)
@@ -113,14 +113,14 @@ ht-degree: 2%
    + [管理SEO的URL重写](../site-management/seo-url-rewrites.md)
    + [AR查看器](../site-management/augmented-reality.md)
    + [目录导入和更新](../site-management/catalog-import.md)
-+ 内容管理 {#content}
++ 内容管理{#content}
    + [Page Builder概述](../site-management/page-builder-overview.md)
    + [创建静态块和动态块](../site-management/static-dynamic-blocks.md)
    + [创建构件](../site-management/widgets.md)
    + [使用内容模板](../site-management/content-templates.md)
    + [内容暂存](../site-management/content-staging.md)
    + [管理媒体集](../site-management/media-gallery.md)
-+ 营销工具 {#marketing}
++ 营销工具{#marketing}
    + [创建目录价格规则](../site-management/catalog-price-rules.md)
    + [创建购物车价格规则](../site-management/cart-price-rules.md)
    + [管理相关的产品规则](../site-management/related-product-rules.md)
@@ -128,16 +128,16 @@ ht-degree: 2%
    + [Live Search简介](../site-management/live-search.md)
    + [推荐的实时搜索](../site-management/live-search-recommendations.md)
    + [将Commerce与AJO集成](../site-management/integrate-commerce-ajo.md)
-+ 订单和履行 {#orders}
++ 订单和履行{#orders}
    + [商店履行概述](../orders-and-fulfillment/store-fulfillment.md)
    + [管理订单状态](../orders-and-fulfillment/order-status.md)
    + [检查库存状态](../orders-and-fulfillment/checking-inventory-status.md)
-+ 适用于Adobe Commerce的B2B {#b2b}
++ Adobe Commerce {#b2b}的B2B
    + [管理公司帐户](../b2b/company-accounts.md)
    + [管理共享目录](../b2b/shared-catalogs.md)
    + [管理公司信用](../b2b/company-credit.md)
    + [采购订单和审批](../b2b/purchase-orders.md)
-   + 引用 {#b2b-quote}
+   + 引用{#b2b-quote}
       + [销售代表启动报价](../b2b/sales-rep-initiates-quote.md)
       + [来自管理员的报价验证](../b2b/quote-validation-admin-panel.md)
       + [销售代表启动报价REST API](../b2b/sales-rep-initiates-quote-api.md)
@@ -145,7 +145,7 @@ ht-degree: 2%
       + [报价单行项目注释](../b2b/quote-line-item-notes.md)
       + [报价单行项目折扣GraphQL](../b2b/quote-graphql-line-item-discount.md)
       + [报价单行项目折扣REST API](../b2b/quote-rest-api-line-item-notes.md)
-+ 工具和外部服务 {#tools}
++ 工具和外部服务{#tools}
    + [站点范围分析工具仪表板](../tools/site-wide-analysis-tool.md)
    + [Adobe Commerce观察](../tools/observation-tool.md)
    + [Quality修补工具](../tools/quality-patch-tool.md)
@@ -158,12 +158,12 @@ ht-degree: 2%
    + [筛选条件集](../business-intelligence/filter-sets.md)
    + [同类群组Report Builder](../business-intelligence/cohort-report-builder.md)
    + [SQLREPORT BUILDER](../business-intelligence/sql-report-builder.md)
-   + [为未来做准备](../business-intelligence/prepare-for-future.md)
-+ Commerce升级 {#upgrade}
+   + [为将来准备](../business-intelligence/prepare-for-future.md)
++ Commerce升级{#upgrade}
    + [Adobe Commerce 2.4升级研讨会](../upgrade/2-4-upgrade-workshop.md)
    + [升级兼容性工具概述](../upgrade/upgrade-compatibility-tool-overview.md)
    + [使用PHP Storm中的升级兼容性工具](../upgrade/uct-phpstorm.md)
-+ 后端开发 {#backend-development}
++ 后端开发{#backend-development}
    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [创建模块](../backend-development/create-module.md)
    + [添加产品属性](../backend-development/add-product-attribute.md)
@@ -172,8 +172,8 @@ ht-degree: 2%
    + [MySQL查询缓存](../backend-development/mysql-query-cache.md)
    + [PT查询摘要](../backend-development/pt-query-digest.md)
    + [连接和下载Adobe Commerce数据库](../backend-development/remote-db-connection-execute-queries.md)
-+ 原生前端Luma开发 {#frontend-development}
-   + 面向开发人员的Page Builder {#page-builder}
++ 本机前端Luma开发{#frontend-development}
+   + 面向开发人员的页面生成器{#page-builder}
       + [1 — 简介](../frontend-development/page-builder/1-intro-case-studies.md)
       + [2 — 配置和内容](../frontend-development/page-builder/2-config-create-content.md)
       + [3 — 主题](../frontend-development/page-builder/3-themes.md)
@@ -182,10 +182,10 @@ ht-degree: 2%
       + [6 — 自定义内容类型](../frontend-development/page-builder/6-custom-content-types.md)
    + [添加JavaScript模块](../frontend-development/add-javascript-module.md)
    + [创建页面](../frontend-development/create-page.md)
-+ Headless体系结构 {#headless-architecture}
-   + Headless简介 {#introduction-to-headless}
-      + [Headless架构 — 第1场会议](../headless/session-1.md)
-   + PWA Studio简介 {#introduction}
++ Headless架构{#headless-architecture}
+   + Headless {#introduction-to-headless}简介
+      + [Headless架构 — 会话1](../headless/session-1.md)
+   + PWA Studio{#introduction}简介
       + [1 — 概述](../pwa/introduction/1-overview.md)
       + [2 -PWA Studio工具](../pwa/introduction/2-pwa-studio-tools.md)
       + [3 — 启动](../pwa/introduction/3-launch.md)

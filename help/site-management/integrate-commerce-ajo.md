@@ -20,18 +20,18 @@ ht-degree: 0%
 
 # 集成Adobe Commerce和Adobe Journey Optimizer
 
-了解如何使用 [数据连接](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"} Adobe Commerce中的数据，以便通过Adobe Journey Optimizer实时解锁商业数据并提供端到端、个性化的购物者体验。
+了解如何在Adobe Commerce中使用[Data Connection](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"}来解锁Commerce数据，并通过Adobe Journey Optimizer帮助实时提供端到端、个性化的购物者体验。
 
 ## 此视频面向谁？
 
-- 对将电子商务数据和受众共享给营销团队感兴趣的电子商务经理和运营人员
+- 对将电子商务数据和受众共享给营销团队感兴趣的E-Commerce经理和运营人员
 - 希望使用Commerce中的客户数据进一步推动大规模个性化的营销经理
 - 希望通过Commerce和Journey Optimizer之间的自动化数据流提高效率的营销运营
 
 ## 视频内容
 
 - 通过在Adobe Commerce和Adobe Experience Platform(包括Journey Optimizer)之间通过Data Connection无缝流式传输数据，解决孤立的数据挑战
-- 实时获取从Commerce投放的数据，以在Journey Optimizer中激活和个性化客户历程
+- 实时获取从Commerce交付的数据，以在Journey Optimizer中激活客户历程并使其个性化
 - 将Commerce数据与来自其他源的数据相结合。 构建受众并通过独特消息、体验或选件定位受众
 - 使用Data Connection仅需1小时即可实施此集成，而自定义实施通常需要20天
 - 在Adobe Journey Optimizer中，使用数据连接中提供的现成事件轻松构建和激活1:1客户历程

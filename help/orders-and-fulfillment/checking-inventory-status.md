@@ -9,17 +9,17 @@ doc-type: Tutorial
 duration: 0
 last-substantial-update: 2024-05-09T00:00:00Z
 jira: KT-15462
-source-git-commit: e171d0a0b6272db5e9ca88992a73395af57072ed
+exl-id: bd2be562-5738-4398-8afb-2faeb0ba6b83
+source-git-commit: 84f9139181bf57d967494da97d4d27d297513c31
 workflow-type: tm+mt
 source-wordcount: '1932'
 ht-degree: 0%
 
 ---
 
-
 # 库存状态检查开发和性能注意事项
 
-库存的准确性是一个非常重要的考虑因素。 有一些本机功能可以帮助确保这种风险尽可能低，例如延期交割和设置缺货阈值。 这两个主题都可以阅读 [Experience League](https://experienceleague.adobe.com/en/docs/commerce-admin/inventory/configuration/backorders) 以进一步解释。
+库存的准确性是一个非常重要的考虑因素。 有一些本机功能可以帮助确保这种风险尽可能低，例如延期交割和设置缺货阈值。 这两个主题都可以在[Experience League](https://experienceleague.adobe.com/en/docs/commerce-admin/inventory/configuration/backorders)上阅读，以进一步说明。
 
 在某些项目和用例中，需要对Adobe Commerce应用商店进行实时库存状态检查。 本教程将深入分析如何根据开发和性能考虑因素来处理此对话。
 
@@ -33,9 +33,9 @@ ht-degree: 0%
 
 尝试考虑清单检查以及如何通过3种方法完成检查。 每一种方法都有好处和限制。 它们也会增加复杂性，并且需要针对错误处理进行更多的测试和思考。 请记住，当您决定采用自定义路由时，会添加一些责任和注意事项。 一些示例包括回退流程、监控、测试和疑难解答都属于开发团队。 要包括的一些有用项目是新的支持文档、培训和监控，以确保开发团队可以支持整个功能。 另一个副作用是开发团队完全拥有该流程，并且不再利用核心Adobe Commerce应用程序提供的本机功能。 Adobe支持无法协助进行此级别的自定义。
 
-第一种方法是使用本机功能。 使用本机功能带来的风险最小，并且有许多好处。 如果采用这种方法，即表示您可以依赖Adobe Commerce为该功能的使用提供的所有现有文档和教程。 库存管理有许多方面，因此使用应用程序附带的内容应该是首要考虑的问题。 但是，在某些情况下，在订购时商业中找到的数据可能并不完全准确。 例如，如果允许直接在Adobe Commerce应用程序之外的订单管理系统中进行销售，则可能会出现不同步的情况。 一个原因是，要确保在Adobe Commerce中表示准确的库存水平，需要某种集成，以使Adobe Commerce信息尽可能接近准确。 如果不能接受过度销售，则添加缺货阈值是在达到零之前阻止物料销售的好方法。 Adobe Commerce的本机同步功能每天最多为1次。 这对于某些用例已经足够，但是对于其他用例来说可能不太频繁。 请阅读 [计划的导入和导出](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/data-scheduled-import-export) 以了解更多详细信息。
+第一种方法是使用本机功能。 使用本机功能带来的风险最小，并且有许多好处。 如果采用这种方法，即表示您可以依赖Adobe Commerce为该功能的使用提供的所有现有文档和教程。 库存管理有许多方面，因此使用应用程序附带的内容应该是首要考虑的问题。 但是，在某些情况下，在订购时商业中找到的数据可能并不完全准确。 例如，如果允许直接在Adobe Commerce应用程序之外的订单管理系统中进行销售，则可能会出现不同步的情况。 一个原因是，要确保在Adobe Commerce中表示准确的库存水平，需要某种集成，以使Adobe Commerce信息尽可能接近准确。 如果不能接受过度销售，则添加缺货阈值是在达到零之前阻止物料销售的好方法。 Adobe Commerce的本机同步功能每天最多为1次。 这对于某些用例已经足够，但是对于其他用例来说可能不太频繁。 有关详细信息，请阅读[计划的导入和导出](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/data-scheduled-import-export)。
 
-第二种方法是 `near real-time`. 近乎实时仍使用本机功能。 但是，这需要进行一些额外工作，以提供集成，该集成会经常向商业馈送以按计划更新其清单。 例如，每小时。 对于集成如何工作，此选项需要一些思考，但使用“批量api”并拥有一些中间件来执行数据转换并将其推送到商业是一种很好的方法。 请查看使用AdobeApp Builder或类似平台来完成大量工作，并以更频繁的节奏将信息推送到Adobe Commerce。
+第二种方法是`near real-time`。 近乎实时仍使用本机功能。 但是，这需要进行一些额外工作，以提供集成，该集成会经常向商业馈送以按计划更新其清单。 例如，每小时。 对于集成如何工作，此选项需要一些思考，但使用“批量api”并拥有一些中间件来执行数据转换并将其推送到商业是一种很好的方法。 请查看使用AdobeApp Builder或类似平台来完成大量工作，并以更频繁的节奏将信息推送到Adobe Commerce。
 
 第三种方法，也是风险最大、责任最复杂的方法，是对外部API或数据源的实时实时清单检查。 对外部系统进行实时库存检查存在风险，并且还有其他几个需要考虑的因素。 以下是需要评估的一小部分其他内容：
 
@@ -52,14 +52,14 @@ ht-degree: 0%
 
 如果库存信息相当平坦（例如sku和总可用数量），则近乎实时的选项会被展开。 “近实时”概念是指有一个从源收集库存，然后填充用于响应请求的存储引擎的后台操作。 为此，您可以使用Redis、Mongo或其他非关系数据库。 这些选项很好，因为它们非常快，非常适用于键/值对。 如果数据更复杂，则可能需要在商务应用程序内部或外部使用关系数据库。 通过从商务数据库卸载此项，可以将核心商务应用程序与这些事务隔离。 另一组好处是使商务应用程序、CPU、RAM和其他方面的I/O不再使用。 不使用来自Adobe Commerce应用程序服务器的资源，而是利用新的API从站点外存储中提取数据。  这可能需要一个中间件来帮助转换任何数据。 然后，确保调用应用程序可以获得预期的结果。 通过使用带API网格的AdobeApp Builder，可以转换数据并返回格式正确的数据。
 
-在有多个库存来源时，将Adobe应用程序生成器与API网格结合使用也是一个很好的选择。
+在有多个库存来源时，将AdobeApp Builder与API网格结合使用也是一个很好的选择。
 
 
 ## 将执行逻辑移动到进程外位置
 
 Adobe Developer App Builder提供了一个统一的第三方可扩展性框架，用于集成和创建自定义体验以扩展Adobe解决方案。 Adobe Commerce可以使用Adobe Developer App Builder。 这是一个非常好的用例，可用于扩展一些通常在核心应用程序中出现的功能并将其移动到异地。 通过从Commerce应用程序中删除功能，这减少了Commerce应用程序的模块数量和复杂性。 反过来，流程中自定义项数量减少会降低升级和维护的复杂性。
 
-为了获取如何实现此目标的灵感，Adobe团队已创建了一些文档，这些文档可以成为灵感的绝佳来源并提供工作代码示例。 当购物者将产品添加到购物车时，第三方库存管理系统检查该商品是否有库存。 如果是，则允许添加产品。 否则，显示错误消息。  有关代码示例和更多信息，请访问 [Webhook用例](https://developer.adobe.com/commerce/extensibility/webhooks/use-cases/#add-product-to-cart).
+为了获取如何实现此目标的灵感，Adobe团队已创建了一些文档，这些文档可以成为灵感的绝佳来源并提供工作代码示例。 当购物者将产品添加到购物车时，第三方库存管理系统检查该商品是否有库存。 如果是，则允许添加产品。 否则，显示错误消息。  有关代码示例和详细信息，请转到[Webhook用例](https://developer.adobe.com/commerce/extensibility/webhooks/use-cases/#add-product-to-cart)。
 
 ## 何时进行清单检查
 

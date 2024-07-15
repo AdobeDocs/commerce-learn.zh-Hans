@@ -9,7 +9,8 @@ feature: Configuration, System, Personalization
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
-source-git-commit: 35bd4f00555f426223de701586d6e12fb329184d
+exl-id: f17c3be6-8ef2-4972-a8cc-089ff4a2be3b
+source-git-commit: a9712c4354967e8e53c421878be8b83bb6056e6d
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%

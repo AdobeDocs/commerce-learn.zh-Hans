@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Commerce] 业务用户 — 分层导航”'
-description: 在您的网站中启用分层导航 [!DNL Commerce] 以便客户能够轻松而快速地找到产品。
+title: "[!DNL Commerce] for business users - Layered navigation"
+description: 在 [!DNL Commerce] 商店中启用分层导航，以便客户可以轻松快速地找到产品。
 kt: 5775
 doc-type: video
 activity: use
@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: 683d8f73-acd6-48e8-b4c3-b478db6e88fa
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 面向企业用户 — 分层导航
+# [!DNL Commerce]企业用户 — 分层导航
 
 在此视频中：
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36186?quality=12&learn=on)
 

@@ -1,6 +1,6 @@
 ---
 title: 创建可配置产品
-description: 了解如何使用REST API和商务管理员创建可配置产品。
+description: 了解如何使用REST API和Commerce管理员创建可配置产品。
 kt: 14586
 doc-type: video
 audience: all
@@ -10,13 +10,13 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: f3ec375c2332bfae98970d7e10a6a7ad258386e3
+exl-id: 112bec9a-0f8e-4252-8c52-f486a5e663b5
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '952'
 ht-degree: 0%
 
 ---
-
 
 # 创建可配置产品
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 使用REST API创建可配置的产品：
 
-1. 获取的属性 [属性集](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) 为后续API调用使用ID号。
+1. 获取[属性集](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)的属性，以便为后续API调用使用ID号。
 1. 创建简单产品以在可配置产品中使用。
 1. 创建空的可配置产品并关联简单产品。
 1. 设置可配置产品的产品属性。
@@ -85,7 +85,7 @@ ht-degree: 0%
 ```
 
 
-要检索属性ID以设置可配置产品，请更新 `attribute-sets/10/attributes` 要替换的以下cURL请求的一部分 `10` 环境中属性集ID的位置。 此请求使用GET方法。
+要检索属性ID以设置可配置产品，请更新以下cURL请求的`attribute-sets/10/attributes`部分，以使用环境中的属性集ID替换`10`。 此请求使用GET方法。
 
 ```bash
 curl --location '{{your.url.here}}rest/V1/products/attribute-sets/10/attributes' \
@@ -100,8 +100,8 @@ curl --location '{{your.url.here}}rest/V1/products/attribute-sets/10/attributes'
 
 在提交请求之前，请使用环境的值更新示例。
 
-- 更改 `"attribute-set": 10` 要替换 `10` 环境中属性集ID的位置。
-- 更改 `"value": "13"` 要替换 `13` 用来自您环境的价值。
+- 更改`"attribute-set": 10`以使用您环境中的属性集ID替换`10`。
+- 将`"value": "13"`更改为使用您环境中的值替换`13`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -141,8 +141,8 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 在提交请求之前，请使用环境的值更新示例。
 
-- 更改 `"attribute_set_id": 10,` 和替换 `10` 环境中具有的属性集ID。
-- 更改 `"value": "14"` 和替换 `14` 用来自您环境的价值。
+- 更改`"attribute_set_id": 10,`并在您的环境中将`10`替换为的属性集ID。
+- 更改`"value": "14"`并使用您环境中的值替换`14`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -182,8 +182,8 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 在提交请求之前，请使用环境的值更新示例。
 
-- 更改 `"attribute_set_id": 10,` 要替换 `10` 环境中属性集ID的位置。
-- 更改 `"value": "15"` 和替换 `15` 用来自您环境的价值。
+- 更改`"attribute_set_id": 10,`以使用您环境中的属性集ID替换`10`。
+- 更改`"value": "15"`并使用您环境中的值替换`15`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -223,8 +223,8 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 在提交请求之前，请使用环境的值更新示例。
 
-- 更改 `"attribute_set_id": 10,` 和替换 `10` 环境中属性集id的位置。
-- 更改 `"value": "93"` 和替换 `93` 用来自您环境的价值。
+- 更改`"attribute_set_id": 10,`并使用您环境中的属性集ID替换`10`。
+- 更改`"value": "93"`并使用您环境中的值替换`93`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -254,7 +254,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 通过使用cURL发送以下POST请求，设置可配置产品的可用选项。
 
-在提交请求之前，请更改 `"attribute_id": 93,` 要替换 `93` 使用您环境中的属性ID。
+在提交请求之前，请更改`"attribute_id": 93,`以使用您环境中的属性ID替换`93`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/options' \
@@ -290,7 +290,7 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Ha
 
 通过发送以下POST请求，将这些简单产品添加为可配置产品的子项。 为每种产品单独提交请求。
 
-对于每个请求，请更新 `childSKU` ，其中包含您要添加的子产品的值。 下面的示例将简单产品指定为 `kids-Hawaiian-Ukulele-red` 到具有SKU的可配置产品 `Kids-Hawaiian-Ukulele-red`.
+对于每个请求，使用您正在添加的子产品的值更新`childSKU`值。 以下示例将简单产品`kids-Hawaiian-Ukulele-red`分配给具有SKU `Kids-Hawaiian-Ukulele-red`的可配置产品。
 
 
 ```bash

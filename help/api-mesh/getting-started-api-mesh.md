@@ -1,8 +1,8 @@
 ---
 title: API Mesh入门
-description: 了解如何在 Adobe Commerce 和  [!DNL Adobe App Builder] 上使用 API Mesh。了解如何安装 Adobe App Builder、使用项目、创建 graphql 反向代理等等。
-landing-page-description: 了解如何在 Adobe Commerce 和  [!DNL Adobe App Builder] 上使用 API Mesh。了解如何安装 Adobe IO、处理项目、创建 graphql 反向代理等等。
-short-description: 了解如何在 Adobe Commerce 和  [!DNL Adobe App Builder] 上使用 API Mesh。了解如何安装 Adobe IO、处理项目、创建 graphql 反向代理等等。
+description: 了解如何在Adobe Commerce和 [!DNL Adobe App Builder]上使用API Mesh。 了解如何安装 Adobe App Builder、使用项目、创建 graphql 反向代理等等。
+landing-page-description: 了解如何在Adobe Commerce和 [!DNL Adobe App Builder]上使用API Mesh。 了解如何安装 Adobe IO、处理项目、创建 graphql 反向代理等等。
+short-description: 了解如何在Adobe Commerce和 [!DNL Adobe App Builder]上使用API Mesh。 了解如何安装 Adobe IO、处理项目、创建 graphql 反向代理等等。
 kt: 11802
 doc-type: tutorial
 audience: all
@@ -14,8 +14,8 @@ level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
 source-git-commit: 366a7988dfa1de39ebccb8ab0e281d80b27dbb36
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 23%
+source-wordcount: '316'
+ht-degree: 15%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 23%
 
 API Mesh将多个数据源整合在一起，得到单个响应以供应用程序使用。
 
-[查看完整的API网格文档](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
+[查看完整的API Mesh文档](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
 
 ## 此视频面向谁？
 
-* 任何不熟悉API Mesh或 [!DNL Adobe Commerce] 在使用方面经验有限 [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} 和API Mesh。
+* 任何刚开始使用API Mesh或[!DNL Adobe Commerce]但使用[Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"}和API Mesh经验有限的开发人员。
 
 ## 视频内容
 
@@ -48,9 +48,9 @@ API Mesh将多个数据源整合在一起，得到单个响应以供应用程序
 
 ## 什么是反向代理
 
-作为使用AdobeApp Builder和API Mesh的开发人员，无需了解什么是反向代理。 但是，如果您对与AdobeApp Builder相关的整体功能感兴趣，请使用以下资源：
+作为使用AdobeApp Builder和API Mesh的开发人员，无需了解什么是反向代理。 但是，如果您对与AdobeApp Builder相关的总体功能感兴趣，请使用以下资源：
 
 * [什么是反向代理](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
-* [什么是反向代理？它为什么重要？](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
+* [什么是反向代理以及它为什么重要](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}

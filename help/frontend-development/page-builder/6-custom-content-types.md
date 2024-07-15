@@ -11,7 +11,7 @@ level: Beginner, Intermediate
 exl-id: c5c0c325-9b69-4531-b57d-5d8183f320d8
 source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此内容反映了Adobe Commerce 2.3.1的Page Builder 1.0.0版本。有关更高版本中的更新的信息，请参阅 [Page Builder发行说明](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>此内容反映了Adobe Commerce 2.3.1的Page Builder 1.0.0版本。有关更高版本中的更新的信息，请参阅[Page Builder发行说明](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35714?quality=12&learn=on)
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
 [Page Builder开发人员文档](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Page Builder指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[页面生成器指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

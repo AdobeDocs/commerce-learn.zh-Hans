@@ -11,7 +11,7 @@ level: Beginner, Intermediate
 exl-id: 5f2984d5-84f7-41d4-99e5-2a2c0ff1b1c7
 source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 ## 步骤
 
 - 创建模块
-- 创建 `requirejs-config.js` 和JavaScript模块文件
+- 创建`requirejs-config.js`和JavaScript模块文件
 - 创建布局更新以添加启用JS模块的模板
 - 创建模板文件
 - 添加模块并进行测试

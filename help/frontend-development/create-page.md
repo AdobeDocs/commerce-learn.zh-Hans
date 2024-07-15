@@ -11,7 +11,7 @@ level: Beginner, Intermediate
 exl-id: aa830d15-0095-450f-83a8-a4ea489d6aae
 source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -27,15 +27,15 @@ ht-degree: 0%
 ## 添加页面的步骤
 
 - 创建模块
-- 添加 **路由.xml** 文件
+- 添加&#x200B;**routes.xml**&#x200B;文件
 - 添加控制器（操作）文件
 
 ## 创建模块的步骤
 
 - 创建模块文件夹
-- 创建 `etc/module.xml` 文件
-- 创建 `registration.php` 文件
-- 运行 `bin/magento setup:upgrade` 用于安装新模块的脚本
+- 创建`etc/module.xml`文件
+- 创建`registration.php`文件
+- 运行`bin/magento setup:upgrade`脚本以安装新模块
 - 检查模块是否正常工作
 
 ## 视频内容

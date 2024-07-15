@@ -12,14 +12,14 @@ level: Beginner, Intermediate
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
 # 创建模块
 
-模块是的结构元素 [!DNL Commerce]  — 整个系统基于模块构建。 通常，创建自定义项的第一步是构建模块。
+模块是[!DNL Commerce]的结构元素 — 整个系统基于模块构建。 通常，创建自定义项的第一步是构建模块。
 
 ## 此视频面向谁？
 
@@ -71,12 +71,12 @@ ComponentRegistrar::register(
 
 ### 对于插件，请记住以下事项
 
-- 所有插件均声明于 `di.xml`.
+- 所有插件均在`di.xml`中声明。
 - 插件需要一个唯一的名称
 - disabled和sortOrder是可选的
 - 插件的范围由其所在的文件夹设置
 - 插件可以在调用方法之前、之后或两者同时执行
-- 避免使用 `around` 插件。 它们很有吸引力，但往往都是错误的选择，并会导致性能问题。
+- 避免使用`around`插件。 它们很有吸引力，但往往都是错误的选择，并会导致性能问题。
 
 ### 插件代码示例
 

@@ -1,5 +1,5 @@
 ---
-title: '"[!DNL Commerce] 商业用户 — 导入和导出产品”'
+title: '[!DNL Commerce]商业用户 — 导入和导出产品'
 description: 了解如何导入和导出目录产品。
 kt: 5773
 doc-type: video
@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: 109aeab1-a3a4-4e47-99e4-21dabd23d605
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 企业用户 — 导入和导出产品
+# 商业用户[!DNL Commerce] — 导入和导出产品
 
 在此视频中：
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35958?quality=12&learn=on)
 

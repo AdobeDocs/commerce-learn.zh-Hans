@@ -15,18 +15,18 @@ level: Beginner, Intermediate
 exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce 2.4.5安装
 
-了解如何使用适用于版本2.4.5的编辑器在Adobe Commerce中安装多个新模块。这将设置要在Adobe Commerce应用程序中使用的所需模块。 其他文档可在 [安装适用于Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+了解如何使用适用于版本2.4.5的编辑器在Adobe Commerce中安装多个新模块。这将设置要在Adobe Commerce应用程序中使用的所需模块。 在[安装Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}中找到其他文档。
 
 ## 此视频面向谁？
 
-* 刚开始使用I/O事件的Adobe Commerce和Adobe Developer App Builder的开发人员
+* 不熟悉Adobe Commerce和Adobe Developer App Builder且使用I/O事件的开发人员
 
 ## 视频内容 {#video-content}
 
@@ -65,7 +65,7 @@ composer update
 composer info magento/ece-tools
 ```
 
-Commerce Cloud `.magento.env.yaml`：
+Commerce Cloud`.magento.env.yaml`：
 
 ```yaml
 stage:

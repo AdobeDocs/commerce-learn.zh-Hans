@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 允许下载的域
 
-您必须指定允许下载的域。 域将添加到项目的 `env.php` 文件通过命令行访问。 此 `env.php` 文件详细信息允许包含可下载内容的域。 如果使用REST API创建可下载的产品，则会发生错误 _早于_  该 `php.env` 文件已更新：
+您必须指定允许下载的域。 域通过命令行添加到项目的`env.php`文件。 `env.php`文件详细列出了允许包含可下载内容的域。 如果在&#x200B;_之前使用REST API_&#x200B;创建了可下载的产品，则更新了`php.env`文件时出错：
 
 ```bash
 {
@@ -42,9 +42,9 @@ ht-degree: 0%
 }
 ```
 
-要设置域，请连接到服务器： `bin/magento downloadable:domains:add www.example.com`
+若要设置域，请连接到服务器： `bin/magento downloadable:domains:add www.example.com`
 
-完成后， `env.php` 在中修改 _downloadable_domains_ 数组。
+完成此操作后，`env.php`将在&#x200B;_downloadable_domains_&#x200B;数组内进行修改。
 
 ```php
     'downloadable_domains' => [
@@ -52,18 +52,18 @@ ht-degree: 0%
     ],
 ```
 
-现在，该域已添加到 `env.php`中，您可以在Adobe Commerce管理员中或使用REST API创建可下载的产品。
+现在该域已添加到`env.php`，您可以在Adobe Commerce管理员中或使用REST API创建可下载的产品。
 
-请参阅 [配置引用](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) 了解更多信息。
+有关详细信息，请参阅[配置引用](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains)。
 
 >[!IMPORTANT]
->在某些版本的Adobe Commerce上，在Adobe Commerce管理员中编辑产品时，您可能会收到以下错误。 产品是使用REST API创建的，但链接下载具有 `null` 价格。
+>在某些版本的Adobe Commerce上，在Adobe Commerce管理员中编辑产品时，您可能会收到以下错误。 产品是使用REST API创建的，但链接下载的价格为`null`。
 
-`Deprecated Functionality: number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /app/vendor/magento/module-downloadable/Ui/DataProvider/Product/Form/Modifier/Data/Links.php on line 228`.
+`Deprecated Functionality: number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /app/vendor/magento/module-downloadable/Ui/DataProvider/Product/Form/Modifier/Data/Links.php on line 228`。
 
 要修复此错误，请使用更新链接API： `POST V1/products/{sku}/downloadable-links.`
 
-请参阅 [使用cURL更新产品下载链接](#update-downloadable-links) 部分以了解更多信息。
+有关详细信息，请参阅[使用cURL更新产品下载链接](#update-downloadable-links)。
 
 ## 使用cURL创建可下载的产品（从远程服务器下载）
 
@@ -116,20 +116,20 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 此示例演示了当文件与Adobe Commerce应用程序存储在同一服务器上时，如何使用cURL从Adobe Commerce管理员创建可下载的产品。
 
-在此使用案例中，当管理目录的管理员选择 `upload file`，则文件将传输到 `pub/media/downloadable/files/links/` 目录。  自动化会根据以下模式创建文件并将其移动到其各自位置：
+在此使用案例中，当管理目录的管理员选择`upload file`时，文件将传输到`pub/media/downloadable/files/links/`目录。  自动化会根据以下模式创建文件并将其移动到其各自位置：
 
 - 每个上载的文件都存储在文件夹中，该文件夹基于文件名的前两个字符。
 - 启动上传后，Commerce应用程序会创建或使用现有文件夹传输文件。
-- 下载文件时， `link_file` 路径的部分使用路径中附加到 `pub/media/downloadable/files/links/` 目录。
+- 下载文件时，路径的`link_file`部分使用附加到`pub/media/downloadable/files/links/`目录的路径部分。
 
-例如，如果上传的文件名为 `download-example.zip`：
+例如，如果上传的文件名为`download-example.zip`：
 
-- 文件将上传到路径 `pub/media/downloadable/files/links/d/o/`.
-子目录 `/d` 和 `/d/o` 如果不存在，则会创建。
+- 文件上载到路径`pub/media/downloadable/files/links/d/o/`。
+如果子目录`/d`和`/d/o`不存在，则创建它们。
 
-- 文件的最终路径为 `/pub/media/downloadable/files/links/d/o/download-example.zip`.
+- 文件的最终路径为`/pub/media/downloadable/files/links/d/o/download-example.zip`。
 
-- 此 `link_url` 此示例的值为 `d/o/download-example.zip`
+- 此示例的`link_url`值为`d/o/download-example.zip`
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -181,8 +181,8 @@ curl --location '{{your.url.here}}/rest/default/V1/products/POSTMAN-download-pro
 
 ## 使用Postman更新产品 {#update-downloadable-links}
 
-使用端点 `rest/all/V1/products/{sku}/downloadable-links`
-此 `SKU` 是在创建产品时生成的产品ID。 例如，在下面的代码示例中，这是数字39，但请确保将其更新以使用您网站中的ID。 这将更新可下载产品的链接。
+使用终结点`rest/all/V1/products/{sku}/downloadable-links`
+`SKU`是在创建产品时生成的产品ID。 例如，在下面的代码示例中，这是数字39，但请确保将其更新以使用您网站中的ID。 这将更新可下载产品的链接。
 
 ```json
 {
@@ -207,7 +207,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/POSTMAN-download-pro
 
 ## 使用CURL更新产品下载链接
 
-使用cURL更新产品下载链接时，该URL包含要更新的产品的SKU。  在以下代码示例中，SKU是 `abcd12345`. 在提交命令时，更改值以匹配要更新的产品的SKU。
+使用cURL更新产品下载链接时，该URL包含要更新的产品的SKU。  在以下代码示例中，SKU是`abcd12345`。 在提交命令时，更改值以匹配要更新的产品的SKU。
 
 ```bash
 curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-links' \

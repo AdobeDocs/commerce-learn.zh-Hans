@@ -1,6 +1,6 @@
 ---
 title: 创建虚拟产品
-description: 了解如何使用REST API和商务管理员创建虚拟产品。
+description: 了解如何使用REST API和Commerce管理员创建虚拟产品。
 kt: 14464
 doc-type: video
 audience: all
@@ -10,9 +10,10 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 225faceffefc31a6205f689933210510dba235d1
+exl-id: 5149b6b4-5fbf-467a-a412-6dce7188bcb9
+source-git-commit: a9712c4354967e8e53c421878be8b83bb6056e6d
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---

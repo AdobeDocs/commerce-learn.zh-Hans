@@ -1,5 +1,5 @@
 ---
-title: '"[!DNL Commerce] 商业用户 — 登陆页面”'
+title: "[!DNL Commerce]企业用户 — 登陆页面"
 description: 了解如何设置类别登陆页面和控制外观。
 kt: 5766
 doc-type: video
@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: c38aa97e-4688-42fa-b39f-1702ef1469be
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 企业用户 — 登陆页面
+# 商业用户[!DNL Commerce] — 登陆页面
 
 在此视频中：
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36388?quality=12&learn=on)
 

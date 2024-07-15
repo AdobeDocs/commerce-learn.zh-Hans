@@ -14,14 +14,14 @@ level: Beginner, Intermediate
 exl-id: b8062042-2e90-4750-92ef-d55a76f2d842
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
 # 配置Adobe Commerce
 
-了解如何配置Adobe Commerce以公开事件。 其他文档可在 [安装适用于Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+了解如何配置Adobe Commerce以公开事件。 在[安装Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}中找到其他文档。
 
 ## 此视频面向谁？
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 * 在Commerce管理员中配置Adobe I/O事件
 * 在Commerce管理员中保存私钥
-* 在商务管理员中保存唯一标识符
+* 在Commerce管理员中保存唯一标识符
 * 创建事件提供程序
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415799?quality=12&learn=on)

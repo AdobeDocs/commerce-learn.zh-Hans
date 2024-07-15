@@ -1,5 +1,5 @@
 ---
-title: '"[!DNL Commerce] 面向企业用户 — 类别定位”'
+title: "[!DNL Commerce] for business users - Category positioning"
 description: 在类别中定位产品，以便客户在顶部看到您希望他们看到的产品。
 kt: 5776
 doc-type: video
@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: 499b4ba1-c0b3-4961-8b03-6f8cbe965ca7
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] 面向企业用户 — 类别定位
+# 面向企业用户的[!DNL Commerce] — 类别定位
 
 在此视频中：
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅 [发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36187?quality=12&learn=on)
 

@@ -13,14 +13,14 @@ level: Beginner, Intermediate
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
 source-git-commit: d6e7cfeca2a3d3e747abf49d4c5b3e3537299507
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 # 管理公司信用
 
-对于拥有 _[!UICONTROL Payment on Account]_启用并有可用的公司信贷，则他们可以在授予的信贷限额内进行购买。 通过此功能，客户可以从其帐户仪表板检查其公司积分的状态。
+对于已启用&#x200B;_[!UICONTROL Payment on Account]_且有可用公司信用额度的公司，他们可以在帐户中进行购买，最大程度不超过授予的信用额度。 通过此功能，客户可以从其帐户仪表板检查其公司积分的状态。
 
 您可以为每个公司配置文件设置以下与信用相关的参数：
 
@@ -43,5 +43,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [配置分期付款](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
+- [配置帐户付款](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
 - [管理公司信用](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)

@@ -1,6 +1,6 @@
 ---
-title: ’[!DNL Page Builder] 概述
-description: 了解如何构建页面 [!DNL Commerce] 使用以下方式在管理员中存储页面 [!DNL Page Builder].
+title: '[!DNL Page Builder]概述'
+description: 了解如何使用 [!DNL Page Builder]在管理员中生成页面 [!DNL Commerce] 存储页面。
 kt: 5563
 doc-type: feature video
 audience: all
@@ -13,16 +13,16 @@ level: Beginner, Intermediate
 exl-id: b68e3fef-c392-48ad-af93-ae535f5cdc3c
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-# [!DNL Page Builder] 概述
+# [!DNL Page Builder]概述
 
-[!DNL Page Builder] 使您可以轻松使用自定义版面创建内容丰富的页面，以增强您的视觉叙事能力，并提高客户参与度和忠诚度。
+[!DNL Page Builder]使您可以轻松创建具有自定义版面的内容丰富的页面，以增强您的视觉叙事能力，并提高客户参与度和忠诚度。
 
-从2.4.3版本开始， [!DNL Page Builder] 默认情况下，在Adobe Commerce和Magento Open Source中均可用。 替换为 [!DNL Page Builder] 在Adobe Commerce中，您可以整合暂存和预览、个性化内容和产品推荐，以及即将推出的其他功能。
+从2.4.3版本开始，[!DNL Page Builder]默认在Adobe Commerce和Magento Open Source中均可用。 借助Adobe Commerce中的[!DNL Page Builder]，您可以整合暂存和预览、个性化内容和产品推荐，以及即将推出的其他功能。
 
 在本视频中，了解如何：
 
@@ -44,5 +44,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [Page Builder用户指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
+- [页面生成器用户指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
 - [Page Builder开发人员指南](https://developer.adobe.com/commerce/frontend-core/page-builder/)

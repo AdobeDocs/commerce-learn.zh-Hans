@@ -1,7 +1,7 @@
 ---
 title: web-src文件夹
 description: 了解web-src文件夹中的文件类型以及此示例应用程序的嵌套文件和文件夹。
-landing-page-description: 了解与Adobe Commerce一起使用的Adobe Developer App Builder以及web-src文件夹中的文件类型。
+landing-page-description: 了解用于Adobe Commerce的Adobe Developer App Builder以及web-src文件夹中的文件类型。
 kt: 12425
 doc-type: tutorial
 audience: all
@@ -13,24 +13,24 @@ level: Beginner, Intermediate
 exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
 # 了解web-src文件夹的用途 {#web-src-folder}
 
-此示例应用程序的web-src文件夹包含许多JavaScript文件和文件夹。 此文件夹用于具有用户界面的应用程序。 并非所有应用程序都使用此功能。 例如，与外部库存管理系统的Commerce集成可能不需要前端界面和代码。
+此示例应用程序的web-src文件夹包含许多JavaScript文件和文件夹。 此文件夹用于具有用户界面的应用程序。 并非所有应用程序都使用此功能。 例如，Commerce与外部库存管理系统的集成可能不需要前端界面和代码。
 
 ## 此视频面向谁？
 
-* 刚开始接触Adobe Commerce但使用AdobeApp Builder经验有限的开发人员，他们正了解 `web-src` 文件夹及其内容。
+* 刚开始接触Adobe Commerce但使用AdobeApp Builder经验有限的开发人员，他们了解`web-src`文件夹及其内容。
 
 ## 视频内容
 
-* 的主要用途是什么 `web-src` 文件夹？
+* `web-src`文件夹的主要用途是什么？
 * 通常包括文件和文件夹
-* 如何 `web-src` 文件夹及其中的内容在示例应用程序中使用
+* 如何在示例应用程序中使用`web-src`文件夹及其内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
 
@@ -128,7 +128,7 @@ web-src/src/hooks/useCommerceOrders.js
 
 {{avoid-400-error}}
 
-在以下示例中，代码示例为 `not` 限制请求。 要避免400错误，请使用减小响应大小 `searchCriteria`.
+在以下示例中，代码示例是限制请求的`not`。 要避免400错误，请使用`searchCriteria`减小响应的大小。
 
 `?searchCriteria[filter_groups][0][filters][0][field]=created_at&searchCriteria[filter_groups][0][filters][0][value]=2022-12-01&searchCriteria[filter_groups][0][filters][0][condition_type]=gt`
 

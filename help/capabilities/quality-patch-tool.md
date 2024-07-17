@@ -9,14 +9,18 @@ doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
-source-git-commit: 5a2a757bc97c5af25070e448abf119e2e657b6c8
+source-git-commit: 0458526b13266625a23d8ddc2ca8829d11ed07d5
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
 
-# 观看此视频的期待完成的任务
+# Adobe Commerce质量修补工具
+
+了解在诊断问题、找到解决方案并应用现有可用修补程序列表中找到的修补程序时，如何使用质量修补工具。
+
+## 观看此视频的期待完成的任务
 
 了解如何分类问题，然后使用一些基本技术查找质量补丁以应用修复。
 

@@ -1,5 +1,5 @@
 ---
-title: 配置、部署和自定义用于将Commerce与第三方系统集成的引入webhook
+title: 配置、部署和自定义摄取Webhook
 description: 了解如何设置和自定义引入webhook，以便于Commerce和第三方后台系统之间的通信。
 landing-page-description: 了解如何使用Commerce Integration Starter Kit通过引入webhook将Commerce与第三方后台系统集成。
 kt: 15870
@@ -11,14 +11,14 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: f0c6e9262a2bf2de3144255de1fc78d6972b6d33
+source-git-commit: 45c018813ed8d5487e1491e09afc34e2de39c5b2
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
-# 配置、部署和自定义引入webhook
+# 配置、部署和自定义摄取webhook
 
 了解用于将Commerce与第三方后台系统集成的引入webhook的设置和自定义&#x200B;。 此视频介绍webhook如何通过提供可公开使用的端点来使来自第三方系统的消息适应AdobeIO事件API，从而解决系统之间事件通信中的限制。 此过程包括在`actions.config.yaml`文件中配置webhook，在`app.config.yaml`文件中启用它，并将其部署以确保正常运行。
 

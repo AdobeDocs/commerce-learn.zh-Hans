@@ -1,6 +1,6 @@
 ---
-title: 了解质量修补工具
-description: 通过应用质量补丁增强电子商务平台的稳定性和安全性。 使用此重要工具保持最新、解决问题和优化性能。
+title: Quality修补工具
+description: 了解在诊断问题、找到解决方案并应用现有可用修补程序列表中找到的修补程序时，如何使用质量修补工具。
 feature: Cloud, Configuration, Logs, System, Tools and External Services
 topic: Architecture, Commerce, Development
 role: Admin, Architect, User
@@ -9,14 +9,15 @@ doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
-source-git-commit: 0458526b13266625a23d8ddc2ca8829d11ed07d5
+exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
+source-git-commit: 43085b1a139e21ea695cc10ffab1413088ba4426
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce质量修补工具
+# Quality修补工具
 
 了解在诊断问题、找到解决方案并应用现有可用修补程序列表中找到的修补程序时，如何使用质量修补工具。
 
@@ -24,7 +25,7 @@ ht-degree: 0%
 
 了解如何分类问题，然后使用一些基本技术查找质量补丁以应用修复。
 
-## 此视频面向谁？
+## 受众
 
 * 开发人员了解如何查找问题并利用此工具为已知问题应用GIT修补程序
 
@@ -40,7 +41,7 @@ Quality Patches Tool是用于Adobe Commerce和Magento Open Source的命令行实
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
-## 为何使用高质量修补工具？
+## 为何使用品质修补工具
 
 如果要执行以下操作，您可能希望使用Adobe Commerce或Magento Open Source的Quality Patches Tool：
 

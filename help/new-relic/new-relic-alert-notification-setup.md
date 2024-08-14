@@ -11,16 +11,16 @@ feature: Tools and External Services, Communications, Security
 topic: Commerce, Architecture
 role: Architect, Developer
 level: Beginner, Intermediate
-source-git-commit: 7873d61123734cbe876ec2f00d552505457053c0
+source-git-commit: fae28537a460ccaa119b5374cff9e96378aad31d
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
 # New Relic警报通知设置
 
-了解如何查找警报，什么是New Relic中的策略和目标。 观察者，将电子邮件添加到现有策略是多么容易。
+了解如何在New Relic中查找警报、策略、工作流和目标。 观察者，将电子邮件添加到现有策略是多么容易。
 
 ## 此视频面向谁？
 

@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 353
 last-substantial-update: 2024-09-12T00:00:00Z
 jira: KT-16199
-source-git-commit: a46bcaaa8f17baceb323d62494a158c36ea5f66f
+source-git-commit: cea265de4a1e8f828d60d9f5773f0d7fa5e6b5de
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -31,6 +31,5 @@ Adobe Commerce使企业能够从单个后端界面管理多个商店、品牌或
 - 多站点管理
 - 本地化和自定义
 - 可扩展性和灵活性
-
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434027?learn=on)

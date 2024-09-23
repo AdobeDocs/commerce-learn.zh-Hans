@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 256
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16186
-source-git-commit: e710689530fd6cd125b77e8fe67a823ec5aded75
+source-git-commit: f029ed2ca8e09c2937a39299477c4516b6b76c4f
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
@@ -32,6 +32,5 @@ ht-degree: 0%
 - 了解最新的登录方法。
 - 充分了解角色的创建和管理
 - 了解用户分配和访问级别。&#x200B;AEM
-
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)

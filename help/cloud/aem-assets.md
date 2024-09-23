@@ -8,9 +8,9 @@ doc-type: Technical Video
 duration: 189
 last-substantial-update: 2024-12-09T00:00:00Z
 jira: KT-16203
-source-git-commit: 8ebc37e432f2898ad9df0497b41f5d4df8947e67
+source-git-commit: 33b4f9f612138656d792b40012446ce9f31cf2f5
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -28,8 +28,8 @@ ht-degree: 0%
 
 ## 视频内容
 
-- 提高了效率和速度。&#x200B;AEM
-- 产品和资产之间的无缝同步。&#x200B;AEM
-- 完整的生命周期控制，包括批准、删除和到期。&#x200B;AEM
+- 提高了效率和速度。
+- 产品和资产之间的无缝同步。
+- 完整的生命周期控制，包括批准、删除和到期。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)

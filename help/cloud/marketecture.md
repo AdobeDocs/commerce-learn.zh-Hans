@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 423
 last-substantial-update: 2024-09-09T00:00:00Z
 jira: KT-16061
-source-git-commit: 261419d013d511185c650cb45f50e412184825c8
+source-git-commit: b805d2df5d74f80084336d03add25af72430e785
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -20,6 +20,7 @@ ht-degree: 0%
 # Adobe Commerce市场结构
 
 Adobe Commerce是一个以体验为导向的平台，它结合了技术灵活性和易用性，以实现卓越的业务成果。 它在AWS和Azure上提供，具有200多个模块、强大的SLA和可扩展的架构。 该平台支持REST和GraphQL API，通过增强实现更快的性能，并提供智能、可组合的服务，如实时搜索、AI产品推荐和支付解决方案。
+
 可扩展性工具（如API Mesh和统一事件管理）可简化开发和集成，而Edge Delivery Services可提供快速、分离的前端。 与Adobe Experience Platform集成的Adobe Commerce使企业可以利用实时客户数据提供个性化体验和针对性营销活动，从而促进显着增长。
 
 ## 此视频面向谁

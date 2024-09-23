@@ -9,9 +9,9 @@ doc-type: Technical Video
 duration: 423
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16188
-source-git-commit: 184f1790f9331e0dd7168f63622f3808867b983b
+source-git-commit: fad5703d870d90175418916766a83942dc3e7b7f
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Adobe Commerce营销流程
 
-探索Adobe Commerce的Edge交付店面，重点关注内容管理。 了解如何使用Word和SharePoint等熟悉的工具创建和管理内容，从而提高转化率。 了解关于创建新文章、横幅和执行A/B测试以优化客户参与的一些新的创作方面。&#x200B;AEM 此外，了解如何使用Adobe Experience Manager和创新型人工智能工具来进一步细化内容并确保有效促销活动。&#x200B;AEM
+探索Adobe Commerce的Edge交付店面，重点关注内容管理。 了解如何使用Word和SharePoint等熟悉的工具创建和管理内容，从而提高转化率。 了解关于创建新文章、横幅和执行A/B测试以优化客户参与的一些新的创作方面。 此外，了解如何使用Adobe Experience Manager和创新型人工智能工具来进一步细化内容并确保有效促销活动。
 
 ## 此视频面向谁
 
@@ -29,8 +29,8 @@ _探索Adobe Commerce Edge交付店面的新客户和现有客户。
 
 ## 视频内容
 
-- 了解适用于Edge Delivery Services的最新内容创建和管理选项。&#x200B;AEM
+- 了解适用于Edge Delivery Services的最新内容创建和管理选项。
 - 通过A/B测试了解优化。
-- 了解一些高级工具和AI集成，以优化内容、生成变体并增强整体促销策略。&#x200B;AEM
+- 了解一些高级工具和AI集成，以优化内容、生成变体并增强整体促销策略。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433527?learn=on)

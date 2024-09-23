@@ -9,9 +9,9 @@ doc-type: Technical Video
 duration: 301
 last-substantial-update: 2024-11-09T00:00:00Z
 jira: KT-16193
-source-git-commit: 4d6ce5b07990001441a8d7fb41a3c73e1029c200
+source-git-commit: 1dd8c4ea80732d68b44d1d200ddcb331551ea224
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Adobe Commerce的Edge Delivery Services提供了快速、高效且高度可自�
 
 - 希望改善在线商店的企业和电子商务领导者。
 - IT领导者、开发人员和营销人员。
-- 旨在提高网站性能、增加有机流量并提供个性化购物体验的公司。
+- 旨在提高网站性能、增加有机流量以及提供个性化购物体验的公司。
 
 ## 视频内容
 

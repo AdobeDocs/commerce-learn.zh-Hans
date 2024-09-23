@@ -9,9 +9,9 @@ doc-type: Technical Video
 duration: 1227
 last-substantial-update: 2024-09-09T00:00:00Z
 jira: KT-16201
-source-git-commit: bece033b3652cfa6a91026a1b42e611d19d72c3b
+source-git-commit: 0f8faa05e44b49ade6d09291106ea331afccff18
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '477'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Experience Lead数据和促销  
 
-了解Adobe Commerce由Adobe Sensei提供支持的高级搜索功能及其强大的目录管理功能。 了解人工智能驱动的搜索优化、分面和促销工具的一些亮点，以增强用户体验。&#x200B;AEM 此外，您还可以了解产品捆绑、促销管理以及与第三方系统的无缝集成，从而针对B2B和B2C电子商务需求提供全面的解决方案。&#x200B;AEM  
+了解Adobe Commerce由Adobe Sensei提供支持的高级搜索功能及其强大的目录管理功能。 了解人工智能驱动的搜索优化、分面和促销工具的一些亮点，以增强用户体验。&#x200B;AEM 此外，您还可以了解产品捆绑、促销管理以及与第三方系统的无缝集成，从而针对B2B和B2C电子商务需求提供全面的解决方案。
 
 ## 这些视频是给谁看的？
 
@@ -34,32 +34,33 @@ ht-degree: 0%
 
 ## 目录管理视频内容
 
-- 高效的目录管理。&#x200B;AEM
+- 高效的目录管理。
 - 高级集成和自定义。
-- 增强的购物体验。&#x200B;&#x200B;
+- 增强的购物体验。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434039?learn=on)
 
 ## 实时搜索
 
-了解由Adobe Sensei AI驱动的Live Search支持的Adobe Commerce高级搜索功能。&#x200B;AEM 此强大的SaaS解决方案通过快速高效地提供高度相关的搜索结果而增强了电子商务体验。&#x200B;AEM 商家和营销人员可以使用高级搜索规则、同义词和Facet等工具优化网站搜索结果。 实时搜索提供实时建议、智能排名和可自定义的搜索体验，确保客户找到他们所需的内容。&#x200B;AEM 它还支持具有共享目录和特定定价的B2B模型，使其成为满足所有业务需求的通用解决方案。&#x200B;AEM  
+了解由Adobe Sensei AI驱动的Live Search支持的Adobe Commerce高级搜索功能。&#x200B;AEM 此强大的SaaS解决方案通过快速高效地提供高度相关的搜索结果而增强了电子商务体验。&#x200B;AEM 商家和营销人员可以使用高级搜索规则、同义词和Facet等工具优化网站搜索结果。 实时搜索提供实时建议、智能排名和可自定义的搜索体验，确保客户找到他们所需的内容。&#x200B;AEM 它还支持具有共享目录和特定定价的B2B模型，使其成为满足所有业务需求的通用解决方案。
 
 ## 实时搜索视频内容
 
-- AI驱动搜索优化：Adobe Commerce的实时搜索利用人工智能和机器学习提供高度相关且高效的搜索结果。&#x200B;AEM
-- 可自定义的搜索体验：高级搜索规则、同义词和Facet等功能，可为客户提供量身定制的优化搜索体验。&#x200B;AEM
-- B2B集成：实时搜索支持具有共享目录和特定定价的B2B模型，从而增强了其针对各种业务需求的多功能性。&#x200B;AEM
+- AI驱动搜索优化：Adobe Commerce的实时搜索利用人工智能和机器学习提供高度相关且高效的搜索结果。
+- 可自定义的搜索体验：高级搜索规则、同义词和Facet等功能，可为客户提供量身定制的优化搜索体验。
+- B2B集成：实时搜索支持具有共享目录和特定定价的B2B模型，从而增强了其针对各种业务需求的多功能性。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on)
 
 ## 促销活动  
 
-Adobe Commerce使商店经理无需任何编码技能即可轻松创建和管理产品捆绑包和促销活动。&#x200B;AEM 该平台提供了一个用户友好的界面，用于设置目录和购物车促销、基于数量的分层定价以及特定于公司的B2B用例促销。&#x200B;AEM 商店经理可以配置具有特殊定价的可自定义产品捆绑包，定义精确的促销条件，并应用各种折扣类型。&#x200B;AEM 此外，Adobe Commerce还支持高级促销策略（如促销栈叠），并通过其Back Office Integration Starter Kit与第三方系统无缝集成。&#x200B;AEM 所有这些功能也可以使用Adobe Commerce REST API以编程方式管理。&#x200B;AEM
+Adobe Commerce使商店经理无需任何编码技能即可轻松创建和管理产品捆绑包和促销活动。 该平台提供了一个用户友好的界面，用于设置目录和购物车促销、基于数量的分层定价以及特定于公司的B2B用例促销。 商店经理可以配置具有特殊定价的可自定义产品捆绑包，定义精确的促销条件，并应用各种折扣类型。 此外，Adobe Commerce还支持高级促销策略（如促销栈叠），并通过其Back Office Integration Starter Kit与第三方系统无缝集成。 所有这些功能也可以使用Adobe Commerce REST API以编程方式管理。
 
 ## 促销活动视频内容
 
-- 无代码促销活动管理。&#x200B;AEM
-- 高级促销策略。&#x200B;AEM
-- 与第三方系统无缝集成，增强了灵活性和自动化程度。&#x200B;AEM
+- 无代码促销活动管理。
+- 高级促销策略。
+- 与第三方系统无缝集成，增强了灵活性和自动化程度。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on)
+>

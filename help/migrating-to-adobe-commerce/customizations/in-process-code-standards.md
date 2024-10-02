@@ -5,14 +5,13 @@ feature: Best Practices, Backend Development
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Beginner, Intermediate
-doc-type: Tutorial
+doc-type: Technical Video
 duration: 323
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15994
-thumbnail: KT-15994.jpeg
-source-git-commit: e27cec774daaa3f292b915cb454f46d6bd729549
+source-git-commit: a73d0038ac844805f4fda689da329d891e5b8320
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -22,7 +21,7 @@ ht-degree: 0%
 
 了解PHP、JavaScript和自定义的一些基本编码标准和最佳实践。 无论您是开发人员还是企业，这套教程都可以帮助您应对迁移到Adobe Commerce的复杂性，确保顺利成功地过渡。
 
-## 本视频系列面向谁？
+## 此视频面向谁？
 
 * 开发人员：希望提高他们在Adobe Commerce迁移和编码标准方面的技能。
 * 计划迁移到Adobe Commerce并寻求最佳实践的企业。

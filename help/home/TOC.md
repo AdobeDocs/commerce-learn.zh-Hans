@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 14206ddbc60a973faca5c4ca43cb40565d8a4323
+source-git-commit: 815a309dbba2ed1699cce8f74d97bf999407be4b
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: '742'
 ht-degree: 3%
 
 ---
@@ -37,6 +37,8 @@ ht-degree: 3%
 + 快速入门{#getting-started}
    + 正在迁移到Adobe Commerce{#migrating-to-adobe-commerce}
       + [概述](../migrating-to-adobe-commerce/overview.md)
+      + 自定义{#customizations}
+         + [进程内代码标准](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
    + 全局参考体系结构{#global-reference-architecture}
       + [全球参考体系结构](../global-reference-architecture/what-is-global-reference-architecture.md)
       + [利用全球参考体系结构](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)

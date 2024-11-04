@@ -1,6 +1,6 @@
 ---
 title: 创建模块
-description: 创建登录到PSR记录器的模块
+description: 了解如何在Adobe Commerce中创建用于向PSR记录器发送信息的模块。 这向Adobe Commerce中的第一个模块添加了功能。
 kt: 5614
 doc-type: video
 activity: use
@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Admin, Developer
 level: Beginner, Intermediate
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: 4f6c8abec90663f80233b94456ad1e58edb86d51
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---

@@ -1,32 +1,32 @@
 ---
 title: Adobe Commerce Cloud配置和调试
-description: 了解Adobe Commerce Cloud配置和调试。
+description: 了解Adobe Commerce Cloud的配置文件、调试工具和日志管理，这些对于DevOps、系统管理员和后端开发人员至关重要。
 feature: Cloud
 topic: Commerce, Architecture, Development
 role: Architect, Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 0
+duration: 500
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15019
 kt: 15019
 exl-id: 8f5895bb-b402-4187-abf7-d7b2ac3f3c93
-source-git-commit: 0cb0982df528dd66dbc8804d7d09e3949a2fd850
+source-git-commit: 661e8cafc5870e4480c804c2aa482864272f602f
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
 # 技术载入 — 配置和调试
 
-了解如何配置和调试Adobe Commerce Cloud。
+了解Adobe Commerce Cloud中用于跨不同环境配置的关键Yaml文件、可用于验证和优化这些配置的工具，以及调试和日志记录流程。 了解特定于环境的设置的重要性、如何使用EC工具和质量修补程序以及New Relic在日志聚合中的作用。 深入了解使用Xdebug进行远程调试以及跨多个应用程序服务器管理日志的必要性。
 
 ## 此视频面向谁？
 
-- 网站管理员
+- DevOp工程师
 - Commerce架构师
-- 电子商务网站所有者
+- 后端开发人员
 
 ## 视频内容
 

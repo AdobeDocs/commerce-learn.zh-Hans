@@ -40,3 +40,4 @@ ht-degree: 0%
 - [图像优化](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
+

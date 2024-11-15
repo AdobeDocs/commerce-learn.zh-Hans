@@ -9,13 +9,13 @@ doc-type: Technical Video
 duration: 323
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15994
-source-git-commit: ca8627c7f15f2293960d4f029feab81a83796e48
+exl-id: 2f210adb-6f56-41cb-844e-131cbf85b131
+source-git-commit: b3068480fe1e3008daebff40d95388b161b9721e
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
-
 
 # 迁移到Adobe Commerce — 进程内编码标准
 
@@ -31,4 +31,4 @@ ht-degree: 0%
 * 了解PHP、JavaScript和自定义项的最佳实践，以确保顺利迁移。
 * 从Adobe专家那里获得有关成功Adobe Commerce项目的准备、性能和安全性的见解。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on&enablevpops)

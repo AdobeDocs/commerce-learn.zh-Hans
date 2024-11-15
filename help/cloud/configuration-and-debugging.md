@@ -47,3 +47,4 @@ ht-degree: 0%
 - [Quality修补工具用法](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
+

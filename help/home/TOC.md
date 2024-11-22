@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 2a9c0602a94613173e975bf53d80f3465e9c7c25
+source-git-commit: 8368cfb640c532e9ab2c1322900e151e0f0afea6
 workflow-type: tm+mt
-source-wordcount: '767'
+source-wordcount: '771'
 ht-degree: 3%
 
 ---
@@ -126,6 +126,7 @@ ht-degree: 3%
    + [更改商店URL](../site-management/change-store-url.md)
    + [重置管理员URI](../site-management/reset-admin-uri.md)
    + [配送方式](../site-management/shipping-delivery.md)
+   + [管理网格和筛选器](../site-management/admin-grids-and-filters.md)
    + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
    + Adobe Commerce服务{#adobe-commerce-services}
       + [配置Commerce服务连接器](../site-management/configure-adobe-commerce-services-connector.md)

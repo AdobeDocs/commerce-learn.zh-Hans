@@ -11,7 +11,7 @@ last-substantial-update: 2024-04-17T00:00:00Z
 jira: KT-15180
 kt: 15180
 exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
-source-git-commit: 00a8d6883473de796abc79ef2e9be34f56429a17
+source-git-commit: 191cfb29de7b4fff5ca73dcd1603b51d852aebd1
 workflow-type: tm+mt
 source-wordcount: '1605'
 ht-degree: 0%
@@ -43,7 +43,7 @@ ht-degree: 0%
 3. 最终用户/商家执行UAT（用户验收测试），包括后端操作。
 4. 系统集成商团队在暂存和生产环境中执行了端到端的UAT。 请参阅[Experience League文档](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/test/staging-and-production){target="_blank"}。
 5. 确认在暂存和生产环境中部署代码并进行测试（[了解更多](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/test/staging-and-production){target="_blank"}）。
-6. 生产群集的规模已永久增大到合同规定的每日基准。 与指定的CTA/CSE联系以了解更多详细信息，或提出支持服务单。
+6. 生产群集的规模已永久增大到合同规定的每日基准。 与分配的CTA/CSE联系以了解更多详细信息，或提出支持票证。
 
 ## 2.当前配置
 
@@ -177,16 +177,16 @@ Adobe Commerce Cloud使用MariaDB Galera群集作为暂存环境和生产环境�
 - 美国免费电话：(+1) 800 685 3620 (第一个菜单，按7访问Adobe Commerce P1热线)
 - 美国当地： (+1) 408 537 8777
 
-## 11.Post上线
+## 11.上线后
 
-在站点上线后，发送电子邮件给分配的CTA（客户技术咨询）、CSE（客户成功工程师）和AM（客户经理）。 但是，如果没有为项目分配客户经理，则可以创建一个支持工单，要求在站点上线后启用高SLA监控。 一旦验证站点是否会在启用Fastly和缓存的情况下启动，CTA/CSE就会立即执行以下任务：
+在站点上线后，发送电子邮件给分配的CTA（客户技术咨询）、CSE（客户成功工程师）和AM（客户经理）。 但是，如果您没有为该项目分配客户经理，则可以创建一个支持工单，要求在站点上线后启用高SLA监控。 一旦验证站点启动时启用了Fastly和缓存，CTA/CSE就会执行以下任务：
 
-- 将群集标记为活动并创建支持票证以激活高SLA（服务水平协议）监视。
+- 将群集标记为实时并创建支持工单以激活高SLA（服务水平协议）监控。
 - 激活New Relic Synthetics以监控正常运行时间。
 
 >[!MORELIKETHIS]
 > 
-> - [启动准备概述 — 实施行动手册](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/launch/overview){target="_blank"}
+> - [启动准备概述 — 实施行动手册](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/overview){target="_blank"}
 > - [启动项核对清单 — 用户指南](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/checklist){target="_blank"}
 > - [启动前核对清单 — 站点管理员/Commerce管理员指南](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/prelaunch-checklist){target="_blank"}
 > - [共享责任安全模型](https://experienceleague.adobe.com/en/docs/commerce-operations/security-and-compliance/shared-responsibility){target="_blank"}

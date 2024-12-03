@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 8368cfb640c532e9ab2c1322900e151e0f0afea6
+source-git-commit: fc3a65e00b36d4af76f75fd0e956104b90e8393d
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '773'
 ht-degree: 3%
 
 ---
@@ -186,6 +186,7 @@ ht-degree: 3%
    + New Relic {#new-relic}
       + [查找恶意IP](../new-relic/malicious-ip.md)
       + [警报通知设置](../new-relic/new-relic-alert-notification-setup.md)
+      + [自定义警报](../new-relic/custom-alerts.md)
 + Commerce Intelligence {#mbi}
    + [快速入门](../business-intelligence/getting-started.md)
    + [集成和配置](../business-intelligence/integrations-configurations.md)

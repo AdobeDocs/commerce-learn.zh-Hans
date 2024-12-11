@@ -7,15 +7,15 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 183
-last-substantial-update: 2024-12-02T00:00:00Z
+last-substantial-update: 2024-12-11T00:00:00Z
 jira: KT-16606
-source-git-commit: fc3a65e00b36d4af76f75fd0e956104b90e8393d
+exl-id: a6546956-6aaa-4511-9a62-1bf94fd038f4
+source-git-commit: fbe79f36ba7cc699287b1adc1fcb1fab7246da1c
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
 
 ---
-
 
 # 创建自定义New Relic警报
 
@@ -31,6 +31,6 @@ ht-degree: 0%
 
 * 通过图表选项或查询编辑器访问警报界面以创建自定义New Relic警报。
 * 了解如何基于数据聚合来设置警报的阈值。
-* 使用严重性级别配置警报，并将其分配到现有策略以控制通知工作流和目标。 
+* 使用严重性级别配置警报，并将其分配到现有策略以控制通知工作流和目标。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440771?learn=on)

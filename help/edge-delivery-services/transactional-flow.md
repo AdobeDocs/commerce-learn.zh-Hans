@@ -9,9 +9,10 @@ doc-type: Technical Video
 duration: 453
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
-source-git-commit: c736f5d0a7277a0540f6257fb43a4224424b22bd
+exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
+source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '201'
 ht-degree: 1%
 
 ---
@@ -22,7 +23,7 @@ ht-degree: 1%
 
 ## 观看此视频的期待完成的任务
 
-了解如何使用Adobe Commerce购物车拖放并调整事务型流程，以便通过更改几行代码向客户显示一组新功能。  另外，了解如何将这些更改从Sharepoint转换为可管理以进行关联测试。
+了解如何使用Adobe Commerce购物车并调整事务型流程，以便通过更改几行代码向客户显示一组新功能。  另外，了解如何将这些更改从Sharepoint转换为可管理以进行关联测试。
 
 ## 此视频面向谁？
 

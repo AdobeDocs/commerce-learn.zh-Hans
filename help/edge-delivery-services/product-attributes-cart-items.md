@@ -9,16 +9,17 @@ doc-type: Technical Video
 duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
-source-git-commit: cbc159d0b77613d49f66ddc0a2bc4001994e5429
+exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
+source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '262'
 ht-degree: 1%
 
 ---
 
 # 对购物车项目使用产品属性
 
-在成绩单中，来自Acme品牌的名为Ali的开发人员演示了如何自定义和扩展Adobe Commerce购物车。 Ali满足三个项目要求：显示延期交货产品的交货时间表、显示可退货和最终销售通知，以及小计为$75或以上的购物车享受25%的折扣。 通过充分利用产品属性和版块，Ali成功地将这些功能集成到购物车中，提升了整体用户体验并满足了所有项目要求。
+了解如何自定义和扩展Adobe Commerce购物车。 在本演示中，有三个更新。  演示首先会显示延期交货产品的交付时间表，显示可退货和最终销售通知，并对小计为$75美元或以上的购物车应用25%的折扣。 通过利用产品属性和版块，将这些功能添加到购物车中可以增强整体用户体验。
 
 ## 观看此视频的期待完成的任务
 

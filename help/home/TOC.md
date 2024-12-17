@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: fc3a65e00b36d4af76f75fd0e956104b90e8393d
+source-git-commit: 8720b575d72443faa1889d27d692283ca47cc012
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '781'
 ht-degree: 3%
 
 ---
@@ -76,6 +76,9 @@ ht-degree: 3%
       + [创建支持票证](../help-and-support/create-a-support-ticket.md)
       + [搜索、跟踪、注释和升级支持票证](../help-and-support/search-track-comment-escalate-support-ticket.md)
       + [添加和删除观察者，关闭并重新打开票证](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ Edge Delivery Services{#edge-delivery-services}
+   + 快速入门{#getting-started}
+      + [更改事务性流程](../edge-delivery-services/transactional-flow.md)
 + 网络研讨会和活动{#webinars-and-events}
    + 启用系列{#enablement-series}
       + [降低Commerce集成的目录](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)

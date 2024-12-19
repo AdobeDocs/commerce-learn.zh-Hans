@@ -1,5 +1,5 @@
 ---
-title: Edge Delivery Services
+title: Edge Delivery Services订单摘要
 description: 了解Adobe Edge Delivery Services以及如何更新Commerce下拉列表的订单摘要部分。
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -9,10 +9,11 @@ doc-type: Technical Video
 duration: 269
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
-source-git-commit: 7e35428a32457bc763fad8c60cd8c550bbb2c56f
+exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
+source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 1%
+source-wordcount: '183'
+ht-degree: 0%
 
 ---
 
@@ -36,3 +37,7 @@ ht-degree: 1%
 * 了解如何将购物车摘要中的行合并到一个可折叠部分中。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
+
+## 其他文档
+
+* [订单摘要](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)

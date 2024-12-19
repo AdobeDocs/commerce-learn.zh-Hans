@@ -1,5 +1,5 @@
 ---
-title: Edge Delivery Services
+title: Edge Delivery Services购物车项目
 description: 了解Adobe Edge Delivery Services以及如何使用产品属性显示购物车项目的新信息。
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -10,10 +10,10 @@ duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
-source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
+source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 1%
+source-wordcount: '272'
+ht-degree: 0%
 
 ---
 
@@ -39,3 +39,8 @@ ht-degree: 1%
 * 使用产品属性和插槽扩展和自定义购物车功能，确保所有项目要求都得到满足。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
+
+
+## 其他文档
+
+* [将产品线添加到购物车](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)

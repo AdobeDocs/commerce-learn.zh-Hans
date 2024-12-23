@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 7d10b42c5ff4753eed616de8b472d0c662d3ed9d
+source-git-commit: d902059666b3c812442f66e8e982785b79cbce9b
 workflow-type: tm+mt
-source-wordcount: '795'
+source-wordcount: '797'
 ht-degree: 3%
 
 ---
@@ -80,7 +80,7 @@ ht-degree: 3%
    + 快速入门{#getting-started}
       + [更改事务性流程](../edge-delivery-services/transactional-flow.md)
       + [对购物车项目使用产品属性](../edge-delivery-services/product-attributes-cart-items.md)
-      + [更新订单汇总](../edge-delivery-services/update-order-summary.md)
+      + [更新结账中的订单摘要](../edge-delivery-services/update-order-summary.md)
       + [正在将BOPI添加到签出](../edge-delivery-services/add-bopis-to-checkout.md)
 + 网络研讨会和活动{#webinars-and-events}
    + 启用系列{#enablement-series}

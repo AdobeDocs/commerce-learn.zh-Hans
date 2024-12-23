@@ -1,6 +1,6 @@
 ---
-title: Edge Delivery Services订单摘要
-description: 了解Adobe Edge Delivery Services以及如何更新Commerce下拉列表的订单摘要部分。
+title: 结账中的Edge Delivery Services订单摘要
+description: 了解Adobe Edge Delivery Services以及如何在结账时更新Commerce下拉列表的订单摘要部分。
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -10,14 +10,14 @@ duration: 269
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
-source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
+source-git-commit: f36cc18bd855c21967f58920409431e219568fc0
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
-# 更新购物车摘要
+# 在结帐时更新购物车摘要
 
 了解如何更改Edge Delivery Services的Adobe Commerce购物车下拉菜单的订单摘要。  以下几个示例介绍了如何快速改进结账时提供给客户的布局或信息。
 

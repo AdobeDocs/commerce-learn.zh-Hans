@@ -8,15 +8,15 @@ level: Beginner
 doc-type: Technical Video
 duration: 613
 last-substantial-update: 2025-1-13
-source-git-commit: 82303ee7bbae300dec94dec8a0bb8cb49a8d0ac4
+exl-id: 91535671-02ff-4611-b452-0325792ad70b
+source-git-commit: 4b60aff89575dc431d77f66b94113966f2c26659
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
 
-
-# 更新增强电子商务签出：自定义地址表单布局和Google地址查找集成
+# 自定义地址表单布局和Google地址查找集成
 
 了解如何在结账时自定义地址表单布局，以确保所有字段的宽度均为50%（文本区域除外）。 了解使用集成的第三方API(尤其是Google Address API)启用地址表单中的自动地址查找和验证的方法。&#x200B;AEM 了解如何将新的侧栏菜单项添加到用户帐户仪表板，以链接到商店定位器的自定义页面。
 

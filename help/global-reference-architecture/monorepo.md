@@ -2,7 +2,7 @@
 title: 如何利用全球参考体系结构
 description: 了解如何利用全球参考架构来建立可扩展且可复原的商务体验
 landing-page-description: 了解全球参考架构以及如何将其与Adobe Commerce一起使用
-kt: 14040
+jira: KT-16728
 doc-type: tutorial
 audience: all
 last-substantial-update: 2025-1-6
@@ -11,7 +11,7 @@ badge: label="由Adobe高级技术架构师Tony Evers提供" type="Informative" 
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Intermediate, Advanced
-source-git-commit: dacd43ef84dcb2c2633221a90642a469b2ff5a30
+source-git-commit: 7e7c22e994ac5be6eacbcd0084d8ec92666b2024
 workflow-type: tm+mt
 source-wordcount: '1385'
 ht-degree: 0%

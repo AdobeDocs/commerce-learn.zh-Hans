@@ -1,7 +1,6 @@
 ---
-title: 如何利用全球参考体系结构
-description: 了解如何利用全球参考架构来建立可扩展且可复原的商务体验
-landing-page-description: 了解全球参考架构以及如何将其与Adobe Commerce一起使用
+title: 全球参考体系结构Monorepo
+description: 了解如何将monorepo方法用于全球参考架构，以建立可扩展且可复原的商务体验
 jira: KT-16728
 doc-type: tutorial
 audience: all
@@ -11,15 +10,15 @@ badge: label="由Adobe高级技术架构师Tony Evers提供" type="Informative" 
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Intermediate, Advanced
-source-git-commit: 7e7c22e994ac5be6eacbcd0084d8ec92666b2024
+source-git-commit: 421c6de9421d715127d0c892dc05ef22f77149cf
 workflow-type: tm+mt
-source-wordcount: '1385'
+source-wordcount: '1371'
 ht-degree: 0%
 
 ---
 
 
-# Monorepo全局参考体系结构模式
+# Monorepo全局参考架构模式
 
 本指南介绍如何使用Monorepo全球参考架构(GRA)模式设置Adobe Commerce。
 

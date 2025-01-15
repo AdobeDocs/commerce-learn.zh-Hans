@@ -7,14 +7,16 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 613
-last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
-source-git-commit: 4b60aff89575dc431d77f66b94113966f2c26659
+jira: KT-16729
+last-substantial-update: 2025-1-15
+source-git-commit: b2d03fed21bd54044571084206097b8455db33c8
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
 
 ---
+
 
 # 自定义地址表单布局和Google地址查找集成
 
@@ -36,7 +38,7 @@ ht-degree: 0%
 * 结账Forms中的字段宽度一致，用于自定义结账时的地址表单以确保所有字段。
 * 集成Google Address API以启用自动地址查找和完成，从而减少用户输入错误并简化结账流程。
 * 地址输入字段的验证和错误处理，确保用户立即收到有关不正确或不完整条目的反馈，从而改善用户体验。
-* 用户帐户仪表板的扩展，用于向用户帐户仪表板添加新的侧栏菜单项
+* 用户帐户仪表板的扩展，用于向用户帐户仪表板添加新的侧栏菜单项。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 

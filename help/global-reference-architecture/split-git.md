@@ -6,16 +6,17 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
+badge: label="由Adobe高级技术架构师Tony Evers提供" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="托尼·埃弗斯撰稿"
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: 916586d3b71b8b74baa04af2ab39abc86ec94f5b
+exl-id: ac544f77-8f5f-4ad1-92b2-bdf323100c13
+source-git-commit: dacd43ef84dcb2c2633221a90642a469b2ff5a30
 workflow-type: tm+mt
-source-wordcount: '1455'
+source-wordcount: '1468'
 ht-degree: 0%
 
 ---
-
 
 # 拆分Git全局参考架构模式
 

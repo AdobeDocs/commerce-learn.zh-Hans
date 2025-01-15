@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 7988dcc031956b880b67363a6c9b2705dbe7b4af
+source-git-commit: cf9de69246757d62cdb7cb952761a04c78953f56
 workflow-type: tm+mt
-source-wordcount: '819'
+source-wordcount: '820'
 ht-degree: 3%
 
 ---
@@ -77,6 +77,7 @@ ht-degree: 3%
    + [拆分Git](../global-reference-architecture/split-git.md)
    + [批量包](../global-reference-architecture/bulk-packages.md)
    + [单独的包](../global-reference-architecture/separate-packages.md)
+   + [莫诺雷波](../global-reference-architecture/monorepo.md)
 + 帮助和支持{#help-and-support}
    + [创建支持票证](../help-and-support/create-a-support-ticket.md)
    + [搜索、跟踪、注释和升级支持票证](../help-and-support/search-track-comment-escalate-support-ticket.md)

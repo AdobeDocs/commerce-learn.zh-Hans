@@ -1,7 +1,7 @@
 ---
 title: 单独的软件包全球参考体系结构
 description: 使用单独的包GRA优化Adobe Commerce。 了解灵活版本化包管理的设置、好处和最佳实践。
-kt: 16727
+jira: KT-16727
 doc-type: tutorial
 audience: all
 last-substantial-update: 2025-1-6
@@ -11,7 +11,7 @@ badge: label="由Adobe高级技术架构师Tony Evers提供" type="Informative" 
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-source-git-commit: dacd43ef84dcb2c2633221a90642a469b2ff5a30
+source-git-commit: e0b11bbcfff830badf471206ead59fc48dd14b7c
 workflow-type: tm+mt
 source-wordcount: '2101'
 ht-degree: 0%

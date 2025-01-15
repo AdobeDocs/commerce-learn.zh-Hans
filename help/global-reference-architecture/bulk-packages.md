@@ -1,7 +1,7 @@
 ---
 title: 使用批量包优化Adobe Commerce全球参考架构
 description: 了解如何使用批量包全局参考架构来设置Adobe Commerce，以实现高效的代码管理和版本控制。
-kt: 16726
+jira: KT-16726
 doc-type: tutorial
 audience: all
 last-substantial-update: 2025-1-6
@@ -11,7 +11,7 @@ badge: label="由Adobe高级技术架构师Tony Evers提供" type="Informative" 
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
-source-git-commit: dacd43ef84dcb2c2633221a90642a469b2ff5a30
+source-git-commit: a182b97b7d9a8bf114944d5d920afb2328adbc18
 workflow-type: tm+mt
 source-wordcount: '1172'
 ht-degree: 0%

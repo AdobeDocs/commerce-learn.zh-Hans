@@ -10,9 +10,9 @@ duration: 269
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
-source-git-commit: f36cc18bd855c21967f58920409431e219568fc0
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 了解如何更改Edge Delivery Services的Adobe Commerce购物车下拉菜单的订单摘要。  以下几个示例介绍了如何快速改进结账时提供给客户的布局或信息。
 
-## 观看此视频的期待完成的任务
+## 您将学习的内容
 
 了解如何使用Adobe Commerce购物车下拉菜单并调整购物车体验。  有多种方法可通过对代码进行一些细微更改或更新来增强购物车。
 

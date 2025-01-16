@@ -10,9 +10,9 @@ duration: 453
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
-source-git-commit: 18559dd4c970217497470494009e392fccddfe34
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 了解如何使用“Edge Delivery Services车”下拉菜单调整结账的事务流程。
 
-## 观看此视频的期待完成的任务
+## 您将学习的内容
 
 了解如何使用Adobe Commerce购物车并调整事务型流程，以便通过更改几行代码向客户显示一组新功能。  另外，了解如何将这些更改从Sharepoint转换为可管理以进行关联测试。
 

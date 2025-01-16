@@ -9,9 +9,10 @@ doc-type: Technical Video
 duration: 331
 last-substantial-update: 2024-12-19T00:00:00Z
 jira: KT-16699
-source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
+exl-id: a9c316ec-a06e-4de1-92c7-241b60efef74
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 了解如何将满足在线购买和店内提货要求的Edge Delivery Services结账添加为必需的组件（也称为BOPIS）。
 
-## 观看此视频的期待完成的任务
+## 您将学习的内容
 
 了解如何使用Edge Delivery Services中的Adobe Commerce购物车提供BOPIS功能。
 

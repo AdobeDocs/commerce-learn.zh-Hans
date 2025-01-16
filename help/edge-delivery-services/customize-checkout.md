@@ -9,9 +9,10 @@ doc-type: Technical Video
 duration: 853
 last-substantial-update: 2025-1-2
 jira: KT-16723
-source-git-commit: 1db0daa3ca352d50cbda27c1e631ad869b2ac16b
+exl-id: e6b95ff0-9a41-43ac-9f02-c84a70747d64
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 了解如何在Adobe Commerce中通过Edge Delivery Services车拖放组件自定义结账体验，侧重于修改送货选项和实施多步骤结账流程。
 
-## 观看此视频的期待完成的任务
+## 您将学习的内容
 
 了解一些示例，通过删除和重新添加送货选项和估计成本等元素，以及实施多步骤结账过程，对Edge Delivery Services购物车在结账体验中的放置进行自定义，同时重用现有代码并遵循最佳实践。&#x200B;AEM
 

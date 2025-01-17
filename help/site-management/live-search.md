@@ -1,6 +1,6 @@
 ---
-title: “ [!DNL Live Search]简介”
-description: “了解如何将 [!DNL Live Search] 添加到您的商店，并提供极具吸引力、相关且个性化的购物体验。”
+title: ' [!DNL Live Search]简介'
+description: 了解如何将 [!DNL Live Search] 添加到您的商店，并提供极具吸引力、相关且个性化的购物体验。
 doc-type: feature video
 audience: all
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -8,8 +8,9 @@ feature: Configuration, System, Personalization, Search
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
+jira: KT-17151
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
-source-git-commit: ff8ae08e9bc1e9ff070ce149f18c1b779badcfe8
+source-git-commit: 90752025ab3bc5650f871d6a12d907bfa5d22134
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%

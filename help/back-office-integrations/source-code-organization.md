@@ -11,7 +11,8 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: f0c6e9262a2bf2de3144255de1fc78d6972b6d33
+exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
+source-git-commit: 6c5017b0c4bbafdd143b78b05cd92853efa7f831
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -36,8 +37,8 @@ ht-degree: 0%
 * 了解`actions`文件夹以及它如何包含关键子文件夹，如`ingestion`和`webhook`。
 * 浏览`actions`文件夹以及为什么实体存在特定文件夹，如`customer`、`order`、`product`和`stock`，每个文件夹都包含结构化为`commerce`和`external`文件夹的运行时操作，以便有效地管理Commerce和第三方系统中的事件。&#x200B;AEM
 * 了解不更改`starter-kit-info`文件夹中的代码的重要性，该文件夹包含Adobe用于基于入门套件跟踪项目部署的运行时操作。&#x200B;AEM
-* 了解包含自动脚本（如`commerce-event-subscribe`和`onboarding`）的`scripts`文件夹，这些脚本可自动配置Commerce中的Adobe I/O事件、提供程序设置和事件模块。&#x200B;AEM
+* 了解`scripts`文件夹，该文件夹包含自动脚本（如`commerce-event-subscribe`和`onboarding`），用于在Commerce中自动执行事件配置、提供程序设置和Adobe I/O Events模块的配置。&#x200B;AEM
 
-  >[!VIDEO](https://video.tv.adobe.com/v/3431691?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431691?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

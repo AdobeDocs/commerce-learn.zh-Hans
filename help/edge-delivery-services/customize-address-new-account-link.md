@@ -1,5 +1,5 @@
 ---
-title: Edge Delivery Services自定义包括自动完成的地址
+title: Edge Delivery Services自定义地址，包括自动完成
 description: 了解如何自定义电子商务结账表单并集成Google地址查找，以改善用户体验并减少输入错误。
 feature: Best Practices, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -10,15 +10,15 @@ duration: 613
 last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-source-git-commit: 097d5a74f1a74fb0e1e8ff739272e32752d5aa78
+source-git-commit: 9bb310a586c707ff02c3d8a1d13e86075baec603
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
 
 
-# 自定义地址表单布局和Google地址查找集成
+# 自定义地址布局
 
 了解如何在结账时自定义地址表单布局，以确保所有字段的宽度均为50%（文本区域除外）。 了解使用集成的第三方API(尤其是Google Address API)启用地址表单中的自动地址查找和验证的方法。&#x200B;AEM 了解如何将新的侧栏菜单项添加到用户帐户仪表板，以链接到商店定位器的自定义页面。
 

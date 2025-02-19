@@ -3,15 +3,15 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: cf9de69246757d62cdb7cb952761a04c78953f56
+source-git-commit: 8dc009c1a7234ac251b0a29533fa188287c0c862
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '814'
 ht-degree: 3%
 
 ---
 
 
-# Adobe Commerce视频和Tutorials {#tutorials}
+# Adobe Commerce视频和教程 {#tutorials}
 
 + [[!DNL Commerce] 教程](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
@@ -82,25 +82,25 @@ ht-degree: 3%
    + [创建支持票证](../help-and-support/create-a-support-ticket.md)
    + [搜索、跟踪、注释和升级支持票证](../help-and-support/search-track-comment-escalate-support-ticket.md)
    + [添加和删除观察者，关闭并重新打开票证](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
-+ Edge Delivery Services{#edge-delivery-services}
++ Edge Delivery Services {#edge-delivery-services}
    + 快速入门{#getting-started}
       + [更改事务性流程](../edge-delivery-services/transactional-flow.md)
       + [对购物车项目使用产品属性](../edge-delivery-services/product-attributes-cart-items.md)
       + [更新结账中的订单摘要](../edge-delivery-services/update-order-summary.md)
       + [正在将BOPI添加到签出](../edge-delivery-services/add-bopis-to-checkout.md)
       + [自定义结帐](../edge-delivery-services/customize-checkout.md)
-      + [调整地址，包括自动完成和新建我的帐户链接](../edge-delivery-services/customize-address-new-account-link.md)
+      + [自定义地址布局](../edge-delivery-services/customize-address-new-account-link.md)
 + 网络研讨会和活动{#webinars-and-events}
    + 启用系列{#enablement-series}
       + [降低Commerce集成的目录](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
       + [规划现代Adobe Commerce实施](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
       + [启动、启动后、监控和故障排除](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
-      + [使用Adobe CommerceEdge Delivery Services](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
+      + [Edge Delivery Services与Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
 + GraphQL和REST {#graphql-rest}
    + [GraphQL基础知识](../graphql-rest/intro-graphql.md)
    + [查询](../graphql-rest/graphql-queries.md)
    + [突变](../graphql-rest/graphql-mutations.md)
-   + [模式](../graphql-rest/graphql-schema.md)
+   + [架构](../graphql-rest/graphql-schema.md)
 + Adobe Developer App Builder {#adobe-developer-app-builder}
    + [App Builder简介](../app-builder/introduction-to-app-builder.md)
    + [App Builder的可扩展性框架](../app-builder/extensibility-framework-commerce-eventing.md)
@@ -128,7 +128,7 @@ ht-degree: 3%
       + [Adobe Commerce条件事件](../io-events/conditional-events.md)
    + API网格{#api-mesh}
       + [API Mesh入门](../api-mesh/getting-started-api-mesh.md)
-      + [安装AdobeIO和Mesh插件](../api-mesh/installing-aio-mesh-plugin.md)
+      + [安装Adobe IO和Mesh插件](../api-mesh/installing-aio-mesh-plugin.md)
       + [使用项目和工作区](../api-mesh/aio-projects-workspaces.md)
       + [创建单一源GraphQL API网格](../api-mesh/graphql-single-source.md)
       + [创建多源GraphQL API网格](../api-mesh/graphql-multiple-source.md)
@@ -172,7 +172,7 @@ ht-degree: 3%
    + [创建目录价格规则](../site-management/catalog-price-rules.md)
    + [创建购物车价格规则](../site-management/cart-price-rules.md)
    + [管理相关的产品规则](../site-management/related-product-rules.md)
-   + [设置产品Recommendations](../site-management/product-recommendations.md)
+   + [设置产品推荐](../site-management/product-recommendations.md)
    + [Live Search简介](../site-management/live-search.md)
    + [推荐的实时搜索](../site-management/live-search-recommendations.md)
    + [将Commerce与AJO集成](../site-management/integrate-commerce-ajo.md)
@@ -206,8 +206,8 @@ ht-degree: 3%
    + [集成和配置](../business-intelligence/integrations-configurations.md)
    + [报告和仪表板](../business-intelligence/reports-and-dashboards.md)
    + [筛选条件集](../business-intelligence/filter-sets.md)
-   + [同类群组Report Builder](../business-intelligence/cohort-report-builder.md)
-   + [SQLREPORT BUILDER](../business-intelligence/sql-report-builder.md)
+   + [Report Builder同类群组](../business-intelligence/cohort-report-builder.md)
+   + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [为将来准备](../business-intelligence/prepare-for-future.md)
 + Commerce升级{#upgrade}
    + [Adobe Commerce 2.4升级研讨会](../upgrade/2-4-upgrade-workshop.md)
@@ -235,12 +235,12 @@ ht-degree: 3%
 + Headless架构{#headless-architecture}
    + Headless {#introduction-to-headless}简介
       + [Headless架构 — 会话1](../headless/session-1.md)
-   + PWA Studio{#introduction}简介
+   + PWA Studio简介{#introduction}
       + [1 — 概述](../pwa/introduction/1-overview.md)
-      + [2 -PWA Studio工具](../pwa/introduction/2-pwa-studio-tools.md)
+      + [2 - PWA Studio工具](../pwa/introduction/2-pwa-studio-tools.md)
       + [3 — 启动](../pwa/introduction/3-launch.md)
       + [4 — 向上](../pwa/introduction/4-upward.md)
       + [5 — 快速入门](../pwa/introduction/5-getting-started.md)
       + [6 — 佩雷格林](../pwa/introduction/6-peregrine.md)
-   + [PWADocker开发](../pwa/pwa-docker-development.md)
+   + [PWA Docker开发](../pwa/pwa-docker-development.md)
    + [设置Venia以进行开发](../pwa/set-up-venia-for-dev.md)

@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: a33687b152162db94cd434c4de8a717ab332e51d
+source-git-commit: 98c1b61b6fec015c03a34b92f81acc530ebfa92b
 workflow-type: tm+mt
-source-wordcount: '822'
+source-wordcount: '826'
 ht-degree: 3%
 
 ---
@@ -75,6 +75,8 @@ ht-degree: 3%
       + [最后一英里集成](../back-office-integrations/last-mile-integration.md)
       + [Webhook引入](../back-office-integrations/webhook-ingestion.md)
       + [重试机制](../back-office-integrations/retry-mechanism.md)
++ Adobe Commerce Optimizer {#adobe-commerce-optimizer}
+   + [概述](../adobe-commerce-optimizer/overview.md)
 + 全局参考体系结构{#global-reference-architecture-implementation-techniques}
    + [概述](../global-reference-architecture/overview.md)
    + [拆分Git](../global-reference-architecture/split-git.md)

@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 98c1b61b6fec015c03a34b92f81acc530ebfa92b
+source-git-commit: b90aa9eb8759391a16dfb29ca25b0d2d271956ed
 workflow-type: tm+mt
-source-wordcount: '826'
+source-wordcount: '828'
 ht-degree: 3%
 
 ---
@@ -19,6 +19,7 @@ ht-degree: 3%
       + [SSL无效](../cloud/troubleshooting/invalid-ssl.md)
       + [分类并解决2个常见站点错误](../cloud/troubleshooting/triage-two-common-site-errors.md)
       + [配置值](../cloud/troubleshooting/config-values.md)
+      + [截断日志](../cloud/troubleshooting/truncate-logs.md)
    + [市场结构](../cloud/marketecture.md)
    + [全局投放模型](../cloud/global-delivery-model.md)
    + [管理员角色](../cloud/admin-roles.md)

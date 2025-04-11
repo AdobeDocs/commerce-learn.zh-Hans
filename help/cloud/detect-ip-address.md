@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 0
 last-substantial-update: 2025-04-07T00:00:00Z
 jira: KT-17553
-source-git-commit: a14a878217a145ecee0b29247ec7ccb224edd883
+exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
+source-git-commit: 3acec65129773a8ba94eb52c53d15d7633440717
 workflow-type: tm+mt
-source-wordcount: '1106'
+source-wordcount: '1095'
 ht-degree: 0%
 
 ---
 
-
-# 了解如何检测Commerce Cloud项目中所有类型环境的IP地址
+# 检测不同环境的IP地址
 
 了解如何在Adobe Commerce云项目中检测不同环境的IP地址。 通过使用一系列命令(包括Adobe Commerce CLI、sed、xargs、dig、grep和sort -u)，用户可以确定用于开发、暂存和生产环境的IP地址。
 

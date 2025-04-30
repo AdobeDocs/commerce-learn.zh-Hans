@@ -10,10 +10,11 @@ feature: Configuration, System, Staging
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
+badgePaas: label="仅限PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="仅适用于云项目(Adobe管理的PaaS基础架构)和内部部署项目上的Adobe Commerce 。"
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
-source-git-commit: 85cd8ab916d2125333d5fe11affeab7620f7f6b1
+source-git-commit: efb067d8595079cc33a9af0c15eb1e60e0dd5796
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---

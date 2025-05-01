@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 5b9590d7acd87077bcabcf4dad98a0175d912c90
+source-git-commit: cd7b4deea3bb30a05a6d0d1cad4a30e8e6fb34cd
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '857'
 ht-degree: 3%
 
 ---
@@ -110,6 +110,7 @@ ht-degree: 3%
       + [最终成功是什么](../commerce-conversations/what-is-ultimate-success.md)
       + [成功加速器技术就绪性](../commerce-conversations/success-accelerators-technical-readiness.md)
       + [采用和支持“成功加速器”](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
+      + [成功加速器组织准备工作](../commerce-conversations/success-accelerators-organizational-readiness.md)
 + GraphQL和REST {#graphql-rest}
    + [GraphQL基础知识](../graphql-rest/intro-graphql.md)
    + [查询](../graphql-rest/graphql-queries.md)

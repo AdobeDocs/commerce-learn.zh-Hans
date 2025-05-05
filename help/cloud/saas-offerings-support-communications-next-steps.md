@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3427902?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432839?learn=on&enablevpops&captions=chi_hans)
 
 ## 首字母缩略词
 

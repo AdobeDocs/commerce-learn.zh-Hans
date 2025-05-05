@@ -41,5 +41,5 @@ ht-degree: 1%
 
 ## 其他资源
 
-- [公司的采购订单](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html){target="_blank"}
-- [采购订单审批规则](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html){target="_blank"}
+- [公司的采购订单](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html?lang=zh-Hans){target="_blank"}
+- [采购订单审批规则](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html?lang=zh-Hans){target="_blank"}

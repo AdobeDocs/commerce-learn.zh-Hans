@@ -30,7 +30,7 @@ ht-degree: 0%
 
 使用REST API创建可配置的产品：
 
-1. 获取[属性集](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)的属性，以便为后续API调用使用ID号。
+1. 获取[属性集](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=zh-Hans)的属性，以便为后续API调用使用ID号。
 1. 创建简单产品以在可配置产品中使用。
 1. 创建空的可配置产品并关联简单产品。
 1. 设置可配置产品的产品属性。
@@ -348,6 +348,6 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 ## 其他资源
 
 - [创建可配置的产品教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
-- [可配置产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
+- [可配置产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html?lang=zh-Hans){target="_blank"}
 - [Adobe Developer REST教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

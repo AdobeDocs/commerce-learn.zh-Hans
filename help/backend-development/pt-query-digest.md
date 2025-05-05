@@ -46,4 +46,4 @@ $ pt-query-digest mysql-slow.log.7 > mysql-slow.log.7.DIGEST
 ## 有用的资源
 
 - [Percona工具包](https://docs.percona.com/percona-toolkit/pt-query-digest.html){target="_blank"}
-- MySQL中的[死锁](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/deadlocks-in-mysql.html){target="_blank"}
+- MySQL中的[死锁](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/deadlocks-in-mysql.html?lang=zh-Hans){target="_blank"}

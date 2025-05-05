@@ -33,6 +33,6 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [创建类别 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
-- [类别权限 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
-- [顶部导航 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)
+- [创建类别 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html?lang=zh-Hans)
+- [类别权限 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html?lang=zh-Hans)
+- [顶部导航 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html?lang=zh-Hans)

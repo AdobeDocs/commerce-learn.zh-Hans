@@ -33,6 +33,6 @@ Adobe Commerce使用属性来管理与产品、客户和产品评级关联的信
 
 ## 其他资源
 
-[产品属性概述 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+[产品属性概述 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=zh-Hans)
 
-[属性集 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)
+[属性集 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=zh-Hans)

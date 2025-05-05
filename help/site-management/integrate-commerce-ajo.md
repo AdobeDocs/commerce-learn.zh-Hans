@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 集成Adobe Commerce和Adobe Journey Optimizer
 
-了解如何在Adobe Commerce中使用[Data Connection](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"}来解锁Commerce数据，并通过Adobe Journey Optimizer帮助实时提供端到端、个性化的购物者体验。
+了解如何在Adobe Commerce中使用[Data Connection](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=zh-Hans){target="blank"}来解锁Commerce数据，并通过Adobe Journey Optimizer帮助实时提供端到端、个性化的购物者体验。
 
 ## 此视频面向谁？
 
@@ -41,5 +41,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-[数据连接概述](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"}
-[安装数据连接](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html){target="_blank"}
+[数据连接概述](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=zh-Hans){target="_blank"}
+[安装数据连接](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html?lang=zh-Hans){target="_blank"}

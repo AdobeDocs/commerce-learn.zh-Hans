@@ -34,6 +34,6 @@ ht-degree: 0%
 
 ## 其他资源
 
-[网站、商店和视图 —  [!DNL Commerce] 入门指南](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+[网站、商店和视图 —  [!DNL Commerce] 入门指南](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=zh-Hans)
 
-[缓存管理 —  [!DNL Commerce] 管理系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)
+[缓存管理 —  [!DNL Commerce] 管理系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html?lang=zh-Hans)

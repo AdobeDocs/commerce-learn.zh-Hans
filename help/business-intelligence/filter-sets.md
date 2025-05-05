@@ -34,7 +34,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您是Commerce Intelligence的新用户，[Adobe Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"}将全面概述如何通过数据汇总、分析和可视化来获取更好的业务见解和结果。
+>如果您是Commerce Intelligence的新用户，[Adobe Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=zh-Hans){target="_blank"}将全面概述如何通过数据汇总、分析和可视化来获取更好的业务见解和结果。
 
 ## 此视频面向谁？
 
@@ -47,6 +47,6 @@ ht-degree: 0%
 
 ## 有用的资源
 
-[创建筛选器集 — 《Commerce Intelligence用户指南》](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
+[创建筛选器集 — 《Commerce Intelligence用户指南》](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html?lang=zh-Hans)
 
-[分段和筛选的建议数据Dimension- Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[分段和筛选的建议数据Dimension- Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=zh-Hans)

@@ -44,5 +44,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [页面生成器用户指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
+- [页面生成器用户指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html?lang=zh-Hans)
 - [Page Builder开发人员指南](https://developer.adobe.com/commerce/frontend-core/page-builder/)

@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Commerce教程 {#videos}
 
-欢迎使用[!DNL Commerce]视频和教程收藏集。 使用这些资源以及[文档](https://experienceleague.adobe.com/docs/commerce.html)，可让您了解如何使用Adobe Commerce和Magento Open Source来支持您的电子商务业务。 该集合旨在为后端开发人员、前端开发人员、系统管理员、商家和组织内的其他角色提供有用的内容。
+欢迎使用[!DNL Commerce]视频和教程收藏集。 使用这些资源以及[文档](https://experienceleague.adobe.com/docs/commerce.html?lang=zh-Hans)，可让您了解如何使用Adobe Commerce和Magento Open Source来支持您的电子商务业务。 该集合旨在为后端开发人员、前端开发人员、系统管理员、商家和组织内的其他角色提供有用的内容。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -27,10 +27,10 @@ ht-degree: 0%
 
 >[!TIP]
 >
->[Commerce Events](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html)共享空间提供了对录制的活动内容的访问权限，您可以根据需要观看这些内容。
+>[Commerce Events](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html?lang=zh-Hans)共享空间提供了对录制的活动内容的访问权限，您可以根据需要观看这些内容。
 
 ## 其他资源
 
-- [商家文档](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
+- [商家文档](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=zh-Hans)
 - [开发人员文档](https://developer.adobe.com/commerce)
 - [Adobe数字学习服务 — Adobe Commerce课程目录](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)

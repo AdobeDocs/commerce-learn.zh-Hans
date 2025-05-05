@@ -32,5 +32,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [[!DNL Page Builder] 模板 —  [!DNL Page Builder] 用户指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+- [[!DNL Page Builder] 模板 —  [!DNL Page Builder] 用户指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=zh-Hans)
 - [添加模板 —  [!DNL Page Builder] 开发人员指南](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

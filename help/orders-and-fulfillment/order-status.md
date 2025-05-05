@@ -32,5 +32,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [处理订单 —  [!DNL Commerce] 存储和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
-- [订单状态 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)
+- [处理订单 —  [!DNL Commerce] 存储和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html?lang=zh-Hans#process-an-order)
+- [订单状态 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html?lang=zh-Hans)

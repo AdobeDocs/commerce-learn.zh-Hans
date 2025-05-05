@@ -31,11 +31,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.4.0版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
+>视频中的内容反映了2.4.0版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hans)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/339104?quality=12&learn=on)
 
 ## 其他资源
 
-- [双重身份验证(2FA) — 管理系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html)
+- [双重身份验证(2FA) — 管理系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html?lang=zh-Hans)
 - [配置双重身份验证(2FA) — 开发人员文档](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)

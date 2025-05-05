@@ -34,12 +34,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hans)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36188?quality=12&learn=on)
 
 ## 其他资源
 
-[客户帐户范围 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
+[客户帐户范围 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html?lang=zh-Hans)
 
-[希望列表店面体验 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)
+[希望列表店面体验 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html?lang=zh-Hans)

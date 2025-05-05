@@ -43,5 +43,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [配置帐户付款](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
-- [管理公司信用](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)
+- [配置帐户付款](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html?lang=zh-Hans#configure-payment-on-account)
+- [管理公司信用](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html?lang=zh-Hans)

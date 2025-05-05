@@ -32,6 +32,6 @@ ht-degree: 0%
 
 ## 其他资源
 
-[管理管理员用户帐户 —  [!DNL Commerce] 管理系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+[管理管理员用户帐户 —  [!DNL Commerce] 管理系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=zh-Hans)
 
-[用户角色 —  [!DNL Commerce] 管理员系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
+[用户角色 —  [!DNL Commerce] 管理员系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=zh-Hans)

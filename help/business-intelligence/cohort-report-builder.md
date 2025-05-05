@@ -33,7 +33,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您是Commerce Intelligence的新用户，[Adobe Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"}将全面概述如何通过数据汇总、分析和可视化来获取更好的业务见解和结果。
+>如果您是Commerce Intelligence的新用户，[Adobe Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=zh-Hans){target="_blank"}将全面概述如何通过数据汇总、分析和可视化来获取更好的业务见解和结果。
 
 ## 此视频面向谁？
 
@@ -46,6 +46,6 @@ ht-degree: 0%
 
 ## 有用的资源
 
-[使用同类群组Report Builder- Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html)
+[使用同类群组Report Builder- Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html?lang=zh-Hans)
 
-[创建定性同类群组分析 — Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html)
+[创建定性同类群组分析 — Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html?lang=zh-Hans)

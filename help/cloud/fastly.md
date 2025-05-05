@@ -35,9 +35,9 @@ ht-degree: 0%
 ## Experience League文档和视频中提到的Fastly Adobe Commerce检查器
 
 - [快速检查程序](https://adobe-commerce-tester.freetls.fastly.net/adobe-commerce-tester/)
-- Experience League中的[Fastly服务](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html)
-- [Fastly WAF常见问题解答](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html)
-- [图像优化](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html)
+- Experience League中的[Fastly服务](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html?lang=zh-Hans)
+- [Fastly WAF常见问题解答](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html?lang=zh-Hans)
+- [图像优化](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html?lang=zh-Hans)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
 

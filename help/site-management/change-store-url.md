@@ -31,11 +31,11 @@ Adobe Commerce或Magento Open Source安装中的每个网站都有一个分配�
 
 >[!NOTE]
 >
->视频中的内容反映了2.1.0版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
+>视频中的内容反映了2.1.0版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hans)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35488?quality=12&learn=on)
 
 ## 其他资源
 
-- [商店URL - [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
-- [使用自定义管理员URL - [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)
+- [商店URL - [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html?lang=zh-Hans)
+- [使用自定义管理员URL - [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html?lang=zh-Hans#use-a-custom-admin-url)

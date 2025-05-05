@@ -34,4 +34,4 @@ ht-degree: 0%
 
 ## 其他资源
 
-[相关产品规则 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)
+[相关产品规则 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html?lang=zh-Hans)

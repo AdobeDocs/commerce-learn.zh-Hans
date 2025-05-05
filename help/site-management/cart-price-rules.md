@@ -128,5 +128,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [创建购物车价格规则 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html)
-- [优惠券代码 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html)
+- [创建购物车价格规则 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html?lang=zh-Hans)
+- [优惠券代码 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html?lang=zh-Hans)

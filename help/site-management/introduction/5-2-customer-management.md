@@ -36,6 +36,6 @@ ht-degree: 0%
 
 ## 其他资源
 
-[创建单个客户帐户 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+[创建单个客户帐户 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=zh-Hans)
 
-[客户组 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+[客户组 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=zh-Hans)

@@ -33,5 +33,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [客户属性属性 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
-- [创建单个客户帐户 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+- [客户属性属性 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html?lang=zh-Hans)
+- [创建单个客户帐户 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=zh-Hans)

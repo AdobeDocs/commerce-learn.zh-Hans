@@ -33,5 +33,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [产品属性 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+- [产品属性 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=zh-Hans)
 - [PWA Studio — 开发人员文档](https://developer.adobe.com/commerce/pwa-studio/)

@@ -32,5 +32,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- Adobe Commerce的[观察 — 支持文章](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?)
-- [对Adobe Commerce使用观察](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
+- Adobe Commerce的[观察 — 支持文章](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?lang=zh-Hans&)
+- [对Adobe Commerce使用观察](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html?lang=zh-Hans)

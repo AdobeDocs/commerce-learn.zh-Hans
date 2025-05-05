@@ -34,4 +34,4 @@ ht-degree: 0%
 
 ## 其他资源
 
-[元数据 —  [!DNL Commerce] 销售和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)
+[元数据 —  [!DNL Commerce] 销售和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html?lang=zh-Hans)

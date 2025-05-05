@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## 使用Adobe Commerce Cloud CLI工具
 
-创建数据库转储需要安装[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)。 在本地笔记本电脑上，转到目录并运行以下命令。 请确保使用类似于`asasdasd45q`的项目ID替换`your-project-id`。 您还需要将`your-environment-name`替换为环境的名称，如`master`或`staging`。
+创建数据库转储需要安装[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=zh-Hans)。 在本地笔记本电脑上，转到目录并运行以下命令。 请确保使用类似于`asasdasd45q`的项目ID替换`your-project-id`。 您还需要将`your-environment-name`替换为环境的名称，如`master`或`staging`。
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -276,7 +276,7 @@ SSH用户名是@符号之前的所有内容： `abasrpikfw4123-remote-db-ecpefky
    magento-cloud ssh
    ```
 
-1. 从[$MAGENTO_CLOUD_RELATIONSHIP](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships)变量中的`database`和`type`属性检索MySQL登录凭据。
+1. 从[$MAGENTO_CLOUD_RELATIONSHIP](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=zh-Hans#relationships)变量中的`database`和`type`属性检索MySQL登录凭据。
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -322,7 +322,7 @@ SSH用户名是@符号之前的所有内容： `abasrpikfw4123-remote-db-ecpefky
 
 ## 直接连接到云项目数据库以运行SQL
 
-以下方法使用`magento-cloud` cli直接连接到mysql数据库并运行SQL，从而加快数据库查询。 如果需要复制此数据库，请参阅[创建数据库转储](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)的替代方法之一。
+以下方法使用`magento-cloud` cli直接连接到mysql数据库并运行SQL，从而加快数据库查询。 如果需要复制此数据库，请参阅[创建数据库转储](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=zh-Hans)的替代方法之一。
 
 ```bash
 magento-cloud db:sql    
@@ -382,7 +382,7 @@ MariaDB [main]>
 
 ## 其他资源
 
-[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
-[设置MySQL服务](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
-[设置远程MySQL数据库连接](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
-[在云基础架构的Adobe Commerce上创建数据库转储](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
+[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=zh-Hans)
+[设置MySQL服务](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html?lang=zh-Hans)
+[设置远程MySQL数据库连接](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html?lang=zh-Hans)
+[在云基础架构的Adobe Commerce上创建数据库转储](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=zh-Hans)

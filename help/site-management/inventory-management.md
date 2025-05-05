@@ -33,5 +33,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [Inventory management指南](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
+- [Inventory management指南](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html?lang=zh-Hans)
 - [Inventory management — 开发人员REST文档](https://developer.adobe.com/commerce/webapi/rest/inventory/)

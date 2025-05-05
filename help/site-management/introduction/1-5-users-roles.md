@@ -32,13 +32,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hans)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35947?quality=12&learn=on)
 
 ## 其他资源
 
-[管理管理员用户帐户 —  [!DNL Commerce] 管理系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+[管理管理员用户帐户 —  [!DNL Commerce] 管理系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=zh-Hans)
 
-[用户角色 —  [!DNL Commerce] 管理员系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
+[用户角色 —  [!DNL Commerce] 管理员系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=zh-Hans)
 

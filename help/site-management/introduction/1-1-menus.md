@@ -35,10 +35,10 @@ ht-degree: 29%
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hans)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35942?quality=12&learn=on)
 
 ## 其他资源
 
-[[!DNL Commerce] 商家文档](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
+[[!DNL Commerce] 商家文档](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=zh-Hans)

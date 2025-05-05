@@ -36,10 +36,10 @@ ht-degree: 0%
 
 ## 相关Experience League文档
 
-- [导出配置](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
-- [覆盖配置设置](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/paths/override-config-settings)
-- [设置配置值](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
-- [配置引用config.php](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
-- [配置指南技术详细信息](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details)
-- [锁定的配置值](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
-- [保存在env.php中的值](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)
+- [导出配置](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
+- [覆盖配置设置](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/configuration-guide/paths/override-config-settings)
+- [设置配置值](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
+- [配置引用config.php](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
+- [配置指南技术详细信息](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/configuration-guide/deployment/technical-details)
+- [锁定的配置值](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
+- [保存在env.php中的值](https://experienceleague.adobe.com/zh-hans/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)

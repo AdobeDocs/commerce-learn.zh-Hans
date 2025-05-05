@@ -37,7 +37,7 @@ SQLReport Builder允许您直接查询数据仓库、查看结果，并快速将
 
 >[!TIP]
 >
->如果您是Commerce Intelligence的新用户，[Adobe Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"}将全面概述如何通过数据汇总、分析和可视化来获取更好的业务见解和结果。
+>如果您是Commerce Intelligence的新用户，[Adobe Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=zh-Hans){target="_blank"}将全面概述如何通过数据汇总、分析和可视化来获取更好的业务见解和结果。
 
 ## 此视频面向谁？
 
@@ -50,6 +50,6 @@ SQLReport Builder允许您直接查询数据仓库、查看结果，并快速将
 
 ## 有用的资源
 
-[使用SQLReport Builder- Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
+[使用SQLReport Builder- Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html?lang=zh-Hans)
 
-[通过SQL查询创建可视化图表 — Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)
+[通过SQL查询创建可视化图表 — Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html?lang=zh-Hans)

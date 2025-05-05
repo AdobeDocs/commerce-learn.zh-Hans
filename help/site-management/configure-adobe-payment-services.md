@@ -33,6 +33,6 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [载入付款服务](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html){target="_blank"}
-- [付款服务指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
-- [Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}
+- [载入付款服务](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html?lang=zh-Hans){target="_blank"}
+- [付款服务指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html?lang=zh-Hans){target="+blank"}
+- [Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=zh-Hans){target="+blank"}

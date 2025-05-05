@@ -32,12 +32,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hans)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36190?quality=12&learn=on)
 
 ## 其他资源
 
-[电子邮件模板 —  [!DNL Commerce] 管理员系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html)
+[电子邮件模板 —  [!DNL Commerce] 管理员系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html?lang=zh-Hans)
 
-[变量和客户通信 —  [!DNL Commerce] 管理员系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html#variables-and-customer-communications)
+[变量和客户通信 —  [!DNL Commerce] 管理员系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html?lang=zh-Hans#variables-and-customer-communications)

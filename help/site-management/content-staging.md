@@ -10,7 +10,7 @@ feature: Configuration, System, Staging
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-badgePaas: label="仅限PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="仅适用于云项目(Adobe管理的PaaS基础架构)和内部部署项目上的Adobe Commerce 。"
+badgePaas: label="仅限PaaS" type="Informative" url="https://experienceleague.adobe.com/zh-hans/docs/commerce/user-guides/product-solutions" tooltip="仅适用于云项目(Adobe管理的PaaS基础架构)和内部部署项目上的Adobe Commerce 。"
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
 source-git-commit: efb067d8595079cc33a9af0c15eb1e60e0dd5796
 workflow-type: tm+mt
@@ -36,5 +36,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [内容暂存 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
-- [预览营销活动 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}
+- [内容暂存 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html?lang=zh-Hans){target="_blank"}
+- [预览营销活动 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html?lang=zh-Hans){target="_blank"}

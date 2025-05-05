@@ -11,7 +11,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 81a654bf-d09c-4bab-a050-daba6cce2f79
-badgePaas: label="仅限PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="仅适用于云项目(Adobe管理的PaaS基础架构)和内部部署项目上的Adobe Commerce 。"
+badgePaas: label="仅限PaaS" type="Informative" url="https://experienceleague.adobe.com/zh-hans/docs/commerce/user-guides/product-solutions" tooltip="仅适用于云项目(Adobe管理的PaaS基础架构)和内部部署项目上的Adobe Commerce 。"
 source-git-commit: 29d48213b0f7d4425925ea8234d09867aa6d7577
 workflow-type: tm+mt
 source-wordcount: '105'
@@ -34,5 +34,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [类别产品分配 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
-- [促销的类别规则 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)
+- [类别产品分配 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html?lang=zh-Hans)
+- [促销的类别规则 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html?lang=zh-Hans)

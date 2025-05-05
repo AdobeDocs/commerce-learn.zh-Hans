@@ -33,12 +33,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hans)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35959?quality=12&learn=on)
 
 ## 其他资源
 
-[礼品卡产品 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html)
-[礼品卡购买和兑现 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/gift-cards/product-gift-card-workflow.html)
+[礼品卡产品 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html?lang=zh-Hans)
+[礼品卡购买和兑现 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/gift-cards/product-gift-card-workflow.html?lang=zh-Hans)
 

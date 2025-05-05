@@ -34,17 +34,17 @@ ht-degree: 0%
 
 ## 视频中提到的Experience League文档
 
-- [配置Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html)
+- [配置Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html?lang=zh-Hans)
 - [Cloud Docker配置Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)
-- [调试最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html)
-- [配置文件概述](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)
-- [ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html)
-- [更新ECE-Tools包](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html)
-- [New Relic概述](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
-- [查看和管理日志文件](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)
-- [New Relic日志管理](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html)
-- [Quality Patch工具](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
-- [Quality修补工具用法](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html)
+- [调试最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html?lang=zh-Hans)
+- [配置文件概述](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html?lang=zh-Hans)
+- [ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html?lang=zh-Hans)
+- [更新ECE-Tools包](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html?lang=zh-Hans)
+- [New Relic概述](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=zh-Hans)
+- [查看和管理日志文件](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=zh-Hans)
+- [New Relic日志管理](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html?lang=zh-Hans)
+- [Quality Patch工具](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=zh-Hans)
+- [Quality修补工具用法](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html?lang=zh-Hans)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
 

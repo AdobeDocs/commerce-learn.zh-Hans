@@ -33,5 +33,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [税则 —  [!DNL Commerce] 存储和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
-- [货币 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)
+- [税则 —  [!DNL Commerce] 存储和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html?lang=zh-Hans)
+- [货币 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html?lang=zh-Hans)

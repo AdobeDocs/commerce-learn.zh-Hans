@@ -34,5 +34,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [创建目录价格规则 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
-- [具有多个SKU的目录价格规则 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)
+- [创建目录价格规则 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html?lang=zh-Hans)
+- [具有多个SKU的目录价格规则 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html?lang=zh-Hans)

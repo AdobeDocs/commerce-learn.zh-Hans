@@ -31,7 +31,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此内容反映了Adobe Commerce 2.3.1的Page Builder 1.0.0版本。有关更高版本中的更新的信息，请参阅[Page Builder发行说明](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html)。
+>此内容反映了Adobe Commerce 2.3.1的Page Builder 1.0.0版本。有关更高版本中的更新的信息，请参阅[Page Builder发行说明](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=zh-Hans)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35713?quality=12&learn=on)
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 
 [Page Builder开发人员文档](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[页面生成器指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[页面生成器指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html?lang=zh-Hans)

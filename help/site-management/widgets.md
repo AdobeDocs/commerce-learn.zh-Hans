@@ -34,5 +34,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [小组件 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html)
-- [创建和管理构件 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html)
+- [小组件 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html?lang=zh-Hans)
+- [创建和管理构件 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html?lang=zh-Hans)

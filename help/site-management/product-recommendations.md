@@ -37,5 +37,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [产品Recommendations指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html){target="_blank"}
-- [Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
+- [产品Recommendations指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=zh-Hans){target="_blank"}
+- [Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=zh-Hans){target="_blank"}

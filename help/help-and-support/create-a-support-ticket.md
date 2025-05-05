@@ -36,4 +36,4 @@ ht-degree: 0%
 
 ## Commerce知识库帮助中心指南
 
-[提交支持案例](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[提交支持案例](https://experienceleague.adobe.com/zh-hans/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)

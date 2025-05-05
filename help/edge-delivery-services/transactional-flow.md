@@ -41,4 +41,4 @@ ht-degree: 0%
 
 ## 其他文档
 
-* [配置购物车摘要](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)
+* [配置购物车摘要](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=zh-Hans)

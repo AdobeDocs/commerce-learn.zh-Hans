@@ -37,7 +37,7 @@ ht-degree: 0%
 1. 查看有关测试和上线的文档[站点启动文档](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/overview){target="_blank"}
 
    >[!NOTE]
-   >确保与您的合作伙伴或系统集成商一起充分准备全面的&#x200B;_“上线准备计划”_，并纳入所有必要的行动项目。 请记住，尽管启动前核对清单强调Adobe的最佳实践，但&#x200B;_**并不**_&#x200B;取代您自己的上线准备计划的需要。
+   >确保与您的合作伙伴或系统集成商一起充分准备全面的&#x200B;_“上线准备计划”_，并纳入所有必要的行动项目。 请记住，尽管启动前核对清单强调Adobe的最佳实践，但&#x200B;_&#x200B;**并不**&#x200B;_&#x200B;取代您自己的上线准备计划的需要。
 
 2. [!BADGE 阻止程序]{type=caution tooltip="潜在的阻断因素"}[用户指南](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro){target="_blank"})
 3. 最终用户/商家执行UAT（用户验收测试），包括后端操作。
@@ -136,7 +136,7 @@ Adobe Commerce Cloud使用MariaDB Galera群集作为暂存环境和生产环境�
 5. 如果在开发期间启用，请确保已禁用XDebug（请参阅[配置Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/){target="_blank"}）。
 6. 验证是否已在php.ini文件中准确更新了操作缓存和其他配置（[请参考此示例](https://github.com/magento/magento-cloud/blob/master/php.ini#L41){target="_blank"}）。
 7. 订阅&#x200B;[**Adobe Commerce状态页**](https://status.adobe.com/cloud/experience_cloud#/){target="_blank"}。
-8. 订阅New Relic针对Adobe Commerce ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-for-magento-commerce){target="_blank"}通知渠道的[托管警报，以监视给定的性能指标（[了解更多](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service){target="_blank"}）。
+8. 订阅New Relic针对Adobe Commerce [&#128279;](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-for-magento-commerce){target="_blank"}通知渠道的托管警报，以监视给定的性能指标（[了解更多](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service){target="_blank"}）。
 
 ## 9.安全
 

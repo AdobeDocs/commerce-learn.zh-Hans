@@ -45,7 +45,7 @@ ht-degree: 0%
 >
 >视频中的内容反映了随Adobe Commerce 2.4一起安装在店面上的Store Fulfillment解决方案1.0版本。有关最新信息，请参阅[商店履行用户指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html?lang=zh-Hans)。
 
->[!VIDEO](https://video.tv.adobe.com/v/343653?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447545?quality=12&learn=on&captions=chi_hans)
 
 ## 其他资源
 

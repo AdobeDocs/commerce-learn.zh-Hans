@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3427123?&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439980?&learn=on&captions=chi_hans)
 
 ## 本教程中使用的一些命令
 

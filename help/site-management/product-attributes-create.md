@@ -29,7 +29,7 @@ Adobe Commerce使用属性来管理与产品、客户和产品评级关联的信
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/343749?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410128?quality=12&learn=on&captions=chi_hans)
 
 ## 其他资源
 

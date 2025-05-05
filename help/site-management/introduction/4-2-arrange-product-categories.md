@@ -33,7 +33,7 @@ ht-degree: 0%
 >
 >视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hans)。
 
->[!VIDEO](https://video.tv.adobe.com/v/36187?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329947?quality=12&learn=on&captions=chi_hans)
 
 ## 其他资源
 

@@ -40,4 +40,4 @@ Adobe Live搜索的完整演示。
 * 基于规则的排名类型解释
 * GraphQL API自查
 
->[!VIDEO](https://video.tv.adobe.com/v/3418996?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454468?learn=on&captions=chi_hans)

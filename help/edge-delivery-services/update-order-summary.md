@@ -36,7 +36,7 @@ ht-degree: 0%
 * 了解如何包含购物车摘要的已保存总金额。
 * 了解如何将购物车摘要中的行合并到一个可折叠部分中。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441195?learn=on&captions=chi_hans)
 
 ## 其他文档
 

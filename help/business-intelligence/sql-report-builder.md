@@ -46,7 +46,7 @@ SQLReport Builder允许您直接查询数据仓库、查看结果，并快速将
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/342406?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346407?quality=12&learn=on&captions=chi_hans)
 
 ## 有用的资源
 

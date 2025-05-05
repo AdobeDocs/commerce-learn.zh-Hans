@@ -33,6 +33,6 @@ ht-degree: 0%
 * E2E测试
 * 手动测试
 
->[!VIDEO](https://video.tv.adobe.com/v/3416594?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421053?quality=12&learn=on&captions=chi_hans)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

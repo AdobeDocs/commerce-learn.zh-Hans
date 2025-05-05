@@ -34,7 +34,7 @@ ht-degree: 0%
 * Adobe Commerce Cloud要运行的命令
 * Adobe Commerce Cloud yaml需要编辑
 
->[!VIDEO](https://video.tv.adobe.com/v/3415795?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419809?quality=12&learn=on&captions=chi_hans)
 
 ## 有用的命令 {#useful-commands}
 

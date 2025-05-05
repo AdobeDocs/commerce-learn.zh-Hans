@@ -33,4 +33,4 @@ ht-degree: 0%
 - 提高客户参与度和忠诚度
 - 无缝集成和统一的客户视图
 
->[!VIDEO](https://video.tv.adobe.com/v/3433568?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433579?learn=on&captions=chi_hans)

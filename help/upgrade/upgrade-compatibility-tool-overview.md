@@ -39,7 +39,7 @@ ht-degree: 29%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/341245?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344381?quality=12&learn=on&captions=chi_hans)
 
 ## 其他资源
 

@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/342408?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346400?quality=12&learn=on&captions=chi_hans)
 
 ## 有用的资源
 

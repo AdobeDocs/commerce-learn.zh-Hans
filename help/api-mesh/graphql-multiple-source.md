@@ -34,7 +34,7 @@ ht-degree: 0%
 * 如何排除错误，如名称冲突、架构可用性和其他架构语法问题
 * 使用修改后的配置更新网格
 
->[!VIDEO](https://video.tv.adobe.com/v/3414125?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419785?quality=12&learn=on&captions=chi_hans)
 
 ## 创建json配置文件
 

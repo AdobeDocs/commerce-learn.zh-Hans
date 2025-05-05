@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3426797?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454513?learn=on&captions=chi_hans)
 
 ## 使用REST创建产品
 

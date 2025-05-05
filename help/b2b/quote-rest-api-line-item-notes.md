@@ -30,6 +30,6 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3420418?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443495?learn=on&captions=chi_hans)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

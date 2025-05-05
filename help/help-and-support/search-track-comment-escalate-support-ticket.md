@@ -31,7 +31,7 @@ ht-degree: 0%
 * 了解如何向打开的支持票证添加评论
 * 了解升级支持票证的方式和一些原因
 
->[!VIDEO](https://video.tv.adobe.com/v/3433076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445321?learn=on&captions=chi_hans)
 
 ## Commerce知识库帮助中心指南
 

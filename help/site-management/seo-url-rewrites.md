@@ -31,7 +31,7 @@ URL重写工具允许您更改与产品、类别或CMS页面关联的任何URL�
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/343751?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410123?quality=12&learn=on&captions=chi_hans)
 
 ## 其他资源
 

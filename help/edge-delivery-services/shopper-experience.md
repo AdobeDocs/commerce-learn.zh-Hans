@@ -43,4 +43,4 @@ ht-degree: 0%
 * 了解如何管理订单，包括将项目添加到购物车、作为访客签出、取消订单和重新排序项目。
 * 深入了解如何更新帐户信息、合并来宾和客户购物车，以及确保流畅的结账体验。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446772?learn=on&captions=chi_hans)

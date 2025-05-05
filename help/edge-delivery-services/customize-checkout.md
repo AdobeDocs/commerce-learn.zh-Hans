@@ -35,7 +35,7 @@ ht-degree: 0%
 * 多步结账的实现&#x200B;
 * 重用现有代码和最佳实践
 
->[!VIDEO](https://video.tv.adobe.com/v/3442650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442660?learn=on&captions=chi_hans)
 
 ## 其他文档
 

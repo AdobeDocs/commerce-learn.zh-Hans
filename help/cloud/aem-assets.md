@@ -32,4 +32,4 @@ ht-degree: 0%
 - 产品和资产之间的无缝同步。
 - 完整的生命周期控制，包括批准、删除和到期。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434086?learn=on&captions=chi_hans)

@@ -38,4 +38,4 @@ Adobe Commerce as a cloud service提供了一个安全、自动的托管平台�
 * 全面的API覆盖：该平台支持使用GraphQL和REST API进行广泛的API覆盖，从而实现与第三方系统的无缝集成。
 * Headless架构：完全分离的架构允许开发人员使用各种前端框架，从而提供灵活性和性能。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443232?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443277?learn=on&captions=chi_hans)

@@ -38,6 +38,6 @@ ht-degree: 0%
 * 全局控制板 — 可使用的功能
 * 将GRA用作模块市场的替代概念
 
->[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457218?learn=on&captions=chi_hans)
 
 {{$include /help/_includes/gra-related-links.md}}

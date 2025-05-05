@@ -31,4 +31,4 @@ ht-degree: 0%
 * 了解如何使用过滤器限制管理网格的结果
 * 了解过滤器如何影响Adobe CommerceAdmin Console中的其他管理员
 
->[!VIDEO](https://video.tv.adobe.com/v/3440382?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440392?learn=on&captions=chi_hans)

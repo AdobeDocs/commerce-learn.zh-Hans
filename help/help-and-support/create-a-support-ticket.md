@@ -32,7 +32,7 @@ ht-degree: 0%
 * 了解推荐的文章如何根据表单中使用的信息进行更改
 * 了解表单字段中找到的占位符文本如何有助于了解良好支持请求所需的信息类型
 
->[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449563?learn=on&captions=chi_hans)
 
 ## Commerce知识库帮助中心指南
 

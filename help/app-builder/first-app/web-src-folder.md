@@ -32,7 +32,7 @@ ht-degree: 0%
 * 通常包括文件和文件夹
 * 如何在示例应用程序中使用`web-src`文件夹及其内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421037?quality=12&learn=on&captions=chi_hans)
 
 ## 代码示例
 

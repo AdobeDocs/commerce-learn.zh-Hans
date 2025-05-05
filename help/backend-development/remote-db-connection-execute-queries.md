@@ -26,7 +26,7 @@ ht-degree: 0%
 * 了解如何使用MysqlWorkbench或TablesPlus等工具快速连接到远程Adobe Commerce Cloud项目。
 * 了解如何快速连接到Adobe Commerce项目以通过命令行运行SQL
 
->[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450046?learn=on&captions=chi_hans)
 
 了解如何连接到云项目上的Adobe Commerce、转储数据库以供异地使用，以及屏蔽PII并将其删除。
 

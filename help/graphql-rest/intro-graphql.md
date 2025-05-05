@@ -24,7 +24,7 @@ ht-degree: 0%
 
 如果您不熟悉GraphQL，本节将引导您了解基本概念和用法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424117?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443952?learn=on&captions=chi_hans)
 
 ## 本系列中GraphQL的相关视频和教程
 

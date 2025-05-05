@@ -31,7 +31,7 @@ ht-degree: 0%
 * 了解如何关闭支持票证
 * 了解如何重新打开支持工单
 
->[!VIDEO](https://video.tv.adobe.com/v/3433082?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441362?learn=on&captions=chi_hans)
 
 ## Commerce知识库帮助中心指南
 

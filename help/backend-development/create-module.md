@@ -34,7 +34,7 @@ ht-degree: 0%
 - 升级脚本以安装新模块。
 - 检查模块是否正常工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412450?learn=on&captions=chi_hans)
 
 ### module.xml
 

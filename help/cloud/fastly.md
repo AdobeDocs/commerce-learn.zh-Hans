@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3427695?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432803?learn=on&captions=chi_hans)
 
 ## Experience League文档和视频中提到的Fastly Adobe Commerce检查器
 

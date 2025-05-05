@@ -25,6 +25,6 @@ ht-degree: 0%
 
 ## 适用于Adobe Commerce的App Builder {#app-builder-functional-demonstration}
 
->[!VIDEO](https://video.tv.adobe.com/v/3413502?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450101?learn=on&captions=chi_hans)
 
 {{$include /help/_includes/app-builder-related-links.md}}

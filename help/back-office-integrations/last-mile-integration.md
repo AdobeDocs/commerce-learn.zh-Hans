@@ -43,6 +43,6 @@ ht-degree: 0%
 * 了解转换挂接在原始系统和目标系统之间转换数据对象方面的作用。
 * 了解发送挂接对于促进实际数据发送到目标系统的重要性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451938?learn=on&captions=chi_hans)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

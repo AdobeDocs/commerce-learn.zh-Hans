@@ -32,4 +32,4 @@ Adobe Commerce使企业能够从单个后端界面管理多个商店、品牌或
 - 本地化和自定义
 - 可扩展性和灵活性
 
->[!VIDEO](https://video.tv.adobe.com/v/3434027?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434037?learn=on&captions=chi_hans)

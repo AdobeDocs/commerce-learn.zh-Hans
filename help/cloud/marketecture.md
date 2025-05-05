@@ -35,4 +35,4 @@ Adobe Commerce是一个以体验为导向的平台，它结合了技术灵活性
 - Adobe Commerce提供可组合服务，例如实时搜索、AI推荐和灵活的支付解决方案。
 - 高级集成，包括API Mesh、统一的事件管理和无缝的Adobe Experience Platform集成。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433435?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433445?learn=on&captions=chi_hans)

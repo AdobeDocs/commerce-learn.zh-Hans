@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453088?learn=on&captions=chi_hans)
 
 ## 创建具有简单有效负荷的礼品卡
 

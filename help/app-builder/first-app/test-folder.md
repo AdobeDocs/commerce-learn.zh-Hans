@@ -34,7 +34,7 @@ ht-degree: 0%
 * 单元测试文件及其组件的简要说明
 * 端到端测试简介
 
->[!VIDEO](https://video.tv.adobe.com/v/3416662?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421059?quality=12&learn=on&captions=chi_hans)
 
 ## 代码示例
 

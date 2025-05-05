@@ -33,4 +33,4 @@ ht-degree: 0%
 * 了解成功迁移到Adobe Commerce的基本步骤和最佳实践。
 * 评估和优化自定义代码和第三方模块，并了解关键QA概念。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432846/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444330/?learn=on&captions=chi_hans)

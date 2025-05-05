@@ -39,7 +39,7 @@ Quality Patches Tool是用于Adobe Commerce和Magento Open Source的命令行实
 
 这些修补程序由Adobe开发人员Magento Open Source社区开发，用于增强稳定性和性能。 请记住，不建议应用大量修补程序，因为这会使未来的升级复杂化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454080?learn=on&captions=chi_hans)
 
 ## 为何使用品质修补工具
 

@@ -33,4 +33,4 @@ ht-degree: 0%
 * 了解如何基于数据聚合来设置警报的阈值。
 * 使用严重性级别配置警报，并将其分配到现有策略以控制通知工作流和目标。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440771?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440781?learn=on&captions=chi_hans)

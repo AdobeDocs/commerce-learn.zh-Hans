@@ -36,7 +36,7 @@ ht-degree: 0%
 * 在CLI中更改选定的组织、项目或工作区
 * 测试简单的API网格命令
 
->[!VIDEO](https://video.tv.adobe.com/v/3414123?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419724?quality=12&learn=on&captions=chi_hans)
 
 ## 了解Adobe Developer Console
 

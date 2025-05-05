@@ -33,7 +33,7 @@ ht-degree: 0%
 - 在其中找到一些常见的大型日志文件
 - 截断日志文件的快速方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454593?learn=on&captions=chi_hans)
 
 
 ## 视频中使用的命令

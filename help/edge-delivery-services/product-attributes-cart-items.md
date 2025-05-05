@@ -38,7 +38,7 @@ ht-degree: 0%
 * 使用购物车规则和页脚版块显示的优惠券折扣以有效显示此信息。
 * 使用产品属性和插槽扩展和自定义购物车功能，确保所有项目要求都得到满足。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441126?learn=on&captions=chi_hans)
 
 
 ## 其他文档

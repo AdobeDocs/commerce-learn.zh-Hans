@@ -37,7 +37,7 @@ ht-degree: 0%
 * A/B测试灵活性。 通过SharePoint启用配置，使营销人员能够控制和测试这些功能。
 * 增强的营销控制。 轻松管理和测试配置，改善用户体验和营销有效性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442361?learn=on&captions=chi_hans)
 
 ## 其他文档
 

@@ -40,7 +40,7 @@ ht-degree: 0%
 * 地址输入字段的验证和错误处理，确保用户立即收到有关不正确或不完整条目的反馈，从而改善用户体验。
 * 用户帐户仪表板的扩展，用于向用户帐户仪表板添加新的侧栏菜单项。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442916?learn=on&captions=chi_hans)
 
 ## 其他文档
 

@@ -35,4 +35,4 @@ Adobe Commerce数据连接的完整演示。
 * Real-Time CDP受众基于浏览器数据、服务器端数据（包括订单历史记录）和其他来源的数据（即忠诚度数据），实时更新和修改分段。
 * 利用Real-Time CDP受众在Adobe Commerce中个性化购物车价格规则和动态块。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453828?learn=on&captions=chi_hans)

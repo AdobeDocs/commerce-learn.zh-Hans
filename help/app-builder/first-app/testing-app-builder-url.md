@@ -31,6 +31,6 @@ ht-degree: 0%
 * 如何部署应用程序
 * 部署后可在何处查找URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3416664?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421043?quality=12&learn=on&captions=chi_hans)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

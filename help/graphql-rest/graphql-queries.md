@@ -23,7 +23,7 @@ ht-degree: 0%
 
 这是GraphQL和Adobe Commerce系列的第2部分。 在本教程和视频中，了解GraphQL查询以及如何针对Adobe Commerce执行这些查询。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450068?learn=on&captions=chi_hans)
 
 ## 本系列中GraphQL的相关视频和教程
 

@@ -1,6 +1,6 @@
 ---
 title: 采用和支持成功加速器
-description: Adobe Commerce Success Accelerator的采用和启用，用于战略开发、技能提升和治理
+description: 了解Adobe Commerce Success Accelerator的采用和支持策略开发、技能提升和治理。
 feature: Site Management, Support
 topic: Administration, Commerce
 role: User
@@ -9,15 +9,15 @@ doc-type: Value Video
 duration: 95
 last-substantial-update: 2025-04-16T00:00:00Z
 jira: KT-17808
-source-git-commit: 11384ef49c6cfe3d59a7cee22cdca8ceb123d7d6
+exl-id: 8957dbbe-9bed-41e4-b21e-5371f91085fd
+source-git-commit: 34e15bd8c440b2f63fbf43e29fdd2961c72301f6
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
-
-# 采用和支持成功加速器
+# 采用和支持“成功加速器”
 
 Adobe Commerce成功加速器的采用和启用包括三个关键服务：用例和KPI开发、桌面端指导以及工具和功能治理策略。 这些服务为制定战略计划和路线图、多届会议支持（以弥合技能差距）以及治理战略（以确保产品得到适当采用）提供指导。 其目标是通过最佳实践和有针对性的支持来增强Adobe Commerce产品的使用性和有效性。
 

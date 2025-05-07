@@ -1,7 +1,6 @@
 ---
 title: Success Accelerators技术准备工作
-description: Adobe Commerce成功加速器技术准备工作、解决方案审查、事件规划和全天候监控以实现最佳性能。
-feature: Site Management, Support
+description: 了解Commerce成功加速器技术准备工作、解决方案审查、事件规划和全天候监控以实现最佳性能。
 topic: Administration, Commerce
 role: User
 level: Beginner
@@ -9,15 +8,15 @@ doc-type: Value Video
 duration: 160
 last-substantial-update: 2025-04-16T00:00:00Z
 jira: KT-17804
-source-git-commit: 080c355e656e918415de74156830d787aad20af4
+exl-id: 7a031aa0-40d6-4a90-a71f-4297107e42f2
+source-git-commit: a79bc113cbedb89c56e74571a68538fa94a3945c
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
-
-# Success Accelerators技术准备工作
+# 成功加速器技术就绪性
 
 Adobe Commerce成功加速服务包括技术准备工作，其中包括启动咨询、升级/迁移准备工作、环境审查和解决方案故障排除。 此外，它们还提供解决方案和采用情况审查，以提高产品使用率和性能。 事件规划和监控服务为关键营销活动和产品发布提供指导和24/7全天候支持，确保最佳性能和主动问题识别。 这些加速器旨在最大限度地提高Adobe Commerce产品的效率和采用率
 

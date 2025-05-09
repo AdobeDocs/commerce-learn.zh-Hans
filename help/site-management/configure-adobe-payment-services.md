@@ -11,9 +11,10 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 96877db6-54a3-4a89-ad84-c4559806b7fb
-source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
+badgePaas: label="仅限PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="仅适用于云项目(Adobe管理的PaaS基础架构)和内部部署项目上的Adobe Commerce 。"
+source-git-commit: 182563f9f53cc2de5a1a0577d6d0ee39d0874cef
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -33,6 +34,6 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [载入付款服务](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html?lang=zh-Hans){target="_blank"}
-- [付款服务指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html?lang=zh-Hans){target="+blank"}
-- [Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=zh-Hans){target="+blank"}
+- [载入付款服务](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html){target="_blank"}
+- [付款服务指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
+- [Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}

@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 586a4e2a52cbe8ea3b5018b4c53d731b3d071467
+source-git-commit: 22eaf9d107c6aa80344b1ec224944b53b3178857
 workflow-type: tm+mt
-source-wordcount: '875'
+source-wordcount: '877'
 ht-degree: 3%
 
 ---
@@ -20,6 +20,7 @@ ht-degree: 3%
       + [分类并解决2个常见站点错误](../cloud/troubleshooting/triage-two-common-site-errors.md)
       + [配置值](../cloud/troubleshooting/config-values.md)
       + [截断日志](../cloud/troubleshooting/truncate-logs.md)
+   + [HIPAA就绪托管](../cloud/hippa-ready-hosting.md)
    + [检测IP地址](../cloud/detect-ip-address.md)
    + [市场结构](../cloud/marketecture.md)
    + [全局投放模型](../cloud/global-delivery-model.md)
@@ -235,7 +236,7 @@ ht-degree: 3%
    + [升级兼容性工具概述](../upgrade/upgrade-compatibility-tool-overview.md)
    + [使用PHP Storm中的升级兼容性工具](../upgrade/uct-phpstorm.md)
 + 后端开发 {#backend-development}
-   + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+   + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [创建模块](../backend-development/create-module.md)
    + [添加产品属性](../backend-development/add-product-attribute.md)
    + [依赖项注入示例](../backend-development/dependency-injection.md)
@@ -265,3 +266,4 @@ ht-degree: 3%
       + [6 — 佩雷格林](../pwa/introduction/6-peregrine.md)
    + [PWA Docker开发](../pwa/pwa-docker-development.md)
    + [设置Venia以进行开发](../pwa/set-up-venia-for-dev.md)
+

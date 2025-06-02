@@ -37,7 +37,7 @@ Adobe Commerce提供了可支持HIPAA的解决方案，旨在帮助医疗保健�
 
 ## 其他文档
 
-* [HIPAA准备就绪 — 数据连接](https://experienceleague.adobe.com/en/docs/commerce/data-connection/hipaa-readiness)
-* [HIPAA准备就绪 — 合规性](https://experienceleague.adobe.com/en/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
-* [安装数据连接](https://experienceleague.adobe.com/en/docs/commerce/data-connection/fundamentals/install)
+* [HIPAA准备就绪 — 数据连接](https://experienceleague.adobe.com/zh-hans/docs/commerce/data-connection/hipaa-readiness)
+* [HIPAA准备就绪 — 合规性](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
+* [安装数据连接](https://experienceleague.adobe.com/zh-hans/docs/commerce/data-connection/fundamentals/install)
 

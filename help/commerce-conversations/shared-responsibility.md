@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 其他文档
 
-* [安全修补程序发行说明](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)
+* [安全修补程序发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/security-patches/overview)
 * [通知渠道](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
 * [Adobe安全公告](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&amp;context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
-* [保护您的商务网站和基础架构](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
+* [保护您的商务网站和基础架构](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)

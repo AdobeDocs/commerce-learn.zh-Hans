@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 8fada712c51193fc6f3fe9e75b9324a6826f7570
+source-git-commit: ca8cdbb42dcf89cd0ce4c2b8b13b9fd454e8c597
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '879'
 ht-degree: 3%
 
 ---
@@ -147,12 +147,13 @@ ht-degree: 3%
       + [配置Adobe Commerce](../io-events/configure-commerce.md)
       + [Adobe Commerce模块开发](../io-events/commerce-module-development.md)
       + [Adobe Commerce条件事件](../io-events/conditional-events.md)
-   + API网格 {#api-mesh}
-      + [API Mesh入门](../api-mesh/getting-started-api-mesh.md)
-      + [安装Adobe IO和Mesh插件](../api-mesh/installing-aio-mesh-plugin.md)
-      + [使用项目和工作区](../api-mesh/aio-projects-workspaces.md)
-      + [创建单一源GraphQL API网格](../api-mesh/graphql-single-source.md)
-      + [创建多源GraphQL API网格](../api-mesh/graphql-multiple-source.md)
++ API网格 {#api-mesh}
+   + [使用GitHub代码空间的API Mesh入门工具包](../api-mesh/starter-kit-github-codespaces.md)
+   + [API Mesh入门](../api-mesh/getting-started-api-mesh.md)
+   + [安装Adobe IO和Mesh插件](../api-mesh/installing-aio-mesh-plugin.md)
+   + [使用项目和工作区](../api-mesh/aio-projects-workspaces.md)
+   + [创建单一源GraphQL API网格](../api-mesh/graphql-single-source.md)
+   + [创建多源GraphQL API网格](../api-mesh/graphql-multiple-source.md)
 + 商店管理 {#admin}
    + [管理用户角色和权限](../site-management/users-roles-permissions.md)
    + [双重身份验证](../site-management/two-factor-authentication.md)
@@ -235,7 +236,7 @@ ht-degree: 3%
    + [升级兼容性工具概述](../upgrade/upgrade-compatibility-tool-overview.md)
    + [使用PHP Storm中的升级兼容性工具](../upgrade/uct-phpstorm.md)
 + 后端开发 {#backend-development}
-   + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+   + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [创建模块](../backend-development/create-module.md)
    + [添加产品属性](../backend-development/add-product-attribute.md)
    + [依赖项注入示例](../backend-development/dependency-injection.md)
@@ -265,4 +266,3 @@ ht-degree: 3%
       + [6 — 佩雷格林](../pwa/introduction/6-peregrine.md)
    + [PWA Docker开发](../pwa/pwa-docker-development.md)
    + [设置Venia以进行开发](../pwa/set-up-venia-for-dev.md)
-

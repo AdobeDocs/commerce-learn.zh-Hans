@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Page Builder]概述'
+title: '[!DNL Page Builder] 概述'
 description: 了解如何使用 [!DNL Page Builder]在管理员中生成页面 [!DNL Commerce] 存储页面。
 kt: 5563
 doc-type: feature video
@@ -11,14 +11,15 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: b68e3fef-c392-48ad-af93-ae535f5cdc3c
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+badgePaas: label="仅限PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="仅适用于云项目(Adobe管理的PaaS基础架构)和内部部署项目上的Adobe Commerce 。"
+source-git-commit: 340b9d7ad9989aab0fe980db4cb176828d93ad97
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 0%
+source-wordcount: '153'
+ht-degree: 1%
 
 ---
 
-# [!DNL Page Builder]概述
+# [!DNL Page Builder] 概述
 
 [!DNL Page Builder]使您可以轻松创建具有自定义版面的内容丰富的页面，以增强您的视觉叙事能力，并提高客户参与度和忠诚度。
 
@@ -40,9 +41,9 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3447904?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/343781?quality=12&learn=on)
 
 ## 其他资源
 
-- [页面生成器用户指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html?lang=zh-Hans)
+- [页面生成器用户指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
 - [Page Builder开发人员指南](https://developer.adobe.com/commerce/frontend-core/page-builder/)

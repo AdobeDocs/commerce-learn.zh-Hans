@@ -12,7 +12,7 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 441d8b177c8bf486b47c763c2854eb1772ffe331
+source-git-commit: faa0bd681f8fea32e5e2203db0d1a86c7ed71e1c
 workflow-type: tm+mt
 source-wordcount: '311'
 ht-degree: 15%
@@ -40,7 +40,7 @@ API Mesh将多个数据源整合在一起，得到单个响应以供应用程序
 * 在结账时执行实时清单检查的用例
 * 将开发工作和资源使用从您的商务应用程序中移开
 
->[!VIDEO](https://video.tv.adobe.com/v/3421884?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
 
 ## 示例用例
 

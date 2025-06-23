@@ -12,16 +12,16 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 366a7988dfa1de39ebccb8ab0e281d80b27dbb36
+source-git-commit: 441d8b177c8bf486b47c763c2854eb1772ffe331
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '311'
 ht-degree: 15%
 
 ---
 
 # API Mesh入门
 
-如果您是初次使用Adobe Developer App Builder的API Mesh，Adobe建议先从本介绍性教程开始，然后再转到其他视频和教程。
+如果您不熟悉Adobe Developer App Builder的API Mesh，Adobe建议先从本介绍性教程开始，然后再转到其他视频和教程。
 
 ## 什么是API Mesh
 
@@ -31,7 +31,7 @@ API Mesh将多个数据源整合在一起，得到单个响应以供应用程序
 
 ## 此视频面向谁？
 
-* 任何刚开始使用API Mesh或[!DNL Adobe Commerce]但使用[Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"}和API Mesh经验有限的开发人员。
+* 刚开始使用API Mesh或[!DNL Adobe Commerce]但使用[Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"}和API Mesh经验有限的任何开发人员。
 
 ## 视频内容
 
@@ -40,7 +40,7 @@ API Mesh将多个数据源整合在一起，得到单个响应以供应用程序
 * 在结账时执行实时清单检查的用例
 * 将开发工作和资源使用从您的商务应用程序中移开
 
->[!VIDEO](https://video.tv.adobe.com/v/3421884?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
 
 ## 示例用例
 
@@ -48,9 +48,9 @@ API Mesh将多个数据源整合在一起，得到单个响应以供应用程序
 
 ## 什么是反向代理
 
-作为使用AdobeApp Builder和API Mesh的开发人员，无需了解什么是反向代理。 但是，如果您对与AdobeApp Builder相关的总体功能感兴趣，请使用以下资源：
+作为使用Adobe App Builder和API Mesh的开发人员，无需了解什么是反向代理。 但是，如果您对与Adobe App Builder相关的整体功能感兴趣，请使用以下资源：
 
 * [什么是反向代理](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
-* [什么是反向代理以及它为什么重要](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
+* [Experience League社区 — 反向代理](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/proxy-and-reverse-proxy-for-website/m-p/565772){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}

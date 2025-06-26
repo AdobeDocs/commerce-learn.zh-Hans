@@ -12,10 +12,10 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: faa0bd681f8fea32e5e2203db0d1a86c7ed71e1c
+source-git-commit: 15fe8a3387ca3f1c1f0cdc9f8e4cd58ce99260f4
 workflow-type: tm+mt
-source-wordcount: '311'
-ht-degree: 15%
+source-wordcount: '305'
+ht-degree: 16%
 
 ---
 
@@ -40,7 +40,7 @@ API Mesh将多个数据源整合在一起，得到单个响应以供应用程序
 * 在结账时执行实时清单检查的用例
 * 将开发工作和资源使用从您的商务应用程序中移开
 
->[!VIDEO](https://video.tv.adobe.com/v/3421884?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
 
 ## 示例用例
 
@@ -51,6 +51,6 @@ API Mesh将多个数据源整合在一起，得到单个响应以供应用程序
 作为使用Adobe App Builder和API Mesh的开发人员，无需了解什么是反向代理。 但是，如果您对与Adobe App Builder相关的整体功能感兴趣，请使用以下资源：
 
 * [什么是反向代理](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
-* [Experience League社区 — 反向代理](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/proxy-and-reverse-proxy-for-website/m-p/565772){target="_blank"}
+
 
 {{$include /help/_includes/api-mesh-related-links.md}}

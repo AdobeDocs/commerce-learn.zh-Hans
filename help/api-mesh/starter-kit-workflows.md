@@ -37,4 +37,4 @@ ht-degree: 0%
 
 * [API mesh starter kit GitHub存储库](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Adobe Developer OAuth服务器到服务器实施指南](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation)
-* [API Mesh视频的播放列表](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [API Mesh视频的播放列表](https://experienceleague.adobe.com/zh-hans/playlists/commerce-get-started-app-builder-and-api-mesh)

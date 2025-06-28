@@ -31,7 +31,7 @@ ht-degree: 0%
 * 自动部署或更新网格的deployMesh工作流
 * 使用K6负载测试工作流进行负载测试
 
->[!VIDEO](https://video.tv.adobe.com/v/3464524?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464534?learn=on&enablevpops&captions=chi_hans)
 
 ## 相关文档
 

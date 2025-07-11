@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: ce2e7415b2d30dbd46a0a40a1c32b5933234e8f1
+source-git-commit: 810d1a17e9fe564e8450b091bbeb5574d7d76075
 workflow-type: tm+mt
-source-wordcount: '884'
+source-wordcount: '888'
 ht-degree: 3%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 3%
    + [Experience Lead数据和促销](../cloud/experience-lead-data-promoitions.md)
    + [AEM Assets](../cloud/aem-assets.md)
    + [从自托管解决方案迁移](../cloud/overview.md)
+   + [使用Fastly限制访问](../cloud/limit-website-access-using-fastly.md)
    + 技术入门和硬件移交 {#technical-onboarding-hardware-handoff}
       + [基础设施和发展最佳实践](../cloud/infrastructure-development-best-practices.md)
       + [Fastly](../cloud/fastly.md)
@@ -237,7 +238,7 @@ ht-degree: 3%
    + [升级兼容性工具概述](../upgrade/upgrade-compatibility-tool-overview.md)
    + [使用PHP Storm中的升级兼容性工具](../upgrade/uct-phpstorm.md)
 + 后端开发 {#backend-development}
-   + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+   + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [创建模块](../backend-development/create-module.md)
    + [添加产品属性](../backend-development/add-product-attribute.md)
    + [依赖项注入示例](../backend-development/dependency-injection.md)

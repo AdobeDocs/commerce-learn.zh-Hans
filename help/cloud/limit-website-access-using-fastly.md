@@ -31,7 +31,7 @@ ht-degree: 0%
 * Adobe Commerce开发人员
 * 站点可靠性工程师
 
->[!VIDEO](https://video.tv.adobe.com/v/3464779/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464789/?learn=on&enablevpops&captions=chi_hans)
 
 ## 代码示例
 

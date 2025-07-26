@@ -33,7 +33,7 @@ ht-degree: 0%
 * 为您的实例选择正确的环境和区域。
 * 在未来的教程中，快速部署和准备目录设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/3469877?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469888?learn=on&enablevpops&captions=chi_hans)
 
 ## 相关内容
 

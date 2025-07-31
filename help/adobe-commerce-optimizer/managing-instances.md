@@ -33,7 +33,7 @@ ht-degree: 0%
 * 更新名称和描述
 * 查找集成的关键端点和标识符
 
->[!VIDEO](https://video.tv.adobe.com/v/3470232?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470242?learn=on&enablevpops&captions=chi_hans)
 
 ## 相关内容
 

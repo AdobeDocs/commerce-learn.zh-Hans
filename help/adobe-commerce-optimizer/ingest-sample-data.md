@@ -37,5 +37,5 @@ ht-degree: 0%
 ## 相关内容
 
 * [GitHub存储库示例数据](https://github.com/adobe-commerce/aco-sample-catalog-data-ingestion){target="_blank"}
-* [管理员用例](https://experienceleague.adobe.com/en/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
-* [开始使用Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}
+* [管理员用例](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
+* [开始使用Adobe Commerce Optimizer](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/get-started){target="_blank"}

@@ -10,9 +10,9 @@ duration: 180
 last-substantial-update: 2025-03-6
 jira: KT-17420
 exl-id: e6a59ee0-3e13-41c0-a189-402bf8554f8e
-source-git-commit: 313dd669c38dc6b6bcca4e67dff98409e4061d8f
+source-git-commit: b055a568d53755ec9e30b58dd8f638fcc37213ab
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -33,4 +33,8 @@ Adobe Commerce Optimizer通过提供高性能、无头店面来增强现有商�
 * 与现有ERP 、 CRM 、 OMS和其他系统无缝集成，无需重新平台。
 * 扩展数字操作
 
->[!VIDEO](https://video.tv.adobe.com/v/3450473?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3450226?learn=on)
+
+## 其他资源
+
+[[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview)

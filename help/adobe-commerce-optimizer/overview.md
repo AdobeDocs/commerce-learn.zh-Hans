@@ -37,4 +37,4 @@ Adobe Commerce Optimizer通过提供高性能、无头店面来增强现有商�
 
 ## 其他资源
 
-[[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview)
+[[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/overview)

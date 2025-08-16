@@ -29,7 +29,7 @@ ht-degree: 0%
 * 使用GraphQL查询数据
 * 使用jq使json更易于阅读
 
->[!VIDEO](https://video.tv.adobe.com/v/3470800?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470810?learn=on&enablevpops&captions=chi_hans)
 
 ## 代码示例
 

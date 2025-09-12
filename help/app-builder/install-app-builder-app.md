@@ -9,15 +9,15 @@ doc-type: Tutorial
 duration: 250
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18829
-source-git-commit: fe1d73105116463b87c50ec0dee31c5d3ddbc9f3
+exl-id: 639c35cb-beb0-4aa4-8b7c-667198740b3d
+source-git-commit: c85cd679a3f1486aa04222921ee0d165ef76fc93
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-
-# 了解如何从Adobe Exchange安装App Builder应用程序
+# 从Adobe Exchange安装App Builder应用程序
 
 了解如何使用Adobe Exchange查找、安装和验证Adobe Commerce App Builder应用程序。 将指导您筛选相关的应用程序、获取和批准它们、设置部署环境以及验证安装是否成功 — 所有这些操作都使用信息源生成器应用程序的真实示例。 无论您是初次使用App Builder还是希望简化工作流，本教程都提供了一个实用的分步概述，帮助您入门。
 
@@ -30,4 +30,4 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3471534/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3471513/?learn=on&enablevpops)

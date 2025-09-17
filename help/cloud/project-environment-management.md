@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3474960/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474971/?learn=on&enablevpops&captions=chi_hans)
 
 ## 相关内容和文档
 

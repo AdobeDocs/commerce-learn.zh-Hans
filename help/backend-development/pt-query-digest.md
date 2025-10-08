@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Architect, Developer
 level: Intermediate
 exl-id: 77e91f1b-b3ae-4c6d-bb6d-4fd7ebbb0baf
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: a2d644de420f9188be108fad36ae97dfbf1a75eb
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
 - 了解此Percona Toolkit功能的优点和缺点
 - 了解结果并了解应考虑哪些可能的性能步骤
 
->[!VIDEO](https://video.tv.adobe.com/v/3452304?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
 
 ## 代码引用
 
@@ -46,4 +46,3 @@ $ pt-query-digest mysql-slow.log.7 > mysql-slow.log.7.DIGEST
 ## 有用的资源
 
 - [Percona工具包](https://docs.percona.com/percona-toolkit/pt-query-digest.html){target="_blank"}
-- MySQL中的[死锁](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/deadlocks-in-mysql.html?lang=zh-Hans){target="_blank"}

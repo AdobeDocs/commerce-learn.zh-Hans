@@ -34,7 +34,7 @@ ht-degree: 0%
 - 了解如何保存和使用SQL查找匹配的查询缓存
 - 有关配置设置的一些提示
 
->[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423381?learn=on&captions=chi_hans)
 
 ## 有用的资源
 

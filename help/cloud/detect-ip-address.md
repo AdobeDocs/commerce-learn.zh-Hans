@@ -10,7 +10,7 @@ duration: 0
 last-substantial-update: 2025-04-07T00:00:00Z
 jira: KT-17553
 exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
-source-git-commit: 3acec65129773a8ba94eb52c53d15d7633440717
+source-git-commit: b015b9c64be631b43ad63d180c003dda8fdd198a
 workflow-type: tm+mt
 source-wordcount: '1095'
 ht-degree: 0%
@@ -50,7 +50,7 @@ magento-cloud CLI工具旨在帮助开发人员和系统管理员高效地管理
 
 在示例代码的此初始部分`magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1`中，它正在请求环境的URL。 返回的值类似于此`http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/`。 偶尔它看起来更像此`http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`。  第一个命令相当简单，现在是时候进入下一个命令了。
 
-有关详细信息，请阅读[云CLI概述](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
+有关详细信息，请阅读[云CLI概述](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
 
 ## 使用`sed`进行搜索和替换
 
@@ -120,4 +120,4 @@ dig +short 6.abcikdxbg789.ent.magento.cloud
 
 ## 相关文档
 
-* [地区IP地址](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses|https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [地区IP地址](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}

@@ -7,10 +7,10 @@ role: Admin, Architect, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 0
-last-substantial-update: 2024-06-27T00:00:00Z
+last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: d578c066f3e51827694c8bf85aa2324035a8b07b
+source-git-commit: 57082a851e508653ed9fcafd013a2201c8082873
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 可组合商务是电子商务的一种架构方法，它涉及将前端表示层与后端商务功能分离。&#x200B;AEM 它允许企业选择和组合最佳的组件或模块，以创建定制的解决方案。 这一方法包括将传统的整体电子商务平台分解成更小的、独立的服务或微服务，这些服务或微服务可以组合在一起。 可组合商务具有灵活性、可扩展性、自定义性、灵活性以及与其他系统和技术更轻松集成的能力。
 
-Adobe Commerce提供了多种功能和工具，以支持商家采用和实施可组合商务。 Adobe Commerce提供了可组合的commerce方法论以及混合的headless和非headless前端体验。 考虑到流程的可扩展性，Adobe提供了用于集成多个服务的API Mesh，并AdobeApp Builder以创建自定义微服务。
+Adobe Commerce提供了多种功能和工具，以支持商家采用和实施可组合商务。 Adobe Commerce提供了可组合的commerce方法论以及混合的headless和非headless前端体验。 考虑到流程的可扩展性，Adobe提供了用于集成多个服务的API Mesh，以及用于创建自定义微服务的Adobe App Builder。
 
 ## 可组合商务为何如此重要
 
@@ -59,7 +59,7 @@ Adobe Commerce提供了多种功能来支持商家采用和实施可组合商务
 
 **API网格：** Adobe Commerce的API网格简化了前端开发人员将多个微服务、第三方工具和应用程序集成到一个统一的API端点中的过程。 它允许开发人员将多个数据源合并到单个GraphQL端点中，从而减少复杂性并简化新功能和体验的开发和维护。
 
-**AdobeApp Builder：** AdobeApp Builder是一个无服务器可扩展性平台，它允许商家创建自定义微服务、构建自定义体验和扩展Adobe解决方案。 借助App Builder，商家可以构建安全且可扩展的应用程序，这些应用程序扩展Adobe Commerce的本机功能并与第三方解决方案集成。 这就消除了商家为定制和微服务构建和维护其自身基础架构的需要，从而降低了复杂性并降低了总体拥有成本。
+**Adobe App Builder：** Adobe App Builder是一个无服务器可扩展性平台，它允许商家创建自定义微服务、构建自定义体验和扩展Adobe解决方案。 借助App Builder，商家可以构建安全且可扩展的应用程序，这些应用程序扩展Adobe Commerce的本机功能并与第三方解决方案集成。 这就消除了商家为定制和微服务构建和维护其自身基础架构的需要，从而降低了复杂性并降低了总体拥有成本。
 
 Adobe Commerce提供的这些功能简化了可组合商务的采用和实施，使商家能够利用灵活性、可扩展性、自定义和集成功能的优势，同时降低复杂性和开发工作。
 
@@ -73,7 +73,7 @@ Adobe Commerce提供的这些功能简化了可组合商务的采用和实施，
 
 **注意事项：**&#x200B;在考虑可组合商务时，应仔细评估复杂性、内部技术成熟度、项目大小和结构、自定义与标准化、总拥有成本以及安全性和数据隐私等因素。
 
-**Adobe Commerce：** Adobe Commerce提供了一些功能和工具，以支持商家采用和实施可组合商务。 其中包括可组合商务方法、功能丰富的功能、混合前端体验、用于集成的API Mesh以及用于自定义微服务的AdobeApp Builder。
+**Adobe Commerce：** Adobe Commerce提供了一些功能和工具，以支持商家采用和实施可组合商务。 其中包括可组合商务方法、功能丰富的功能、混合前端体验、用于集成的API Mesh以及用于自定义微服务的Adobe App Builder。
 
 **业务影响：**&#x200B;可组合商务使企业能够创建高度灵活、可扩展且可自定义的电子商务平台。 这使他们能够提供独特的客户体验、根据需求进行扩展、与其他系统集成、经得起未来考验的运营，并利用开发人员的专业技能。
 

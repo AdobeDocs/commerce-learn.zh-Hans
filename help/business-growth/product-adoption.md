@@ -35,4 +35,4 @@ Adobe Commerce正在帮助企业分阶段迁移到Adobe Commerce as a Cloud Serv
 * App Builder可扩展性允许将自定义逻辑分离到无服务器函数中，以便更轻松地维护。
 * Storefront增强功能通过插入式组件和边缘交付改进了性能和内容创建。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475737/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475758/?learn=on&enablevpops&captions=chi_hans)

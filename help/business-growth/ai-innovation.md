@@ -33,4 +33,4 @@ ht-degree: 0%
 * 通过目录创新加快全球扩张
 * 通过对话式Commerce增强店面体验
 
->[!VIDEO](https://video.tv.adobe.com/v/3475691/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475705/?learn=on&enablevpops&captions=chi_hans)

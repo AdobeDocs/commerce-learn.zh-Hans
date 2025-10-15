@@ -113,7 +113,7 @@ Adobe Commerce Cloud使用MariaDB Galera群集作为暂存环境和生产环境�
    > - 如何禁用电子邮件通信：
    >   转到&#x200B;_商店>配置>高级>系统>电子邮件发送设置_。
 
-4. 作为[责任共享安全模型](https://business.adobe.com/products/magento/secure-ecommerce.html){target="_blank"}的一部分，对生产实例进行安全渗透测试。 为符合PCI（支付卡行业）标准，定制站点需要进行渗透测试。
+4. 作为[责任共享安全模型](https://business.adobe.com/cn/products/magento/secure-ecommerce.html){target="_blank"}的一部分，对生产实例进行安全渗透测试。 为符合PCI（支付卡行业）标准，定制站点需要进行渗透测试。
 
 ## 8.其他配置
 

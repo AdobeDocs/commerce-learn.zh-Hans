@@ -7,9 +7,9 @@ role: Architect, Developer
 level: Beginner
 doc-type: Technical Video
 duration: 194
-last-substantial-update: 2025-10-17T00:00:00Z
+last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-18990
-source-git-commit: 3d9387f529729020771e03b5162404af19ed6329
+source-git-commit: 2b95d22d417229e95a9829cd04d0538b537e0c0e
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -32,4 +32,4 @@ ht-degree: 0%
 * 了解Salesforce Commerce Cloud集成入门工具包的用途。
 * 了解在何处安装入门套件
 
->[!VIDEO](https://video.tv.adobe.com/v/3476023?captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3476013?learn=on)

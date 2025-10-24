@@ -33,4 +33,4 @@ Adobe的Cloud Automation Patching Service (CAPS)是Adobe Commerce站点范围分
 
 ## 相关文档
 
-* [Cloud Automation修补服务文档](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/caps-tool/intro)
+* [Cloud Automation修补服务文档](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/tools/caps-tool/intro)

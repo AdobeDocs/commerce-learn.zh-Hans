@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 694
 last-substantial-update: 2025-10-13T00:00:00Z
 jira: KT-19378
-source-git-commit: 522ed06396f2512ff87f1a7b59ff081944b2c9af
+source-git-commit: a296152e8c8f94bbf4e3b882be6b8de7e4473d95
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -35,4 +35,4 @@ Adobe Commerce正在帮助企业分阶段迁移到Adobe Commerce as a Cloud Serv
 * App Builder可扩展性允许将自定义逻辑分离到无服务器函数中，以便更轻松地维护。
 * Storefront增强功能通过插入式组件和边缘交付改进了性能和内容创建。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475758/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737/?learn=on&enablevpops)

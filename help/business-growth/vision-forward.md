@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 976
 last-substantial-update: 2025-10-10T00:00:00Z
 jira: KT-19377
-source-git-commit: 38062ebccf032da93ca27cadf50a7373b2d2a057
+source-git-commit: 58a2c94860a278b1f618c3944b2da1be54623814
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -35,4 +35,4 @@ Adobe Commerce2026年路线图概述了一项全面战略，旨在通过实时�
 * 商户中心和管理体验
 * 开发人员体验和可观察性改进
 
->[!VIDEO](https://video.tv.adobe.com/v/3475716/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3475695/?learn=on&enablevpops)

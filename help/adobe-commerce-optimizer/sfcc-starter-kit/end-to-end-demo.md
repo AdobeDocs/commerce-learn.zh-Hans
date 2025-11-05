@@ -9,9 +9,9 @@ doc-type: Technical Video
 duration: 381
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19017
-source-git-commit: b6748e79109b203772a4846a8197adbb65e6a0d0
+source-git-commit: 68afc11f06a5ac601d23230d23429536f42b13b7
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 * 使用App Builder和入门工具包，在Salesforce Commerce Cloud和Commerce Optimizer之间设置和执行完全同步。
 * 启动完全同步，并通过运行时日志和事件跟踪确认成功。
-* 在Commerce Optimizer中，可通过Delta Sync过程自动检测和更新SFC目录中的产品详细信息和定价变更。
+* Salesforce Commerce Cloud目录中的产品详细信息和定价更改可通过增量同步过程在Commerce Optimizer中自动检测和更新。
 * 实时更新和演示系统之间的无缝数据流和同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476103?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)

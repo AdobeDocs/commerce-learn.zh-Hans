@@ -1,5 +1,5 @@
 ---
-title: Salesforce Commerce Cloud Connector应用程序的端到端演示
+title: Salesforce Commerce Cloud Connector的端到端演示
 description: 观看带Adobe Commerce Optimizer的Salesforce Commerce Cloud的端到端演示。
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
@@ -9,17 +9,17 @@ doc-type: Technical Video
 duration: 381
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19017
-source-git-commit: 2c2484ad679dc1bd46b2093549cb4e0e41545a21
+source-git-commit: b6748e79109b203772a4846a8197adbb65e6a0d0
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
 
-# 观看Salesforce Commerce Cloud入门工具包的端到端演示
+# Salesforce Commerce Cloud入门工具包的端到端演示
 
-一个端到端演示，其中演示了如何使用入门工具包，在Salesforce Commerce和Commerce Optimizer之间成功设置和执行完全的差异同步。 了解如何通过运行时日志和事件跟踪确认同步是否成功，然后在实时店面中验证结果。 了解差异同步功能的工作原理。 还包括在Salesforce Commerce Cloud目录中修改产品详细信息和定价等步骤，系统会自动检测和更新Commerce Optimizer中的这些更改，并立即在店面中反映出来。
+观看端到端的演示，该演示展示了如何使用入门工具包，在Salesforce Commerce和Commerce Optimizer之间成功设置和执行完全的差异同步。 了解如何通过运行时日志和事件跟踪确认同步是否成功，然后在实时店面中验证结果。 了解差异同步功能的工作原理。 还包括在Salesforce Commerce Cloud目录中修改产品详细信息和定价等步骤，系统会自动检测和更新Commerce Optimizer中的这些更改，并立即在店面中反映出来。
 
 ## 此视频面向谁？
 
@@ -34,4 +34,4 @@ ht-degree: 0%
 * 在Commerce Optimizer中，可通过Delta Sync过程自动检测和更新SFC目录中的产品详细信息和定价变更。
 * 实时更新和演示系统之间的无缝数据流和同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476103?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)

@@ -34,4 +34,4 @@ ht-degree: 0%
 * 在Commerce Optimizer中，可通过Delta Sync过程自动检测和更新SFC目录中的产品详细信息和定价变更。
 * 实时更新和演示系统之间的无缝数据流和同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476103?captions=chi_hans&learn=on)

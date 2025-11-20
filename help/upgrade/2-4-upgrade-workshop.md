@@ -38,10 +38,10 @@ ht-degree: 33%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3431940?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/340038?quality=12&learn=on)
 
 ## 其他资源
 
-- [升级指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=zh-Hans)
-- [已发布的版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=zh-Hans)
-- [发布计划](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=zh-Hans)
+- [升级指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [已发布的版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [发布计划](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

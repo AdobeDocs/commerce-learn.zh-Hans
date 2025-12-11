@@ -91,4 +91,4 @@ ssh进入正确的项目和环境后，转到`var/log`目录。 然后，您可�
 
 ## 相关文档
 
-- [运行状况通知](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+- [运行状况通知](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

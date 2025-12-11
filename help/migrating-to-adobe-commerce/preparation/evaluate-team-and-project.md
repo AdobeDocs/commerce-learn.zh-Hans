@@ -40,4 +40,4 @@ ht-degree: 0%
 
 ## 相关文档
 
-[什么是Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)
+[什么是Adobe Commerce](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/start/about)

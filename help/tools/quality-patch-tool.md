@@ -39,5 +39,5 @@ Adobe Commerce支持团队和Magento Open Source社区将开发质量补丁。
 
 ## 其他资源
 
-- [Quality Patch Tool](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+- [Quality Patch Tool](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=zh-Hans)
 - GitHub上的[Quality修补工具](https://github.com/magento/quality-patches)

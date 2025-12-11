@@ -24,7 +24,7 @@ ht-degree: 0%
 
 这是GraphQL和Adobe Commerce系列的第4部分。 使用的查询和突变依赖于在服务器上实现的特定数据图，GraphQL运行时将使用这些数据图解析查询。 GraphQL规范定义了一种不可知语言，用于表示数据图的类型和关系。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446620?captions=chi_hans&learn=on)
 
 ## 本系列中GraphQL的相关视频和教程
 

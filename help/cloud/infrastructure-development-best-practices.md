@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3427679?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432792?captions=chi_hans&learn=on)
 
 ## 视频中提到的Experience League文档
 

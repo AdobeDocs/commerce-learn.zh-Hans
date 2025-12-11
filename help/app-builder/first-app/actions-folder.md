@@ -36,7 +36,7 @@ ht-degree: 0%
 * 在`actions`和`commerce`文件夹中找到的JavaScript文件的用途
 * OAuth身份验证文件快速概述
 
->[!VIDEO](https://video.tv.adobe.com/v/3416590?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421077?captions=chi_hans&quality=12&learn=on)
 
 ## 代码示例
 

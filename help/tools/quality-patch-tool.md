@@ -35,7 +35,7 @@ Adobe Commerce支持团队和Magento Open Source社区将开发质量补丁。
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/344000?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410781?captions=chi_hans&quality=12&learn=on)
 
 ## 其他资源
 

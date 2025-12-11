@@ -38,4 +38,4 @@ ht-degree: 0%
 * 配置输入/输出事件
 * 连接到第三方以同步数据
 
->[!VIDEO](https://video.tv.adobe.com/v/3428629?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452024?captions=chi_hans&learn=on)

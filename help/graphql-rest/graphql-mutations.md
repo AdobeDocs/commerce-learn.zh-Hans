@@ -25,7 +25,7 @@ ht-degree: 0%
 这是GraphQL和Adobe Commerce系列的第3部分。 突变是指使用GraphQL保存、更新和返回值的能力。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441936?captions=chi_hans&learn=on)
 
 ## 本系列中GraphQL的相关视频和教程
 

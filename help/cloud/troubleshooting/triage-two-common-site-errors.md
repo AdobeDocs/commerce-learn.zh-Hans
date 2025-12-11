@@ -33,7 +33,7 @@ ht-degree: 0%
 - 管理维护模式
 - 有效的故障排除提示
 
->[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447703?captions=chi_hans&learn=on)
 
 
 ## 视频中使用的命令

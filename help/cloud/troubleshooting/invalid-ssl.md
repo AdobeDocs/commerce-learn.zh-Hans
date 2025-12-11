@@ -33,4 +33,4 @@ ht-degree: 0%
 - 识别在此过程中何时创建新证书。
 - 验证新证书是否按预期工作。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3435751?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439769?captions=chi_hans&learn=on)

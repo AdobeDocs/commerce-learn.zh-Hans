@@ -26,6 +26,6 @@ ht-degree: 0%
 
 ## 适用于Adobe Commerce的App Builder {#app-builder-extensibility}
 
->[!VIDEO](https://video.tv.adobe.com/v/3413328?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447488?captions=chi_hans&learn=on)
 
 {{$include /help/_includes/app-builder-related-links.md}}

@@ -35,7 +35,7 @@ ht-degree: 0%
 * 安装Adobe I/O Runtime CLI（命令行界面）
 * 安装API Mesh插件
 
->[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419791?captions=chi_hans&quality=12&learn=on)
 
 ## 安装`aio` CLI和API Mesh插件
 

@@ -31,4 +31,4 @@ ht-degree: 0%
 
 ## Adobe Commerce Intelligence报告和仪表板
 
->[!VIDEO](https://video.tv.adobe.com/v/3428252?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453153?captions=chi_hans&learn=on)

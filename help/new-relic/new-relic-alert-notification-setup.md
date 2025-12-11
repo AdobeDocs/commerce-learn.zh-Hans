@@ -35,4 +35,4 @@ ht-degree: 0%
 * 了解警报通知、策略和工作流
 * 保存目标并验证新电子邮件已添加到策略中
 
->[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441216?captions=chi_hans&learn=on)

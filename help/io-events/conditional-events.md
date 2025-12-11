@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 03787aa3-051b-4a35-b2e8-ecf6762b5eb4
-source-git-commit: e02da0901c01871360bcc556666e310acd7c7224
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -21,11 +22,11 @@ ht-degree: 0%
 
 # Adobe Commerce条件事件
 
-了解Adobe Commerce中可以在Adobe Developer App Builder中使用的条件事件。 在[安装Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"}中找到其他文档。
+了解Adobe Commerce中可以在Adobe Developer App Builder中使用的条件事件。 在[安装适用于Adobe Commerce的Adobe I/O Events](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"}中找到其他文档。
 
 ## 此视频面向谁？
 
-* 刚开始使用I/O事件的Adobe Commerce和Adobe Developer App Builder的开发人员，需要创建一个Adobe的App Builder项目。
+* 刚开始使用I/O事件的Adobe Commerce和Adobe Developer App Builder的开发人员，需要创建一个Adobe App Builder项目。
 
 ## 视频内容 {#video-content}
 
@@ -35,7 +36,7 @@ ht-degree: 0%
 * 定义条件事件中使用的规则
 * 了解如何在Commerce实例`app/etc/config.php`中注册事件
 
->[!VIDEO](https://video.tv.adobe.com/v/3419797?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3415806?quality=12&learn=on)
 
 ## 有用的命令 {#useful-commands}
 

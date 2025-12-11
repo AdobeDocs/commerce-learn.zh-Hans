@@ -3,13 +3,14 @@ title: Salesforce Commerce Cloud Connector的端到端演示
 description: 观看带Adobe Commerce Optimizer的Salesforce Commerce Cloud的端到端演示。
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 381
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19017
-source-git-commit: 68afc11f06a5ac601d23230d23429536f42b13b7
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -34,4 +35,4 @@ ht-degree: 0%
 * Salesforce Commerce Cloud目录中的产品详细信息和定价更改可通过增量同步过程在Commerce Optimizer中自动检测和更新。
 * 实时更新和演示系统之间的无缝数据流和同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476103?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)

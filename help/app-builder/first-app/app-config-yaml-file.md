@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
-source-git-commit: 01eb2abc854e7de4b3bbca9c0cd4d09ec43f9bf2
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -24,14 +25,14 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-* 刚开始接触Adobe Commerce但对AdobeApp Builder经验有限的开发人员，他们在示例应用程序中了解`app.config.yaml`。
+* 刚开始接触Adobe Commerce但对Adobe App Builder经验有限的开发人员，他们在示例应用程序中了解`app.config.yaml`。
 
 ## 视频内容
 
 * 讨论的`app.config.yaml`文件
 * 定义如何链接到其他`.js`文件
 
->[!VIDEO](https://video.tv.adobe.com/v/3430847?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
 
 ## 代码示例
 

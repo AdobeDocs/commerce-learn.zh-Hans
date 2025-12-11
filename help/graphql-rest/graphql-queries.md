@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 0%
@@ -23,7 +24,7 @@ ht-degree: 0%
 
 这是GraphQL和Adobe Commerce系列的第2部分。 在本教程和视频中，了解GraphQL查询以及如何针对Adobe Commerce执行这些查询。
 
->[!VIDEO](https://video.tv.adobe.com/v/3450068?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
 
 ## 本系列中GraphQL的相关视频和教程
 
@@ -146,7 +147,7 @@ GraphQL服务器对上述查询的合理响应可能是：
 
 虽然要返回的字段在每种类型的大括号中指定，但它们的命名参数和值在类型名称后面的括号中指定。 参数通常是可选的，并且经常会影响查询结果的筛选、格式化或以其他方式转换的方式。
 
-您正在将`id`参数传递给`country`，指定要查询的特定国家/地区以及`categories`的`filters`参数。
+您正在将`id`参数传递给`country`，指定要查询的特定国家/地区以及`filters`的`categories`参数。
 
 ## 字段一直向下对齐
 
@@ -154,7 +155,7 @@ GraphQL服务器对上述查询的合理响应可能是：
 
 任何GraphQL数据图都有一个“根”类型（通常称为`Query`）来启动树，并且通常被认为是实体的类型会被分配给此根上的字段。 示例查询实际上为根类型创建了一个泛型查询，并选择字段`country`和`categories`。 然后，它选择这些字段的子字段，依此类推，可能深入多个级别。 只要字段的返回类型是复杂类型（例如，具有自己的字段而不是标量类型的字段），请继续选择所需的字段。
 
-嵌套字段的这个概念也是为什么可以像对顶级`categories`字段一样为`products` （`pageSize`和`currentPage`）传递参数的原因。
+嵌套字段的这个概念也是为什么可以像对顶级`products`字段一样为`pageSize` （`currentPage`和`categories`）传递参数的原因。
 
 ![GraphQL字段树](../assets/graphql-field-tree.png)
 
@@ -188,7 +189,7 @@ fragment productDetails on ProductInterface {
 
 在上一个查询中，您以字符串或整数的形式直接对字段的参数值进行硬编码。 但是，GraphQL规范提供一流的支持，可以使用变量将用户输入与主查询分开。
 
-在新查询中，您在整个查询的开头大括号前使用圆括号定义`$search`变量（变量始终使用美元符号前缀语法）。 是此变量提供给`products`的`search`参数。
+在新查询中，您在整个查询的开头大括号前使用圆括号定义`$search`变量（变量始终使用美元符号前缀语法）。 是此变量提供给`search`的`products`参数。
 
 当查询包含变量时，GraphQL请求应在查询本身旁包含一个单独的JSON编码值字典。 对于上述查询，除了查询正文之外，您还可以发送以下JSON格式的变量值：
 

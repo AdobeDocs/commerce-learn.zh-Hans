@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-8-21
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: d7c20134-976b-4b8f-bb48-96884032a5fb
-source-git-commit: d777e440ae1f85a8e67fb257680aeeba71626536
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
@@ -26,6 +27,6 @@ ht-degree: 0%
 
 ## 适用于Adobe Commerce的App Builder {#app-builder-technical-overview}
 
->[!VIDEO](https://video.tv.adobe.com/v/3430834?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3413512?quality=12&learn=on)
 
 {{$include /help/_includes/app-builder-related-links.md}}

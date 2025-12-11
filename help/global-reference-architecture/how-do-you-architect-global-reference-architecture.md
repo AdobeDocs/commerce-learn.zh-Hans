@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-10-3
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: d83d7bef-3253-43bc-a442-d13b0afbae4e
-source-git-commit: 8ad911f1dad202e6354a7850ef69f8646e1a31f2
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 # 为GRA构建
 
-了解如何构建全局参考架构或GRA （简称）。 为了更好地为成功实施准备一个GRA，Adobe专家讨论了什么是GRA，什么不是GRA。 深入讨论了使用单独的包、拆分git和monorepo进行代码管理。 还讨论了与文档、工具和人员期望相关的其他主题，以阐述其成功实施GRA的部分。
+了解如何构建全局参考架构或GRA （简称）。 为了更好地为GRA的成功实施做准备，Adobe专家将讨论什么是GRA，什么不是GRA。 深入讨论了使用单独的包、拆分git和monorepo进行代码管理。 还讨论了与文档、工具和人员期望相关的其他主题，以阐述其成功实施GRA的部分。
 
 ## 受众
 

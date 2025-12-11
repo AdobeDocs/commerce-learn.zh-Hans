@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
-source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -24,7 +25,7 @@ ht-degree: 0%
 这是GraphQL和Adobe Commerce系列的第3部分。 突变是指使用GraphQL保存、更新和返回值的能力。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441936?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
 
 ## 本系列中GraphQL的相关视频和教程
 
@@ -102,7 +103,7 @@ mutation doAddToCart(
 
 * 任意操作名称(`doAddToCart`)
 * 变量列表（例如，`$cartId`）
-* 括号中包含参数（例如，`cartId`，设置为值`$cartId`）的初始字段(`addProductsToCart`)
+* 括号中包含参数（例如，`addProductsToCart`，设置为值`cartId`）的初始字段(`$cartId`)
 * 大括号中的字段的部分选择
 
 字段子选择允许您灵活定义希望返回的字段(从指定为
@@ -115,7 +116,7 @@ mutation doAddToCart(
 有关上述示例的其他几点注意事项：
 
 * `!`字符后缀`String`和`CartItemInput`表示该变量是必需的。
-* 为`$cartItems`指定的`CartItemInput`类型周围的方括号(`[]`)表示列表
+* 为`[]`指定的`CartItemInput`类型周围的方括号(`$cartItems`)表示列表
 而不是单个值。
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

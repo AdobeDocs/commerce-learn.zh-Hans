@@ -9,9 +9,11 @@ audience: all
 last-substantial-update: 2024-08-14T00:00:00Z
 feature: Tools and External Services, Communications, Security
 topic: Commerce, Architecture
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
-source-git-commit: fae28537a460ccaa119b5374cff9e96378aad31d
+exl-id: e7c6b05a-18e0-4807-a924-cf5a52be6ec1
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -33,4 +35,4 @@ ht-degree: 0%
 * 了解警报通知、策略和工作流
 * 保存目标并验证新电子邮件已添加到策略中
 
->[!VIDEO](https://video.tv.adobe.com/v/3441216?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)

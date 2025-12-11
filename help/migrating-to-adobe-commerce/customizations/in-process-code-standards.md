@@ -3,14 +3,15 @@ title: 进程内PHP编码标准
 description: 适用于Adobe Commerce迁移的过程内编码标准概述，包括PHP、JavaScript和自定义的最佳实践。
 feature: Best Practices, Backend Development
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 323
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15994
 exl-id: 2f210adb-6f56-41cb-844e-131cbf85b131
-source-git-commit: b3068480fe1e3008daebff40d95388b161b9721e
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -31,4 +32,4 @@ ht-degree: 0%
 * 了解PHP、JavaScript和自定义项的最佳实践，以确保顺利迁移。
 * 从Adobe专家那里获得有关成功Adobe Commerce项目的准备、性能和安全性的见解。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434867?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on&enablevpops)

@@ -1,25 +1,26 @@
 ---
 title: 诊断和修复一些常见的Commerce Cloud错误
-description: 解决两个阻止站点加载的常见AdobeCloud项目错误。
+description: 解决两个阻止加载站点的常见Adobe Cloud项目错误。
 feature: Cloud, Site Management
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 260
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16419
-source-git-commit: 27c1715dd42853013181d9c729549a5a32bc2af0
+exl-id: 4c21b6a6-783a-422f-9071-3534ed68e8be
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-
 # 诊断并修复服务不可用，并出现错误
 
-了解如何分类并解决在Adobe Commerce Cloud项目中看到的两个常见错误。  了解这些错误发生的方式和原因，以及解决这些错误的建议步骤。
+了解如何分类并解决在Adobe Commerce Cloud项目上看到的两个常见错误。  了解这些错误发生的方式和原因，以及解决这些错误的建议步骤。
 
 ## 此视频面向谁
 
@@ -32,7 +33,7 @@ ht-degree: 0%
 - 管理维护模式
 - 有效的故障排除提示
 
->[!VIDEO](https://video.tv.adobe.com/v/3447703?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
 
 
 ## 视频中使用的命令

@@ -3,19 +3,20 @@ title: 迁移到Adobe Commerce的概述
 description: 概述迁移到Adobe Commerce时的准备、自定义代码、QA、性能和安全性。
 feature: Best Practices
 topic: Commerce, Migration
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 167
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-11767
-source-git-commit: 4e788b83e64e3ba8c45a7a60e14e551d67b21a88
+exl-id: 9b9504c1-0888-46da-b25e-0a5e16833d84
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
 
 ---
-
 
 # 迁移到Adobe Commerce — 概述
 
@@ -33,4 +34,4 @@ ht-degree: 0%
 * 了解成功迁移到Adobe Commerce的基本步骤和最佳实践。
 * 评估和优化自定义代码和第三方模块，并了解关键QA概念。
 
->[!VIDEO](https://video.tv.adobe.com/v/3444330/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3432846/?learn=on)

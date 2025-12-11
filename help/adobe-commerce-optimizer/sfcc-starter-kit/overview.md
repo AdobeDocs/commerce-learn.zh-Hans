@@ -3,13 +3,14 @@ title: Salesforce Commerce Cloud简介
 description: 了解使用SFC连接器将Salesforce Commerce Cloud与Adobe Commerce Optimizer结合使用。
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 194
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-18990
-source-git-commit: 54a1a8e62e86f8ae3456bb41a1b0450134f26b71
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -32,4 +33,4 @@ ht-degree: 0%
 * 了解Salesforce Commerce Cloud集成入门工具包的用途。
 * 了解在何处安装入门套件
 
->[!VIDEO](https://video.tv.adobe.com/v/3476023?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476013?learn=on)

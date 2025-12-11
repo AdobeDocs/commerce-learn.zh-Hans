@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-8-27
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 15fe8a3387ca3f1c1f0cdc9f8e4cd58ce99260f4
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 16%
@@ -40,7 +41,7 @@ API Mesh将多个数据源整合在一起，得到单个响应以供应用程序
 * 在结账时执行实时清单检查的用例
 * 将开发工作和资源使用从您的商务应用程序中移开
 
->[!VIDEO](https://video.tv.adobe.com/v/3421884?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
 
 ## 示例用例
 

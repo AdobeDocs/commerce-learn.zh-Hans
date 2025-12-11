@@ -10,10 +10,11 @@ last-substantial-update: 2023-02-22T00:00:00Z
 badge: Adobe Commerce 2.4.6
 feature: App Builder, Eventing
 topic: Commerce, Architecture
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 41b31ed8-04c5-4d50-aaff-abc3718b5957
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 # Adobe Commerce 2.4.6安装
 
-了解如何使用适用于版本2.4.6的编辑器在Adobe Commerce中安装多个新模块。在[安装Adobe Commerce的Adobe I/O事件](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}中找到其他文档。
+了解如何使用适用于版本2.4.6的编辑器在Adobe Commerce中安装多个新模块。在[安装适用于Adobe Commerce的Adobe I/O Events](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}中找到其他文档。
 
 ## 此视频面向谁？
 
@@ -31,10 +32,10 @@ ht-degree: 0%
 ## 视频内容 {#video-content}
 
 * 要为内部部署托管运行的命令
-* Adobe Commerce Cloud要运行的命令
-* Adobe Commerce Cloud yaml需要编辑
+* 要为Adobe Commerce Cloud运行的命令
+* Adobe Commerce Cloud Yaml需要编辑
 
->[!VIDEO](https://video.tv.adobe.com/v/3419809?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3415795?quality=12&learn=on)
 
 ## 有用的命令 {#useful-commands}
 
@@ -56,7 +57,7 @@ bin/magento setup:upgrade && bin/magento setup:di:compile
 composer info magento/ece-tools
 ```
 
-Commerce Cloud`.magento.env.yaml`：
+Commerce Cloud `.magento.env.yaml`：
 
 ```yaml
 stage:

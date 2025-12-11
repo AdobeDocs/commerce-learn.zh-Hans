@@ -9,17 +9,18 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
-source-git-commit: 6c5017b0c4bbafdd143b78b05cd92853efa7f831
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
 
 ---
 
-# 适用于Adobe入门套件的Source代码组织
+# 适用于Adobe Starter Kit的Source代码组织
 
 了解Adobe Commerce集成入门工具包中的源代码组织&#x200B;。 浏览项目的结构，突出显示`actions`和`scripts`等关键文件夹及其相应内容&#x200B;。 “actions”文件夹包含`ingestion`和`webhook`等子文件夹，这些子文件夹包含用于事件处理和跟踪的基本代码。 您还将了解`starter-kit-info`和`scripts`文件夹。 `scripts`文件夹侧重于自动化脚本，如`commerce-event-subscribe`和`onboarding`，这些脚本简化了项目中的事件配置和提供程序设置。
 &#x200B;AEM
@@ -36,7 +37,7 @@ ht-degree: 0%
 * 了解会话期间的四个主文件夹： `actions`、`scripts`、`test`和`utils`，重点是`actions`和`scripts`文件夹。&#x200B;AEM
 * 了解`actions`文件夹以及它如何包含关键子文件夹，如`ingestion`和`webhook`。
 * 浏览`actions`文件夹以及为什么实体存在特定文件夹，如`customer`、`order`、`product`和`stock`，每个文件夹都包含结构化为`commerce`和`external`文件夹的运行时操作，以便有效地管理Commerce和第三方系统中的事件。&#x200B;AEM
-* 了解不更改`starter-kit-info`文件夹中的代码的重要性，该文件夹包含Adobe用于基于入门套件跟踪项目部署的运行时操作。&#x200B;AEM
+* 了解不更改`starter-kit-info`文件夹中的代码的重要性，该文件夹包含Adobe用于基于入门工具包跟踪项目部署的运行时操作。&#x200B;AEM
 * 了解`scripts`文件夹，该文件夹包含自动脚本（如`commerce-event-subscribe`和`onboarding`），用于在Commerce中自动执行事件配置、提供程序设置和Adobe I/O Events模块的配置。&#x200B;AEM
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431691?learn=on)

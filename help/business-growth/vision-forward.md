@@ -3,13 +3,14 @@ title: 使用Adobe的愿景展望路线图实现业务增长
 description: 了解Adobe Commerce的B2B店面、实时个性化、支付以及AI支持的商家和开发人员体验路线图。
 feature: App Builder,  B2B, Catalog Management,  Cloud,  Extensibility, Observability, Payments, Personalization, Storefront, Saas
 topic: Administration, Artificial Intelligence,  Commerce,  Development, Headless,  Performance, Personalization, Security
-role: Data Engineer, Developer
+old-role: Data Engineer, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 976
 last-substantial-update: 2025-10-10T00:00:00Z
 jira: KT-19377
-source-git-commit: 58a2c94860a278b1f618c3944b2da1be54623814
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -35,4 +36,4 @@ Adobe Commerce2026年路线图概述了一项全面战略，旨在通过实时�
 * 商户中心和管理体验
 * 开发人员体验和可观察性改进
 
->[!VIDEO](https://video.tv.adobe.com/v/3475716/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475695/?learn=on&enablevpops)

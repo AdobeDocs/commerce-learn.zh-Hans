@@ -3,7 +3,8 @@ title: 降低Adobe Commerce集成的目录
 description: 了解降低与Adobe Commerce集成的总拥有成本的最佳实践。
 feature: API Mesh, App Builder, Backend Development, Best Practices, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
-role: Architect, Data Architect, Leader
+old-role: Architect, Data Architect, Leader
+role: Developer, Leader
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 3558
@@ -11,7 +12,7 @@ last-substantial-update: 2024-04-26T00:00:00Z
 jira: KT-15393
 auto-video-transcripts: true
 exl-id: 3c31c204-a33f-4f8a-b74d-d81f5ad6c433
-source-git-commit: 1293fcc506043601ced55286ea4d31b47a68d546
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 此网络研讨会将介绍降低与Adobe Commerce集成的总拥有成本的方法。
 
-网络研讨会中的发言者讨论了与集成相关的挑战和成本、减少技术债务的重要性以及使用Adobe Commerce提供的扩展点的好处。 他们还提及了涉及使用WhatsApp的精益订单管理系统以及发送个性化产品推荐数据的智能宠物沙箱的特定用例。  该团队还讨论了如何使用Commerce的Adobe数据连接，通过该连接，您可以在Adobe Commerce和其他Adobe产品之间发送和接收数据。
+网络研讨会中的发言者讨论了与集成相关的挑战和成本、减少技术债务的重要性以及使用Adobe Commerce提供的扩展点的好处。 他们还提及了涉及使用WhatsApp的精益订单管理系统以及发送个性化产品推荐数据的智能宠物沙箱的特定用例。  该团队还讨论了如何将Adobe数据连接用于Commerce，使其能够在Adobe Commerce和其他Adobe产品之间发送和接收数据。
 
 ## 受众
 
@@ -34,7 +35,7 @@ ht-degree: 0%
 * 使用Adobe Commerce扩展点和App Builder自定义和扩展Adobe Commerce，而无需核心产品自定义。
 * 展示真实的使用案例，以展示无缝集成的好处。
 强调减少技术债务和避免点对点集成的重要性。
-强调数据连接的可用性，以实现Adobe Commerce和其他Adobe产品之间的无缝数据流。
+强调数据连接的可用性，以便在Adobe Commerce和其他Adobe产品之间无缝数据流。
 * 讨论API Mesh在编排服务之间的通信以及根据需要转换数据方面的好处。
 * 提供对使用事件和事件驱动型集成进行实时更新和个性化体验的分析。
 * 关于Adobe Commerce实施和集成最佳实践的合作伙伴网络研讨会系列简介。

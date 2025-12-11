@@ -7,12 +7,13 @@ activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Security, Tools and External Services
 topic: Commerce, Administration
-role: Architect, Developer, Admin
+old-role: Architect, Developer
+role: Developer, Admin
 level: Beginner, Intermediate
 KT: 15599
 duration: 101
 exl-id: e96759a8-31c3-4d3b-b395-db9dda2dc2d9
-source-git-commit: 12cbb2929137778d82b707376da0e0250dae2c8b
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -30,9 +31,9 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3410775?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/344001?learn=on)
 
 ## 其他资源
 
-- [站点范围分析工具](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=zh-Hans)
-- [查看和管理日志](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=zh-Hans)
+- [站点范围分析工具](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+- [查看和管理日志](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)

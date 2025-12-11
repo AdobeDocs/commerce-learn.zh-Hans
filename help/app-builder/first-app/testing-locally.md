@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: c916c94b-eb14-48c5-ad1d-695730135939
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -24,7 +25,7 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-* 刚开始接触Adobe Commerce但使用AdobeApp Builder经验有限的开发人员，已准备好测试其首个Adobe Developer App Builder应用程序。
+* 刚开始接触Adobe Commerce但使用Adobe App Builder经验有限的开发人员，已准备好测试其首个Adobe Developer App Builder应用程序。
 
 ## 视频内容
 
@@ -33,6 +34,6 @@ ht-degree: 0%
 * E2E测试
 * 手动测试
 
->[!VIDEO](https://video.tv.adobe.com/v/3421053?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3416594?quality=12&learn=on)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

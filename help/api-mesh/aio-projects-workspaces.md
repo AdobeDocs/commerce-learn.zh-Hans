@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -36,11 +37,11 @@ ht-degree: 0%
 * 在CLI中更改选定的组织、项目或工作区
 * 测试简单的API网格命令
 
->[!VIDEO](https://video.tv.adobe.com/v/3419724?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3414123?quality=12&learn=on)
 
 ## 了解Adobe Developer Console
 
-在Adobe Developer Console中，以下层次结构表示您的API如何适合您的组织：`Organization > Project > Workspace > [API]`。 要了解有关AdobeApp Builder、登录到控制台以及基本故障排除的更多信息，请访问[创建您的第一个App Builder应用程序](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}。
+在Adobe Developer Console中，以下层次结构表示您的API如何适合您的组织：`Organization > Project > Workspace > [API]`。 要了解有关Adobe App Builder、登录到控制台和基本疑难解答的更多信息，请访问[创建您的第一个App Builder应用程序](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}。
 
 ## Adobe Developer Console中的项目简介
 

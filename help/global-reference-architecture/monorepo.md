@@ -8,15 +8,16 @@ last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 badge: label="由Adobe高级技术架构师Tony Evers提供" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="托尼·埃弗斯撰稿"
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Experienced
-source-git-commit: cc6a79b20ae1864f7a7e9b99f90df7b0aa61ef6e
+exl-id: ebdc13cf-c452-4728-af00-c3ea1149c2fa
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '1371'
 ht-degree: 0%
 
 ---
-
 
 # Monorepo全局参考架构模式
 
@@ -271,7 +272,7 @@ monorepo中的模块存在于`packages`目录中。 这样，Composer便可以�
 
 如果需要，`packages`目录中可以有多个命名空间。
 
-开发在packages目录中进行。 运行`composer update`后，将在`vendor`目录中创建指向`packages`目录内包的符号链接。 这样，代码就会成为Adobe Commerce安装的一部分。
+开发在packages目录中进行。 运行`packages`后，将在`vendor`目录中创建指向`composer update`目录内包的符号链接。 这样，代码就会成为Adobe Commerce安装的一部分。
 
 运行`bin/magento module:enable --all`或仅针对特定模块启用已添加的模块。
 

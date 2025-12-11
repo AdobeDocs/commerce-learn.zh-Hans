@@ -3,14 +3,15 @@ title: 规划现代Adobe Commerce实施
 description: 此网络研讨会介绍了如何规划现代商务系统(尤其是Adobe Commerce)的实施，包括有关发现阶段、服务、全球参考架构、前端开发实践和最佳实践的讨论。
 feature: API Mesh, App Builder, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
-role: Architect, Data Architect, Leader
+old-role: Architect, Data Architect, Leader
+role: Developer, Leader
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 3511
 last-substantial-update: 2024-05-07T00:00:00Z
 jira: KT-15465
 exl-id: a8e1cd14-e9ff-46ba-87ea-c1cba3b4f72f
-source-git-commit: 670f1676128544811e471a3dfbcab80cdb95b94f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%
@@ -29,12 +30,12 @@ ht-degree: 0%
 
 ## 视频内容
 
-* 目录服务（包括实时搜索和产品推荐）包含在Adobe Commerce中，并提供了有关Experience League的指南。
+* 目录服务（包括实时搜索和产品推荐）包含在Adobe Commerce中，并且在Experience League上提供了相关指南。
 * 了解客户架构包括分析API、数据流、典型产品以及将客户需求映射到商业功能。
 * 构建一组标准文档和问题列表对于了解客户架构和确保顺利实施项目至关重要。
 自动分析工具可用于迁移项目，而手动文档审查和调查表对于其他情况则必不可少。
-* 最近针对Adobe Commerce发布的Edge Delivery Services提供了具有高延迟和简化创作体验的高性能店面解决方案。
-* Edge Delivery Services会优先考虑性能，并且可以显着提升Lighthouse得分、SEO和总体网站速度。
+* Edge Delivery Services是最近为Adobe Commerce发布的，它提供具有高延迟和简化创作体验的高性能店面解决方案。
+* Edge Delivery Services会优先考虑性能，并可显着提升Lighthouse分数、SEO和总体网站速度。
 Adobe Commerce及其有关规划、构建和维护现代化实施的四部分系列的概述。
 * 全球参考架构(GRA)概念简介，用于高效项目构建。
 * 讨论在发现阶段了解角色、关键文档和项目组件的重要性。

@@ -8,10 +8,11 @@ last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 badge: label="由Adobe高级技术架构师Tony Evers提供" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="托尼·埃弗斯撰稿"
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
-source-git-commit: dacd43ef84dcb2c2633221a90642a469b2ff5a30
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '1119'
 ht-degree: 0%
@@ -31,7 +32,7 @@ ht-degree: 0%
 1. **不同的商店所有者**：如果您为多个商店所有者维护代码，而每个商店所有者都有自己的独特商店，则可能需要单独的实例来有效维护其各自的需求。
 2. **符合国家法规**：某些法规要求客户数据必须存储在特定区域内。 在这种情况下，为确保遵守这些条例，必须分开处理。
 3. **跨地理区域的操作差异**：在多个区域操作可能意味着不同的维护计划和要求。 使用单独的实例可以灵活高效地管理这些变体。
-4. **高强度Flash销售**：进行大规模闪存销售的商店通常需要优化的服务器性能。 由单独的实例提供的专用基础架构可确保在此类高需求期间实现最佳性能。
+4. **高强度闪存销售**：进行大规模闪存销售的商店通常需要优化的服务器性能。 由单独的实例提供的专用基础架构可确保在此类高需求期间实现最佳性能。
 5. **品牌或国家/地区之间的显着差异**：当品牌或国家/地区之间的差异很大时，使用单个实例会导致代码仅用于某些品牌或国家/地区。 单独的实例可以消除不需要代码的品牌和国家/地区不必要的代码，从而提高性能和稳定性。
 
 ## 全球参考体系结构模式

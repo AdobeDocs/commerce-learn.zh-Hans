@@ -1,5 +1,5 @@
 ---
-title: 面向开发人员的PWA Studio- Peregrine
+title: 面向开发人员的PWA Studio - Peregrine
 description: 了解Peregrine，包括Peregrine库。 了解Peregrine背后的动机​，Peregrine钩子和爪子之间的区别。
 kt: 5649
 doc-type: video
@@ -7,17 +7,18 @@ activity: use
 last-substantial-update: 2023-5-28
 feature: GraphQL, REST, Tools and External Services
 topic: Commerce, Headless, Development
-role: Architect, Developer, User
+old-role: Architect, Developer
+role: Developer, User
 level: Beginner, Intermediate
 exl-id: 3f513b05-77f4-4695-ac36-b0d73d1e2750
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# 面向开发人员的PWA Studio- Peregrine
+# 面向开发人员的PWA Studio - Peregrine
 
 在此视频中：
 

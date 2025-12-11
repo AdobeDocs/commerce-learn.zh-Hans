@@ -9,16 +9,18 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
-source-git-commit: aed143b96f13a413f85fc461e11f358b4c657015
+exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
-# 使用Adobe入门工具包的最后一英里集成
+# 使用Adobe Starter Kit的最后一英里集成
 
 了解在开始与Adobe Commerce进行最后一英里集成时要考虑的项目，重点放在使用可扩展性挂钩以增强与第三方系统的连接。 此视频概述了结构化方法，其中各种挂接（如验证、转换、预处理、发送和后处理）可确保无缝的数据流和系统同步。 每个挂接都有不同的用途，包括：
 
@@ -43,6 +45,6 @@ ht-degree: 0%
 * 了解转换挂接在原始系统和目标系统之间转换数据对象方面的作用。
 * 了解发送挂接对于促进实际数据发送到目标系统的重要性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451938?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 934fcdd1-ee61-4914-89ce-f6f04b1bc763
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -24,7 +25,7 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-* 刚开始接触Adobe Commerce但使用AdobeApp Builder经验有限的开发人员，他们想要了解`.env`文件。
+* 刚开始接触Adobe Commerce但使用Adobe App Builder经验有限的开发人员，他们想要了解`.env`文件。
 
 ## 视频内容
 
@@ -33,7 +34,7 @@ ht-degree: 0%
 * 如何附加文件以添加新密钥
 * 避免提交此文件，因为它包含敏感信息
 
->[!VIDEO](https://video.tv.adobe.com/v/3421065?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3416593?quality=12&learn=on)
 
 ## 代码示例
 

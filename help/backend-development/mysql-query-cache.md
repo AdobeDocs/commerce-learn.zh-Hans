@@ -7,10 +7,11 @@ activity: use
 last-substantial-update: 2023-7-27
 feature: Backend Development, Cache, Logs
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 8d3b0ec2-e80c-4457-b924-69e8b8cedf03
-source-git-commit: 608196b8f68fcd299059907981ec673f2cc60e42
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -34,9 +35,9 @@ ht-degree: 0%
 - 了解如何保存和使用SQL查找匹配的查询缓存
 - 有关配置设置的一些提示
 
->[!VIDEO](https://video.tv.adobe.com/v/3423381?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
 
 ## 有用的资源
 
-- [一般MySQL准则](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=zh-Hans){target="_blank"}
-- [galera复制和慢查询](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html?lang=zh-Hans){target="_blank"}
+- [一般MySQL准则](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=en){target="_blank"}
+- [galera复制和慢查询](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html){target="_blank"}

@@ -1,18 +1,19 @@
 ---
 title: 安装Adobe I/O Runtime命令行界面和API Mesh插件
 description: 了解如何安装Adobe I/O Runtime命令行界面和API Mesh插件
-landing-page-description: 了解如何使用AdobeApp Builder并安装带有API Mesh插件的Adobe I/O Runtime。
-short-description: 了解如何使用AdobeApp Builder并安装带有API Mesh插件的Adobe I/O Runtime。
+landing-page-description: 了解如何使用Adobe App Builder并安装带有API Mesh插件的Adobe I/O Runtime。
+short-description: 了解如何使用Adobe App Builder并安装带有API Mesh插件的Adobe I/O Runtime。
 kt: 11801
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 898a0918-0362-4fa4-9204-d770ff1a7e6f
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -26,7 +27,7 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-* 刚开始使用API Mesh或使用[Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"}和API Mesh且经验有限的[!DNL Adobe Commerce]的开发人员。
+* 刚开始使用API Mesh或[!DNL Adobe Commerce]但使用[Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"}和API Mesh经验有限的开发人员。
 
 ## 视频内容
 
@@ -34,7 +35,7 @@ ht-degree: 0%
 * 安装Adobe I/O Runtime CLI（命令行界面）
 * 安装API Mesh插件
 
->[!VIDEO](https://video.tv.adobe.com/v/3419791?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
 
 ## 安装`aio` CLI和API Mesh插件
 

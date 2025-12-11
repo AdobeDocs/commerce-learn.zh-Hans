@@ -7,10 +7,11 @@ activity: use
 last-substantial-update: 2023-7-18
 feature: Backend Development, Logs, Services
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 4a8a2df1-8cac-4bd9-851f-0eaae011b76c
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -37,7 +38,7 @@ Galera群集有助于提高性能和可扩展性。 在考虑辅助数据库时�
 - 仅在主系统上执行批量操作。 一次只进行复制
 - 对大型承诺进行批处理以帮助复制与主要承诺保持同步
 
->[!VIDEO](https://video.tv.adobe.com/v/3423537?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
 
 ## 有用的资源
 

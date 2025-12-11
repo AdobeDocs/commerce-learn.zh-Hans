@@ -9,9 +9,11 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
-source-git-commit: 45c018813ed8d5487e1491e09afc34e2de39c5b2
+exl-id: f2654873-256e-4c1b-abed-8bfbc4db3fbb
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -20,7 +22,7 @@ ht-degree: 0%
 
 # 配置、部署和自定义摄取webhook
 
-了解用于将Commerce与第三方后台系统集成的引入webhook的设置和自定义&#x200B;。 此视频介绍webhook如何通过提供可公开使用的端点来使来自第三方系统的消息适应AdobeIO事件API，从而解决系统之间事件通信中的限制。 此过程包括在`actions.config.yaml`文件中配置webhook，在`app.config.yaml`文件中启用它，并将其部署以确保正常运行。
+了解用于将Commerce与第三方后台系统集成的引入webhook的设置和自定义&#x200B;。 此视频介绍webhook如何通过提供可公开使用的端点来使来自第三方系统的消息适应Adobe IO事件API，从而解决系统之间事件通信中的限制。 此过程包括在`actions.config.yaml`文件中配置webhook，在`app.config.yaml`文件中启用它，并将其部署以确保正常运行。
 
 此视频介绍了修改webhook代码的步骤，以便将第三方事件转换为与集成的订阅事件类型兼容的格式。 它讨论了添加`event-mapping.json`文件以方便此转换，并强调在进行更改后重新部署运行时操作的重要性&#x200B;。 此视频还重点强调了验证和转换传入事件有效负载以与预期架构保持一致，确保成功处理并与Commerce API集成以创建客户的重要性。
 

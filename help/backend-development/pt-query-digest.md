@@ -7,10 +7,11 @@ activity: use
 last-substantial-update: 2023-8-28
 feature: Backend Development, Tools and External Services, Logs
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 77e91f1b-b3ae-4c6d-bb6d-4fd7ebbb0baf
-source-git-commit: a2d644de420f9188be108fad36ae97dfbf1a75eb
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -33,7 +34,7 @@ ht-degree: 0%
 - 了解此Percona Toolkit功能的优点和缺点
 - 了解结果并了解应考虑哪些可能的性能步骤
 
->[!VIDEO](https://video.tv.adobe.com/v/3452304?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
 
 ## 代码引用
 

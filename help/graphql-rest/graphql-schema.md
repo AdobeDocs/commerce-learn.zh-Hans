@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 0%
@@ -23,7 +24,7 @@ ht-degree: 0%
 
 这是GraphQL和Adobe Commerce系列的第4部分。 使用的查询和突变依赖于在服务器上实现的特定数据图，GraphQL运行时将使用这些数据图解析查询。 GraphQL规范定义了一种不可知语言，用于表示数据图的类型和关系。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446620?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
 
 ## 本系列中GraphQL的相关视频和教程
 
@@ -105,7 +106,7 @@ type Mutation {
 }
 ```
 
-您可以深入了解[GraphQL文档](https://graphql.org/learn/schema/){target="_blank"}以了解类型系统的详细信息，包括此处未表示的一些概念的语法。 然而，上述例子不言自明。 （此外，请注意语法与查询语法的相似性。） 定义GraphQL架构只是表示给定类型的可用参数和字段以及这些字段的类型的问题。 每个复杂字段类型本身必须有一个定义，以此类推，通过树，直到您获得简单的标量类型（如`String`）。
+您可以深入了解[GraphQL文档](https://graphql.org/learn/schema/){target="_blank"}，以了解类型系统的详细信息，包括此处未表示的一些概念的语法。 然而，上述例子不言自明。 （此外，请注意语法与查询语法的相似性。） 定义GraphQL架构只是表示给定类型的可用参数和字段以及这些字段的类型的问题。 每个复杂字段类型本身必须有一个定义，以此类推，通过树，直到您获得简单的标量类型（如`String`）。
 
 `input`声明在所有方面都与`type`类似，但定义了一个可以用作参数输入的类型。 另请注意`interface`声明。 此功能与PHP中的接口大致相同。 其他类型继承自此接口。
 

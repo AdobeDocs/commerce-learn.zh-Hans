@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
@@ -26,7 +27,7 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-* 刚开始接触Adobe Commerce但对AdobeApp Builder经验有限的开发人员，正在了解示例应用程序中的actions文件夹。
+* 刚开始接触Adobe Commerce、但对Adobe App Builder经验有限的开发人员，正在了解示例应用程序中的actions文件夹。
 
 ## 视频内容
 
@@ -35,7 +36,7 @@ ht-degree: 0%
 * 在`actions`和`commerce`文件夹中找到的JavaScript文件的用途
 * OAuth身份验证文件快速概述
 
->[!VIDEO](https://video.tv.adobe.com/v/3421077?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3416590?quality=12&learn=on)
 
 ## 代码示例
 

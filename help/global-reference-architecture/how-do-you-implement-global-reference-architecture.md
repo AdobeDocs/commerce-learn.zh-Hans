@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-10-6
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 0eb1f994-24a7-491f-b267-00202f6086e6
-source-git-commit: 03e20a42f798bd7eac1971656e2ad9b99a8b784e
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -38,6 +39,6 @@ ht-degree: 0%
 * 全局控制板 — 可使用的功能
 * 将GRA用作模块市场的替代概念
 
->[!VIDEO](https://video.tv.adobe.com/v/3457218?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

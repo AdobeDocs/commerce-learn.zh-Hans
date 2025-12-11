@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 5d3ced3f-174d-4481-8511-82616bb77c43
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -26,7 +27,7 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-* 刚开始接触Adobe Commerce但使用AdobeApp Builder经验有限的开发人员，他们想要了解`test`文件夹。
+* 刚开始接触Adobe Commerce但使用Adobe App Builder经验有限的开发人员，他们想要了解`test`文件夹。
 
 ## 视频内容
 
@@ -34,7 +35,7 @@ ht-degree: 0%
 * 单元测试文件及其组件的简要说明
 * 端到端测试简介
 
->[!VIDEO](https://video.tv.adobe.com/v/3421059?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3416662?quality=12&learn=on)
 
 ## 代码示例
 

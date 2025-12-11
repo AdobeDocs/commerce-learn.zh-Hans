@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 120d551d-efb0-4766-b346-1fb55fd868a4
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -24,13 +25,13 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-* 刚开始接触Adobe Commerce但使用AdobeApp Builder经验有限的开发人员，已准备好测试其首个Adobe Developer App Builder应用程序。
+* 刚开始接触Adobe Commerce但使用Adobe App Builder经验有限的开发人员，已准备好测试其首个Adobe Developer App Builder应用程序。
 
 ## 视频内容
 
 * 如何部署应用程序
 * 部署后可在何处查找URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3421043?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3416664?quality=12&learn=on)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

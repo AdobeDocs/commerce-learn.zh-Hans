@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -24,7 +25,7 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-* 刚开始接触Adobe Commerce但使用AdobeApp Builder经验有限的开发人员，他们了解`web-src`文件夹及其内容。
+* 刚开始接触Adobe Commerce但使用Adobe App Builder经验有限的开发人员，他们了解`web-src`文件夹及其内容。
 
 ## 视频内容
 
@@ -32,7 +33,7 @@ ht-degree: 0%
 * 通常包括文件和文件夹
 * 如何在示例应用程序中使用`web-src`文件夹及其内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3421037?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
 
 ## 代码示例
 

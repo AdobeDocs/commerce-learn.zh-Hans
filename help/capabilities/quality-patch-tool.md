@@ -3,14 +3,14 @@ title: Quality修补工具
 description: 了解在诊断问题、找到解决方案并应用现有可用修补程序列表中找到的修补程序时，如何使用质量修补工具。
 feature: Cloud, Configuration, Logs, System, Tools and External Services
 topic: Architecture, Commerce, Development
-role: Admin, Architect, User
+role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
 exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 视频内容
 
-Quality Patches Tool是用于Adobe Commerce和Magento Open Source的命令行实用程序。 下面是它允许您执行的操作：
+Quality Patches Tool是适用于Adobe Commerce和Magento Open Source的命令行实用程序。 下面是它允许您执行的操作：
 
 * 查看有关最新质量修补程序的一般信息。
 * 将高质量的修补程序应用到您的安装。
@@ -39,11 +39,11 @@ Quality Patches Tool是用于Adobe Commerce和Magento Open Source的命令行实
 
 这些修补程序由Adobe开发人员Magento Open Source社区开发，用于增强稳定性和性能。 请记住，不建议应用大量修补程序，因为这会使未来的升级复杂化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3454080?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
 ## 为何使用品质修补工具
 
-如果要执行以下操作，您可能希望使用Adobe Commerce或Magento Open Source的Quality Patches Tool：
+如果您希望执行以下操作，可能需要使用Adobe Commerce或Magento Open Source的Quality Patches Tool：
 
 增强稳定性和性能：高质量的修补程序可解决问题、提高安全性并优化安装。
 保持最新：应用修补程序可确保您的系统为最新状态并受到保护。
@@ -71,8 +71,8 @@ Quality Patches Tool是用于Adobe Commerce和Magento Open Source的命令行实
 
 ## 相关文章和视频
 
-* [Quality Patch Tools search](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=zh-Hans)
-* [发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [Quality Patch Tools search](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+* [发行说明](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * 修补程序的[Github](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [使用品质修补工具](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/tools/quality-patches-tool/usage)
-* QPT上的[技术视频](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [使用品质修补工具](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
+* QPT上的[技术视频](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)

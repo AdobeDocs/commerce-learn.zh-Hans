@@ -3,19 +3,19 @@ title: 代码冻结
 description: 了解在Adobe Commerce迁移期间实施代码冻结的重要性。 通过遵循QA、测试和验证的最佳实践，确保稳定性、置信度和成功发布。
 feature: Best Practices
 topic: Commerce, Development
-role: Architect
+role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 199
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15993
-source-git-commit: 00b97157e20778d1eeaa30236b9d340cccaf3a38
+exl-id: dc1d609f-af81-44ea-b0f0-f48ed6fc8d47
+source-git-commit: f8944c35f90deb00a80e0b20ad5557f4b0a3b472
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
 
 ---
-
 
 # 迁移到Adobe Commerce — 代码冻结
 
@@ -35,4 +35,4 @@ ht-degree: 0%
 * 协调手动和自动化测试、负载测试和渗透测试，以确保站点各方面的功能均按预期运行。
 * 让业务利益相关者、开发人员和IT团队参与验证过程，以确保顺利成功地启动。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445500/?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3432965/?learn=on)

@@ -1,16 +1,15 @@
 ---
-title: '[!DNL Commerce]商业用户 — 导入和导出产品'
+title: 商业用户[!DNL Commerce] — 导入和导出产品
 description: 了解如何导入和导出目录产品。
 kt: 5773
 doc-type: video
 activity: use
 last-substantial-update: 2022-12-28T00:00:00Z
-feature: Configuration, System, Catalogs
 topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 109aeab1-a3a4-4e47-99e4-21dabd23d605
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: f8944c35f90deb00a80e0b20ad5557f4b0a3b472
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -18,6 +17,11 @@ ht-degree: 0%
 ---
 
 # 商业用户[!DNL Commerce] — 导入和导出产品
+
+<!--
+validation failure (if published)
+feature: Configuration, System, Catalogs
+-->
 
 在此视频中：
 
@@ -32,12 +36,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hans)。
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
 
->[!VIDEO](https://video.tv.adobe.com/v/329971?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/35958?quality=12&learn=on)
 
 ## 其他资源
 
-[导入 —  [!DNL Commerce] 管理系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-import.html?lang=zh-Hans)
+[导入 —  [!DNL Commerce] 管理系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-import.html)
 
-[导出 —  [!DNL Commerce] 管理系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-export.html?lang=zh-Hans)
+[导出 —  [!DNL Commerce] 管理系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-export.html)

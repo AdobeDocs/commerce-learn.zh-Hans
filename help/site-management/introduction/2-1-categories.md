@@ -33,7 +33,7 @@ feature: Configuration, System, Catalogs, Site Navigation
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/35950?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330027?captions=chi_hans&quality=12&learn=on)
 
 ## 其他资源
 

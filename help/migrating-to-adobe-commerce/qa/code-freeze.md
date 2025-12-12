@@ -35,4 +35,4 @@ ht-degree: 0%
 * 协调手动和自动化测试、负载测试和渗透测试，以确保站点各方面的功能均按预期运行。
 * 让业务利益相关者、开发人员和IT团队参与验证过程，以确保顺利成功地启动。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432965/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445500/?captions=chi_hans&learn=on)

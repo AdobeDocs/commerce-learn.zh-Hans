@@ -37,7 +37,7 @@ feature: Configuration, System, Catalogs
 >
 >视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hans)。
 
->[!VIDEO](https://video.tv.adobe.com/v/35955?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329995?captions=chi_hans&quality=12&learn=on)
 
 ## 其他资源
 

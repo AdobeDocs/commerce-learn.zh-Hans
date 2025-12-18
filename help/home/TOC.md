@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 12fc97fe5de44b3ba60aa92a1e2202c517897ddc
+source-git-commit: 1aaf018e8bed6122cc2dd3a03ebdffdbf0e539fa
 workflow-type: tm+mt
-source-wordcount: '947'
+source-wordcount: '957'
 ht-degree: 3%
 
 ---
@@ -92,6 +92,11 @@ ht-degree: 3%
       + [安装SFCC墨盒](../adobe-commerce-optimizer/sfcc-starter-kit/installation-sfcc-cartridge.md)
       + [App Builder入门工具包](../adobe-commerce-optimizer/sfcc-starter-kit/app-builder-starter-kit.md)
       + [端到端演示](../adobe-commerce-optimizer/sfcc-starter-kit/end-to-end-demo.md)
++ 可观测性 {#observability}
+   + [可观察性概述](../observability/overview.md)
+   + [打开遥测](../observability/open-telemetry.md)
+   + [演示设置和配置](../observability/demo-setup-configuration.md)
+   + [演示](../observability/demo.md)
 + 全球参考体系结构 {#global-reference-architecture-implementation-techniques}
    + [概述](../global-reference-architecture/overview.md)
    + [拆分Git](../global-reference-architecture/split-git.md)
@@ -254,7 +259,7 @@ ht-degree: 3%
    + [升级兼容性工具概述](../upgrade/upgrade-compatibility-tool-overview.md)
    + [使用PHP Storm中的升级兼容性工具](../upgrade/uct-phpstorm.md)
 + 后端开发 {#backend-development}
-   + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+   + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [创建模块](../backend-development/create-module.md)
    + [添加产品属性](../backend-development/add-product-attribute.md)
    + [依赖项注入示例](../backend-development/dependency-injection.md)

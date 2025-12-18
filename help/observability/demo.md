@@ -33,7 +33,7 @@ ht-degree: 0%
 * 解释Webhook和事件的关联以实现可跟踪性
 * 显示与Grafana和New Relic的集成以供日志和跟踪使用
 
->[!VIDEO](https://video.tv.adobe.com/v/3477867?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477877?captions=chi_hans&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

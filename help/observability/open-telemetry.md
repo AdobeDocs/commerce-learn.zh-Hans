@@ -33,7 +33,7 @@ ht-degree: 0%
 * 将日志、跟踪和量度关联起来，以加快根本原因分析
 * 在统一数据流的同时维护现有的监控工具
 
->[!VIDEO](https://video.tv.adobe.com/v/3478287?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478333?captions=chi_hans&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

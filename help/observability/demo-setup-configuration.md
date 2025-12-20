@@ -33,7 +33,7 @@ ht-degree: 0%
 * 对自动信号使用Commerce可观察性模块
 * 使用应用程序的IO Live Telemetry Library扩展监视
 
->[!VIDEO](https://video.tv.adobe.com/v/3478288?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478344?captions=chi_hans&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

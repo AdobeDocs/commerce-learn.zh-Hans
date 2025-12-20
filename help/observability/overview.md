@@ -33,7 +33,7 @@ ht-degree: 0%
 * 集中化可观察性是关键：跨所有组件关联日志和量度。
 * 提高结账性能：快速发现瓶颈以保持购物顺畅。
 
->[!VIDEO](https://video.tv.adobe.com/v/3478286?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478298?captions=chi_hans&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

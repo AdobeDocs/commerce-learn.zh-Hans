@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 45
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20095
-source-git-commit: d9f5530d20e93a9183a858f8aa4ca2adea2bf7da
+source-git-commit: 22b0ab3d933fc0c517e3b70ca3301751645d1907
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-# Adobe Commerce云服务概述
+# Adobe Commerce云服务关闭
 
 了解Adobe Commerce as a Cloud Service的一些主要优势。 了解ACCS如何简化设置、增强性能并使团队能够提供卓越的数字商务体验。
 

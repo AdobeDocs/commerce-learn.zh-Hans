@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 1aaf018e8bed6122cc2dd3a03ebdffdbf0e539fa
+source-git-commit: f54e9b57d07043f2ca8eca67b895f6b738a4fa21
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '998'
 ht-degree: 3%
 
 ---
@@ -47,6 +47,20 @@ ht-degree: 3%
    + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
       + [概述](../commerce-as-a-cloud-service/overview.md)
       + [架构](../commerce-as-a-cloud-service/architecture.md)
+      + 产品概述{#product-overview}
+         + [介绍](../commerce-as-a-cloud-service/product-overview/introduction.md)
+         + [安装体验](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
+         + [内容创作](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
+         + [本地化并安排内容](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
+         + [GenAI支持的内容创建](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
+         + [目录管理和销售服务](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
+         + [Commerce店面试验](../commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation.md)
+         + [Commerce店面速度](../commerce-as-a-cloud-service/product-overview/commerce-storefront-speed.md)
+         + [商务店面全套购物者历程](../commerce-as-a-cloud-service/product-overview/commerce-storefront-full-shopper-journey.md)
+         + [组合式店面和模块化体系结构](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
+         + [可扩展性](../commerce-as-a-cloud-service/product-overview/extensibility.md)
+         + [现代化和迁移](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
+         + [正在关闭](../commerce-as-a-cloud-service/product-overview/closing.md)
    + 迁移到Adobe Commerce{#migrating-to-adobe-commerce}
       + [概述](../migrating-to-adobe-commerce/overview.md)
       + 准备{#preparation}
@@ -259,7 +273,7 @@ ht-degree: 3%
    + [升级兼容性工具概述](../upgrade/upgrade-compatibility-tool-overview.md)
    + [使用PHP Storm中的升级兼容性工具](../upgrade/uct-phpstorm.md)
 + 后端开发 {#backend-development}
-   + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+   + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [创建模块](../backend-development/create-module.md)
    + [添加产品属性](../backend-development/add-product-attribute.md)
    + [依赖项注入示例](../backend-development/dependency-injection.md)

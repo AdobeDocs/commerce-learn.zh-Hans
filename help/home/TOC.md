@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: f54e9b57d07043f2ca8eca67b895f6b738a4fa21
+source-git-commit: b515a9044cb6610fb7096ef50c0a398bcf71bc44
 workflow-type: tm+mt
-source-wordcount: '998'
+source-wordcount: '993'
 ht-degree: 3%
 
 ---
@@ -162,7 +162,6 @@ ht-degree: 3%
    + [从Adobe Exchange安装应用程序](../app-builder/install-app-builder-app.md)
    + [App Builder简介](../app-builder/introduction-to-app-builder.md)
    + [App Builder的可扩展性框架](../app-builder/extensibility-framework-commerce-eventing.md)
-   + [App Builder的功能演示](../app-builder/app-builder-functional-demonstration.md)
    + [App Builder技术概述](../app-builder/app-builder-technical-overview.md)
    + 构建您的第一个App Builder应用程序 {#first-app}
       + [概述](../app-builder/first-app/overview.md)
@@ -273,7 +272,7 @@ ht-degree: 3%
    + [升级兼容性工具概述](../upgrade/upgrade-compatibility-tool-overview.md)
    + [使用PHP Storm中的升级兼容性工具](../upgrade/uct-phpstorm.md)
 + 后端开发 {#backend-development}
-   + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+   + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [创建模块](../backend-development/create-module.md)
    + [添加产品属性](../backend-development/add-product-attribute.md)
    + [依赖项注入示例](../backend-development/dependency-injection.md)

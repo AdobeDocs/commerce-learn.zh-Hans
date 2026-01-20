@@ -1,5 +1,5 @@
 ---
-title: 设置产品Recommendations
+title: 设置产品推荐
 description: 了解如何在您的Adobe Commerce商店中使用产品推荐。
 doc-type: feature video
 audience: all
@@ -11,18 +11,18 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: a62f9984-782c-40cf-a140-498b58b24bcd
-source-git-commit: fa2a12241e194ec1fbadb71333d05a3bb7fd6bb3
+source-git-commit: f992a1c30652b41568d5cc8a45994047e9807fa7
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# 设置产品Recommendations
+# 设置产品推荐
 
 {{ee-feature}}
 
-产品推荐是一个强大的营销工具，可用于提高转化率、增加收入和刺激购物者参与。 Adobe Commerce产品推荐由Adobe Sensei提供支持，后者使用人工智能和机器学习算法对汇总的访客数据进行深入分析。 此数据与Adobe Commerce目录结合使用后，可提供极具吸引力、相关且个性化的体验。
+产品推荐是一个强大的营销工具，可用于提高转化率、增加收入和刺激购物者参与。 Adobe Commerce产品推荐由Adobe AI提供支持，后者使用人工智能和机器学习算法来对汇总的访客数据进行深入分析。 此数据与Adobe Commerce目录结合使用后，可提供极具吸引力、相关且个性化的体验。
 
 在本视频中，了解如何设置产品推荐。
 
@@ -37,5 +37,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- [产品Recommendations指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=zh-Hans){target="_blank"}
-- [Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=zh-Hans){target="_blank"}
+- [产品推荐指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html){target="_blank"}
+- [Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}

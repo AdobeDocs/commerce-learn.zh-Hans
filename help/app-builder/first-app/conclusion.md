@@ -40,7 +40,7 @@ ht-degree: 0%
 * [Adobe Developer App Builder](https://developer.adobe.com/app-builder/){target="_blank"}
 * [Adobe Developer App Builder试用版](https://developer.adobe.com/app-builder/trial/){target="_blank"}
 * [Adobe Developer App Builder文档](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
-* [Adobe Developer App Builder论坛](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly){target="_blank"}
+* [Adobe Developer App Builder论坛](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly?profile.language=zh-Hans){target="_blank"}
 * [Adobe Developer App Builder贡献准则](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

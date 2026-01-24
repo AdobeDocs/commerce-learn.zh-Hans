@@ -90,6 +90,6 @@ App Builder为开发人员提供视频和文档，包括指南和参考文档，
 
 ## 支持 {#support}
 
-对于开发人员支持请求，请使用[Experience League论坛](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"}寻求帮助。
+对于开发人员支持请求，请使用[Experience League论坛](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=zh-Hans){target="_blank"}寻求帮助。
 
 {{$include /help/_includes/app-builder-related-links.md}}

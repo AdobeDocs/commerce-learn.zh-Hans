@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 3bc038fb3af74822c3ab4cbc6d4fdc2c81442b14
+source-git-commit: 6c512ca371bb3721b3e6ef4fdd66b1620bc176f0
 workflow-type: tm+mt
-source-wordcount: '990'
+source-wordcount: '945'
 ht-degree: 3%
 
 ---
@@ -96,18 +96,6 @@ ht-degree: 3%
       + [最后一英里集成](../back-office-integrations/last-mile-integration.md)
       + [Webhook引入](../back-office-integrations/webhook-ingestion.md)
       + [重试机制](../back-office-integrations/retry-mechanism.md)
-+ Adobe Commerce Optimizer {#adobe-commerce-optimizer}
-   + [概述](../adobe-commerce-optimizer/overview.md)
-   + [创建您的第一个Adobe Commerce Optimizer实例](../adobe-commerce-optimizer/create-first-instance.md)
-   + [管理Adobe Commerce Optimizer实例](../adobe-commerce-optimizer/managing-instances.md)
-   + [摄取示例数据](../adobe-commerce-optimizer/ingest-sample-data.md)
-   + [使用GraphQL的首次查询](../adobe-commerce-optimizer/first-query.md)
-   + Salesforce Commerce cloud入门工具包 {#sfcc-starter-kit}
-      + [概述](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
-      + [架构概述](../adobe-commerce-optimizer/sfcc-starter-kit/architecture-overview.md)
-      + [安装SFCC墨盒](../adobe-commerce-optimizer/sfcc-starter-kit/installation-sfcc-cartridge.md)
-      + [App Builder入门工具包](../adobe-commerce-optimizer/sfcc-starter-kit/app-builder-starter-kit.md)
-      + [端到端演示](../adobe-commerce-optimizer/sfcc-starter-kit/end-to-end-demo.md)
 + 可观测性 {#observability}
    + [可观察性概述](../observability/overview.md)
    + [打开遥测](../observability/open-telemetry.md)
@@ -273,7 +261,7 @@ ht-degree: 3%
    + [升级兼容性工具概述](../upgrade/upgrade-compatibility-tool-overview.md)
    + [使用PHP Storm中的升级兼容性工具](../upgrade/uct-phpstorm.md)
 + 后端开发 {#backend-development}
-   + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+   + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [创建模块](../backend-development/create-module.md)
    + [添加产品属性](../backend-development/add-product-attribute.md)
    + [依赖项注入示例](../backend-development/dependency-injection.md)

@@ -34,4 +34,4 @@ Adobe Commerce成功加速器的采用和启用包括三个关键服务：用例
 * 多会话桌面辅导，以弥合技能差距并符合战略优先事项。
 * 创建访问权限、权限和设计管理以确保正确采用产品和最佳实践。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457657/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463088/?captions=chi_hans&learn=on&enablevpops)

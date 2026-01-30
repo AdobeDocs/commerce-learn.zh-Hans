@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 6c512ca371bb3721b3e6ef4fdd66b1620bc176f0
+source-git-commit: 2a85225a77ab92def17b30cd96aa0c2c6f79d083
 workflow-type: tm+mt
-source-wordcount: '945'
+source-wordcount: '864'
 ht-degree: 3%
 
 ---
@@ -120,29 +120,7 @@ ht-degree: 3%
       + [自定义结帐](../edge-delivery-services/customize-checkout.md)
       + [自定义地址布局](../edge-delivery-services/customize-address-new-account-link.md)
       + [购物者体验](../edge-delivery-services/shopper-experience.md)
-+ 网络研讨会和活动 {#webinars-and-events}
-   + 业务增长 {#business-growth}
-      + [人工智能创新](../business-growth/ai-innovation.md)
-      + [展望未来](../business-growth/vision-forward.md)
-      + [产品采用](../business-growth/product-adoption.md)
-   + Commerce的未来 {#future-of-commerce}
-      + [新产品公告](../future-of-commerce/new-product-announcements.md)
-      + [大幅削减成本](../future-of-commerce/drastically-cut-costs.md)
-      + [超级充电转换率](../future-of-commerce/supercharge-conversion-rates.md)
-      + [快速通道扩展](../future-of-commerce/fast-track-expansion.md)
-   + 启用系列 {#enablement-series}
-      + [降低Commerce集成的目录](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
-      + [规划现代Adobe Commerce实施](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
-      + [启动、启动后、监控和故障排除](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
-      + [Edge Delivery Services与Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
-   + Commerce对话 {#commerce-conversations}
-      + [专家级成功是什么](../commerce-conversations/what-is-expert-success.md)
-      + [Commerce支持插件](../commerce-conversations/commerce-support-add-ons.md)
-      + [最终成功是什么](../commerce-conversations/what-is-ultimate-success.md)
-      + [成功加速器技术就绪性](../commerce-conversations/success-accelerators-technical-readiness.md)
-      + [采用和支持“成功加速器”](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
-      + [成功加速器组织准备工作](../commerce-conversations/success-accelerators-organizational-readiness.md)
-      + [分担责任](../commerce-conversations/shared-responsibility.md)
+
 + GraphQL和REST {#graphql-rest}
    + [GraphQL基础知识](../graphql-rest/intro-graphql.md)
    + [查询](../graphql-rest/graphql-queries.md)
@@ -261,7 +239,7 @@ ht-degree: 3%
    + [升级兼容性工具概述](../upgrade/upgrade-compatibility-tool-overview.md)
    + [使用PHP Storm中的升级兼容性工具](../upgrade/uct-phpstorm.md)
 + 后端开发 {#backend-development}
-   + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+   + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [创建模块](../backend-development/create-module.md)
    + [添加产品属性](../backend-development/add-product-attribute.md)
    + [依赖项注入示例](../backend-development/dependency-injection.md)

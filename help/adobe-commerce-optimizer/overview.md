@@ -1,5 +1,5 @@
 ---
-title: 利用Adobe Commerce Optimizer改造您的店面
+title: Adobe Commerce Optimizer概述
 description: 了解Adobe Commerce Optimizer如何通过高性能、增加流量和无缝集成来增强您的店面。
 feature: Saas, Storefront
 topic: Commerce, Performance
@@ -10,9 +10,9 @@ duration: 180
 last-substantial-update: 2025-03-6
 jira: KT-17420
 exl-id: e6a59ee0-3e13-41c0-a189-402bf8554f8e
-source-git-commit: aa80d0af5e08fc9ebf09b09b2dd156d91a87ebc7
+source-git-commit: f10c46f29a138e2d2b6b6c80b24111543db821f7
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,8 @@ Adobe Commerce Optimizer通过提供高性能、无头店面来增强现有商�
 * 与现有ERP 、 CRM 、 OMS和其他系统无缝集成，无需重新平台。
 * 扩展数字操作
 
->[!VIDEO](https://video.tv.adobe.com/v/3450473?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3450226?learn=on)
 
 ## 其他资源
 
-[[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/overview){target="_blank"}
+[[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}

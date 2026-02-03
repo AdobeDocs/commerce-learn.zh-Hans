@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 6d60f35abdffb4fc828832dfc3eb25ab0dc9caa7
+source-git-commit: 3592fb0e022fcbecc100e64547c4ceea4b26e7ee
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '850'
 ht-degree: 3%
 
 ---
@@ -71,11 +71,7 @@ ht-degree: 3%
          + [进程内代码标准](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
       + QA{#qa}
          + [代码冻结](../migrating-to-adobe-commerce/qa/code-freeze.md)
-   + 全球参考体系结构{#global-reference-architecture}
-      + [全球参考体系结构](../global-reference-architecture/what-is-global-reference-architecture.md)
-      + [利用全球参考体系结构](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
-      + [架构师GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
-      + [实施全球参考体系结构](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
+
    + Commerce功能 {#capabilities}
       + [数据连接](../capabilities/data-connection.md)
       + [Live Search完整演示](../capabilities/live-search-full-demonstration.md)
@@ -99,7 +95,7 @@ ht-degree: 3%
 
 + 可扩展性 {#extensibility}
    + 后端开发 {#backend-development}
-      + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+      + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [创建模块](../backend-development/create-module.md)
       + [添加产品属性](../backend-development/add-product-attribute.md)
       + [依赖项注入示例](../backend-development/dependency-injection.md)

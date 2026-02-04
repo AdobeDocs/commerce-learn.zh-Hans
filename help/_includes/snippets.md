@@ -13,13 +13,13 @@ ht-degree: 0%
 ## EE专用功能 {#ee-feature}
 
 <table style="border:1px solid red">
-<tr><td><img alt="Adobe Commerce功能" src="../assets/adobe-logo.svg" width="20" height="20" /> 仅在Adobe Commerce中独占的功能（<a href="https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html#product-editions">了解更多</a>）</td></tr>
+<tr><td><img alt="Adobe Commerce功能" src="../assets/adobe-logo.svg" width="20" height="20" /> 仅在Adobe Commerce中独占的功能（<a href="https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=zh-Hans#product-editions">了解更多</a>）</td></tr>
 </table>
 
 ## 仅限B2B的功能 {#b2b-feature}
 
 <table style="border:1px solid green">
-<tr><td><img alt="Adobe Commerce功能" src="../assets/b2b.svg" width="20" height="20" /> 仅对Adobe Commerce<a href="https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html">的</a>B2B提供独占功能</td></tr>
+<tr><td><img alt="Adobe Commerce功能" src="../assets/b2b.svg" width="20" height="20" /> 仅对Adobe Commerce<a href="https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html?lang=zh-Hans">的</a>B2B提供独占功能</td></tr>
 </table>
 
 ## 400问题 {#avoid-400-error}

@@ -38,7 +38,7 @@ ht-degree: 0%
 * 了解一些前端和后端注意事项。
 * 通过评估现有模块、升级核心应用程序并与其他Adobe解决方案集成，计划实现顺利迁移。
  
->[!VIDEO](https://video.tv.adobe.com/v/3435682/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447456/?captions=chi_hans&learn=on)
 
 ## 相关文档
 

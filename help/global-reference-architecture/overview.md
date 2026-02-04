@@ -12,7 +12,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '1119'
 ht-degree: 0%
@@ -20,6 +20,8 @@ ht-degree: 0%
 ---
 
 # 全球参考体系结构实施技术
+
+{{only-for-on-prem-commerce-cloud}}
 
 有多种方法可使用Adobe Commerce优化代码重用。 这四种实现技术各有其优点。 本文中的示例按照从简单到复杂的顺序排列。 选择最适合您的项目和未来路线图的策略。 从一种策略迁移到另一种策略可能很耗时。
 

@@ -14,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 35%
@@ -22,6 +22,8 @@ ht-degree: 35%
 ---
 
 # 使用PHP Storm上的升级兼容性工具
+
+{{only-for-on-prem-commerce-cloud}}
 
 升级兼容性工具(UCT)是一款免费工具，可在几分钟内分析当前版本与目标升级版本之间的不兼容性。 PHP Storm插件使此工具更易于使用。
 
@@ -37,10 +39,10 @@ ht-degree: 35%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/344403?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340150?quality=12&learn=on)
 
 ## 其他资源
 
-- [升级兼容性工具](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=zh-Hans)
+- [升级兼容性工具](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
 - [Magento PHP Storm插件](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
-- [已发布的版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=zh-Hans)
+- [已发布的版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)

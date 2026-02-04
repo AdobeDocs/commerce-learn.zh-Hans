@@ -11,7 +11,7 @@ duration: 167
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-11767
 exl-id: 9b9504c1-0888-46da-b25e-0a5e16833d84
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
@@ -19,6 +19,8 @@ ht-degree: 0%
 ---
 
 # 迁移到Adobe Commerce — 概述
+
+{{only-for-on-prem-commerce-cloud}}
 
 欢迎使用这个全面的Adobe Commerce迁移教程系列。 这些教程专为开发人员和企业设计，涵盖了准备、自定义代码评估、QA、性能和安全性等重要主题。 从经验丰富的Adobe专家那里学习最佳实践并获得宝贵的见解，以确保顺利成功地迁移到Adobe Commerce。
 
@@ -34,4 +36,4 @@ ht-degree: 0%
 * 了解成功迁移到Adobe Commerce的基本步骤和最佳实践。
 * 评估和优化自定义代码和第三方模块，并了解关键QA概念。
 
->[!VIDEO](https://video.tv.adobe.com/v/3444330/?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432846/?learn=on)

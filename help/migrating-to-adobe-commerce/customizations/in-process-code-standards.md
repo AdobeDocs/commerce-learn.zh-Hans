@@ -11,7 +11,7 @@ duration: 323
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15994
 exl-id: 2f210adb-6f56-41cb-844e-131cbf85b131
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -19,6 +19,8 @@ ht-degree: 0%
 ---
 
 # 迁移到Adobe Commerce — 进程内编码标准
+
+{{only-for-on-prem-commerce-cloud}}
 
 了解PHP、JavaScript和自定义的一些基本编码标准和最佳实践。 无论您是开发人员还是企业，这套教程都可以帮助您应对迁移到Adobe Commerce的复杂性，确保顺利成功地过渡。
 
@@ -32,4 +34,4 @@ ht-degree: 0%
 * 了解PHP、JavaScript和自定义项的最佳实践，以确保顺利迁移。
 * 从Adobe专家那里获得有关成功Adobe Commerce项目的准备、性能和安全性的见解。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434867?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on&enablevpops)

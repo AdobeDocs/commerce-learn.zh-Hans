@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 279
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20092
-source-git-commit: 86fb1a84f431726e282bd8af664dc668bdb5bc61
+exl-id: fdbb45ca-b1dc-4015-bd4d-bbe90c442dbb
+source-git-commit: 8463195b62972d064f8b126ae286b30c050c3226
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-
-# 通过可组合性构建灵活的Commerce体验
+# 通过可组合性构建灵活的商务体验
 
 了解Adobe Commerce as a Cloud Service如何为企业提供可组合的架构，以实现灵活性和可扩展性。 了解模块化服务、API优先集成和管理UI可扩展性如何在不影响性能的情况下实现量身定制的商业体验。
 

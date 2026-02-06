@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 263
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20087
-source-git-commit: f54e9b57d07043f2ca8eca67b895f6b738a4fa21
+exl-id: ed0e1d8f-794f-4bc5-9b7b-7cf8faf36e7f
+source-git-commit: 91ed274a4f1eb466addfd1b629f83fd52279e6e0
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
-
-# 使用GenAI加快内容创建
+# 使用genAI加快内容创建
 
 了解Adobe Commerce如何将Firefly和Express等创作AI工具集成到内容创建工作流中。 了解如何快速创建图像和文本变体、优化活动以及减少对外部资源的依赖。
 

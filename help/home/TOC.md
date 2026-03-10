@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: a0394aea5f4fc3cb5cbe3cb66eec3fae8a4683a1
+source-git-commit: ec9d6444696968c72cabb1b532e205f92a2d9e5a
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '864'
 ht-degree: 3%
 
 ---
@@ -96,7 +96,7 @@ ht-degree: 3%
 
 + 可扩展性 {#extensibility}
    + 后端开发 {#backend-development}
-      + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+      + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [创建模块](../backend-development/create-module.md)
       + [添加产品属性](../backend-development/add-product-attribute.md)
       + [依赖项注入示例](../backend-development/dependency-injection.md)
@@ -148,6 +148,8 @@ ht-degree: 3%
       + [从Adobe Exchange安装应用程序](../app-builder/install-app-builder-app.md)
       + [App Builder简介](../app-builder/introduction-to-app-builder.md)
       + [App Builder的可扩展性框架](../app-builder/extensibility-framework-commerce-eventing.md)
+      + 使用AI工具创建自定义运费 {#custom-shipping-rates-ai-tools}
+         + [向Adobe提供反馈](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
       + 构建您的第一个App Builder应用程序 {#first-app}
          + [概述](../app-builder/first-app/overview.md)
          + [生成并配置.env文件](../app-builder/first-app/env-file.md)

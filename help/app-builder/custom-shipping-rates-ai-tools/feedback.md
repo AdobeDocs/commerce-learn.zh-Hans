@@ -9,13 +9,13 @@ doc-type: Tutorial
 duration: 76
 last-substantial-update: 2026-03-10T00:00:00Z
 jira: KT-20518
-source-git-commit: ec9d6444696968c72cabb1b532e205f92a2d9e5a
+exl-id: 7d1487be-2e3b-4067-8382-297a040a820b
+source-git-commit: 1a3f532ec03fb38ae43d5593e0e2499060699147
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
-
 
 # 使用AI工具创建自定义运费
 
@@ -33,3 +33,5 @@ ht-degree: 0%
 * 了解如何从IDE向Adobe提供反馈
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481306?learn=on)
+
+{{$include /help/_includes/ai-shipping-rates-related-links.md}}

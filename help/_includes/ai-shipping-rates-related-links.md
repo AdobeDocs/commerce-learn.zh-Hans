@@ -1,16 +1,18 @@
 ---
-title: AI工具运费相关页面
-description: 指向ai工具装运费率中相关页面的链接
-source-git-commit: 1a3f532ec03fb38ae43d5593e0e2499060699147
+title: AI Tools shipping rates related pages
+description: Links to related pages in ai tools shipping rates
+source-git-commit: da87b2bf340c4229f15f0ea22664aec3c10a55c4
 workflow-type: tm+mt
-source-wordcount: '27'
+source-wordcount: '36'
 ht-degree: 0%
 
 ---
 
-# AI工具运费相关链接
+# AI Tools shipping rates related links
 
-## 相关教程
+## Related tutorials
 
-* [简介和设置](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
-* [反馈](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
+* [Introduction and setup](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+* [AI Tools and Adobe starter kit](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+* [Implementation and testing](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
+* [Feedback](../app-builder/custom-shipping-rates-ai-tools/feedback.md)

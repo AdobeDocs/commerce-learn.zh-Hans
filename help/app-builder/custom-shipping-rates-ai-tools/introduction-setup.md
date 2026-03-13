@@ -6,16 +6,16 @@ topic: Development
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 0
+duration: 178
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20428
-source-git-commit: 1a3f532ec03fb38ae43d5593e0e2499060699147
+exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
+source-git-commit: da87b2bf340c4229f15f0ea22664aec3c10a55c4
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
-
 
 # 使用AI工具创建自定义运费
 
@@ -33,6 +33,6 @@ ht-degree: 0%
 * 逐步了解如何设置开发环境，包括签出存储库、查看入门工具包结构和安装所需工具。
 * 通过登录、配置访问并确保所有依赖项和先决条件都到位来为人工智能辅助开发准备系统。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481328/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481357/?learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

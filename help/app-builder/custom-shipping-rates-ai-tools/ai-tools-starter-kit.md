@@ -1,5 +1,5 @@
 ---
-title: 使用AI工具创建自定义运费
+title: 使用AI工具创建自定义运费|构建功能
 description: 了解如何使用Adobe的AI工具，通过模拟API和安全配置创建自定义配送费率并扩展结账功能。
 feature: Extensibility
 topic: Artificial Intelligence
@@ -9,15 +9,15 @@ doc-type: Tutorial
 duration: 490
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20516
-source-git-commit: 2cf5392b7cf21cad9f912f16891cfa550d118d77
+exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b
+source-git-commit: 650cd54d155520f4d2ff89bceefbd529efccc8c3
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
-
-# 使用AI工具创建自定义运费
+# 使用AI工具创建自定义运费 — 构建功能
 
 了解如何利用Adobe的AI支持的工具来简化开发工作流和扩展签出功能。 本教程介绍如何使用通过API密钥保护的模拟API从外部系统集成自定义运费。 了解如何配置服务URL、管理安全和启用高级签出功能。 这份全面的指南演示了AI如何加速软件开发，从需求收集到实施规划。 观看嵌入式视频以了解详细演练。
 

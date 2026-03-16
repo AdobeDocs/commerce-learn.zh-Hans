@@ -3,7 +3,7 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: da87b2bf340c4229f15f0ea22664aec3c10a55c4
+source-git-commit: ad0e7639accf3b127bb11c062c9c22a3b03c362f
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 3%
@@ -33,7 +33,7 @@ ht-degree: 3%
    + [Experience Lead数据和促销](../cloud/experience-lead-data-promoitions.md)
    + [AEM Assets](../cloud/aem-assets.md)
    + [从自托管解决方案迁移](../cloud/overview.md)
-   + [快速使用限制访问](../cloud/limit-website-access-using-fastly.md)
+   + [使用Fastly限制访问](../cloud/limit-website-access-using-fastly.md)
    + 技术入门和硬件移交 {#technical-onboarding-hardware-handoff}
       + [基础设施和发展最佳实践](../cloud/infrastructure-development-best-practices.md)
       + [Fastly](../cloud/fastly.md)
@@ -61,7 +61,7 @@ ht-degree: 3%
          + [商务店面全套购物者历程](../commerce-as-a-cloud-service/product-overview/commerce-storefront-full-shopper-journey.md)
          + [组合式店面和模块化体系结构](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
          + [可扩展性](../commerce-as-a-cloud-service/product-overview/extensibility.md)
-         + [现代化和移民](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
+         + [现代化和迁移](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
          + [正在关闭](../commerce-as-a-cloud-service/product-overview/closing.md)
    + 迁移到Adobe Commerce{#migrating-to-adobe-commerce}
       + [概述](../migrating-to-adobe-commerce/overview.md)
@@ -96,7 +96,7 @@ ht-degree: 3%
 
 + 可扩展性 {#extensibility}
    + 后端开发 {#backend-development}
-      + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+      + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [创建模块](../backend-development/create-module.md)
       + [添加产品属性](../backend-development/add-product-attribute.md)
       + [依赖项注入示例](../backend-development/dependency-injection.md)
@@ -127,7 +127,7 @@ ht-degree: 3%
             + [自定义结帐](../edge-delivery-services/customize-checkout.md)
             + [自定义地址布局](../edge-delivery-services/customize-address-new-account-link.md)
             + [购物者体验](../edge-delivery-services/shopper-experience.md)
-      + 无头体系结构 {#headless-architecture}
+      + Headless体系结构 {#headless-architecture}
          + Headless简介 {#introduction-to-headless}
             + [Headless架构 — 会话1](../headless/session-1.md)
          + PWA Studio简介 {#introduction}
@@ -155,8 +155,8 @@ ht-degree: 3%
          + [向Adobe提供反馈](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
       + 构建您的第一个App Builder应用程序 {#first-app}
          + [概述](../app-builder/first-app/overview.md)
-         + [生成和配置.env文件](../app-builder/first-app/env-file.md)
-         + [app.config.yaml文件的说明和用法](../app-builder/first-app/app-config-yaml-file.md)
+         + [生成并配置.env文件](../app-builder/first-app/env-file.md)
+         + [app.config.yaml文件的说明和使用情况](../app-builder/first-app/app-config-yaml-file.md)
          + [了解操作文件夹](../app-builder/first-app/actions-folder.md)
          + [了解测试文件夹](../app-builder/first-app/test-folder.md)
          + [了解web-src文件夹的用途](../app-builder/first-app/web-src-folder.md)
@@ -247,9 +247,9 @@ ht-degree: 3%
 + 适用于Adobe Commerce的B2B {#b2b}
    + [管理公司帐户](../b2b/company-accounts.md)
    + [管理共享目录](../b2b/shared-catalogs.md)
-   + [管理公司积分](../b2b/company-credit.md)
+   + [管理公司信用](../b2b/company-credit.md)
    + [采购订单和审批](../b2b/purchase-orders.md)
-   + 报价 {#b2b-quote}
+   + 引用 {#b2b-quote}
       + [销售代表启动报价](../b2b/sales-rep-initiates-quote.md)
       + [来自管理员的报价验证](../b2b/quote-validation-admin-panel.md)
       + [销售代表启动报价REST API](../b2b/sales-rep-initiates-quote-api.md)

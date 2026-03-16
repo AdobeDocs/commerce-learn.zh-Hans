@@ -1,6 +1,6 @@
 ---
 title: Adobe可用的commerce选项
-description: 比较Adobe Commerce部署选项(本地、云、SaaS和Commerce Optimizer)，了解如何为您的业务选择正确的模式。
+description: 比较Adobe Commerce部署选项（本地、云、SaaS和Commerce Optimizer），了解如何为您的业务选择正确的模式。
 jira: KT-20236
 doc-type: tutorial
 last-substantial-update: 2026-2-25
@@ -9,14 +9,14 @@ topic: Commerce, Architecture
 role: Admin, Leader, Developer
 level: Beginner
 exl-id: fc9741bb-d320-46a9-a566-6669ea0b2880
-source-git-commit: 65314b2e8d25ef85bf6541976232232e4a07831b
+source-git-commit: cba4dc615b577f580a1c19a87cb81bc6944beed3
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce Data Connection完整演示
+# Adobe的Commerce选项
 
 了解Adobe的商务选项。 了解某些主要功能包括什么、如何托管以及每种型号最适合谁。 您会了解到以下三者之间的差异：自行运行所有内容（内部部署）；使用Adobe管理的云基础架构(PaaS)；采用完全托管的SaaS方法；或使用Commerce Optimizer仅实现店面层现代化，同时保留现有后端。
 
@@ -34,10 +34,10 @@ ht-degree: 0%
 * 了解何时在不更换后端的情况下实现店面现代化
 * 根据DevOps资源、可扩展性和业务目标，确定最适合的配置
 
->[!VIDEO](https://video.tv.adobe.com/v/3480253?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480242?learn=on)
 
 ## 相关文档
 
-* [Adobe Commerce Cloud](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/overview){target=_blank}
-* [Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/zh-hans/docs/commerce/cloud-service/overview){target="_blank"}
-* [Adobe Commerce Optimizer](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/overview){target="_blank"}
+* [Adobe Commerce Cloud](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/overview){target=&quot;_blank}
+* [Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview){target="_blank"}
+* [Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}

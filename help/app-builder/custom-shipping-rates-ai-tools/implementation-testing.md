@@ -33,6 +33,6 @@ ht-degree: 0%
 凭据和环境配置为部署和注册新的配送扩展。
 店面测试可以确认外部运费是否按预期显示和运行。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481357/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481367/?captions=chi_hans&learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

@@ -33,6 +33,6 @@ ht-degree: 0%
 * 逐步了解如何设置开发环境，包括签出存储库、查看入门工具包结构和安装所需工具。
 * 通过登录、配置访问并确保所有依赖项和先决条件都到位来为人工智能辅助开发准备系统。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481328/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481338/?captions=chi_hans&learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

@@ -33,7 +33,7 @@ ht-degree: 0%
 * 讨论的`app.config.yaml`文件
 * 定义如何链接到其他`.js`文件
 
->[!VIDEO](https://video.tv.adobe.com/v/3416592?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430847?captions=chi_hans&learn=on)
 
 ## 代码示例
 

@@ -37,7 +37,7 @@ ht-degree: 0%
 * 在Adobe Journey Optimizer中，使用数据连接中提供的现成事件轻松构建和激活1:1客户历程
 * 使用Adobe Journey Optimizer的本机消息传送功能实时吸引所有渠道的购物者
 
->[!VIDEO](https://video.tv.adobe.com/v/3426855?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452480?captions=chi_hans&learn=on)
 
 ## 其他资源
 

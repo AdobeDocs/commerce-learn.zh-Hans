@@ -34,7 +34,7 @@ ht-degree: 0%
 * 内置测试工具：包括预配置的GraphQL服务器(Yoga)和自动服务器重新启动，以实现无缝开发。
 * 动手学习：直接在浏览器中克隆入门工具包、配置端点并测试API响应。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464017?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464027?captions=chi_hans&learn=on)
 
 ## 相关文档
 

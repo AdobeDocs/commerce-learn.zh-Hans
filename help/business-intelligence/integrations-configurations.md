@@ -34,4 +34,4 @@ ht-degree: 0%
 
 ## 集成和配置
 
->[!VIDEO](https://video.tv.adobe.com/v/3428101?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452700?captions=chi_hans&learn=on)

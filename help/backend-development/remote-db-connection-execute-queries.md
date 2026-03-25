@@ -26,7 +26,7 @@ ht-degree: 0%
 * 使用GUI工具（如MySQL Workbench或TablePlus）连接到远程Adobe Commerce Cloud项目。
 * 连接到项目并从命令行运行SQL。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450046?captions=chi_hans&learn=on)
 
 您可以使用以下任一方法从云项目访问Adobe Commerce数据：
 

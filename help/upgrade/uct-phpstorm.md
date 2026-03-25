@@ -38,7 +38,7 @@ ht-degree: 0%
 * 从PhpStorm安装和运行UCT。
 * 查看HTML报告并排定修复的优先级。
 
->[!VIDEO](https://video.tv.adobe.com/v/340150?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344403?captions=chi_hans&learn=on)
 
 ## 其他资源
 

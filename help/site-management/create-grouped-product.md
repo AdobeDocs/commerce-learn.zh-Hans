@@ -44,7 +44,7 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3425920?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454048?captions=chi_hans&learn=on)
 
 ## 分组产品的设置
 

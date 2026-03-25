@@ -37,7 +37,7 @@ ht-degree: 0%
 * 定义条件事件中使用的规则
 * 了解如何在Commerce实例`app/etc/config.php`中注册事件
 
->[!VIDEO](https://video.tv.adobe.com/v/3415806?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419797?captions=chi_hans&learn=on)
 
 ## 有用的命令 {#useful-commands}
 

@@ -37,7 +37,7 @@ ht-degree: 0%
 >
 >此内容反映了Adobe Commerce 2.3.1的Page Builder 1.0.0版本。有关更高版本中的更新的信息，请参阅[Page Builder发行说明](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=zh-Hans)。
 
->[!VIDEO](https://video.tv.adobe.com/v/35713?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430989?captions=chi_hans&learn=on)
 
 ## 有用的资源
 

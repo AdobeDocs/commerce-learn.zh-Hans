@@ -34,7 +34,7 @@ ht-degree: 0%
 * 连接到其他开发人员的方法
 * 结束注释
 
->[!VIDEO](https://video.tv.adobe.com/v/3416741?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421071?captions=chi_hans&learn=on)
 
 ## 其他App Builder资源
 

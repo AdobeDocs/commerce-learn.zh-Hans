@@ -31,7 +31,7 @@ ht-degree: 0%
 * 了解构件是什么及其出现的位置。
 * 在“管理员”中创建和管理构件。
 
->[!VIDEO](https://video.tv.adobe.com/v/343786?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411054?captions=chi_hans&learn=on)
 
 ## 其他资源
 

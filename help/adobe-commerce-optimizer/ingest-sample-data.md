@@ -33,7 +33,7 @@ ht-degree: 0%
 * 创建策略。
 * 创建目录视图。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470472?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470484?captions=chi_hans&learn=on)
 
 ## 相关内容
 

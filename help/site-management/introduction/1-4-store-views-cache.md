@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/35946?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330059?captions=chi_hans&learn=on)
 
 ## 其他资源
 

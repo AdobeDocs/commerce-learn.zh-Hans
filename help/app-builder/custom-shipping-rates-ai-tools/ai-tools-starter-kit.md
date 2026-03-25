@@ -34,6 +34,6 @@ ht-degree: 0%
 * MCP工具公开代理用于规划和生成代码的命令和数据。
 * AI可自动执行要求、架构和实施决策。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481344?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481354?captions=chi_hans&learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

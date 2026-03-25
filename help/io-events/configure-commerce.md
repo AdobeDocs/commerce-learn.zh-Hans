@@ -36,7 +36,7 @@ ht-degree: 0%
 * 在Commerce管理员中保存唯一标识符
 * 创建事件提供程序
 
->[!VIDEO](https://video.tv.adobe.com/v/3415799?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419711?captions=chi_hans&learn=on)
 
 ## 有用的命令 {#useful-commands}
 

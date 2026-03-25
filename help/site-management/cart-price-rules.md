@@ -31,7 +31,7 @@ ht-degree: 0%
 * 创建购物车价格规则和可选优惠券代码。
 * 了解折扣在购物车中的显示方式以及促销情况。
 
->[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410802?captions=chi_hans&learn=on)
 
 ## 定价显示问题
 

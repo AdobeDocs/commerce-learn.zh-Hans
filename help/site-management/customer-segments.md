@@ -33,7 +33,7 @@ ht-degree: 0%
 * 从客户属性、订单和购物车数据构建区段。
 * 将区段连接到促销和购物车价格规则。
 
->[!VIDEO](https://video.tv.adobe.com/v/343659?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410188?captions=chi_hans&learn=on)
 
 ## 其他资源
 

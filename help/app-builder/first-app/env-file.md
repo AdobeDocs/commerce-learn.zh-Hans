@@ -35,7 +35,7 @@ ht-degree: 0%
 * 如何附加文件以添加新密钥
 * 避免提交此文件，因为它包含敏感信息
 
->[!VIDEO](https://video.tv.adobe.com/v/3416593?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421065?captions=chi_hans&learn=on)
 
 ## 代码示例
 

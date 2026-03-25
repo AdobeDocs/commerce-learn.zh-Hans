@@ -52,7 +52,7 @@ ht-degree: 0%
 * 对使用示例模块的期望
 * 示例模块中的可重用部分
 
->[!VIDEO](https://video.tv.adobe.com/v/3416740?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421022?captions=chi_hans&learn=on)
 
 {{avoid-400-error}}
 

@@ -33,7 +33,7 @@ Adobe Commerce的B2B使您能够使用自定义定价为不同的公司维护封
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/344446?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410751?captions=chi_hans&learn=on)
 
 ## 其他资源
 

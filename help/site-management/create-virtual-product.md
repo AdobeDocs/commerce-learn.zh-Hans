@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3425723?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444874?captions=chi_hans&learn=on)
 
 ## 使用curl创建虚拟产品
 

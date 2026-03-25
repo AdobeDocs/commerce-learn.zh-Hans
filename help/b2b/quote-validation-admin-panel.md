@@ -2,6 +2,7 @@
 title: 从管理面板了解B2B报价流程的验证级别
 description: 了解Adobe Commerce应用程序如何具有严格的验证流程。  本视频教程演示了Adobe Commerce管理员面板中的验证过程，以确保引号过程有效且一致
 doc-type: feature video
+duration: 348
 audience: all
 activity: use
 last-substantial-update: 2023-6-13
@@ -10,7 +11,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: ca789f44-456a-461c-9249-41fdb2bd6804
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -25,11 +26,11 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-- 网站管理员
-- 电子商务促销商
+* 网站管理员
+* 电子商务促销商
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3423716?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3420413?learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

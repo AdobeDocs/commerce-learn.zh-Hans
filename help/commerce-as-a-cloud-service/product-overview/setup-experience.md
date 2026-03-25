@@ -6,11 +6,11 @@ topic: Commerce, Performance
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 195
+duration: 215
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20084
 exl-id: b4d22bc1-20a9-4876-be7e-df46a24c1330
-source-git-commit: 37fe84da708a76a5695f4b9d4ad4ca3f425332c3
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -32,4 +32,4 @@ ht-degree: 0%
 * 了解如何使用自助仪表板在几分钟内设置和启动Adobe Commerce店面。
 * 了解Edge Delivery Services如何实现快如闪电的性能和可扩展性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3478790/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478790?learn=on)

@@ -6,16 +6,16 @@ topic: Architecture, Commerce, Performance
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 540
+duration: 575
 last-substantial-update: 2024-11-09T00:00:00Z
 jira: KT-16194
-source-git-commit: c9c4a64ece0eaf536c2b2e299acea6adf9bab10c
+exl-id: ad6df83c-2b71-457f-9e0b-616f3b875ccd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce数据共享
 
@@ -24,13 +24,13 @@ ht-degree: 0%
 
 ## 此视频面向谁
 
-- 希望提高客户忠诚度的企业和电子商务公司
-- 零售商、电信公司和品牌商希望将其数据无缝地集成到Adobe Experience Cloud中
+* 希望提高客户忠诚度的企业和电子商务公司
+* 零售商、电信公司和品牌商希望将其数据无缝地集成到Adobe Experience Cloud中
 
 ## 视频内容
 
-- 通过Adobe Commerce的本机数据共享功能增强的个性化
-- 提高客户参与度和忠诚度
-- 无缝集成和统一的客户视图
+* 通过Adobe Commerce的本机数据共享功能增强的个性化
+* 提高客户参与度和忠诚度
+* 无缝集成和统一的客户视图
 
->[!VIDEO](https://video.tv.adobe.com/v/3433579?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3433568?learn=on)

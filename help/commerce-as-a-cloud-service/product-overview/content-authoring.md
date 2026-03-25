@@ -6,11 +6,11 @@ topic: Content Management, Artificial Intelligence
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 422
+duration: 442
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20085
 exl-id: a0907b98-f0c2-4256-8e33-d16e0694ae74
-source-git-commit: de84a587c0d3b85e04929bd97c96e319f096edae
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -33,4 +33,4 @@ ht-degree: 0%
 * 了解AI支持的变体和A/B测试如何提高内容质量和参与度。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3478791/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478791?learn=on)

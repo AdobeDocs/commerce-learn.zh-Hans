@@ -6,11 +6,11 @@ topic: Administration, Commerce
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 331
+duration: 371
 last-substantial-update: 2025-04-10T00:00:00Z
 jira: KT-17737
 exl-id: d0ba9c55-d43c-4ff3-b9b7-678f42a9dc4f
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Adobe Commerce通过各种计划和加载项提供全面的客户支持。 Exper
 * 了解可用的加载项。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457545/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457545?learn=on)

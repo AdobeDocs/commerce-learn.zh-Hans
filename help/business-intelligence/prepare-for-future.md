@@ -5,6 +5,7 @@ landing-page-description: 观看本系列视频，以澄清您对塑造数字商
 short-description: 观看本系列视频，以澄清您对塑造数字商业未来的空前变化的理解。
 kt: 10411
 doc-type: feature video
+duration: 1516
 solution: Commerce,Commerce Intelligence
 audience: all
 activity: use
@@ -14,7 +15,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 2ff2e1c8-384a-453f-bb8b-f6c834ca334b
-source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%
@@ -31,21 +32,21 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您是Commerce Intelligence的新用户，[Adobe Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=zh-Hans){target="_blank"}将全面概述如何通过数据汇总、分析和可视化来获取更好的业务见解和结果。
+>如果您是Commerce Intelligence的新用户，[Adobe Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"}将全面概述如何通过数据汇总、分析和可视化来获取更好的业务见解和结果。
 
 ## 此视频面向谁？
 
-- 商业用户
-- 数据分析师
+* 商业用户
+* 数据分析师
 
 ## 第1部分：数字Commerce流量激增
 
->[!VIDEO](https://video.tv.adobe.com/v/342498?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342498?learn=on)
 
 ## 第2部分：按行业划分流量激增
 
->[!VIDEO](https://video.tv.adobe.com/v/342499?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342499?learn=on)
 
 ## 第3部分：对客户购买行为的影响
 
->[!VIDEO](https://video.tv.adobe.com/v/342500?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342500?learn=on)

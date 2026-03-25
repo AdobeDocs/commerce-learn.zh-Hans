@@ -6,11 +6,11 @@ topic: Localization, Content Management
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 344
+duration: 365
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20086
 exl-id: 2b0ff49b-0703-43c2-8127-b4b395c17971
-source-git-commit: 53503375829db6c3e1041a9b03fef95b96d206e7
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -32,4 +32,4 @@ ht-degree: 0%
 * 了解如何在没有开发人员支持的情况下使用DA.live本地化内容和管理多个店面。
 * 了解内置计划和GenAI工具如何简化活动启动和内容更新。
 
->[!VIDEO](https://video.tv.adobe.com/v/3478792/?learn)
+>[!VIDEO](https://video.tv.adobe.com/v/3478792?learn=on)

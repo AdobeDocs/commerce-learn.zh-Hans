@@ -5,6 +5,7 @@ landing-page-description: 观看此技术视频以了解升级兼容性工具如
 short-description: 观看此技术视频以了解升级兼容性工具如何能够让您的下次升级变得更轻松、更便宜和更快速。
 kt: 9983
 doc-type: technical video
+duration: 399
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -14,7 +15,7 @@ old-role: Architect, Developer
 role: Developer, Admin
 level: Beginner, Intermediate
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 29%
@@ -29,24 +30,24 @@ ht-degree: 29%
 
 在此视频中：
 
-- 升级兼容性工具是什么
-- 它如何帮助您快速识别升级到较新Adobe Commerce版本所需的错误和修复
-- 如何访问HTML结果，以帮助按严重性和不兼容数量可视化模块
+* 升级兼容性工具是什么
+* 它如何帮助您快速识别升级到较新Adobe Commerce版本所需的错误和修复
+* 如何访问HTML结果，以帮助按严重性和不兼容数量可视化模块
 
-要了解有关该工具的更多信息，请参阅[升级兼容性工具文档](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=zh-Hans)。 如果您想了解有关执行和简化升级的详细信息，请参阅[升级指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=zh-Hans)。
+要了解有关该工具的更多信息，请参阅[升级兼容性工具文档](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)。 如果您想了解有关执行和简化升级的详细信息，请参阅[升级指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)。
 
 ## 此视频面向谁？
 
-- 站点管理器
-- 开发人员
+* 站点管理器
+* 开发人员
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/344381?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341245?learn=on)
 
 ## 其他资源
 
-- [升级兼容性工具文档](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=zh-Hans)
-- [升级指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=zh-Hans)
-- [已发布的版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=zh-Hans)
-- [发布计划](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=zh-Hans)
+* [升级兼容性工具文档](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
+* [升级指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+* [已发布的版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+* [发布计划](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

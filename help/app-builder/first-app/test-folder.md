@@ -4,6 +4,7 @@ description: 了解此示例应用程序的测试文件夹中的文件类型。
 landing-page-description: 了解用于Adobe Commerce的Adobe Developer App Builder以及测试文件夹中的文件类型。
 kt: 12424
 doc-type: tutorial
+duration: 233
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 5d3ced3f-174d-4481-8511-82616bb77c43
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -35,7 +36,7 @@ ht-degree: 0%
 * 单元测试文件及其组件的简要说明
 * 端到端测试简介
 
->[!VIDEO](https://video.tv.adobe.com/v/3421059?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416662?learn=on)
 
 ## 代码示例
 

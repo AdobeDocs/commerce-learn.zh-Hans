@@ -7,11 +7,11 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 323
+duration: 352
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15994
 exl-id: 2f210adb-6f56-41cb-844e-131cbf85b131
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -34,4 +34,4 @@ ht-degree: 0%
 * 了解PHP、JavaScript和自定义项的最佳实践，以确保顺利迁移。
 * 从Adobe专家那里获得有关成功Adobe Commerce项目的准备、性能和安全性的见解。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434867?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on)

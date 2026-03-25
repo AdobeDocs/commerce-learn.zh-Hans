@@ -3,6 +3,7 @@ title: 创建客户属性
 description: 了解如何将自定义属性添加到客户帐户的帐户信息、通讯簿和帐单信息部分。
 kt: 10547
 doc-type: feature video
+duration: 117
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 75a8213a-145b-4fb2-898c-1ae7ba272748
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -24,14 +25,14 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-- 商店管理员
-- 电子商务营销人员
+* 商店管理员
+* 电子商务营销人员
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3410183?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/343661?learn=on)
 
 ## 其他资源
 
-- [客户属性属性 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html?lang=zh-Hans)
-- [创建单个客户帐户 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=zh-Hans)
+* [客户属性属性 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
+* [创建单个客户帐户 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)

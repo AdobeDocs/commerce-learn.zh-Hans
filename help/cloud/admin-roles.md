@@ -6,16 +6,16 @@ topic: Administration, Commerce, Security
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 256
+duration: 299
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16186
-source-git-commit: f029ed2ca8e09c2937a39299477c4516b6b76c4f
+exl-id: 490cf618-9ebe-478d-9e12-49dde50ceae8
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce管理员角色
 
@@ -23,14 +23,14 @@ ht-degree: 0%
 
 ## 此视频面向谁
 
-- 存储管理员和负责管理访问权限的企业用户。
-- 需要说明如何创建具有特定权限的角色以及将用户分配给这些角色的新商店所有者
-- Adobe Commerce项目希望确保对Adobe Commerce管理员中执行的管理任务进行安全高效的管理。
+* 存储管理员和负责管理访问权限的企业用户。
+* 需要说明如何创建具有特定权限的角色以及将用户分配给这些角色的新商店所有者
+* Adobe Commerce项目希望确保对Adobe Commerce管理员中执行的管理任务进行安全高效的管理。
 
 ## 视频内容
 
-- 了解最新的登录方法。
-- 充分了解角色的创建和管理
-- 了解用户分配和访问级别。&#x200B;AEM
+* 了解最新的登录方法。
+* 充分了解角色的创建和管理
+* 了解用户分配和访问级别&#x200B;。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433523?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)

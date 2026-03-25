@@ -5,16 +5,16 @@ topic: Administration,Commerce
 role: User
 level: Beginner
 doc-type: Technical Video
-duration: 422
+duration: 461
 last-substantial-update: 2025-09-16T00:00:00Z
 jira: KT-19185
-source-git-commit: ac71d30083c1bb44fcb706411cb90d4ca1b70f59
+exl-id: 5e92894a-dc12-4ca6-ac04-d1d584551f8f
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce云项目和环境管理
 
@@ -34,10 +34,10 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3474971/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3474960?learn=on)
 
 ## 相关内容和文档
 
-* [管理用户访问权限](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/project/user-access)
-* [到远程环境的安全连接](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/develop/secure-connections)
-* [云基础架构项目](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/project/overview)
+* [管理用户访问权限](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/user-access)
+* [到远程环境的安全连接](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/secure-connections)
+* [云基础架构项目](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)

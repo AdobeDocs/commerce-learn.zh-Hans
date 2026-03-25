@@ -6,11 +6,11 @@ topic: Commerce, Personalization
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 305
+duration: 326
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20088
 exl-id: a410f40d-01b4-4cc6-a965-08f2b0e77038
-source-git-commit: cf08e797199c0f3cae566a46b4edbe9efa74052d
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -32,4 +32,4 @@ ht-degree: 0%
 * 了解如何从集中式管理面板管理产品数据、属性和定价。
 * 了解促销服务如何使用动态推荐和可见性规则使店面个性化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3478794/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478794?learn=on)

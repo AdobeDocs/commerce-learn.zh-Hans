@@ -3,6 +3,7 @@ title: 创建类别
 description: 了解如何定义产品目录的基本类别结构。
 kt: 10549
 doc-type: feature video
+duration: 164
 audience: all
 activity: use
 last-substantial-update: 2022-12-28T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 2193b580-c8c1-4371-aefc-94720b560360
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -24,15 +25,15 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-- 网站管理员
-- 电子商务促销商
+* 网站管理员
+* 电子商务促销商
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3410133?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/343746?learn=on)
 
 ## 其他资源
 
-- [创建类别 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html?lang=zh-Hans)
-- [类别权限 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html?lang=zh-Hans)
-- [顶部导航 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html?lang=zh-Hans)
+* [创建类别 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
+* [类别权限 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
+* [顶部导航 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)

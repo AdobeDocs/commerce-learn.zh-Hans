@@ -7,11 +7,11 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 659
+duration: 709
 last-substantial-update: 2024-11-08T00:00:00Z
 jira: KT-16429
 exl-id: 9ff16e96-a63f-4fab-be7d-9160c1172603
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
@@ -24,23 +24,23 @@ ht-degree: 0%
 
 ## 此视频面向谁
 
-- 使用Adobe Commerce和Adobe Commerce Cloud的开发人员
-- 可能需要在服务器级别提供帮助的系统管理员或技术支持人员
+* 使用Adobe Commerce和Adobe Commerce Cloud的开发人员
+* 可能需要在服务器级别提供帮助的系统管理员或技术支持人员
 
 ## 视频内容
 
-- 了解如何使用core_config_data表、XML文件和CLI命令在Adobe Commerce中查找配置值。
-- 了解如何通过管理面板、代码存储库和特定于环境的文件编辑和覆盖配置值。
-- 探索使用应用程序:config:转储和Adobe Commerce Cloud管理UI等工具在不同环境中维护一致配置设置的最佳实践。
+* 了解如何使用core_config_data表、XML文件和CLI命令在Adobe Commerce中查找配置值。
+* 了解如何通过管理面板、代码存储库和特定于环境的文件编辑和覆盖配置值。
+* 探索使用应用程序:config:转储和Adobe Commerce Cloud管理UI等工具在不同环境中维护一致配置设置的最佳实践。
 
->[!VIDEO](https://video.tv.adobe.com/v/3436458/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3436458?learn=on)
 
 ## 相关Experience League文档
 
-- [导出配置](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
-- [覆盖配置设置](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/configuration-guide/paths/override-config-settings)
-- [设置配置值](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
-- [配置引用config.php](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
-- [配置指南技术详细信息](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/configuration-guide/deployment/technical-details)
-- [锁定的配置值](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
-- [保存在env.php中的值](https://experienceleague.adobe.com/zh-hans/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)
+* [导出配置](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
+* [覆盖配置设置](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/paths/override-config-settings)
+* [设置配置值](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
+* [配置引用config.php](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
+* [配置指南技术详细信息](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details)
+* [锁定的配置值](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
+* [保存在env.php中的值](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)

@@ -3,6 +3,7 @@ title: 创建捆绑产品
 description: 了解如何使用REST API和Commerce管理员创建捆绑包产品。
 kt: 14589
 doc-type: video
+duration: 1335
 audience: all
 activity: use
 last-substantial-update: 2024-1-8
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
-source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
@@ -24,18 +25,18 @@ ht-degree: 0%
 
 例如，您可以在网络商店中提供名为`Learning to surf`的产品捆绑包。 捆绑包是父产品，用作已分配子产品的容器，这些子产品指定可用选项：
 
-- 标准冲浪板
-- 典型的冲浪板拉链
-- 红色冲浪板翅片
+* 标准冲浪板
+* 典型的冲浪板拉链
+* 红色冲浪板翅片
 
 当需要更大的灵活性时，建议允许子产品的多个选项。 这要求更复杂地使用选项和子产品。 要展开上一个示例，最终选项包括：
 
-- 标准冲浪板
-- 典型的冲浪板拉链
-- 翅片颜色选择：
-   - 红色
-   - 蓝色
-   - 黄色
+* 标准冲浪板
+* 典型的冲浪板拉链
+* 翅片颜色选择：
+   * 红色
+   * 蓝色
+   * 黄色
 
 无论捆绑包是一组简单的静态产品还是多个具有变体的产品，灵活的配置选项都使捆绑包产品类型成为Adobe Commerce商店独一无二且功能强大的促销工具。
 
@@ -55,13 +56,13 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-- 网站管理员
-- 电子商务促销商
-- 新的Adobe Commerce开发人员，他们想要了解如何使用REST API在Adobe Commerce中创建捆绑产品
+* 网站管理员
+* 电子商务促销商
+* 新的Adobe Commerce开发人员，他们想要了解如何使用REST API在Adobe Commerce中创建捆绑产品
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3454513?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3426797?learn=on)
 
 ## 使用REST创建产品
 
@@ -69,7 +70,7 @@ ht-degree: 0%
 
 在提交请求之前，请使用环境的值更新示例。
 
-- 更改`"attribute-set": 4`以使用您环境中的属性集ID替换`4`。
+* 更改`"attribute-set": 4`以使用您环境中的属性集ID替换`4`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -192,7 +193,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 在提交请求之前，请使用环境的值更新示例。
 
-- 更改`"attribute_set_id": 4,`并使用您环境中的属性集ID替换`4`。
+* 更改`"attribute_set_id": 4,`并使用您环境中的属性集ID替换`4`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -372,7 +373,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-produ
 ...
 ```
 
-更新产品捆绑包，以通过提交以下POST请求来添加您删除的选项。
+更新产品捆绑包，通过提交以下POST请求来添加您删除的选项。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' \
@@ -429,7 +430,7 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 
 ## 其他资源
 
-- [创建捆绑产品教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
-- [捆绑产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html?lang=zh-Hans){target="_blank"}
-- [Adobe Developer REST教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [创建捆绑产品教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
+* [捆绑产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
+* [Adobe Developer REST教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

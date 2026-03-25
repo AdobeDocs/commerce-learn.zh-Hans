@@ -3,19 +3,20 @@ title: 使用GitHub代码空间的API Mesh入门工具包
 description: 使用基于GitHub的入门工具包（无需本地设置）开始使用Adobe Commerce API Mesh。
 kt: 18367
 doc-type: tutorial
+duration: 253
 audience: all
 last-substantial-update: 2025-6-17
 feature: API Mesh, Tools and External Services, Backend Development, GraphQL, Storefront
 topic: App Builder, Commerce, Development, Integrations
 role: Developer
 level: Beginner
-source-git-commit: ca8cdbb42dcf89cd0ce4c2b8b13b9fd454e8c597
+exl-id: 4a2c210d-4df1-4601-95a8-19b3efed5ac0
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
-
 
 # 使用GitHub代码空间的API Mesh入门工具包
 
@@ -33,10 +34,10 @@ ht-degree: 0%
 * 内置测试工具：包括预配置的GraphQL服务器(Yoga)和自动服务器重新启动，以实现无缝开发。
 * 动手学习：直接在浏览器中克隆入门工具包、配置端点并测试API响应。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464027?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3464017?learn=on)
 
 ## 相关文档
 
 * [API mesh starter kit GitHub存储库](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Adobe Developer文档graphql-mesh-gateway](https://developer.adobe.com/graphql-mesh-gateway/)
-* [API Mesh视频的播放列表](https://experienceleague.adobe.com/zh-hans/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [API Mesh视频的播放列表](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)

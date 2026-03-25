@@ -3,6 +3,7 @@ title: 商务用户[!DNL Commerce] — 礼品卡
 description: 了解如何在 [!DNL Commerce] 商店中包含礼品卡。
 kt: 5774
 doc-type: video
+duration: 448
 activity: use
 badge1: Adobe Commerce 2.3.1
 badge2: label="仅在Adobe Commerce上" type="Positive"
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: e643ee2a-776b-4840-8bff-6ad99ee98fda
-source-git-commit: f8944c35f90deb00a80e0b20ad5557f4b0a3b472
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -27,22 +28,22 @@ feature: Configuration, System, Catalogs, Shopping Cart
 
 在此视频中：
 
-- 礼品卡
+* 礼品卡
 
 ## 此视频面向谁？
 
-- 商业用户
+* 商业用户
 
 ## 视频内容
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hans)。
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
 
->[!VIDEO](https://video.tv.adobe.com/v/329963?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35959?learn=on)
 
 ## 其他资源
 
-[礼品卡产品 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html?lang=zh-Hans)
-[礼品卡购买和兑现 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/gift-cards/product-gift-card-workflow.html?lang=zh-Hans)
+[礼品卡产品 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html)
+[礼品卡购买和兑现 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/gift-cards/product-gift-card-workflow.html)
 

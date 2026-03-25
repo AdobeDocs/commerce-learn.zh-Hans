@@ -2,6 +2,7 @@
 title: 管理订单状态
 description: 了解如何检查订单状态及其详细信息，以及如何更改订单状态。
 doc-type: feature video
+duration: 151
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -10,7 +11,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 0ce9960e-00e2-4602-9a12-4e12883b92e1
-source-git-commit: a123404202e95d449ad2fb9ede94d8b75bfe677c
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -23,14 +24,14 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-- 销售
-- 客户服务代表
+* 销售
+* 客户服务代表
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3410793?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/343935?learn=on)
 
 ## 其他资源
 
-- [处理订单 —  [!DNL Commerce] 存储和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html?lang=zh-Hans#process-an-order)
-- [订单状态 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html?lang=zh-Hans)
+* [处理订单 —  [!DNL Commerce] 存储和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
+* [订单状态 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)

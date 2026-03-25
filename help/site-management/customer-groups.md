@@ -3,6 +3,7 @@ title: 创建客户组
 description: 了解如何创建客户组以及如何将客户分配给特定组，特定组将确定可用折扣和相关税分类。
 kt: 10546
 doc-type: feature video
+duration: 141
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: b43c5464-e103-4956-8352-3444f09e1ceb
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -24,14 +25,14 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-- 商店管理员
-- 电子商务营销人员
+* 商店管理员
+* 电子商务营销人员
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3410168?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/343660?learn=on)
 
 ## 其他资源
 
-- [客户组 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=zh-Hans)
-- [按网站划分的客户组限制 —  [!DNL Commerce] 客户管理指南](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)
+* [客户组 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+* [按网站划分的客户组限制 —  [!DNL Commerce] 客户管理指南](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

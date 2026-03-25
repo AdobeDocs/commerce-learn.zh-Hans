@@ -3,6 +3,7 @@ title: 管理用户角色和权限
 description: 了解用于控制对 [!DNL Commerce] 网站的访问并将数据存储在Admin中的用户帐户和权限。
 kt: 5610
 doc-type: feature video
+duration: 189
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: d06815c2-4b2a-4219-8c4e-7aa41a2be25d
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -24,14 +25,14 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-- 商店管理员
+* 商店管理员
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3443517?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/343654?learn=on)
 
 ## 其他资源
 
-[管理管理员用户帐户 —  [!DNL Commerce] 管理系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=zh-Hans)
+[管理管理员用户帐户 —  [!DNL Commerce] 管理系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[用户角色 —  [!DNL Commerce] 管理员系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=zh-Hans)
+[用户角色 —  [!DNL Commerce] 管理员系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

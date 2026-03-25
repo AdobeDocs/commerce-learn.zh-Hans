@@ -7,16 +7,16 @@ old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 1419
+duration: 1449
 last-substantial-update: 2025-10-10T00:00:00Z
 jira: KT-19376
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+exl-id: 66ae4364-1918-4ca5-8709-9596ead0e4af
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
-
 
 # 借助人工智能创新实现业务增长
 
@@ -34,4 +34,4 @@ ht-degree: 0%
 * 通过目录创新加快全球扩张
 * 通过对话式Commerce增强店面体验
 
->[!VIDEO](https://video.tv.adobe.com/v/3475705/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475691?learn=on)

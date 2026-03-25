@@ -2,6 +2,7 @@
 title: 管理相关的产品规则
 description: 了解如何向客户展示有针对性的产品选择，并将客户存储为相关产品、追加销售和交叉销售。
 doc-type: feature video
+duration: 160
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -10,7 +11,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 894523ce-5855-447a-be3b-aa751fb366f2
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
@@ -25,13 +26,13 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-- 电子商务营销人员
-- 网站管理员
+* 电子商务营销人员
+* 网站管理员
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3411060?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/343837?learn=on)
 
 ## 其他资源
 
-[相关产品规则 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html?lang=zh-Hans)
+[相关产品规则 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)

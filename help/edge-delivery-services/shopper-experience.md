@@ -1,28 +1,29 @@
 ---
-title: 由Edge Delivery Services购物者体验提供支持的Commerce店面
-description: 了解由Edge Delivery Services提供支持的Adobe Commerce店面，以了解客户可以从这种速度非常快且功能强大的购物体验中获得什么。
+title: Edge Delivery Services的购物者体验
+description: 了解购物者在由Edge Delivery Services提供支持的Adobe Commerce店面中查看和执行的操作，包括购物车、结账、折扣、帐户任务、订单和退货。
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
-role: Developer
+role: User
 level: Beginner
 doc-type: Technical Video
-duration: 543
-last-substantial-update: 2024-2-21
+duration: 596
+last-substantial-update: 2024-02-21T00:00:00Z
 jira: KT-17259
-source-git-commit: 202256387b88a22a0c46d6ae313c9d262d26e55b
+exl-id: 27a2aaa6-7748-4ec2-919f-9e5dc07e94e7
+source-git-commit: 0eff93523a3c798c77c4750a325f5eb0b37f82f8
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
 # 购物者体验
 
-了解由Edge交付服务提供支持的Commerce店面的各种功能。 此视频涵盖购物者体验，包括向购物车添加商品、应用购物车价格规则和优惠券代码、以访客身份结账、更新帐户信息、取消订单、对商品重新排序以及退回产品。 您还将了解如何管理订单、客户如何应用折扣，甚至有时会栈叠优惠券代码以获得更好的折扣。
+了解由Edge Delivery Services提供支持的Commerce店面如何支持常见的购物者任务：将商品添加到购物车、应用购物车价格规则和优惠券代码、以访客身份结账、更新帐户信息、取消订单、重新排序和开始退货。 此视频还涵盖订单管理、客户如何应用折扣以及何时可以栈叠多个优惠券代码。
 
-## 您将学习的内容
+## 您学到的内容
 
-如何有效地导航和利用Adobe Commerce店面的功能。 这包括管理购物车、应用折扣和优惠券代码、作为客人结账、更新帐户信息、取消和重新订购商品以及退回产品，所有这些都是为了提高整体购物体验。
+您将了解如何在Edge Delivery Services上浏览Adobe Commerce店面体验，包括购物车、折扣和优惠券代码、访客结账、帐户更新、取消和重新排序、退货，以及更加顺畅的结账方式。
 
 ## 此视频面向谁？
 
@@ -31,16 +32,16 @@ ht-degree: 0%
 * 数字营销人员
 * 客户服务代表
 * IT专业人员
-* 在线商店管理员
-* UX/UI Designer
+* 在线商店经理
+* UX/UI设计器
 * 销售经理
 * 营销专家
 * 产品经理
 
 ## 视频内容
 
-* 了解如何应用购物车价格规则和优惠券代码以在结账过程中实现最大节约。
-* 了解如何管理订单，包括将项目添加到购物车、作为访客签出、取消订单和重新排序项目。
-* 深入了解如何更新帐户信息、合并来宾和客户购物车，以及确保流畅的结账体验。
+* 在结账期间（包括栈叠可用时）应用购物车价格规则和优惠券代码。
+* 处理购物车和订单：添加商品、以访客身份结帐、取消订单、重新订购和处理退货。
+* 更新帐户信息，合并来宾和客户购物车，并保持结账一致。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446772?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)

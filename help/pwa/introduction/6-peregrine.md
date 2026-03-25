@@ -3,6 +3,7 @@ title: 面向开发人员的PWA Studio - Peregrine
 description: 了解Peregrine，包括Peregrine库。 了解Peregrine背后的动机​，Peregrine钩子和爪子之间的区别。
 kt: 5649
 doc-type: video
+duration: 243
 activity: use
 last-substantial-update: 2023-5-28
 feature: GraphQL, REST, Tools and External Services
@@ -11,7 +12,7 @@ old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: 3f513b05-77f4-4695-ac36-b0d73d1e2750
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -22,16 +23,16 @@ ht-degree: 0%
 
 在此视频中：
 
-- Peregrine简介
-- 佩雷格林图书馆
-- 了解Peregrine背后的动机
-- 区分Peregrine钩子和爪子
+* Peregrine简介
+* 佩雷格林图书馆
+* 了解Peregrine背后的动机
+* 区分Peregrine钩子和爪子
 
 ## 此视频面向谁？
 
-- 前端开发人员
-- 项目经理
+* 前端开发人员
+* 项目经理
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/35720?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35720?learn=on)

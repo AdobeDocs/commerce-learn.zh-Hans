@@ -7,11 +7,11 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 118
+duration: 141
 last-substantial-update: 2024-10-29T00:00:00Z
 jira: KT-16406
 exl-id: 48d22302-b2ab-415a-a83c-a28eea45d87e
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -24,13 +24,13 @@ ht-degree: 0%
 
 ## 此视频面向谁
 
-- 开发人员使用Adobe Commerce Cloud集成和其他开发人员分支进行测试。
-- 使用Luma店面测试功能的新Adobe Commerce Cloud队友。
+* 开发人员使用Adobe Commerce Cloud集成和其他开发人员分支进行测试。
+* 使用Luma店面测试功能的新Adobe Commerce Cloud队友。
 
 ## 视频内容
 
-- 了解如何检测无效的ssl证书。
-- 识别在此过程中何时创建新证书。
-- 验证新证书是否按预期工作。&#x200B;AEM
+* 了解如何检测无效的ssl证书。
+* 识别在此过程中何时创建新证书。
+* 验证新证书是否按预期工作&#x200B;。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439769?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435751?learn=on)

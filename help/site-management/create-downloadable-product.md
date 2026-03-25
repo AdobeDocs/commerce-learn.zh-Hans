@@ -3,6 +3,7 @@ title: 创建可下载的产品
 description: 了解如何使用REST API和Adobe Commerce管理员创建可下载的产品。
 kt: 14464
 doc-type: video
+duration: 946
 audience: all
 activity: use
 last-substantial-update: 2023-11-16T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 90753b8d-eca0-4868-b40e-9563d2b0e1e8
-source-git-commit: eba043cd4169cd762653557bf9283b8d6a208ef0
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '584'
 ht-degree: 0%
@@ -24,13 +25,13 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-- 网站管理员
-- 电子商务促销商
-- 新的Adobe Commerce开发人员，他们想要了解如何使用REST API在Adobe Commerce中创建产品
+* 网站管理员
+* 电子商务促销商
+* 新的Adobe Commerce开发人员，他们想要了解如何使用REST API在Adobe Commerce中创建产品
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3453956?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
 
 ## 允许下载的域
 
@@ -54,7 +55,7 @@ ht-degree: 0%
 
 现在该域已添加到`env.php`，您可以在Adobe Commerce管理员中或使用REST API创建可下载的产品。
 
-有关详细信息，请参阅[配置引用](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=zh-Hans#downloadable_domains)。
+有关详细信息，请参阅[配置引用](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains)。
 
 >[!IMPORTANT]
 >在某些版本的Adobe Commerce上，在Adobe Commerce管理员中编辑产品时，您可能会收到以下错误。 产品是使用REST API创建的，但链接下载的价格为`null`。
@@ -112,24 +113,24 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## 使用cURL创建可下载的产品(从Commerce应用程序服务器下载)
+## 使用cURL创建可下载的产品（从Commerce应用程序服务器下载）
 
 此示例演示了当文件与Adobe Commerce应用程序存储在同一服务器上时，如何使用cURL从Adobe Commerce管理员创建可下载的产品。
 
 在此使用案例中，当管理目录的管理员选择`upload file`时，文件将传输到`pub/media/downloadable/files/links/`目录。  自动化会根据以下模式创建文件并将其移动到其各自位置：
 
-- 每个上载的文件都存储在文件夹中，该文件夹基于文件名的前两个字符。
-- 启动上传后，Commerce应用程序会创建或使用现有文件夹传输文件。
-- 下载文件时，路径的`link_file`部分使用附加到`pub/media/downloadable/files/links/`目录的路径部分。
+* 每个上载的文件都存储在文件夹中，该文件夹基于文件名的前两个字符。
+* 启动上传后，Commerce应用程序会创建或使用现有文件夹传输文件。
+* 下载文件时，路径的`link_file`部分使用附加到`pub/media/downloadable/files/links/`目录的路径部分。
 
 例如，如果上传的文件名为`download-example.zip`：
 
-- 文件上载到路径`pub/media/downloadable/files/links/d/o/`。
+* 文件上载到路径`pub/media/downloadable/files/links/d/o/`。
 如果子目录`/d`和`/d/o`不存在，则创建它们。
 
-- 文件的最终路径为`/pub/media/downloadable/files/links/d/o/download-example.zip`。
+* 文件的最终路径为`/pub/media/downloadable/files/links/d/o/download-example.zip`。
 
-- 此示例的`link_url`值为`d/o/download-example.zip`
+* 此示例的`link_url`值为`d/o/download-example.zip`
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -236,7 +237,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## 其他资源
 
-- [可下载的产品类型](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=zh-Hans){target="_blank"}
-- [可下载的域配置指南](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=zh-Hans#downloadable_domains){target="_blank"}
-- [Adobe Developer REST教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [可下载的产品类型](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
+* [可下载的域配置指南](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
+* [Adobe Developer REST教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

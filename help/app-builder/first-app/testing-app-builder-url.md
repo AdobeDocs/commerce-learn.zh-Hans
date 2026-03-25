@@ -4,6 +4,7 @@ description: 了解如何从为项目提供的Adobe Developer App Builder URL测
 landing-page-description: 了解如何从提供的项目URL测试您的第一个Adobe Developer App Builder应用程序。
 kt: 12427
 doc-type: tutorial
+duration: 78
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 120d551d-efb0-4766-b346-1fb55fd868a4
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -32,6 +33,6 @@ ht-degree: 0%
 * 如何部署应用程序
 * 部署后可在何处查找URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3421043?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416664?learn=on)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

@@ -3,6 +3,7 @@ title: 创建产品属性
 description: 创建一个返回带有一个参数的json的页面。
 kt: 14131
 doc-type: video
+duration: 605
 activity: use
 last-substantial-update: 2023-2-10
 feature: Configuration, System, Backend Development
@@ -10,7 +11,7 @@ topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: d6aeac0c4c66bd8117cc9ef1e0186bbb19cf23e9
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -23,29 +24,29 @@ ht-degree: 0%
 
 在此视频中：
 
-- 添加一个名为clothing_material的属性，可能的值包括：棉花、皮革、丝绸、牛仔布、毛皮和羊毛
-- 在产品视图页面上以粗体文本显示此属性
-- 将其分配给“默认”属性集并添加限制
-- 添加新属性
+* 添加一个名为clothing_material的属性，可能的值包括：棉花、皮革、丝绸、牛仔布、毛皮和羊毛
+* 在产品视图页面上以粗体文本显示此属性
+* 将其分配给“默认”属性集并添加限制
+* 添加新属性
 
 ## 此视频面向谁？
 
-- 刚开始使用Commerce的开发人员，他们需要了解如何以编程方式创建产品属性
+* 刚开始使用Commerce的开发人员，他们需要了解如何以编程方式创建产品属性
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3412437?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/35789?learn=on)
 
 ## 代码示例
 
 首先创建所需的文件夹、xml和PHP文件：
 
-- app/code/Learning/ClothingMaterial/registration.php
-- app/code/Learning/ClothingMaterial/etc/module.xml
-- app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
-- app/code/Learning/ClothingMaterial/Model/Attribute/Frontend/Material.php
-- app/code/Learning/ClothingMaterial/Model/Attribute/Source/Material.php
-- app/code/Learning/ClothingMaterial/Setup/InstallData.php
+* app/code/Learning/ClothingMaterial/registration.php
+* app/code/Learning/ClothingMaterial/etc/module.xml
+* app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
+* app/code/Learning/ClothingMaterial/Model/Attribute/Frontend/Material.php
+* app/code/Learning/ClothingMaterial/Model/Attribute/Source/Material.php
+* app/code/Learning/ClothingMaterial/Setup/InstallData.php
 
 ### app/code/Learning/ClothingMaterial/registration.php
 

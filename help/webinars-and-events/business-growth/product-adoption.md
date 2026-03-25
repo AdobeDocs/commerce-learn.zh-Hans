@@ -7,16 +7,16 @@ old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 694
+duration: 743
 last-substantial-update: 2025-10-13T00:00:00Z
 jira: KT-19378
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+exl-id: 9326f53d-e3aa-421f-bdaa-7be523a0ecd8
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
 
 ---
-
 
 # 通过简化新产品采用率实现业务增长
 
@@ -36,4 +36,4 @@ Adobe Commerce正在帮助企业分阶段迁移到Adobe Commerce as a Cloud Serv
 * App Builder可扩展性允许将自定义逻辑分离到无服务器函数中，以便更轻松地维护。
 * Storefront增强功能通过插入式组件和边缘交付改进了性能和内容创建。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475758/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737?learn=on)

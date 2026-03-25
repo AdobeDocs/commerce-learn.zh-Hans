@@ -3,6 +3,7 @@ title: 管理币种和税则
 description: 了解如何配置货币以及 [!DNL Commerce] 用于根据客户和产品类别计算相应税款的税则。
 kt: 10542
 doc-type: feature video
+duration: 157
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: d72fd055-1497-41e7-ae2c-2bbc837d974c
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -24,14 +25,14 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-- 商店管理员
-- 电子商务经理
+* 商店管理员
+* 电子商务经理
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3410210?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/343657?learn=on)
 
 ## 其他资源
 
-- [税则 —  [!DNL Commerce] 存储和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html?lang=zh-Hans)
-- [货币 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html?lang=zh-Hans)
+* [税则 —  [!DNL Commerce] 存储和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
+* [货币 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)

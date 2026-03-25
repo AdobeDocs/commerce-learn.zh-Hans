@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: ad0e7639accf3b127bb11c062c9c22a3b03c362f
+source-git-commit: 3015914bce0b6fc1eba125f6a9c0b52a0b5c057f
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '871'
 ht-degree: 3%
 
 ---
@@ -96,18 +96,18 @@ ht-degree: 3%
 
 + 可扩展性 {#extensibility}
    + 后端开发 {#backend-development}
-      + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+      + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [创建模块](../backend-development/create-module.md)
       + [添加产品属性](../backend-development/add-product-attribute.md)
       + [依赖项注入示例](../backend-development/dependency-injection.md)
       + [Galera群集复制缓慢](../backend-development/galera-db-slow-replication.md)
       + [MySQL查询缓存](../backend-development/mysql-query-cache.md)
       + [PT查询摘要](../backend-development/pt-query-digest.md)
-      + [连接和下载Adobe Commerce数据库](../backend-development/remote-db-connection-execute-queries.md)
+      + [针对Adobe Commerce数据库连接并运行查询](../backend-development/remote-db-connection-execute-queries.md)
       + Commerce升级 {#upgrade}
          + [Adobe Commerce 2.4升级研讨会](../upgrade/2-4-upgrade-workshop.md)
          + [升级兼容性工具概述](../upgrade/upgrade-compatibility-tool-overview.md)
-         + [使用PHP Storm中的升级兼容性工具](../upgrade/uct-phpstorm.md)
+         + [使用PhpStorm中的升级兼容性工具](../upgrade/uct-phpstorm.md)
    + 前端Luma开发 {#frontend-development}
       + 面向开发人员的PaaS/SaaS页面生成器 {#page-builder}
          + [1 — 简介](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -131,12 +131,12 @@ ht-degree: 3%
          + Headless简介 {#introduction-to-headless}
             + [Headless架构 — 会话1](../headless/session-1.md)
          + PWA Studio简介 {#introduction}
-            + [1 — 概述](../pwa/introduction/1-overview.md)
-            + [2 - PWA Studio工具](../pwa/introduction/2-pwa-studio-tools.md)
-            + [3 — 启动](../pwa/introduction/3-launch.md)
-            + [4 — 向上](../pwa/introduction/4-upward.md)
-            + [5 — 快速入门](../pwa/introduction/5-getting-started.md)
-            + [6 — 佩雷格林](../pwa/introduction/6-peregrine.md)
+            + [概述](../pwa/introduction/1-overview.md)
+            + [PWA Studio工具](../pwa/introduction/2-pwa-studio-tools.md)
+            + [Launch](../pwa/introduction/3-launch.md)
+            + [向上](../pwa/introduction/4-upward.md)
+            + [快速入门](../pwa/introduction/5-getting-started.md)
+            + [佩雷格林](../pwa/introduction/6-peregrine.md)
          + [PWA Docker开发](../pwa/pwa-docker-development.md)
          + [设置Venia以进行开发](../pwa/set-up-venia-for-dev.md)
    + GraphQL和REST {#graphql-rest}

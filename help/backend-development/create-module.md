@@ -1,42 +1,42 @@
 ---
 title: 创建模块
-description: 了解如何在Adobe Commerce中创建用于向PSR记录器发送信息的模块。 这向Adobe Commerce中的第一个模块添加了功能。
-kt: 5614
-doc-type: video
+description: 在Adobe Commerce中创建和注册模块，运行安装程序，并将登录到管理区域、店面和REST API上下文中的PSR记录器的插件。
+jira: KT-5614
+doc-type: Technical Video
+duration: 1113
 activity: use
-last-substantial-update: 2023-6-2
+last-substantial-update: 2026-03-23T00:00:00Z
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, Developer
 level: Beginner, Intermediate
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
-source-git-commit: 4f6c8abec90663f80233b94456ad1e58edb86d51
+source-git-commit: 1e67193c9b80c929ec391acef771562fb930cc67
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
 # 创建模块
 
-模块是[!DNL Commerce]的结构元素 — 整个系统基于模块构建。 通常，创建自定义项的第一步是构建模块。
+模块是[!DNL Commerce]的结构元素 — 模块构成系统的主干。 通常，通过构建模块来开始自定义。
 
 ## 此视频面向谁？
 
-- 开发人员
+* 后端开发人员
 
 ## 添加模块的步骤
 
-- 创建模块文件夹。
-- 创建etc/module.xml文件。
-- 创建registration.php文件。
-- 运行bin/magento设置。
-- 升级脚本以安装新模块。
-- 检查模块是否正常工作。
+1. 创建模块文件夹。
+2. 创建`etc/module.xml`文件。
+3. 创建`registration.php`文件。
+4. 运行`bin/magento setup:upgrade`以注册并安装模块。
+5. 检查模块是否正常工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412450?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
 
-### module.xml
+### module.xml文件
 
 ```xml
 <?xml version="1.0"?>
@@ -50,7 +50,7 @@ ht-degree: 0%
 </config>
 ```
 
-### registration.php
+### registration.php文件
 
 ```php
 <?php
@@ -63,24 +63,24 @@ ComponentRegistrar::register(
     __DIR__);
 ```
 
-### 添加插件并提供一些功能
+### 添加插件
 
-下一步是在基本模块中添加一些功能。 插件是所有Adobe Commerce开发人员都会使用的基本工具。 本视频和教程可帮助您创建插件。
+接下来，向基本模块中添加功能。 在Adobe Commerce开发中，您可以使用插件作为基本工具。 本视频和教程向您说明如何创建插件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420255?learn=on)
 
 ### 对于插件，请记住以下事项
 
-- 所有插件均在`di.xml`中声明。
-- 插件需要一个唯一的名称
-- disabled和sortOrder是可选的
-- 插件的范围由其所在的文件夹设置
-- 插件可以在调用方法之前、之后或两者同时执行
-- 避免使用`around`插件。 它们很有吸引力，但往往都是错误的选择，并会导致性能问题。
+* 您在`di.xml`中声明所有插件。
+* 您可以为每个插件指定一个唯一的名称。
+* 您可以选择设置`disabled`和`sortOrder`属性。
+* 通过选择包含`di.xml`文件的文件夹来设置插件范围。
+* 您可以在Target方法调用之前、之后或周围运行插件。
+* 避免`around`插件。 它们会引诱您，但它们通常代表错误的选择，并导致性能问题。
 
 ### 插件代码示例
 
-以下是教程中用于向第一个模块添加插件的XML和PHP类
+本教程使用以下XML和PHP类向第一个模块添加插件。
 
 ### app/code/Training/Sales/etc/adminhtml/di.xml
 
@@ -285,5 +285,5 @@ class RestAddLoggingAfterOrderPlacePlugin
 
 ## 有用的资源
 
-- [模块参考指南](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-- [插件](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+* [模块参考指南](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
+* [插件](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}

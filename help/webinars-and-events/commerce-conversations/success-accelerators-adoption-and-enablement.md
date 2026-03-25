@@ -6,11 +6,11 @@ topic: Administration, Commerce
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 95
+duration: 130
 last-substantial-update: 2025-04-16T00:00:00Z
 jira: KT-17808
 exl-id: 8957dbbe-9bed-41e4-b21e-5371f91085fd
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -34,4 +34,4 @@ Adobe Commerce成功加速器的采用和启用包括三个关键服务：用例
 * 多会话桌面辅导，以弥合技能差距并符合战略优先事项。
 * 创建访问权限、权限和设计管理以确保正确采用产品和最佳实践。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463088/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457657?learn=on)

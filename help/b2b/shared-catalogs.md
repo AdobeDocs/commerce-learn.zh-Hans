@@ -2,6 +2,7 @@
 title: 管理共享目录
 description: 了解如何使用B2B共享目录来维护不同公司的带自定义定价的封闭目录。
 doc-type: feature video
+duration: 456
 audience: all
 activity: use
 last-substantial-update: 2023-5-10
@@ -10,7 +11,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 74fb5548-a077-4c09-a351-0be830060841
-source-git-commit: abde2b1e7d1fd1fd5387f2564e79b086fb808b2f
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -27,14 +28,14 @@ Adobe Commerce的B2B使您能够使用自定义定价为不同的公司维护封
 
 ## 此视频面向谁？
 
-- 网站管理员
-- 电子商务促销商
+* 网站管理员
+* 电子商务促销商
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3410751?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/344446?learn=on)
 
 ## 其他资源
 
-- [使用共享目录](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html?lang=zh-Hans){target="_blank"}
-- [创建共享目录](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html?lang=zh-Hans){target="_blank"}
+* [使用共享目录](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html){target="_blank"}
+* [创建共享目录](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html){target="_blank"}

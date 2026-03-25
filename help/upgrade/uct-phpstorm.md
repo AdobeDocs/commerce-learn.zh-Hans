@@ -1,48 +1,47 @@
 ---
-title: 使用PHP Storm上的升级兼容性工具
-description: 观看本技术视频，了解如何将升级兼容性工具与 PHP Storm 插件一起使用。
-landing-page-description: 了解如何将升级兼容性工具与 PHP Storm 插件一起使用，轻松地识别和解决不兼容问题。
-short-description: 了解如何将升级兼容性工具与 PHP Storm 插件一起使用，轻松地识别和解决不兼容问题。
-kt: 9651
-doc-type: technical video
-audience: all
-activity: use
+title: 使用PhpStorm中的升级兼容性工具
+description: 了解如何将升级兼容性工具与PhpStorm插件结合使用，以在升级之前查找并修复不兼容的问题。
+doc-type: Technical Video
+duration: 416
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Upgrade, Tools and External Services
 topic: Commerce, Administration
-old-role: Architect, Developer
 role: Developer
-level: Beginner, Intermediate
+level: Intermediate
+jira: KT-9651
 exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 35%
+source-wordcount: '126'
+ht-degree: 0%
 
 ---
 
-# 使用PHP Storm上的升级兼容性工具
+# 使用PhpStorm中的升级兼容性工具
 
 {{only-for-on-prem-commerce-cloud}}
 
-升级兼容性工具(UCT)是一款免费工具，可在几分钟内分析当前版本与目标升级版本之间的不兼容性。 PHP Storm插件使此工具更易于使用。
+升级兼容性工具(UCT)可在几分钟内分析当前版本与目标升级版本之间的不兼容性。 PhpStorm插件使工具更容易从IDE中运行。
 
 在此视频中：
 
-- 什么是升级兼容性工具？
-- 如何将其与Magento PHP Storm插件一起使用
-- 如何访问HTML结果，以帮助按严重性和不兼容数量可视化模块
+* 升级兼容性工具的作用
+* 如何将其与Magento PhpStorm插件一起使用
+* 如何按模块严重性和不兼容计数读取HTML结果
 
 ## 此视频面向谁？
 
-- 开发人员
+* 开发人员
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/344403?captions=chi_hans&quality=12&learn=on)
+* 从PhpStorm安装和运行UCT。
+* 查看HTML报告并排定修复的优先级。
+
+>[!VIDEO](https://video.tv.adobe.com/v/340150?learn=on)
 
 ## 其他资源
 
-- [升级兼容性工具](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=zh-Hans)
-- [Magento PHP Storm插件](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
-- [已发布的版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=zh-Hans)
+* [升级兼容性工具](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html){target="_blank"}
+* [Magento PhpStorm插件](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm){target="_blank"}
+* [已发布的版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html){target="_blank"}

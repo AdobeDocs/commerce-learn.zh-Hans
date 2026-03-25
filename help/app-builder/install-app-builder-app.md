@@ -6,11 +6,11 @@ topic: Commerce
 role: Developer, User
 level: Beginner
 doc-type: Tutorial
-duration: 250
+duration: 273
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18829
 exl-id: 639c35cb-beb0-4aa4-8b7c-667198740b3d
-source-git-commit: c85cd679a3f1486aa04222921ee0d165ef76fc93
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -24,10 +24,10 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-- Adobe Commerce开发人员
-- 技术架构师
-- 系统管理员
+* Adobe Commerce开发人员
+* 技术架构师
+* 系统管理员
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3471534/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3471513?learn=on)

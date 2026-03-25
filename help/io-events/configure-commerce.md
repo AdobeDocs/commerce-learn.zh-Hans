@@ -5,6 +5,7 @@ landing-page-description: 了解如何配置Adobe Commerce以使用Adobe Develop
 short-description: 了解如何配置Adobe Commerce以使用Adobe Developer App Builder使用的事件机制。
 kt: 11889
 doc-type: tutorial
+duration: 299
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Configuration, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: b8062042-2e90-4750-92ef-d55a76f2d842
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -35,7 +36,7 @@ ht-degree: 0%
 * 在Commerce管理员中保存唯一标识符
 * 创建事件提供程序
 
->[!VIDEO](https://video.tv.adobe.com/v/3419711?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415799?learn=on)
 
 ## 有用的命令 {#useful-commands}
 

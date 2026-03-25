@@ -3,6 +3,7 @@ title: 创建可配置产品
 description: 了解如何使用REST API和Commerce管理员创建可配置产品。
 kt: 14586
 doc-type: video
+duration: 1760
 audience: all
 activity: use
 last-substantial-update: 2023-12-15T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 112bec9a-0f8e-4252-8c52-f486a5e663b5
-source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '952'
 ht-degree: 0%
@@ -30,7 +31,7 @@ ht-degree: 0%
 
 使用REST API创建可配置的产品：
 
-1. 获取[属性集](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=zh-Hans)的属性，以便为后续API调用使用ID号。
+1. 获取[属性集](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)的属性，以便为后续API调用使用ID号。
 1. 创建简单产品以在可配置产品中使用。
 1. 创建空的可配置产品并关联简单产品。
 1. 设置可配置产品的产品属性。
@@ -43,9 +44,9 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-- 网站管理员
-- 电子商务促销商
-- 新的Adobe Commerce开发人员，他们想要了解如何使用REST API在Adobe Commerce中创建可配置产品
+* 网站管理员
+* 电子商务促销商
+* 新的Adobe Commerce开发人员，他们想要了解如何使用REST API在Adobe Commerce中创建可配置产品
 
 ## 视频内容
 
@@ -100,8 +101,8 @@ curl --location '{{your.url.here}}rest/V1/products/attribute-sets/10/attributes'
 
 在提交请求之前，请使用环境的值更新示例。
 
-- 更改`"attribute-set": 10`以使用您环境中的属性集ID替换`10`。
-- 将`"value": "13"`更改为使用您环境中的值替换`13`。
+* 更改`"attribute-set": 10`以使用您环境中的属性集ID替换`10`。
+* 将`"value": "13"`更改为使用您环境中的值替换`13`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -141,8 +142,8 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 在提交请求之前，请使用环境的值更新示例。
 
-- 更改`"attribute_set_id": 10,`并在您的环境中将`10`替换为的属性集ID。
-- 更改`"value": "14"`并使用您环境中的值替换`14`。
+* 更改`"attribute_set_id": 10,`并在您的环境中将`10`替换为的属性集ID。
+* 更改`"value": "14"`并使用您环境中的值替换`14`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -182,8 +183,8 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 在提交请求之前，请使用环境的值更新示例。
 
-- 更改`"attribute_set_id": 10,`以使用您环境中的属性集ID替换`10`。
-- 更改`"value": "15"`并使用您环境中的值替换`15`。
+* 更改`"attribute_set_id": 10,`以使用您环境中的属性集ID替换`10`。
+* 更改`"value": "15"`并使用您环境中的值替换`15`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -223,8 +224,8 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 在提交请求之前，请使用环境的值更新示例。
 
-- 更改`"attribute_set_id": 10,`并使用您环境中的属性集ID替换`10`。
-- 更改`"value": "93"`并使用您环境中的值替换`93`。
+* 更改`"attribute_set_id": 10,`并使用您环境中的属性集ID替换`10`。
+* 更改`"value": "93"`并使用您环境中的值替换`93`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -284,9 +285,9 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Ha
 
 现在，您已创建了三个简单的产品：
 
-- `"Kids Hawaiian Ukulele Red"`，
-- `"Kids-Hawaiian-Ukulele-Blue"`
-- `"Kids-Hawaiian-Ukulele-Green"`
+* `"Kids Hawaiian Ukulele Red"`，
+* `"Kids-Hawaiian-Ukulele-Blue"`
+* `"Kids-Hawaiian-Ukulele-Green"`
 
 通过发送以下POST请求，将这些简单产品添加为可配置产品的子项。 为每种产品单独提交请求。
 
@@ -318,7 +319,7 @@ curl --location '{{your.url.here}}rest/default/V1/configurable-products/Kids-Haw
 ...
 ```
 
-下面使用GET方法
+以下内容使用GET方法
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulele' \
@@ -329,7 +330,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulel
 
 通过发送以下GET请求，仅返回与可配置产品关联的子项。 响应将包括子产品的所有属性，包括SKU和价格。
 
-下面使用GET方法
+以下内容使用GET方法
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/configurable-products/kids-hawaiian-ukulele/children' \
@@ -347,7 +348,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 
 ## 其他资源
 
-- [创建可配置的产品教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
-- [可配置产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html?lang=zh-Hans){target="_blank"}
-- [Adobe Developer REST教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [创建可配置的产品教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
+* [可配置的产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
+* [Adobe Developer REST教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

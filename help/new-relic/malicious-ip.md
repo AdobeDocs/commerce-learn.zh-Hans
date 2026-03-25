@@ -5,6 +5,7 @@ landing-page-description: 此视频指示New Relic用户查找可能需要阻止
 short-description: 此视频指示New Relic用户查找可能需要阻止其访问站点的潜在IP地址。
 kt: 11566
 doc-type: video
+duration: 153
 audience: all
 activity: use
 last-substantial-update: 2022-12-9
@@ -14,7 +15,7 @@ old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: 2bd28c6f-5139-485b-a439-dd7dbf2b6f62
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -25,6 +26,6 @@ ht-degree: 0%
 
 在此视频中：
 
-- 识别在Fastly中&#x200B;用于阻止的可疑或恶意IP
+* 识别在Fastly中&#x200B;用于阻止的可疑或恶意IP
 
->[!VIDEO](https://video.tv.adobe.com/v/3417125?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412088?learn=on)

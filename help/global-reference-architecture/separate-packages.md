@@ -3,6 +3,7 @@ title: 单独的软件包全球参考体系结构
 description: 使用单独的包GRA优化Adobe Commerce。 了解灵活版本化包管理的设置、好处和最佳实践。
 jira: KT-16727
 doc-type: tutorial
+duration: 594
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '2101'
 ht-degree: 0%
@@ -35,16 +36,16 @@ ht-degree: 0%
 
 优点：
 
-- 通过共享代码存储库重用代码
-- 软件包安装完全灵活，每个GRA软件包都可以单独升级、降级或反向移植
-- 完全支持语义版本控制
-- 无需特殊工具、复杂的基础架构或特殊的分支策略
-- 支持编辑器支持的所有包类型
+* 通过共享代码存储库重用代码
+* 软件包安装完全灵活，每个GRA软件包都可以单独升级、降级或反向移植
+* 完全支持语义版本控制
+* 无需特殊工具、复杂的基础架构或特殊的分支策略
+* 支持编辑器支持的所有包类型
 
 缺点：
 
-- 在这种GRA模式中进行开发在开始时难度稍大一些，但有一段较短的学习曲线
-- 要部署未使用相同配置开发的软件包组合，需要严格的测试过程
+* 在这种GRA模式中进行开发在开始时难度稍大一些，但有一段较短的学习曲线
+* 要部署未使用相同配置开发的软件包组合，需要严格的测试过程
 
 ## 使用单独的包GRA模式设置Adobe Commerce
 
@@ -84,9 +85,9 @@ git push -u origin main
 
 此全局参考架构模式中的每个包都有自己的Git存储库。 以下是示例包，其中包含表示GRA模块、第三方模块和本地模块的Adobe Commerce模块。
 
-- <https://github.com/AntonEvers/module-example-gra>
-- <https://github.com/AntonEvers/module-example-3rdparty>
-- <https://github.com/AntonEvers/module-example-local>
+* <https://github.com/AntonEvers/module-example-gra>
+* <https://github.com/AntonEvers/module-example-3rdparty>
+* <https://github.com/AntonEvers/module-example-local>
 
 使用这些示例创建您自己的包。
 
@@ -290,10 +291,10 @@ composer install --prefer-source
 
 此博客帖子的代码示例已合并到一组Git存储库中，您可以使用这些存储库来玩概念验证。
 
-- 示例生产存储： <https://github.com/AntonEvers/gra-separate-brand-x>
-- 基础模块示例： <https://github.com/AntonEvers/module-example-gra>
-- 第三方模块示例： <https://github.com/AntonEvers/module-example-3rdparty>
-- 示例本地模块： <https://github.com/AntonEvers/module-example-local>
-- 基础元包示例： <https://github.com/AntonEvers/gra-meta-foundation>
-- 示例本地中继（可选）： <https://github.com/AntonEvers/gra-meta-brand-x>
-- 示例编辑器存储库： <https://github.com/AntonEvers/gra-composer-repository>
+* 示例生产存储： <https://github.com/AntonEvers/gra-separate-brand-x>
+* 基础模块示例： <https://github.com/AntonEvers/module-example-gra>
+* 第三方模块示例： <https://github.com/AntonEvers/module-example-3rdparty>
+* 示例本地模块： <https://github.com/AntonEvers/module-example-local>
+* 基础元包示例： <https://github.com/AntonEvers/gra-meta-foundation>
+* 示例本地中继（可选）： <https://github.com/AntonEvers/gra-meta-brand-x>
+* 示例编辑器存储库： <https://github.com/AntonEvers/gra-composer-repository>

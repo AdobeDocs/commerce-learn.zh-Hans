@@ -4,6 +4,7 @@ description: 了解此示例应用程序的.env文件中的文件类型
 landing-page-description: 了解与Adobe Commerce一起使用的Adobe Developer App Builder以及.env文件中使用的内容类型
 kt: 12423
 doc-type: tutorial
+duration: 177
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 934fcdd1-ee61-4914-89ce-f6f04b1bc763
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -34,7 +35,7 @@ ht-degree: 0%
 * 如何附加文件以添加新密钥
 * 避免提交此文件，因为它包含敏感信息
 
->[!VIDEO](https://video.tv.adobe.com/v/3421065?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416593?learn=on)
 
 ## 代码示例
 

@@ -6,11 +6,11 @@ topic: Commerce, Security
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 152
+duration: 195
 last-substantial-update: 2025-05-12T00:00:00Z
 jira: KT-18082
 exl-id: 8a109d90-a11c-4323-9486-abe48a2e1bff
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -33,11 +33,11 @@ ht-degree: 0%
 * 事件响应：商家需要及时响应安全警报，这些警报可能通过各种渠道（如电子邮件和管理员通知）发出。
 * 最佳实践：Adobe建议商家采用的最佳实践，包括启用双重身份验证、设置安全管理员访问并遵循最小权限原则。
 
->[!VIDEO](https://video.tv.adobe.com/v/3458392/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458392?learn=on)
 
 ## 其他文档
 
-* [安全修补程序发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/security-patches/overview)
-* [通知渠道](https://business.adobe.com/cn/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
-* [Adobe安全公告](https://helpx.adobe.com/cn/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
-* [保护您的商务网站和基础架构](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
+* [安全修补程序发行说明](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)
+* [通知渠道](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
+* [Adobe安全公告](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
+* [保护您的商务网站和基础架构](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)

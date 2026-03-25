@@ -3,6 +3,7 @@ title: 创建产品属性
 description: 了解如何创建用于管理与产品、客户和产品评级相关的信息的产品属性。
 kt: 10552
 doc-type: feature video
+duration: 348
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: c65b4e42-2cfe-4f7e-8a15-d0271461e4a2
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -24,15 +25,15 @@ Adobe Commerce使用属性来管理与产品、客户和产品评级关联的信
 
 ## 此视频面向谁？
 
-- 网站管理员
-- 电子商务促销商
+* 网站管理员
+* 电子商务促销商
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3410128?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/343749?learn=on)
 
 ## 其他资源
 
-[产品属性概述 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=zh-Hans)
+[产品属性概述 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
 
-[属性集 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=zh-Hans)
+[属性集 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

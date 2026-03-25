@@ -3,6 +3,7 @@ title: 卖方辅助购物
 description: 了解如何添加，以便向已注册您商店帐户的来宾和客户提供即时帮助。
 kt: 10548
 doc-type: feature video
+duration: 205
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: a7129f74-e9f1-4c45-9513-d0328e3f3ec3
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -24,14 +25,14 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-- 销售经理
-- 客户服务代表
+* 销售经理
+* 客户服务代表
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3410200?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/343662?learn=on)
 
 ## 其他资源
 
-- [为购物者提供帮助 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html?lang=zh-Hans)
-- [购物帮助 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html?lang=zh-Hans#shopping-assistance)
+* [为购物者提供帮助 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
+* [购物帮助 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)

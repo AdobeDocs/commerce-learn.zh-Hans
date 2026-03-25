@@ -7,11 +7,11 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 260
+duration: 297
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16419
 exl-id: 4c21b6a6-783a-422f-9071-3534ed68e8be
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -24,16 +24,16 @@ ht-degree: 0%
 
 ## 此视频面向谁
 
-- 开发人员和IT专业人员
-- 系统管理员
+* 开发人员和IT专业人员
+* 系统管理员
 
 ## 视频内容
 
-- 诊断并解决存储问题：
-- 管理维护模式
-- 有效的故障排除提示
+* 诊断并解决存储问题：
+* 管理维护模式
+* 有效的故障排除提示
 
->[!VIDEO](https://video.tv.adobe.com/v/3447703?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
 
 
 ## 视频中使用的命令

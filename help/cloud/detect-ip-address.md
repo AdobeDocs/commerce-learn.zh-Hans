@@ -6,11 +6,11 @@ topic: Commerce, Development, Integrations
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 0
+duration: 624
 last-substantial-update: 2025-04-07T00:00:00Z
 jira: KT-17553
 exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
-source-git-commit: b015b9c64be631b43ad63d180c003dda8fdd198a
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1095'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 检测不同环境的IP地址
 
-了解如何在Adobe Commerce云项目中检测不同环境的IP地址。 通过使用一系列命令(包括Adobe Commerce CLI、sed、xargs、dig、grep和sort -u)，用户可以确定用于开发、暂存和生产环境的IP地址。
+了解如何在Adobe Commerce云项目中检测不同环境的IP地址。 通过使用一系列命令（包括Adobe Commerce CLI、sed、xargs、dig、grep和sort -u），用户可以确定用于开发、暂存和生产环境的IP地址。
 
 ## 此视频面向谁？
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 * 了解如何发现Adobe Commerce Cloud中任何环境的IP地址。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457493/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457493?learn=on)
 
 ## 用于获取IP地址的命令
 
@@ -50,7 +50,7 @@ magento-cloud CLI工具旨在帮助开发人员和系统管理员高效地管理
 
 在示例代码的此初始部分`magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1`中，它正在请求环境的URL。 返回的值类似于此`http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/`。 偶尔它看起来更像此`http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`。  第一个命令相当简单，现在是时候进入下一个命令了。
 
-有关详细信息，请阅读[云CLI概述](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
+有关详细信息，请阅读[云CLI概述](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
 
 ## 使用`sed`进行搜索和替换
 
@@ -120,4 +120,4 @@ dig +short 6.abcikdxbg789.ent.magento.cloud
 
 ## 相关文档
 
-* [地区IP地址](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [地区IP地址](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}

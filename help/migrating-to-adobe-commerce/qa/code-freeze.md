@@ -6,11 +6,11 @@ topic: Commerce, Development
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 199
+duration: 253
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15993
 exl-id: dc1d609f-af81-44ea-b0f0-f48ed6fc8d47
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -37,4 +37,4 @@ ht-degree: 0%
 * 协调手动和自动化测试、负载测试和渗透测试，以确保站点各方面的功能均按预期运行。
 * 让业务利益相关者、开发人员和IT团队参与验证过程，以确保顺利成功地启动。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445500/?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432965?learn=on)

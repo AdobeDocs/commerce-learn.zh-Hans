@@ -5,6 +5,7 @@ landing-page-description: 观看本网络研讨会录制视频，了解 Adobe Co
 short-description: 观看本网络研讨会录制视频，了解 Adobe Commerce 2.4 升级步骤和最佳实践。
 kt: 9620
 doc-type: technical video
+duration: 4306
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -14,7 +15,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: fba4a08b-5633-433b-bf87-fa85457e4578
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 33%
@@ -29,22 +30,22 @@ ht-degree: 33%
 
 在本研讨会中，Adobe Commerce与Merkle合作分享：
 
-- 升级到Adobe Commerce 2.4时要执行的技术步骤
-- 升级时可使用的最佳实践和工具
-- 建议升级到2.4.4或更高版本的路径
-- 要引用的主要升级资源
+* 升级到Adobe Commerce 2.4时要执行的技术步骤
+* 升级时可使用的最佳实践和工具
+* 建议升级到2.4.4或更高版本的路径
+* 要引用的主要升级资源
 
 ## 此视频面向谁？
 
-- 站点管理器
-- 开发人员
+* 站点管理器
+* 开发人员
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3431940?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340038?learn=on)
 
 ## 其他资源
 
-- [升级指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=zh-Hans)
-- [已发布的版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=zh-Hans)
-- [发布计划](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=zh-Hans)
+* [升级指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+* [已发布的版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+* [发布计划](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

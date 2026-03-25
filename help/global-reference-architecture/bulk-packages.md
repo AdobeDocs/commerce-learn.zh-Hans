@@ -3,6 +3,7 @@ title: 使用批量包优化Adobe Commerce全球参考架构
 description: 了解如何使用批量包全局参考架构来设置Adobe Commerce，以实现高效的代码管理和版本控制。
 jira: KT-16726
 doc-type: tutorial
+duration: 391
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1172'
 ht-degree: 0%
@@ -33,18 +34,18 @@ ht-degree: 0%
 
 优点：
 
-- 通过共享代码存储库重用代码
-- 灵活地在不同实例上安装不同的GRA历史版本，从而实现分阶段发布
-- 灵活地支持并维护GRA的多个主要版本
-- 支持GRA的语义版本控制
-- 简单明了，开发人员不需要比常规单商店开发模式更多的技能
-- 无需特殊工具、复杂的基础架构或特殊的分支策略
-- 发行版中的软件包组合始终一起开发和测试
+* 通过共享代码存储库重用代码
+* 灵活地在不同实例上安装不同的GRA历史版本，从而实现分阶段发布
+* 灵活地支持并维护GRA的多个主要版本
+* 支持GRA的语义版本控制
+* 简单明了，开发人员不需要比常规单商店开发模式更多的技能
+* 无需特殊工具、复杂的基础架构或特殊的分支策略
+* 发行版中的软件包组合始终一起开发和测试
 
 缺点：
 
-- 只能升级完整的GRA，包括其中包含的所有包。
-- GRA批量包中不支持Adobe Commerce模块、语言包和主题以外的编辑器包，因此没有中继包、magento2组件包、Composer插件和修补程序
+* 只能升级完整的GRA，包括其中包含的所有包。
+* GRA批量包中不支持Adobe Commerce模块、语言包和主题以外的编辑器包，因此没有中继包、magento2组件包、Composer插件和修补程序
 
 ## 使用拆分Git GRA模式设置Adobe Commerce
 
@@ -233,11 +234,11 @@ git push origin main
 
 仅当第三方不通过Composer存储库提供安装时，您才可以将第三方模块存储在Foundation存储库的`src/`目录或专用的第三方批量包中。
 
-- **Adobe Commerce core**：可通过repo.magento.com获取。
-- **第三方模块**：通过Marketplace或供应商自己的编辑器存储库提供。
-- **第三方模块回退选项**：存储在批量包的`src/`中。
-- **GRA Foundation代码**：存储在Foundation批量包的`src/`中。
-- **本地代码**：存储在部署存储库的`packages/local`目录中。
+* **Adobe Commerce core**：可通过repo.magento.com获取。
+* **第三方模块**：通过Marketplace或供应商自己的编辑器存储库提供。
+* **第三方模块回退选项**：存储在批量包的`src/`中。
+* **GRA Foundation代码**：存储在Foundation批量包的`src/`中。
+* **本地代码**：存储在部署存储库的`packages/local`目录中。
 
 ## 开发GRA模块
 
@@ -272,6 +273,6 @@ composer install --prefer-source
 
 本文的代码示例作为一组Git存储库提供，您可以使用这些存储库来测试概念验证。
 
-- 示例生产存储： <https://github.com/AntonEvers/gra-bulk-brand-x>
-- GRA代码存储库： <https://github.com/AntonEvers/gra-bulk-foundation>
-- 示例本地模块： <https://github.com/AntonEvers/module-example-local>
+* 示例生产存储： <https://github.com/AntonEvers/gra-bulk-brand-x>
+* GRA代码存储库： <https://github.com/AntonEvers/gra-bulk-foundation>
+* 示例本地模块： <https://github.com/AntonEvers/module-example-local>

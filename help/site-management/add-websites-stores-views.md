@@ -3,6 +3,7 @@ title: 添加网站、商店和商店视图
 description: 了解如何根据业务需求添加新网站、商店和视图。
 kt: 5609
 doc-type: feature video
+duration: 464
 audience: all
 activity: use
 last-substantial-update: 2022-12-28T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: f9df7bb0-f5fe-41c0-8990-7d9b5db3596d
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -24,18 +25,18 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-- 商店管理员
-- 网站管理员
+* 商店管理员
+* 网站管理员
 
 ## 视频内容
 
 >[!NOTE]
 >
->视频中的内容反映了2.1.0版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hans)。
+>视频中的内容反映了2.1.0版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
 
->[!VIDEO](https://video.tv.adobe.com/v/35787?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35787?learn=on)
 
 ## 其他资源
 
-- [网站、商店和视图 —  [!DNL Commerce] 入门指南](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=zh-Hans)
-- [根类别和层次结构 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html?lang=zh-Hans)
+* [网站、商店和视图 —  [!DNL Commerce] 入门指南](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+* [根类别和层次结构 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html)

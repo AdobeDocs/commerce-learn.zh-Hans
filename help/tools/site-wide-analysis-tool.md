@@ -11,9 +11,9 @@ old-role: Architect, Developer
 role: Developer, Admin
 level: Beginner, Intermediate
 KT: 15599
-duration: 101
+duration: 125
 exl-id: e96759a8-31c3-4d3b-b395-db9dda2dc2d9
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -26,14 +26,14 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-- 网站管理员
-- 开发人员
+* 网站管理员
+* 开发人员
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3410775?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344001?learn=on)
 
 ## 其他资源
 
-- [站点范围分析工具](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=zh-Hans)
-- [查看和管理日志](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=zh-Hans)
+* [站点范围分析工具](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+* [查看和管理日志](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)

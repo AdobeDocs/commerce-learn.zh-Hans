@@ -6,16 +6,16 @@ topic: Architecture, Commerce
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 423
+duration: 637
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16188
-source-git-commit: fad5703d870d90175418916766a83942dc3e7b7f
+exl-id: b5a9a043-0420-4096-b915-565eaf37a288
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce营销流程
 
@@ -23,14 +23,14 @@ ht-degree: 0%
 
 ## 此视频面向谁
 
-- 营销人员、内容管理员和电子商务专业人员。
+* 营销人员、内容管理员和电子商务专业人员。
 _探索Adobe Commerce Edge交付店面的新客户和现有客户。
-- Adobe Commerce致力于寻求有效的内容管理和优化，尤其是为了推广新产品。
+* Adobe Commerce致力于寻求有效的内容管理和优化，尤其是为了推广新产品。
 
 ## 视频内容
 
-- 了解适用于Edge Delivery Services的最新内容创建和管理选项。
-- 通过A/B测试了解优化。
-- 了解一些高级工具和AI集成，以优化内容、生成变体并增强整体促销策略。
+* 了解Edge Delivery Services的最新内容创建和管理选项。
+* 通过A/B测试了解优化。
+* 了解一些高级工具和AI集成，以优化内容、生成变体并增强整体促销策略。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433542?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3433527?learn=on)

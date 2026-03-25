@@ -5,6 +5,7 @@ landing-page-description: 了解如何在Adobe Commerce和 [!DNL Adobe App Build
 short-description: 了解如何在Adobe Commerce和 [!DNL Adobe App Builder]上使用API Mesh。 了解如何创建具有多个来源的网格，以及如何解决一些常见错误。
 kt: 11804
 doc-type: tutorial
+duration: 409
 audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -35,7 +36,7 @@ ht-degree: 0%
 * 如何排除错误，如名称冲突、架构可用性和其他架构语法问题
 * 使用修改后的配置更新网格
 
->[!VIDEO](https://video.tv.adobe.com/v/3419785?captions=chi_hans&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414125?learn=on)
 
 ## 创建json配置文件
 

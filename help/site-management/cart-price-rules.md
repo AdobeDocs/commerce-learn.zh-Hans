@@ -1,40 +1,41 @@
 ---
 title: 创建购物车价格规则
-description: 了解如何创建根据一组条件在购物车中应用折扣的购物车价格规则。
-doc-type: feature video
-audience: all
-activity: use
+description: 了解如何创建在满足您定义的条件时在购物车中应用折扣的购物车价格规则。
+doc-type: Tutorial
 last-substantial-update: 2022-12-28T00:00:00Z
 feature: Configuration, System, Customers, Shopping Cart
 topic: Commerce, Administration
-role: Admin, Leader, User
+role: User
 level: Beginner
-duration: 171
+duration: 353
 jira: KT-17148
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
-source-git-commit: d290ba1d9c8892b4322aeb19d3c65d9d8087a309
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
-source-wordcount: '687'
+source-wordcount: '677'
 ht-degree: 0%
 
 ---
 
 # 创建购物车价格规则
 
-购物车价格规则根据一组条件对购物车中的商品应用折扣。 当满足条件或客户输入有效优惠券代码时，可自动应用折扣。 应用时，折扣会显示在小计下的购物车中。 购物车价格规则可以根据需要通过更改其状态和日期范围用于季节或促销。
+购物车价格规则会根据您设置的条件，对购物车中的商品应用折扣。 当满足条件或客户输入有效优惠券代码时，将自动应用折扣。 折扣显示在小计下的购物车中。 您可以通过更改其状态和日期范围来打开或关闭季节或促销活动规则。
 
 ## 此视频面向谁？
 
-- 电子商务营销人员
-- 网站管理员
+* 电子商务营销人员
+* 网站管理员
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3410802?quality=12&learn=on&captions=chi_hans)
+* 创建购物车价格规则和可选优惠券代码。
+* 了解折扣在购物车中的显示方式以及促销情况。
+
+>[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
 
 ## 定价显示问题
 
-有一些唯一方案要求每个行项目显示其提供的折扣，但值可能并不完全匹配。 原因是当购物车价格规则折扣应用于多个产品时，值未平均分为两位小数。
+在某些情况下，每个行项目必须显示应用的折扣，但显示的值可能并不完全匹配。 当购物车价格规则对多个产品应用一个折扣，并且拆分未平均分配到两位小数时会发生这种情况。
 
 >[!BEGINSHADEBOX]
 
@@ -54,7 +55,7 @@ ht-degree: 0%
 
 ### 解决方案
 
-回想一下唯一受此问题影响的人员，确定以美元折扣价订购的每件商品显示最为合适。 为确保正确计算整个订单金额，决定舍入第一个项目，而其他项目舍弃小数点后三个。 查看此方案：
+对于Admin中的商家来说，最明确的方法是显示每个订购行的美元折扣。 要保持订单总计正确，请将第一行项目向上四舍五入，并将第三个小数点放在剩余的行项目上。 查看此方案：
 
 >[!BEGINSHADEBOX]
 
@@ -68,7 +69,7 @@ ht-degree: 0%
 总共3.99元作为客户的折扣
 
 在管理员中向商店所有者显示行项目时，
-我们需要调整第一项，将其四舍五入到2.000。第二项，我们将舍弃小数点后三项
+我们需要调整第一个项目并将其四舍五入到2.000。对于第二项，删除第三个小数。
 产品1 = 2.00
 产品2 = 1.99
 
@@ -125,8 +126,7 @@ ht-degree: 0%
 
 >[!ENDSHADEBOX]
 
-
 ## 其他资源
 
-- [创建购物车价格规则 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html?lang=zh-Hans)
-- [优惠券代码 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html?lang=zh-Hans)
+* [创建购物车价格规则 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
+* [优惠券代码 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html){target="_blank"}

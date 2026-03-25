@@ -1,46 +1,44 @@
 ---
-title: 连接并运行对数据库的查询
-description: 了解几种连接到Adobe Commerce云项目的方法。 了解如何提取数据库以使用非现场数据库。 了解一些用于屏蔽PII和删除它的方法。
+title: 针对Adobe Commerce数据库连接并运行查询
+description: 连接到云项目上的Adobe Commerce，创建数据库转储以供异地使用，屏蔽或删除PII，并使用Cloud CLI、GUI客户端或直接连接运行SQL。
 feature: Backend Development,Console,Cloud
 topic: Commerce,Development
 role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
-duration: 0
+duration: 1024
 last-substantial-update: 2024-06-25T00:00:00Z
 jira: KT-14910
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
-source-git-commit: 9af981957b5c8722002a5c1cbd09b71e98e0a754
+source-git-commit: d2c01abbc24ec14f6147004bb9a13ebdbfb8b60e
 workflow-type: tm+mt
-source-wordcount: '1143'
+source-wordcount: '1010'
 ht-degree: 0%
 
 ---
 
 # 针对Adobe Commerce数据库连接并运行查询
 
-了解如何连接到Adobe Commerce on cloud项目、创建数据库转储以供异地使用，以及通过屏蔽或删除来处理个人身份信息(PII)。 了解如何使用各种方法访问Adobe Commerce数据，包括本地数据库转储、与MySQL Workbench或TablesPlus等应用程序的远程数据库连接，以及通过MagentoCloud CLI工具建立的直接连接。
+了解如何连接到Adobe Commerce on cloud项目、创建数据库转储以供异地使用，以及屏蔽或删除个人身份信息(PII)。 通过本地转储、MySQL Workbench或TablePlus等GUI或`magento-cloud` CLI访问数据。
 
 ## 视频内容
 
-* 了解如何使用MysqlWorkbench或TablesPlus等工具快速连接到远程Adobe Commerce Cloud项目。
-* 了解如何快速连接到Adobe Commerce项目以通过命令行运行SQL
+* 使用GUI工具（如MySQL Workbench或TablePlus）连接到远程Adobe Commerce Cloud项目。
+* 连接到项目并从命令行运行SQL。
 
->[!VIDEO](https://video.tv.adobe.com/v/3450046?learn=on&captions=chi_hans)
-
-了解如何连接到云项目上的Adobe Commerce、转储数据库以供异地使用，以及屏蔽PII并将其删除。
+>[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
 
 您可以使用以下任一方法从云项目访问Adobe Commerce数据：
 
-* 使用本地数据库转储
-* 使用应用程序（如Mysql Workbench或Tables Plus）到远程云环境的数据库连接
-* 使用magento-cloud CLI工具直接连接到云环境，并在远程服务器上运行命令
+* 使用本地数据库转储。
+* 使用应用程序（如MySQL Workbench或TablePlus）打开到远程云环境的数据库连接。
+* 使用`magento-cloud` CLI直接连接到云环境，并在远程服务器上运行命令。
 
-首选方法是执行数据库转储并擦除它以删除任何客户信息。 如果不需要客户数据，则完全删除该数据。
+希望通过推移来删除客户信息的数据库转储。 完全删除不需要的客户数据。
 
 ## 使用Adobe Commerce Cloud CLI工具
 
-创建数据库转储需要安装[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=zh-Hans)。 在本地笔记本电脑上，转到目录并运行以下命令。 请确保使用类似于`asasdasd45q`的项目ID替换`your-project-id`。 您还需要将`your-environment-name`替换为环境的名称，如`master`或`staging`。
+您需要安装[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)才能创建数据库转储。 在本地计算机上，打开一个目录并运行以下命令。 将`your-project-id`替换为您的项目ID（类似于`asasdasd45q`）。 将`your-environment-name`替换为您的环境名称，如`master`或`staging`。
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -62,7 +60,7 @@ cd ~/Downloads/db-tutorial
 magento-cloud db:dump
 ```
 
-由于我们未指定项目或环境，因此Adobe Commerce CLI将提出几个问题，下面是一些示例对话框
+由于您未指定项目或环境，因此Adobe Commerce Cloud CLI会询问您几个问题。 以下示例显示了示例对话框。
 
 ```bash
 Enter a number to choose a project:
@@ -141,10 +139,10 @@ total size is 2690241  speedup is 1.00
 ```bash
 ls -lah
 total 29840
-drwxr-xr-x    4 <ussername>  staff   128B Feb 13 13:02 .
-drwx------@ 103 <ussername>   staff   3.2K Feb 13 12:52 ..
--rw-r--r--    1 <ussername>   staff    11M Feb 13 12:53 abasrpikfw4123--remote-db-ecpefky--mysql--main--dump.sql
--rw-r--r--    1 <ussername>   staff   2.6M Feb 13 13:01 dump-main-1707850906.sql.gz
+drwxr-xr-x    4 <username>  staff   128B Feb 13 13:02 .
+drwx------@ 103 <username>   staff   3.2K Feb 13 12:52 ..
+-rw-r--r--    1 <username>   staff    11M Feb 13 12:53 abasrpikfw4123--remote-db-ecpefky--mysql--main--dump.sql
+-rw-r--r--    1 <username>   staff   2.6M Feb 13 13:01 dump-main-1707850906.sql.gz
 ```
 
 获取数据后，请确保通过删除或屏蔽客户数据来清理数据。 以下示例脚本将帮助您入门。
@@ -206,11 +204,11 @@ SET FOREIGN_KEY_CHECKS=1;
 
 或者，您可以删除记录，而不是屏蔽信息，这也会使新数据库变小。 一旦PII被屏蔽或移除，数据就可以安全地提供给队友以供在其本地环境中使用。
 
-## 到Adobe Commerce Cloud项目的远程数据库连接
+## 到Adobe Commerce云项目的远程数据库连接
 
-此方法不允许意外编辑和删除实际数据。 应谨慎使用此方法。 首选方法是使用数据库备份并离线查看数据。 有时，需要直接在Adobe Commerce Cloud上访问数据，但这确实会带来风险。 没有“您确定吗？” 问题，因此可能会无意中更改或删除数据。
+此方法允许意外编辑和删除实时数据。 请谨慎使用。 最好在可以时执行数据库备份和离线检查。 有时您必须直接在Adobe Commerce Cloud上访问数据；该工作流仍存在风险。 GUI不会添加确认提示，因此您可以错误地更改或删除数据。
 
-超级重要！ 进行远程数据库连接非常方便，而且使用真实实时数据，但也存在风险。 我个人以及作为Adobe Commerce的首席技术架构师，不推荐使用该服务。 很容易忘记您位于远程数据库上并意外删除或修改数据。 有一个选项可以连接到只读副本，但这会根据SQL活动的负载大小对站点产生一些影响。 但是，由于这是可能的，因此这些是完成此任务的步骤。
+远程数据库连接方便但风险很大。 您可以轻松地忘记自己已连接到生产环境，并删除或更改数据。 您可以连接到只读副本，但重型SQL仍会影响站点。 Adobe不建议与可写数据库建立常规远程连接；仅在您了解风险时才使用下面的步骤。
 
 建立SSH通道：
 
@@ -256,19 +254,19 @@ Save encoded tunnel details to the MAGENTO_CLOUD_RELATIONSHIPS variable using:
 SSH tunnel opened to database at: mysql://user:@127.0.0.1:30000/main
 ```
 
-现在，您已获得正确的信息，请继续将这些值插入到Cloud Console中。
+现在您有了正确的信息，请在Cloud Console中输入这些值。
 
 您可以在Cloud Console中通过云凭据找到SSH主机名和用户名。
 
-![徽标 — Adobe Commerce Cloud Console](./assets/cloud-ui-screenshot.png "Adobe Commerce Cloud Console")
+![Adobe Commerce云控制台](./assets/cloud-ui-screenshot.png "Adobe Commerce云控制台")
 
 以下是示例：`ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud`
 在此示例中，@符号后面的SSH主机名即为`ssh.us-4.magento.cloud`。
-SSH用户名是@符号之前的所有内容： `abasrpikfw4123-remote-db-ecpefky—mymagento`
+SSH用户名是@符号之前的所有内容： `abasrpikfw4123-remote-db-ecpefky--mymagento`
 
 ## 查找要连接到数据库的值
 
-直接访问MariaDB数据库需要使用SSH登录到远程云环境并连接到数据库。
+要直接访问MariaDB数据库，请使用SSH登录到远程云环境并连接到数据库。
 
 1. 使用SSH登录到远程环境。
 
@@ -276,7 +274,7 @@ SSH用户名是@符号之前的所有内容： `abasrpikfw4123-remote-db-ecpefky
    magento-cloud ssh
    ```
 
-1. 从[$MAGENTO_CLOUD_RELATIONSHIP](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=zh-Hans#relationships)变量中的`database`和`type`属性检索MySQL登录凭据。
+2. 从`database`$MAGENTO_CLOUD_RELATIONSHIP`type`变量中的[和](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships)属性检索MySQL登录凭据。
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -314,15 +312,15 @@ SSH用户名是@符号之前的所有内容： `abasrpikfw4123-remote-db-ecpefky
 
 然后在MySQL GUI中使用配置值。 以下示例使用MySQL Workbench，但任何支持MySQL连接的应用程序都将具有类似的字段。
 
-![徽标 — 使用Mysql Workbench的Mysql GUI示例](./assets/mysql-workbench-after-connecting.png "使用Mysql Workbench的Mysql GUI示例")
+![MySQL Workbench连接示例](./assets/mysql-workbench-after-connecting.png "MySQL Workbench连接示例")
 
-![徽标 — Mysql GUI使用TablesPlus的示例](./assets/tablesPlus-db-connection.png " Mysql GUI使用TablesPlus的示例")
+![TablePlus连接示例](./assets/tablesPlus-db-connection.png "TablePlus连接示例")
 
-完成所有设置后，可以使用MySQL GUI对远程Adobe Commerce Cloud项目运行查询。
+配置连接后，可以使用MySQL GUI对远程Adobe Commerce Cloud项目运行查询。
 
 ## 直接连接到云项目数据库以运行SQL
 
-以下方法使用`magento-cloud` cli直接连接到mysql数据库并运行SQL，从而加快数据库查询。 如果需要复制此数据库，请参阅[创建数据库转储](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=zh-Hans)的替代方法之一。
+以下方法使用`magento-cloud` CLI直接连接到MySQL数据库并运行SQL以加快查询。 如果需要此数据库的副本，请使用一种替代方法[创建数据库转储](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)。
 
 ```bash
 magento-cloud db:sql    
@@ -348,7 +346,7 @@ Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
 Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 ```
 
-例如，您可以从`core_config_data`表中找到包含作为列`path`一部分的单词`secure`的所有记录：
+例如，您可以从`core_config_data`表中找到包含作为列`secure`一部分的单词`path`的所有记录：
 
 ```sql
 MariaDB [main]> SELECT * FROM core_config_data WHERE path LIKE '%secure%' \G;
@@ -382,7 +380,7 @@ MariaDB [main]>
 
 ## 其他资源
 
-[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=zh-Hans)
-[设置MySQL服务](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html?lang=zh-Hans)
-[设置远程MySQL数据库连接](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html?lang=zh-Hans)
-[在云基础架构的Adobe Commerce上创建数据库转储](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=zh-Hans)
+* [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
+* [设置MySQL服务](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
+* [设置远程MySQL数据库连接](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
+* [在云基础架构的Adobe Commerce上创建数据库转储](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)

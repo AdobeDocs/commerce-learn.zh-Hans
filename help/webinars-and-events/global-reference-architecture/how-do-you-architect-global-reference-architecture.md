@@ -4,6 +4,7 @@ description: 了解如何构建全局参考架构。 了解技术和想法，确
 landing-page-description: 了解如何使用Adobe Commerce构建全局参考架构
 kt: 14041
 doc-type: video
+duration: 3124
 audience: all
 last-substantial-update: 2023-10-3
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: d83d7bef-3253-43bc-a442-d13b0afbae4e
-source-git-commit: 42525268cda32ac461b6842c27675ee1b9a3305a
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%

@@ -7,16 +7,16 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 598
+duration: 644
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19016
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+exl-id: c856ec28-e757-4bb5-95c3-6237554820c0
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
-
 
 # 了解Salesforce Commerce Cloud入门套件架构
 
@@ -34,4 +34,4 @@ ht-degree: 0%
 * 克隆App Builder入门工具包，并使用Adobe IO CLI配置环境文件。
 * 部署应用程序，并确认在您的工作区中成功注册操作和事件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476092?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)

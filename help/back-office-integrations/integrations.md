@@ -4,6 +4,7 @@ description: 通过Adobe Starter Kit学习最佳实践和载入提示来掌握Co
 landing-page-description: 了解如何提供有关使用入门工具包所涉及的设置、配置和部署过程的实用见解。
 kt: 15867
 doc-type: video
+duration: 602
 audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 59b9016e-4327-4669-b0ae-e4299433724f
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -37,7 +38,7 @@ ht-degree: 0%
 * 运行脚本以创建和配置事件提供程序和订阅。
 * 正在更新Commerce和App Builder中的事件以进行同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/3452785?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431690?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

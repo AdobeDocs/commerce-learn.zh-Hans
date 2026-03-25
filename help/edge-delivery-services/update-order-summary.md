@@ -1,16 +1,16 @@
 ---
 title: 结账中的Edge Delivery Services订单摘要
-description: 了解Adobe Edge Delivery Services以及如何在结账时更新Commerce下拉列表的订单摘要部分。
+description: 了解Adobe Edge Delivery Services以及如何更新结帐时Commerce下拉列表的订单摘要部分。
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 269
+duration: 292
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 在结帐时更新购物车摘要
 
-了解如何更改Edge Delivery Services的Adobe Commerce购物车下拉菜单的订单摘要。  以下几个示例介绍了如何快速改进结账时提供给客户的布局或信息。
+了解如何更改Edge Delivery Services中Adobe Commerce购物车下拉菜单的订单摘要。  以下几个示例介绍了如何快速改进结账时提供给客户的布局或信息。
 
 ## 您将学习的内容
 
@@ -36,8 +36,8 @@ ht-degree: 0%
 * 了解如何包含购物车摘要的已保存总金额。
 * 了解如何将购物车摘要中的行合并到一个可折叠部分中。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441195?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
 
 ## 其他文档
 
-* [订单摘要](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=zh-Hans)
+* [订单摘要](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)

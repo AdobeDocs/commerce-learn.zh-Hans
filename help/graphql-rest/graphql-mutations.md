@@ -5,6 +5,7 @@ landing-page-description: 了解如何在Adobe Commerce和 [!DNL Magento Open So
 short-description: 了解如何在Adobe Commerce和 [!DNL Magento Open Source]上使用GraphQL执行变异。 使用POST调用执行您的第一个突变。
 kt: 13938
 doc-type: video
+duration: 268
 audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -25,7 +26,7 @@ ht-degree: 0%
 这是GraphQL和Adobe Commerce系列的第3部分。 突变是指使用GraphQL保存、更新和返回值的能力。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441936?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
 
 ## 本系列中GraphQL的相关视频和教程
 
@@ -37,7 +38,7 @@ ht-degree: 0%
 
 任何完整的API规范不仅需要提供查询数据的能力，还需要提供创建和更新数据的能力。
 
-REST将区分更改数据的请求和不具有请求类型或“动词”(GET与POST或PUT)的请求。
+REST将区分更改数据的请求和不具有请求类型或“动词”（GET与POST或PUT）的请求。
 使用GraphQL时，数据修改查询由对应于其他关键字的`mutation`关键字区分
 在服务器上定义的架构中的根类型。
 

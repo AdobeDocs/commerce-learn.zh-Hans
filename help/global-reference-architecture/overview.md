@@ -3,6 +3,7 @@ title: 使用Adobe Commerce优化代码重用
 description: 了解如何使用全局参考架构模式优化Adobe Commerce中的代码重用，从而提高多个实例的性能和合规性。
 kt: 15773
 doc-type: tutorial
+duration: 287
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '1119'
 ht-degree: 0%

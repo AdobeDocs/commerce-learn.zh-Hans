@@ -7,16 +7,16 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 243
+duration: 288
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-19014
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+exl-id: 1e0edcbb-5619-45c2-b06d-9133f23a634f
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
 
 ---
-
 
 # Salesforce Commerce Cloud入门套件架构
 
@@ -33,4 +33,4 @@ ht-degree: 0%
 * 自定义SFCC墨盒和API通过增量导出检测目录更改，从而实现与Adobe App Builder的有效数据同步。
 * App Builder运行时操作可管理完全同步和增量同步、验证和状态跟踪，以确保对Commerce Optimizer的更新准确且没有冲突。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476061?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476046?learn=on)

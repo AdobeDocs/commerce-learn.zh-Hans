@@ -6,11 +6,11 @@ topic: Architecture, Commerce, Development, Headless, Integrations, Performance,
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Tutorial
-duration: 0
+duration: 323
 last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 可组合商务
 
-可组合商务是电子商务的一种架构方法，它涉及将前端表示层与后端商务功能分离。&#x200B;AEM 它允许企业选择和组合最佳的组件或模块，以创建定制的解决方案。 这一方法包括将传统的整体电子商务平台分解成更小的、独立的服务或微服务，这些服务或微服务可以组合在一起。 可组合商务具有灵活性、可扩展性、自定义性、灵活性以及与其他系统和技术更轻松集成的能力。
+可组合商务是电子商务的一种架构方法，它涉及将前端表示层与后端商务功能分离&#x200B;。 它允许企业选择和组合最佳的组件或模块，以创建定制的解决方案。 这一方法包括将传统的整体电子商务平台分解成更小的、独立的服务或微服务，这些服务或微服务可以组合在一起。 可组合商务具有灵活性、可扩展性、自定义性、灵活性以及与其他系统和技术更轻松集成的能力。
 
 Adobe Commerce提供了多种功能和工具，以支持商家采用和实施可组合商务。 Adobe Commerce提供了可组合的commerce方法论以及混合的headless和非headless前端体验。 考虑到流程的可扩展性，Adobe提供了用于集成多个服务的API Mesh，以及用于创建自定义微服务的Adobe App Builder。
 

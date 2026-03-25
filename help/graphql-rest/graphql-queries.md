@@ -5,6 +5,7 @@ landing-page-description: 了解如何在Adobe Commerce和 [!DNL Magento Open So
 short-description: 了解如何在Adobe Commerce和 [!DNL Magento Open Source]上使用GraphQL执行查询。 以下是关于使用GET和POST调用的GraphQL的简介。
 kt: 13937
 doc-type: video
+duration: 651
 audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 0%
@@ -24,7 +25,7 @@ ht-degree: 0%
 
 这是GraphQL和Adobe Commerce系列的第2部分。 在本教程和视频中，了解GraphQL查询以及如何针对Adobe Commerce执行这些查询。
 
->[!VIDEO](https://video.tv.adobe.com/v/3450068?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
 
 ## 本系列中GraphQL的相关视频和教程
 
@@ -34,7 +35,7 @@ ht-degree: 0%
 
 ## GraphQL语法示例
 
-让我们通过一个完整的示例来深入了解GraphQL查询语法。 (请记住，您可以对https://venia.magento.com/graphql尝试此操作。)
+让我们通过一个完整的示例来深入了解GraphQL查询语法。 （请记住，您可以对https://venia.magento.com/graphql尝试此操作。）
 
 请观察以下GraphQL查询，该查询按件细分：
 

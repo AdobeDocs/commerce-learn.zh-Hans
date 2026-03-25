@@ -6,11 +6,11 @@ topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 363
+duration: 429
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -38,9 +38,9 @@ ht-degree: 0%
 * 使用购物车规则和页脚版块显示的优惠券折扣以有效显示此信息。
 * 使用产品属性和插槽扩展和自定义购物车功能，确保所有项目要求都得到满足。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441126?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
 
 
 ## 其他文档
 
-* [将产品线添加到购物车](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=zh-Hans)
+* [将产品线添加到购物车](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)

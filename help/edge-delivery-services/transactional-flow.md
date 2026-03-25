@@ -6,11 +6,11 @@ topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 453
+duration: 525
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 调整事务型签出流程
 
-了解如何使用“Edge Delivery Services车”下拉菜单调整结账的事务流程。
+了解如何使用Edge Delivery Services购物车下拉菜单调整结账的事务流程。
 
 ## 您将学习的内容
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## 此视频面向谁？
 
-* 开发人员和商店所有者正在了解需要更改某些购物车放置元素的Edge Delivery Services。
+* 开发人员和商店所有者正在了解Edge Delivery Services，并且需要更改某些购物车下拉元素。
 * 对使用SharePoint管理功能和AB测试感兴趣的营销人员和其他人员。
 
 ## 视频内容
@@ -37,8 +37,8 @@ ht-degree: 0%
 * A/B测试灵活性。 通过SharePoint启用配置，使营销人员能够控制和测试这些功能。
 * 增强的营销控制。 轻松管理和测试配置，改善用户体验和营销有效性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442361?learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
 
 ## 其他文档
 
-* [配置购物车摘要](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=zh-Hans)
+* [配置购物车摘要](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)

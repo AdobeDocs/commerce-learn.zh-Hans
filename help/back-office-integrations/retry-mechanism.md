@@ -4,7 +4,7 @@ description: 将Adobe I/O Events的重试机制用于弹性应用程序，包括
 landing-page-description: 了解并利用Adobe I/O Events的内置重试机制来增强应用程序可复原性并有效管理事件激活。
 kt: 15872
 doc-type: video
-duration: 314
+duration: 402
 audience: all
 last-substantial-update: 2024-7-31
 feature: Best Practices, Backend Development, Integration
@@ -13,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 412060b3-76ae-4c27-bf96-8eb2a0f0d0e8
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 * 开发人员控制台中的可视指示器，例如失败事件的警告图标和重试事件的圆形箭头图标。
 * “消费者”运行时操作在确定用于事件处理的相应HTTP响应状态代码方面发挥着关键作用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449083?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

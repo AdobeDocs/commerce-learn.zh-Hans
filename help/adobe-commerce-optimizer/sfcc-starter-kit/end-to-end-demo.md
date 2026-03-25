@@ -7,16 +7,16 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 381
+duration: 429
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19017
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+exl-id: 0b7d6adb-e535-4dc1-82cc-cb3a5be9a124
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
-
 
 # Salesforce Commerce Cloud入门工具包的端到端演示
 
@@ -35,4 +35,4 @@ ht-degree: 0%
 * Salesforce Commerce Cloud目录中的产品详细信息和定价更改可通过增量同步过程在Commerce Optimizer中自动检测和更新。
 * 实时更新和演示系统之间的无缝数据流和同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476103?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)

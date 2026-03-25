@@ -42,6 +42,6 @@ ht-degree: 0%
 
 ## 其他资源
 
-* [升级兼容性工具](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html){target="_blank"}
+* [升级兼容性工具](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=zh-Hans){target="_blank"}
 * [Magento PhpStorm插件](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm){target="_blank"}
-* [已发布的版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html){target="_blank"}
+* [已发布的版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=zh-Hans){target="_blank"}

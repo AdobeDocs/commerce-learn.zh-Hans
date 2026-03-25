@@ -38,6 +38,6 @@ ht-degree: 0%
 
 ## 相关内容和文档
 
-* [管理用户访问权限](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/user-access)
-* [到远程环境的安全连接](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/secure-connections)
-* [云基础架构项目](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)
+* [管理用户访问权限](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/project/user-access)
+* [到远程环境的安全连接](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/develop/secure-connections)
+* [云基础架构项目](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/project/overview)

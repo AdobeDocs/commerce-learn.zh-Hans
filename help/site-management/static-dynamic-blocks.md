@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 jira: KT-17150
 duration: 302
 exl-id: 756d06cf-f7a2-4b9b-b369-12a9d99586b1
-badgePaas: label="仅限PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="仅适用于云项目（Adobe管理的PaaS基础架构）和内部部署项目上的Adobe Commerce 。"
+badgePaas: label="仅限PaaS" type="Informative" url="https://experienceleague.adobe.com/zh-hans/docs/commerce/user-guides/product-solutions" tooltip="仅适用于云项目（Adobe管理的PaaS基础架构）和内部部署项目上的Adobe Commerce 。"
 source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '151'
@@ -35,5 +35,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-* [块 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
-* [动态块 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)
+* [块 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html?lang=zh-Hans)
+* [动态块 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html?lang=zh-Hans)

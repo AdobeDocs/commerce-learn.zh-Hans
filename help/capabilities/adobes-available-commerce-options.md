@@ -35,7 +35,7 @@ ht-degree: 0%
 * 了解何时在不更换后端的情况下实现店面现代化
 * 根据DevOps资源、可扩展性和业务目标，确定最适合的配置
 
->[!VIDEO](https://video.tv.adobe.com/v/3480242?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480253?captions=chi_hans&learn=on)
 
 ## 相关文档
 

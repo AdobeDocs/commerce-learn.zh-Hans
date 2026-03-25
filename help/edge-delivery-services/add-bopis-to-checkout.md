@@ -37,7 +37,7 @@ ht-degree: 0%
 * 在配送和店内取货之间切换
 * 正在获取取车地点
 
->[!VIDEO](https://video.tv.adobe.com/v/3441699?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441710?captions=chi_hans&learn=on)
 
 ## 其他文档
 

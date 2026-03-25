@@ -37,4 +37,4 @@ ht-degree: 0%
 * 导入自定义对象和作业定义以支持跟踪和同步。
 * 测试自定义API端点以确认安装成功并准备目录同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476080?captions=chi_hans&learn=on)

@@ -39,7 +39,7 @@ ht-degree: 0%
 * 开发人员控制台中的可视指示器，例如失败事件的警告图标和重试事件的圆形箭头图标。
 * “消费者”运行时操作在确定用于事件处理的相应HTTP响应状态代码方面发挥着关键作用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449083?captions=chi_hans&learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

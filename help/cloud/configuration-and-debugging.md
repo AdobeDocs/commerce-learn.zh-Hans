@@ -33,7 +33,7 @@ ht-degree: 0%
 * 验证、优化和调试工作流。
 * ECE-Tools、Quality Patches Tool、New Relic、Xdebug和日志管理。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432815?captions=chi_hans&learn=on)
 
 ## 视频中提到的Experience League文档
 

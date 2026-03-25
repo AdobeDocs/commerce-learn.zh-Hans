@@ -40,4 +40,4 @@ ht-degree: 0%
 
 ## 其他文档
 
-* [订单摘要](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)
+* [订单摘要](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=zh-Hans)

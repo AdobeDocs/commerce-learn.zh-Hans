@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 库存状态检查开发和性能注意事项
 
-库存的准确性是一个非常重要的考虑因素。 有一些本机功能可以帮助确保这种风险尽可能低，例如延期交割和设置缺货阈值。 这两个主题都可以在[Experience League](https://experienceleague.adobe.com/en/docs/commerce-admin/inventory/configuration/backorders)上阅读，以进一步说明。
+库存的准确性是一个非常重要的考虑因素。 有一些本机功能可以帮助确保这种风险尽可能低，例如延期交割和设置缺货阈值。 这两个主题都可以在[Experience League](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/inventory/configuration/backorders)上阅读，以进一步说明。
 
 在某些项目和用例中，需要对Adobe Commerce应用商店进行实时库存状态检查。 本教程提供了insight来处理此对话时的开发和性能注意事项。
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 尝试考虑清单检查以及如何通过3种方法完成检查。 每一种方法都有好处和限制。 它们也会增加复杂性，并且需要针对错误处理进行更多的测试和思考。 请记住，当您决定采用自定义路由时，会添加一些责任和注意事项。 一些示例包括回退流程、监控、测试和疑难解答都属于开发团队。 要包括的一些有用项目是新的支持文档、培训和监控，以确保开发团队可以支持整个功能。 另一个副作用是开发团队完全拥有该流程，并且不再利用核心Adobe Commerce应用程序提供的本机功能。 Adobe支持无法协助进行此级别的自定义。
 
-第一种方法是使用本机功能。 使用本机功能带来的风险最小，并且有许多好处。 如果采用这种方法，即表示您可以依赖Adobe Commerce为该功能的使用提供的所有现有文档和教程。 库存管理有许多方面，因此使用应用程序附带的内容应该是首要考虑的问题。 但是，在某些情况下，在订购时商业中找到的数据可能并不完全准确。 例如，如果允许直接在Adobe Commerce应用程序之外的订单管理系统中进行销售，则可能会出现不同步的情况。 一个原因是，要确保在Adobe Commerce中表示准确的库存水平，需要某种集成，以使Adobe Commerce信息尽可能接近准确。 如果不能接受过度销售，则添加缺货阈值是在达到零之前阻止物料销售的好方法。 Adobe Commerce的本机同步功能每天最多为1次。 这对于某些用例已经足够，但是对于其他用例来说可能不太频繁。 有关详细信息，请阅读[计划的导入和导出](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/data-scheduled-import-export)。
+第一种方法是使用本机功能。 使用本机功能带来的风险最小，并且有许多好处。 如果采用这种方法，即表示您可以依赖Adobe Commerce为该功能的使用提供的所有现有文档和教程。 库存管理有许多方面，因此使用应用程序附带的内容应该是首要考虑的问题。 但是，在某些情况下，在订购时商业中找到的数据可能并不完全准确。 例如，如果允许直接在Adobe Commerce应用程序之外的订单管理系统中进行销售，则可能会出现不同步的情况。 一个原因是，要确保在Adobe Commerce中表示准确的库存水平，需要某种集成，以使Adobe Commerce信息尽可能接近准确。 如果不能接受过度销售，则添加缺货阈值是在达到零之前阻止物料销售的好方法。 Adobe Commerce的本机同步功能每天最多为1次。 这对于某些用例已经足够，但是对于其他用例来说可能不太频繁。 有关详细信息，请阅读[计划的导入和导出](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/systems/data-transfer/data-scheduled-import-export)。
 
 第二种方法是`near real-time`。 近乎实时仍使用本机功能。 但是，这需要进行一些额外工作，以提供集成，该集成会经常向商业馈送以按计划更新其清单。 例如，每小时。 对于集成如何工作，此选项需要一些思考，但使用“批量api”并拥有一些中间件来执行数据转换并将其推送到商业是一种很好的方法。 考虑使用Adobe App Builder或类似平台来完成大量工作，并以更频繁的节奏将信息推送到Adobe Commerce。
 

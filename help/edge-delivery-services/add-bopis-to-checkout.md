@@ -41,4 +41,4 @@ ht-degree: 0%
 
 ## 其他文档
 
-* [在商店中购买在线提货](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/)
+* [在商店中购买在线提货](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/?lang=zh-Hans)

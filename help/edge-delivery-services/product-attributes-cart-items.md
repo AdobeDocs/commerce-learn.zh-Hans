@@ -43,4 +43,4 @@ ht-degree: 0%
 
 ## 其他文档
 
-* [将产品线添加到购物车](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)
+* [将产品线添加到购物车](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=zh-Hans)

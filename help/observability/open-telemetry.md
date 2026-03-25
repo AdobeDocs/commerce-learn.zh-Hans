@@ -3,19 +3,19 @@ title: 打开遥测
 description: 与OpenTelemetry统一可观察性 — 日志、跟踪和量度，以实现无缝监控和根本原因分析。
 feature: Observability,Extensibility,App Builder
 topic: Performance
-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 137
+duration: 175
 last-substantial-update: 2025-12-18T00:00:00Z
 jira: KT-19975
-source-git-commit: 25ff63e552412a90796efb29f56d8b1675143cf2
+exl-id: 697d4290-1181-4fde-b8a8-132de9057264
+source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # 打开遥测
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 * 将日志、跟踪和量度关联起来，以加快根本原因分析
 * 在统一数据流的同时维护现有的监控工具
 
->[!VIDEO](https://video.tv.adobe.com/v/3478333?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478287?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

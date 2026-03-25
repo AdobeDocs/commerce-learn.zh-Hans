@@ -3,19 +3,19 @@ title: 探索新的客户REST API
 description: 了解如何在Adobe Commerce云服务中使用新的客户REST API。 非常适合架构师和开发人员。
 feature: REST, Customers, Saas
 topic: Development, Integrations
-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 225
+duration: 457
 last-substantial-update: 2026-01-27T00:00:00Z
 jira: KT-20160
-source-git-commit: ad2cfb4b38d739b03e0c2fff8bcd88d77d6e4b12
+exl-id: f40d9b21-1f41-4c76-84a9-161168dbfb1a
+source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
 
 ---
-
 
 # 客户REST API
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 * 对Commerce as a Cloud Service使用正确的REST API端点格式
 * 通过适当的JSON负载，使用POST和PUT请求以编程方式创建和更新客户帐户
 
->[!VIDEO](https://video.tv.adobe.com/v/3479372/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479361?learn=on)
 
 ## 代码示例
 
@@ -244,6 +244,6 @@ curl -s -X PUT \
 
 ## 引用
 
-* [Adobe Commerce as a Cloud Service发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce/cloud-service/release-notes)
+* [Adobe Commerce as a Cloud Service发行说明](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
 * [SaaS REST API引用](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
 * [用户身份验证指南](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)

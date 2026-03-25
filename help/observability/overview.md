@@ -3,19 +3,19 @@ title: 了解可观察性
 description: 为什么集中式可观察性对于可扩展的Adobe Commerce可扩展性至关重要
 feature: Observability, Extensibility, App Builder
 topic: Architecture, Performance
-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 165
+duration: 205
 last-substantial-update: 2025-12-18T00:00:00Z
 jira: KT-19965
-source-git-commit: 25ff63e552412a90796efb29f56d8b1675143cf2
+exl-id: 619e7ac0-4415-4bea-829b-2211a3bf7d21
+source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
-
 
 # 可观察性概述
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 * 集中化可观察性是关键：跨所有组件关联日志和量度。
 * 提高结账性能：快速发现瓶颈以保持购物顺畅。
 
->[!VIDEO](https://video.tv.adobe.com/v/3478298?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478286?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

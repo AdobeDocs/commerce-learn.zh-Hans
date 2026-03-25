@@ -1,50 +1,52 @@
 ---
 title: Adobe Commerce云配置和调试
-description: 了解Adobe Commerce Cloud的配置文件、调试工具和日志管理，这些对于DevOps、系统管理员和后端开发人员至关重要。
+description: 了解YAML配置、验证工具、ECE-Tools、Quality Patches Tool、New Relic和Xdebug如何支持Adobe Commerce Cloud上的调试和日志管理。
 feature: Cloud
 topic: Commerce, Architecture, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 500
+duration: 553
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15019
-kt: 15019
 exl-id: 8f5895bb-b402-4187-abf7-d7b2ac3f3c93
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
-# 技术载入 — 配置和调试
+# 配置和调试
 
-了解Adobe Commerce Cloud中用于不同环境配置的关键Yaml文件、可用于验证和优化这些配置的工具，以及调试和日志记录流程。 了解特定于环境的设置的重要性、如何使用EC工具和质量修补程序以及New Relic在日志聚合中的作用。 深入了解使用Xdebug进行远程调试以及跨多个应用程序服务器管理日志的必要性。
+此视频是Adobe Commerce Cloud技术入门系列的一部分。 它介绍了YAML配置文件如何跨环境工作，哪些工具可帮助您验证和优化它们，以及如何进行调试和日志记录。 您还可以看到ECE-Tools和Quality Patches Tool如何适应，New Relic如何聚合日志，如何使用Xdebug进行远程调试，以及如何跨多个应用程序服务器管理日志。
 
 ## 此视频面向谁？
 
-- DevOp工程师
-- Commerce架构师
-- 后端开发人员
+* DevOps工程师
+* Commerce架构师
+* 后端开发人员
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3432815?captions=chi_hans&learn=on)
+* 跨云环境和特定于环境的设置进行YAML配置。
+* 验证、优化和调试工作流。
+* ECE-Tools、Quality Patches Tool、New Relic、Xdebug和日志管理。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
 
 ## 视频中提到的Experience League文档
 
-- [配置Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html?lang=zh-Hans)
-- [Cloud Docker配置Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)
-- [调试最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html?lang=zh-Hans)
-- [配置文件概述](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html?lang=zh-Hans)
-- [ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html?lang=zh-Hans)
-- [更新ECE-Tools包](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html?lang=zh-Hans)
-- [New Relic概述](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=zh-Hans)
-- [查看和管理日志文件](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=zh-Hans)
-- [New Relic日志管理](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html?lang=zh-Hans)
-- [Quality Patch工具](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=zh-Hans)
-- [Quality修补工具用法](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html?lang=zh-Hans)
+* [配置Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html){target="_blank"}
+* [Cloud Docker：配置Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/){target="_blank"}
+* [调试最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html){target="_blank"}
+* [配置文件概述](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html){target="_blank"}
+* [ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html){target="_blank"}
+* [更新ECE-Tools包](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html){target="_blank"}
+* [New Relic概述](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html){target="_blank"}
+* [查看和管理日志文件](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html){target="_blank"}
+* [New Relic日志管理](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html){target="_blank"}
+* [质量修补程序工具](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html){target="_blank"}
+* [Quality Patches Tool用法](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html){target="_blank"}
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

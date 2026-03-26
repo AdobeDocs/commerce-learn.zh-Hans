@@ -32,6 +32,6 @@ ht-degree: 0%
 
 ## 相关文档
 
-* [云上的Commerce — 项目概述](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)
-* [性能测试指南](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/guidance)
+* [云上的Commerce — 项目概述](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/project/overview)
+* [性能测试指南](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/develop/test/guidance)
 * [启动前核对清单](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud/best-practices/pre-launch-checklist)

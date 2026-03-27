@@ -30,13 +30,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.4.0版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview)。
+>视频中的内容反映了2.4.0版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/overview)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/339104?learn=on)
 
 ## 其他资源
 
-* [双重身份验证(2FA)](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication)
-* [用户帐户的双重身份验证设置](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-use)
-* [管理双重身份验证](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-manage)
+* [双重身份验证(2FA)](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication)
+* [用户帐户的双重身份验证设置](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-use)
+* [管理双重身份验证](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-manage)
 * [配置双重身份验证(2FA) — 开发人员文档](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)

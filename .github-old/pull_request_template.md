@@ -48,7 +48,7 @@ ht-degree: 0%
 - [ ]每个正在创建或更新的页面的目录和H1匹配。
 - [ ]目录和H1具有与之关联的操作，例如：了解如何创建GutHub拉取请求
 - [ ] H1中不应有任何单空格内容
-- [ ]每个页面标题都应以***C***apitol字母开头
+- [ ]每个页面标题都应以&#x200B;***C***apitol字母开头
 - [ ]我已检查是否有任何视频应包含章节
 - [ ]所有视频都已分配海报以正确表示该视频
 - [ ]您是否使用[Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html)

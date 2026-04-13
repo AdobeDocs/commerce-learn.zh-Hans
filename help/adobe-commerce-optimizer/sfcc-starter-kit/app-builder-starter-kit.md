@@ -33,4 +33,4 @@ ht-degree: 0%
 * 克隆App Builder入门工具包，并使用Adobe IO CLI配置环境文件。
 * 部署应用程序，并确认在您的工作区中成功注册操作和事件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476092?captions=chi_hans&learn=on)

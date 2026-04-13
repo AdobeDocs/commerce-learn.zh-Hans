@@ -1,22 +1,18 @@
 ---
 title: 在API网格中创建GraphQL单一源网格
 description: 了解如何在Adobe Commerce和 [!DNL Adobe App Builder]上使用API Mesh。 了解如何创建具有一个源的网格。
-landing-page-description: 了解如何在Adobe Commerce和 [!DNL Adobe App Builder]上使用API Mesh。 了解如何创建具有一个源的网格。
-short-description: 了解如何在Adobe Commerce和 [!DNL Adobe App Builder]上使用API Mesh。 了解如何创建具有一个源的网格。
-kt: 11804
-doc-type: tutorial
+jira: KT-11804
+doc-type: Tutorial
 duration: 510
-audience: all
-last-substantial-update: 2023-2-8
+last-substantial-update: 2023-02-08T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 9a78457a-1539-49c0-ac69-4bbfc6786137
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -37,7 +33,7 @@ ht-degree: 0%
 * 从JSON配置文件创建网格
 * 访问新创建的GraphQL端点
 
->[!VIDEO](https://video.tv.adobe.com/v/3419717?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414124?learn=on)
 
 ## 创建json配置文件
 

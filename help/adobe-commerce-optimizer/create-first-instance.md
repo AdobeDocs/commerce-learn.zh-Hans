@@ -10,7 +10,7 @@ duration: 131
 last-substantial-update: 2025-07-25T00:00:00Z
 jira: KT-18610
 exl-id: 7136b0d6-a29f-42f4-8363-5bd4a2d828fc
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -38,4 +38,4 @@ ht-degree: 0%
 ## 相关内容
 
 * [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/overview){target="_blank"}
-* [Adobe Commerce Optimizer概述](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)
+* [Adobe Commerce Optimizer概述](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}

@@ -1,9 +1,8 @@
 ---
-title: 适用于App Builder Commerce Cloud的Salesforce Starter Kit概述
+title: 适用于Salesforce Commerce Cloud的App Builder入门工具包
 description: 了解适用于Adobe Commerce Cloud和Adobe Commerce Optimizer的Salesforce App Builder入门工具包。
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
@@ -11,9 +10,9 @@ duration: 644
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19016
 exl-id: c856ec28-e757-4bb5-95c3-6237554820c0
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---

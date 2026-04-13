@@ -2,10 +2,10 @@
 user-guide-title: Adobe Commerce Optimizer视频和教程
 user-guide-description: 通过视频和教程了解Adobe Commerce Optimizer。
 breadcrumb-title: Adobe Commerce Optimizer
-source-git-commit: ac213bf038d786c1f6285ae700c9c1d42b8114f7
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 3%
 + [管理Adobe Commerce Optimizer实例](./managing-instances.md)
 + [摄取示例数据](./ingest-sample-data.md)
 + [使用GraphQL的首次查询](./first-query.md)
-+ Salesforce Commerce cloud入门工具包 {#sfcc-starter-kit}
++ Salesforce Commerce Cloud入门工具包 {#sfcc-starter-kit}
    + [概述](./sfcc-starter-kit/overview.md)
    + [架构概述](./sfcc-starter-kit/architecture-overview.md)
    + [安装SFCC墨盒](./sfcc-starter-kit/installation-sfcc-cartridge.md)

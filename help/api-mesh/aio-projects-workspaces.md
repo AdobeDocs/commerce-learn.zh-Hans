@@ -1,22 +1,18 @@
 ---
 title: 使用项目和工作区
 description: 了解如何使用Adobe Developer控制台处理项目和工作区。
-landing-page-description: 了解如何使用Adobe Developer控制台。 了解要与API Mesh一起使用的项目和工作区。
-short-description: 了解如何使用Adobe Developer控制台。 了解要与API Mesh一起使用的项目和工作区。
-kt: 11803
-doc-type: tutorial
+jira: KT-11803
+doc-type: Tutorial
 duration: 593
-audience: all
-last-substantial-update: 2023-2-8
+last-substantial-update: 2023-02-08T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
@@ -42,7 +38,7 @@ ht-degree: 0%
 
 ## 了解Adobe Developer Console
 
-在Adobe Developer Console中，以下层次结构表示您的API如何适合您的组织：`Organization > Project > Workspace > [API]`。 要了解有关Adobe App Builder、登录到控制台和基本疑难解答的更多信息，请访问[创建您的第一个App Builder应用程序](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}。
+在Adobe Developer Console中，以下层次结构表示您的API如何适合您的组织：`Organization > Project > Workspace > [API]`。 要了解有关Adobe App Builder、登录到控制台和基本疑难解答的更多信息，请访问[创建您的第一个App Builder应用程序](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}。
 
 ## Adobe Developer Console中的项目简介
 

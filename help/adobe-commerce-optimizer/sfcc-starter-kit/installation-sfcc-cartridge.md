@@ -3,7 +3,6 @@ title: 安装Salesforce Commerce Cloud墨盒
 description: 了解在Salesforce和Adobe Commerce Optimizer中使用的墨盒。
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
@@ -11,7 +10,7 @@ duration: 710
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19015
 exl-id: b7c6d55f-bef6-4245-b45f-ec0842a94952
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -37,4 +36,4 @@ ht-degree: 0%
 * 导入自定义对象和作业定义以支持跟踪和同步。
 * 测试自定义API端点以确认安装成功并准备目录同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476080?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)

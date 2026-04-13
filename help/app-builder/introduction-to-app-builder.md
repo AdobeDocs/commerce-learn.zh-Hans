@@ -1,23 +1,19 @@
 ---
 title: Adobe Commerce的进程外可扩展性
 description: 了解什么是 Adobe App Builder 以及为什么它是进程外可扩展性的一个重要方面。
-landing-page-description: 了解什么是 App Builder 以及它如何帮助制定 Adobe Commerce 开发策略。
-short-description: 了解什么是 App Builder 以及它如何帮助制定 Adobe Commerce 开发策略。
-kt: 11433
-doc-type: tutorial
+jira: KT-11433
+doc-type: Tutorial
 duration: 322
-audience: all
-last-substantial-update: 2023-2-16
+last-substantial-update: 2023-02-16T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '728'
-ht-degree: 6%
+source-wordcount: '698'
+ht-degree: 2%
 
 ---
 

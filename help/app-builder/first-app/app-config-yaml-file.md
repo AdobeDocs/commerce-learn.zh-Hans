@@ -1,21 +1,18 @@
 ---
 title: app.config.yaml文件
 description: 了解此示例应用程序的app.config.yaml文件中的文件类型。
-landing-page-description: 了解与Adobe Commerce一起使用的Adobe Developer App Builder以及在app.config.yaml中会访问哪些类型的文件。
-kt: 12929
-doc-type: tutorial
+jira: KT-12929
+doc-type: Tutorial
 duration: 136
-audience: all
-last-substantial-update: 2023-3-13
+last-substantial-update: 2023-03-13T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---

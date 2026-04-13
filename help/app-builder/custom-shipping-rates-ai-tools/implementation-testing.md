@@ -1,5 +1,5 @@
 ---
-title: 使用AI工具的自定义配送费率|实施和测试
+title: 使用AI工具实施和测试定制运费
 description: 了解如何实施和测试AI驱动的自定义配送费率、配置环境以及验证集成以增强结账体验。
 feature: Deploy
 topic: Development
@@ -10,9 +10,9 @@ duration: 385
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20517
 exl-id: aff6de33-46ae-48f1-a6c3-e9dd342e2642
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,6 @@ ht-degree: 0%
 凭据和环境配置为部署和注册新的配送扩展。
 店面测试可以确认外部运费是否按预期显示和运行。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481367?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481357?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

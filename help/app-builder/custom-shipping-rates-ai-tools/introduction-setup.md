@@ -1,5 +1,5 @@
 ---
-title: 使用AI工具创建自定义配送费率|简介和设置
+title: 使用AI工具引入和设置自定义运费
 description: 了解如何设置AI工具以创建定制运费，包括克隆入门工具包、审查结构和准备环境。
 feature: Install
 topic: Development
@@ -10,7 +10,7 @@ duration: 195
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20428
 exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -33,6 +33,6 @@ ht-degree: 0%
 * 逐步了解如何设置开发环境，包括签出存储库、查看入门工具包结构和安装所需工具。
 * 通过登录、配置访问并确保所有依赖项和先决条件都到位来为人工智能辅助开发准备系统。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481338?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481328?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

@@ -1,21 +1,18 @@
 ---
 title: 操作文件夹
 description: 了解此示例应用程序的actions文件夹中的文件类型。
-landing-page-description: 了解用于Adobe Commerce的Adobe Developer App Builder以及操作文件夹中的文件类型。
-kt: 12422
-doc-type: tutorial
+jira: KT-12422
+doc-type: Tutorial
 duration: 465
-audience: all
-last-substantial-update: 2023-3-13
+last-substantial-update: 2023-03-13T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -37,7 +34,7 @@ ht-degree: 0%
 * 在`actions`和`commerce`文件夹中找到的JavaScript文件的用途
 * OAuth身份验证文件快速概述
 
->[!VIDEO](https://video.tv.adobe.com/v/3421077?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416590?learn=on)
 
 ## 代码示例
 

@@ -1,21 +1,18 @@
 ---
 title: web-src文件夹
 description: 了解web-src文件夹中的文件类型以及此示例应用程序的嵌套文件和文件夹。
-landing-page-description: 了解用于Adobe Commerce的Adobe Developer App Builder以及web-src文件夹中的文件类型。
-kt: 12425
-doc-type: tutorial
+jira: KT-12425
+doc-type: Tutorial
 duration: 285
-audience: all
-last-substantial-update: 2023-3-13
+last-substantial-update: 2023-03-13T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -34,7 +31,7 @@ ht-degree: 0%
 * 通常包括文件和文件夹
 * 如何在示例应用程序中使用`web-src`文件夹及其内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3421037?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416665?learn=on)
 
 ## 代码示例
 

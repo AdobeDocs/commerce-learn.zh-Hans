@@ -1,5 +1,5 @@
 ---
-title: 使用AI工具的自定义运费|提供反馈
+title: 通过AI工具提供自定义运费的反馈
 description: 了解如何使用AI工具创建自定义运费。 通过这个对初学者友好的教程，了解反馈流程并简化您的工作流。
 feature: Tools and External Services
 topic: Artificial Intelligence
@@ -10,9 +10,9 @@ duration: 101
 last-substantial-update: 2026-03-10T00:00:00Z
 jira: KT-20518
 exl-id: 7d1487be-2e3b-4067-8382-297a040a820b
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,6 @@ ht-degree: 0%
 * 了解MCP反馈工具的工作原理
 * 了解如何从IDE向Adobe提供反馈
 
->[!VIDEO](https://video.tv.adobe.com/v/3481316?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481306?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

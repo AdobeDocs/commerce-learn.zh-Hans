@@ -63,6 +63,6 @@ In this workshop, Adobe Commerce partnered with Merkle to share:
 
 ## 其他资源
 
-* [升级指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
-* [已发布版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
-* [发布计划](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)
+* [升级指南](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=zh-Hans)
+* [已发布版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=zh-Hans)
+* [发布计划](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=zh-Hans)

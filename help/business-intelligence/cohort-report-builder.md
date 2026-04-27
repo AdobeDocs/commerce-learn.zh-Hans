@@ -51,7 +51,7 @@ Have you ever wanted to study how different subsets of your users behave over ti
 
 >[!TIP]
 >
->If you are new to Commerce Intelligence, the [Adobe Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
+>If you are new to Commerce Intelligence, the [Adobe Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=zh-Hans){target="_blank"} provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
 
 ## 此视频面向谁？
 
@@ -64,6 +64,6 @@ Have you ever wanted to study how different subsets of your users behave over ti
 
 ## 有用的资源
 
-[Using the Cohort Report Builder - Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html)
+[Using the Cohort Report Builder - Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html?lang=zh-Hans)
 
-[Create a qualitative cohort analysis - Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html)
+[Create a qualitative cohort analysis - Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html?lang=zh-Hans)

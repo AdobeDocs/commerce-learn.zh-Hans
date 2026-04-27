@@ -12,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 3ddfab5e-18a4-47ce-8b80-d66db10eebee
-badgePaas: label="仅限PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="仅适用于云项目（Adobe管理的PaaS基础架构）和内部部署项目上的Adobe Commerce 。"
+badgePaas: label="仅限PaaS" type="Informative" url="https://experienceleague.adobe.com/zh-hans/docs/commerce/user-guides/product-solutions" tooltip="仅适用于云项目（Adobe管理的PaaS基础架构）和内部部署项目上的Adobe Commerce 。"
 TQID: https://experienceleague.adobe.com/FMCct3iKx-UuNYvHwbqOyzcxOTebFGorL5-Sgeh8OuQ
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -62,6 +62,6 @@ Commerce服务连接器是由Adobe开发的一种配置，用于解锁各种SaaS
 
 ## 其他资源
 
-* [Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
-* [支付服务指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
-* [Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}
+* [Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=zh-Hans){target="_blank"}
+* [支付服务指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html?lang=zh-Hans){target="+blank"}
+* [Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=zh-Hans){target="+blank"}

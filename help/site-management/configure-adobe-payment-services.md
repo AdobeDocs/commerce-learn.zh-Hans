@@ -12,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 96877db6-54a3-4a89-ad84-c4559806b7fb
-badgePaas: label="仅限PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="仅适用于云项目（Adobe管理的PaaS基础架构）和内部部署项目上的Adobe Commerce 。"
+badgePaas: label="仅限PaaS" type="Informative" url="https://experienceleague.adobe.com/zh-hans/docs/commerce/user-guides/product-solutions" tooltip="仅适用于云项目（Adobe管理的PaaS基础架构）和内部部署项目上的Adobe Commerce 。"
 TQID: https://experienceleague.adobe.com/vMIy5Eo6UlUoqbF25L38zoRjEJYX6qTtifIfd8R44RU
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -48,6 +48,6 @@ ht-degree: 0%
 
 ## 其他资源
 
-* [载入支付服务](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html){target="_blank"}
-* [支付服务指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
-* [Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}
+* [载入支付服务](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html?lang=zh-Hans){target="_blank"}
+* [支付服务指南](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html?lang=zh-Hans){target="+blank"}
+* [Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=zh-Hans){target="+blank"}

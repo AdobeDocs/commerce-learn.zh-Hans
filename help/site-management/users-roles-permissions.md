@@ -50,6 +50,6 @@ If there are others on your team or service providers who need access, you can c
 
 ## 其他资源
 
-[Manage Admin user accounts - [!DNL Commerce] Admin Systems Guide](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+[Manage Admin user accounts - [!DNL Commerce] Admin Systems Guide](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=zh-Hans)
 
-[User roles - [!DNL Commerce] Admin Systems Guide](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
+[User roles - [!DNL Commerce] Admin Systems Guide](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=zh-Hans)

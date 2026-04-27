@@ -45,5 +45,5 @@ Learn how to create your first Adobe Commerce Optimizer instance from start to f
 
 ## Related Content
 
-* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
-* [Adobe Commerce Optimizer概述](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/overview){target="_blank"}
+* [Adobe Commerce Optimizer概述](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}

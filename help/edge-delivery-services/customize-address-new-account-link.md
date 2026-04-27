@@ -58,4 +58,4 @@ ht-degree: 0%
 
 ## 其他文档
 
-* [用户帐户](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/)
+* [用户帐户](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/?lang=zh-Hans)

@@ -69,7 +69,7 @@ Once that is complete, the `env.php` is modified inside the _downloadable_ domai
 
 Now that the domain is added to the `env.php`, you can create a downloadable product in the Adobe Commerce Admin or by using the REST API.
 
-See [Configuration Reference](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) to learn more.
+See [Configuration Reference](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=zh-Hans#downloadable_domains) to learn more.
 
 >[!IMPORTANT]
 >On some versions of Adobe Commerce, you might get the following error when a product is edited in the Adobe Commerce Admin. The product is created using the REST API but the linked download has a `null` price.
@@ -251,7 +251,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## 其他资源
 
-* [可下载的产品类型](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
-* [Downloadable Domains Configuration Guide](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
+* [可下载的产品类型](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=zh-Hans){target="_blank"}
+* [Downloadable Domains Configuration Guide](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=zh-Hans#downloadable_domains){target="_blank"}
 * [Adobe Developer REST教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

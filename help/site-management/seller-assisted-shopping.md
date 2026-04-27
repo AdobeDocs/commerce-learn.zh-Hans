@@ -50,5 +50,5 @@ Customers sometimes need assistance to complete a purchase. Some customers like 
 
 ## 其他资源
 
-* [Provide Shopper Assistance - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
-* [Shopping assistance - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)
+* [Provide Shopper Assistance - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html?lang=zh-Hans)
+* [Shopping assistance - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html?lang=zh-Hans#shopping-assistance)

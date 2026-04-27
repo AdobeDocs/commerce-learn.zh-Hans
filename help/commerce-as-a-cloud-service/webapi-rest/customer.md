@@ -260,6 +260,6 @@ curl -s -X PUT \
 
 ## 引用
 
-* [Adobe Commerce as a Cloud Service发行说明](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
+* [Adobe Commerce as a Cloud Service发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce/cloud-service/release-notes)
 * [SaaS REST API参考](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
 * [用户身份验证指南](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)

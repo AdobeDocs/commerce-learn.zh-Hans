@@ -89,8 +89,8 @@ Before applying patches, it&#39;s crucial to test them in a staging environment.
 
 ## Related articles and videos
 
-* [Quality Patch Tools search](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
-* [发行说明](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [Quality Patch Tools search](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=zh-Hans)
+* [发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * [Github for patches](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [Usage of quality patch tool](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [有关QPT的技术视频](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [Usage of quality patch tool](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [有关QPT的技术视频](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/tools/quality-patch-tool)

@@ -51,6 +51,6 @@ Learn how to use Adobe Commerce Cloud to manage projects and environments. It sh
 
 ## Related content and documentation
 
-* [Manage User Access](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/user-access)
-* [Secure connectsion to remote environments](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/secure-connections)
-* [Cloud infrastructure project](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)
+* [Manage User Access](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/project/user-access)
+* [Secure connectsion to remote environments](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/develop/secure-connections)
+* [Cloud infrastructure project](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/project/overview)

@@ -8,17 +8,17 @@ level: Intermediate
 doc-type: Technical Video
 duration: 955
 jira: KT-20902
-last-substantial-update: 2026-04-24T00:00:00Z
-source-git-commit: b98e827d7017c59b0df4c459ea913d69a55f0d56
+last-substantial-update: 2026-04-27T00:00:00Z
+source-git-commit: b3a9cee9ab59307883444650e8ee2423ab630b6b
 workflow-type: tm+mt
-source-wordcount: '1045'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
 
 # 创建拆分付款POC：App Builder完整演示
 
-这是基于Adobe Commerce和Adobe App Builder构建的分段支付概念验证的端到端演练。 该演示假定您已经使用人工智能工具和提示来生成进程中的Commerce扩展和App Builder应用程序；本视频说明了该代码合并、部署到云中的Commerce (Luma)以及App Builder项目上线后发生的情况。
+这是基于Adobe Commerce和Adobe App Builder构建的分段支付概念验证的端到端演练。 该演示假定您已经使用人工智能工具和提示来生成进程中的Commerce扩展和App Builder应用程序；本视频说明在该代码合并、使用本机Luma主题部署到Adobe Commerce Cloud网站并且App Builder项目处于实时状态之后发生的情况。
 
 购物者支付部分现金和部分&#x200B;**[!UICONTROL Store Credit]**。 Commerce拥有同步签出功能以及店面需要的API；App Builder处理编排、操作员工作流和I/O事件使用者。 参考实施使用Commerce (PaaS)项目和Luma原生结账，而不是Edge Delivery Services店面，这仍然是许多商家的常用路径。 如果您在其他拓扑中使用&#x200B;**Adobe Commerce as a Cloud Service**，则App Builder代码保持不变，但店面和正在进行的工作会有所不同。 对于Luma上的本地、自托管和Commerce云中的Luma，本视频演示了在用于新功能的进程内代码和App Builder之间的实际划分。
 

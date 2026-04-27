@@ -44,7 +44,7 @@ The actual names of folders in this example are arbitrary, but knowing their nam
 * The purpose of the JavaScript file found in the `actions` and `commerce` folders
 * A quick overview of the OAuth authentication files
 
->[!VIDEO](https://video.tv.adobe.com/v/3416590?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421077?captions=chi_hans&learn=on)
 
 ## 代码示例
 

@@ -60,7 +60,7 @@ ht-degree: 0%
 * Expectations for use of the sample module
 * Reusable parts of in the sample module
 
->[!VIDEO](https://video.tv.adobe.com/v/3416740?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421022?captions=chi_hans&learn=on)
 
 {{avoid-400-error}}
 

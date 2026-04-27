@@ -46,7 +46,7 @@ Adobe Commerce uses attributes to manage the information associated with product
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/343749?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410128?captions=chi_hans&learn=on)
 
 ## 其他资源
 

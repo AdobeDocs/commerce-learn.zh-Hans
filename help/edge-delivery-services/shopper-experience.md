@@ -58,4 +58,4 @@ You learn how to navigate the Adobe Commerce storefront experience on Edge Deliv
 * Work with the cart and orders: add items, check out as a guest, cancel orders, reorder, and process returns.
 * Update account information, merge guest and customer carts, and keep checkout consistent.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446772?captions=chi_hans&learn=on)

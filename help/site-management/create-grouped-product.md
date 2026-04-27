@@ -54,7 +54,7 @@ When creating grouped products from the Adobe Commerce Admin, create the simple 
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3425920?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454048?captions=chi_hans&learn=on)
 
 ## Setup for the grouped product
 

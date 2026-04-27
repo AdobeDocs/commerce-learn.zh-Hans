@@ -55,7 +55,7 @@ Learn how you can use [Data Connection](https://experienceleague.adobe.com/docs/
 * In Adobe Journey Optimizer, easily build and activate 1:1 customer journeys, using out-of-the-box events that are available with the Data Connection
 * Engage with shoppers across all channels in real-time using Adobe Journey Optimizer&#39;s native messaging capabilities
 
->[!VIDEO](https://video.tv.adobe.com/v/3426855?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452480?captions=chi_hans&learn=on)
 
 ## 其他资源
 

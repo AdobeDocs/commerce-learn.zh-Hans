@@ -60,7 +60,7 @@ Have you ever wanted to study how different subsets of your users behave over ti
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/342407?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346393?captions=chi_hans&learn=on)
 
 ## 有用的资源
 

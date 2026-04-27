@@ -47,7 +47,7 @@ Learn how to use Adobe Commerce Cloud to manage projects and environments. It sh
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3474960?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3474971?captions=chi_hans&learn=on)
 
 ## Related content and documentation
 

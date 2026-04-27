@@ -43,7 +43,7 @@ Learn how to achieve end-to-end observability across Adobe Commerce and custom a
 * Use Commerce Observability Module for automated signals
 * Extend monitoring with IO Live Telemetry Library for apps
 
->[!VIDEO](https://video.tv.adobe.com/v/3478288?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478344?captions=chi_hans&learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

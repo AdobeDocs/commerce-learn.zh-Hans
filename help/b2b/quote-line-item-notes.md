@@ -44,6 +44,6 @@ Learn how to use the line item notes for an Adobe Commerce B2B quote.
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3420417?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423689?captions=chi_hans&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

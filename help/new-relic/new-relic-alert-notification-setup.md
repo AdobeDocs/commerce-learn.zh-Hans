@@ -49,4 +49,4 @@ Learn how to find alerts, policy, workflows, and destinations in New Relic. Obse
 * Learn about alert notifications, policies and workflows
 * Saving the destination and validating the new email was added to a policy
 
->[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441216?captions=chi_hans&learn=on)

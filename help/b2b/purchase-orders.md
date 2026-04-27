@@ -55,7 +55,7 @@ With the required permissions for their role, B2B customers can set up approval 
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/344450?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410763?captions=chi_hans&learn=on)
 
 ## 其他资源
 

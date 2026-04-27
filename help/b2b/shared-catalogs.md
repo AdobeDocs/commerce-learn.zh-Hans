@@ -49,7 +49,7 @@ If the Shared Catalog feature is enabled in the configuration, the original prim
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/344446?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410751?captions=chi_hans&learn=on)
 
 ## 其他资源
 

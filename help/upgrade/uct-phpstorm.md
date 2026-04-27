@@ -50,7 +50,7 @@ The Upgrade Compatibility Tool (UCT) analyzes incompatibilities between your cur
 * Install and run UCT from PhpStorm.
 * Review HTML reports and prioritize fixes.
 
->[!VIDEO](https://video.tv.adobe.com/v/340150?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344403?captions=chi_hans&learn=on)
 
 ## 其他资源
 

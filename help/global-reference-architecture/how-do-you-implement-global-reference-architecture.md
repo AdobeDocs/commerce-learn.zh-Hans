@@ -56,6 +56,6 @@ Learn how to implement Global Reference Architecture or GRA for short. Learn abo
 * Global Control Board - what features to work on
 * Alternative concept for using GRA as a module marketplace
 
->[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457218?captions=chi_hans&learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

@@ -41,7 +41,7 @@ Learn how to ingest the sample data for your Adobe Commerce Optimizer instance. 
 * Create Policies.
 * Create Catalog Views.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470472?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470484?captions=chi_hans&learn=on)
 
 ## 相关内容
 

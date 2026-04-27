@@ -44,6 +44,6 @@ Learn how to use the line item discount and see the values using the Adobe Comme
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3420415?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445595?captions=chi_hans&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

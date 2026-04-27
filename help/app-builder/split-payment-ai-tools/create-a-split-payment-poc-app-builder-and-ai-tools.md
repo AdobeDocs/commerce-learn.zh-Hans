@@ -21,7 +21,7 @@ This is the first of a set of tutorialsthat introduce you to using AI-assisted d
 
 ## 视频
 
->[!VIDEO](https://video.tv.adobe.com/v/3483933?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3483943?captions=chi_hans&learn=on)
 
 ## Important Details
 

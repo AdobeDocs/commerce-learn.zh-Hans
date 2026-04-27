@@ -3,9 +3,9 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: e25c2abc470e1f3cb97b153d335482f8a004c644
+source-git-commit: 47b35088f2d3139d58791a2f7d327159db8f2175
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '915'
 ht-degree: 3%
 
 ---
@@ -148,6 +148,7 @@ ht-degree: 3%
    + Adobe Developer App Builder {#adobe-developer-app-builder}
       + [从Adobe Exchange安装应用程序](../app-builder/install-app-builder-app.md)
       + [App Builder简介](../app-builder/introduction-to-app-builder.md)
+      + [创建拆分支付POC：App Builder和AI工具](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
       + [App Builder的可扩展性框架](../app-builder/extensibility-framework-commerce-eventing.md)
       + 使用AI工具创建自定义运费 {#custom-shipping-rates-ai-tools}
          + [简介和设置](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
@@ -171,58 +172,58 @@ ht-degree: 3%
          + [Adobe Commerce 2.4.6安装](../io-events/2-4-6-installation.md)
          + [创建App Builder项目](../io-events/create-app-builder-project.md)
          + [配置Adobe Commerce](../io-events/configure-commerce.md)
-         + [Adobe Commerce模块开发](../io-events/commerce-module-development.md)
+         + [Adobe Commerce module development](../io-events/commerce-module-development.md)
          + [Adobe Commerce条件事件](../io-events/conditional-events.md)
-   + API网格 {#api-mesh}
+   + API Mesh {#api-mesh}
       + [使用GitHub代码空间的API Mesh入门工具包](../api-mesh/starter-kit-github-codespaces.md)
-      + [API Mesh入门工具包工作流](../api-mesh/starter-kit-workflows.md)
-      + [API Mesh入门](../api-mesh/getting-started-api-mesh.md)
-      + [安装Adobe IO和Mesh插件](../api-mesh/installing-aio-mesh-plugin.md)
-      + [使用项目和工作区](../api-mesh/aio-projects-workspaces.md)
-      + [创建单一源GraphQL API网格](../api-mesh/graphql-single-source.md)
-      + [创建多源GraphQL API网格](../api-mesh/graphql-multiple-source.md)
+      + [API Mesh starter kit workflows](../api-mesh/starter-kit-workflows.md)
+      + [Get started with API Mesh](../api-mesh/getting-started-api-mesh.md)
+      + [Installing Adobe IO and mesh plugin](../api-mesh/installing-aio-mesh-plugin.md)
+      + [Working with projects and workspaces](../api-mesh/aio-projects-workspaces.md)
+      + [Create single source GraphQL API mesh](../api-mesh/graphql-single-source.md)
+      + [Create multiple source GraphQL API mesh](../api-mesh/graphql-multiple-source.md)
 
 + 可观测性 {#observability}
-   + [可观察性概述](../observability/overview.md)
-   + [打开遥测](../observability/open-telemetry.md)
-   + [演示设置和配置](../observability/demo-setup-configuration.md)
-   + [演示](../observability/demo.md)
-+ 全球参考体系结构 {#global-reference-architecture-implementation-techniques}
+   + [Observability overview](../observability/overview.md)
+   + [Open Telemetry](../observability/open-telemetry.md)
+   + [Demo setup and configuration](../observability/demo-setup-configuration.md)
+   + [Demo](../observability/demo.md)
++ Global Reference Architecture {#global-reference-architecture-implementation-techniques}
    + [概述](../global-reference-architecture/overview.md)
-   + [拆分Git](../global-reference-architecture/split-git.md)
-   + [批量包](../global-reference-architecture/bulk-packages.md)
-   + [单独的包](../global-reference-architecture/separate-packages.md)
-   + [莫诺雷波](../global-reference-architecture/monorepo.md)
-+ 帮助和支持 {#help-and-support}
-   + [创建支持票证](../help-and-support/create-a-support-ticket.md)
-   + [搜索、跟踪、注释和升级支持票证](../help-and-support/search-track-comment-escalate-support-ticket.md)
-   + [添加和删除观察者，关闭并重新打开票证](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
+   + [Split Git](../global-reference-architecture/split-git.md)
+   + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
+   + [Separate packages](../global-reference-architecture/separate-packages.md)
+   + [Monorepo](../global-reference-architecture/monorepo.md)
++ Help and support {#help-and-support}
+   + [Create a support ticket](../help-and-support/create-a-support-ticket.md)
+   + [Search, track, comment and escalate support ticket](../help-and-support/search-track-comment-escalate-support-ticket.md)
+   + [Add and remove watchers, close and reopen a ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ 商店管理 {#admin}
-   + [管理用户角色和权限](../site-management/users-roles-permissions.md)
-   + [双重身份验证](../site-management/two-factor-authentication.md)
++ Store Administration {#admin}
+   + [Manage User Roles and Permissions](../site-management/users-roles-permissions.md)
+   + [Two-Factor Authentication](../site-management/two-factor-authentication.md)
    + [管理币种和税则](../site-management/currency-tax-rules.md)
-   + [添加网站、商店和商店视图](../site-management/add-websites-stores-views.md)
-   + [更改商店URL](../site-management/change-store-url.md)
-   + [重置管理员URI](../site-management/reset-admin-uri.md)
-   + [配送方式](../site-management/shipping-delivery.md)
-   + [管理网格和筛选器](../site-management/admin-grids-and-filters.md)
+   + [Add Websites, Stores, and Store Views](../site-management/add-websites-stores-views.md)
+   + [Change a Store URL](../site-management/change-store-url.md)
+   + [Reset the admin URI](../site-management/reset-admin-uri.md)
+   + [Shipping and Delivery Methods](../site-management/shipping-delivery.md)
+   + [Admin Grids and filters](../site-management/admin-grids-and-filters.md)
    + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
-   + Adobe Commerce服务 {#adobe-commerce-services}
-      + [配置Commerce服务连接器](../site-management/configure-adobe-commerce-services-connector.md)
-      + [配置支付服务](../site-management/configure-adobe-payment-services.md)
-      + [使用付款服务](../site-management/payment-services.md)
-+ 客户管理 {#customers}
+   + Adobe Commerce Services {#adobe-commerce-services}
+      + [Configure Commerce Services Connector](../site-management/configure-adobe-commerce-services-connector.md)
+      + [Configure Payment Services](../site-management/configure-adobe-payment-services.md)
+      + [Use Payment Services](../site-management/payment-services.md)
++ Customer Management {#customers}
    + [创建客户区段](../site-management/customer-segments.md)
    + [创建客户组](../site-management/customer-groups.md)
    + [创建客户属性](../site-management/customer-attributes.md)
-   + [卖方辅助购物](../site-management/seller-assisted-shopping.md)
-+ 目录管理 {#catalog}
-   + [创建类别](../site-management/category-create.md)
+   + [Seller-Assisted Shopping](../site-management/seller-assisted-shopping.md)
++ Catalog Management {#catalog}
+   + [Create a Category](../site-management/category-create.md)
    + [管理类别中的产品](../site-management/category-products.md)
    + [Inventory management](../site-management/inventory-management.md)
-   + [创建产品属性](../site-management/product-attributes-create.md)
-   + [将产品属性与PWA Studio结合使用](../site-management/product-attributes-pwa.md)
+   + [Create Product Attributes](../site-management/product-attributes-create.md)
+   + [Use Product Attributes with PWA Studio](../site-management/product-attributes-pwa.md)
    + [管理SEO元数据](../site-management/seo-metadata.md)
    + [管理SEO的URL重写](../site-management/seo-url-rewrites.md)
    + [AR查看器](../site-management/augmented-reality.md)

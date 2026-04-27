@@ -1,54 +1,64 @@
 ---
-title: 创建分组产品
-description: 了解如何使用REST API和Commerce管理员创建分组产品。
+title: Create a grouped product
+description: Learn how to create a grouped product using the REST API and the Commerce Admin.
 kt: 14585
 doc-type: video
 duration: 979
 audience: all
 activity: use
-last-substantial-update: 2023-11-30T00:00:00Z
+last-substantial-update: 2023-11-30T00:00:00.000Z
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 3ad7125b-ef6d-4ea0-9fa7-8fc9eb399ec1
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/nosJh3ytiC54wmNWaUmSu9qjZCN-ssjolNZD702EpEg
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: 551
 ht-degree: 0%
 
 ---
 
-# 创建分组产品
+# Create a grouped product
 
-分组产品由简单独立产品组成，这些产品以组形式显示。 您可以提供单个产品的变体或按季节或主题对它们进行分组。 在创建分组产品之前，请验证要包含在分组中的所有简单产品在Adobe Commerce中均可用，并创建任何不存在的产品。
+A grouped product consists of simple standalone products that are presented as a group. You can offer variations of a single product or group them by season or theme. Before creating a grouped product, verify that all the simple products to include in the group are available in Adobe Commerce, and create any that do not exist.
 
-在本教程中，您将了解如何使用REST API和Adobe Commerce管理员创建分组产品。
+In this tutorial, you learn how to create a grouped product using the REST API and the Adobe Commerce Admin.
 
-使用REST API在管理员中创建组产品：
+Use the REST API to create a group product in the Admin:
 
-1. 创建一个空的分组产品。
-1. 创建要在分组产品中使用的简单产品。
-1. 使用简单产品填充空的分组产品。
-1. 创建一个空的分组产品并关联简单产品。
+1. Create an empty grouped product.
+1. Create simple products for use in the grouped product.
+1. Populate the empty grouped product with simple products.
+1. Create an empty grouped product and associate the simple products.
 
-   将简单产品与分组产品关联时，前端将使用有效负荷中的排序顺序属性(`position`)来按所需顺序显示关联的产品。 如果未指定`position`属性，则产品将按添加到分组产品的顺序显示。
+   When you associate simple products to the grouped product, the sort order attribute (`position`) in the payload  is used by the frontend to display the associated products in a desired order. If the `position` attribute is not specified, the products are displayed in the order that they were added to the grouped product.
 
-从Adobe Commerce管理员创建分组产品时，请先创建简单产品。 准备好创建分组产品后，将简单产品分配给一个批次中的分组产品，以关联这些产品。
+When creating grouped products from the Adobe Commerce Admin, create the simple products first. When you are ready to create the grouped product, associate the simple products by assigning them to the grouped product in one batch.
 
 ## 此视频面向谁？
 
 * 网站管理员
 * 电子商务促销商
-* 新的Adobe Commerce开发人员，他们想要了解如何使用REST API在Adobe Commerce中创建分组产品。
+* New Adobe Commerce developers who want to learn how to create grouped products in Adobe Commerce using the REST API.
 
 ## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/3454048?captions=chi_hans&learn=on)
 
-## 分组产品的设置
+## Setup for the grouped product
 
-在此示例中，有三个简单产品（首先创建）和一个分组产品。 两个简单产品与分组产品相关联，然后将第三个简单产品添加到分组产品中。
+In this example, there are three simple products (created first) and a grouped product. Two simple products are associated with the grouped product, and then the third simple product is added to the grouped product.
 
 ## 使用cURL创建第一个简单产品
 
@@ -206,7 +216,7 @@ curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new
 
 在有效负载中，`link_type`值`associated`提供DELETE请求中所需的`{type}`值。 请求URL将类似于`/V1/products/my-new-grouped-product/links/associated/product-sku-three`。
 
-查看cURL请求，以从具有`product-sku-three` SKU的分组产品中删除具有`my-new-grouped-product` SKU的简单产品：
+查看cURL请求，以从具有`my-new-grouped-product` SKU的分组产品中删除具有`product-sku-three` SKU的简单产品：
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}rest/default/V1/products/my-new-grouped-product/links/associated/product-sku-three' \

@@ -1,41 +1,55 @@
 ---
-title: 创建可下载的产品
-description: 了解如何使用REST API和Adobe Commerce管理员创建可下载的产品。
+title: Create a downloadable product
+description: Learn how to create a downloadable product using the REST API and the Adobe Commerce Admin.
 kt: 14464
 doc-type: video
 duration: 946
 audience: all
 activity: use
-last-substantial-update: 2023-11-16T00:00:00Z
+last-substantial-update: 2023-11-16T00:00:00.000Z
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 90753b8d-eca0-4868-b40e-9563d2b0e1e8
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/YHtAD-NRQmIG58myhZk9X7-jJjwlk8S4NX9jYnZwnQc
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: 631
 ht-degree: 0%
 
 ---
 
-# 创建可下载的产品
+# Create a downloadable product
 
-了解如何使用REST API和Adobe Commerce管理员创建可下载的产品。
+Learn how to create a downloadable product using the REST API and the Adobe Commerce Admin.
 
 ## 此视频面向谁？
 
 * 网站管理员
 * 电子商务促销商
-* 新的Adobe Commerce开发人员，他们想要了解如何使用REST API在Adobe Commerce中创建产品
+* New Adobe Commerce developers who want to learn how to create products in Adobe Commerce using the REST API
 
 ## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/3453956?captions=chi_hans&learn=on)
 
-## 允许下载的域
+## Allowed downloadable domains
 
-您必须指定允许下载的域。 域通过命令行添加到项目的`env.php`文件。 `env.php`文件详细列出了允许包含可下载内容的域。 如果在&#x200B;_之前使用REST API_&#x200B;创建了可下载的产品，则更新了`php.env`文件时出错：
+You must specify which domains are permitted to allow downloads. Domains are added to the project&#39;s `env.php` file via the command line. The `env.php` file details the domains allowed to contain downloadable content. An error occurs if a downloadable product is created using the REST API _before_  the `php.env` file is updated:
 
 ```bash
 {
@@ -43,9 +57,9 @@ ht-degree: 0%
 }
 ```
 
-若要设置域，请连接到服务器： `bin/magento downloadable:domains:add www.example.com`
+To set the domain, connect to the server: `bin/magento downloadable:domains:add www.example.com`
 
-完成此操作后，`env.php`将在&#x200B;_downloadable_domains_&#x200B;数组内进行修改。
+Once that is complete, the `env.php` is modified inside the _downloadable_ domains_ array.
 
 ```php
     'downloadable_domains' => [
@@ -53,22 +67,22 @@ ht-degree: 0%
     ],
 ```
 
-现在该域已添加到`env.php`，您可以在Adobe Commerce管理员中或使用REST API创建可下载的产品。
+Now that the domain is added to the `env.php`, you can create a downloadable product in the Adobe Commerce Admin or by using the REST API.
 
-有关详细信息，请参阅[配置引用](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=zh-Hans#downloadable_domains)。
+See [Configuration Reference](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=zh-Hans#downloadable_domains) to learn more.
 
 >[!IMPORTANT]
->在某些版本的Adobe Commerce上，在Adobe Commerce管理员中编辑产品时，您可能会收到以下错误。 产品是使用REST API创建的，但链接下载的价格为`null`。
+>On some versions of Adobe Commerce, you might get the following error when a product is edited in the Adobe Commerce Admin. The product is created using the REST API but the linked download has a `null` price.
 
-`Deprecated Functionality: number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /app/vendor/magento/module-downloadable/Ui/DataProvider/Product/Form/Modifier/Data/Links.php on line 228`。
+`Deprecated Functionality: number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /app/vendor/magento/module-downloadable/Ui/DataProvider/Product/Form/Modifier/Data/Links.php on line 228`.
 
-要修复此错误，请使用更新链接API： `POST V1/products/{sku}/downloadable-links.`
+To fix this error, use the update link API: `POST V1/products/{sku}/downloadable-links.`
 
-有关详细信息，请参阅[使用cURL更新产品下载链接](#update-downloadable-links)。
+See the [Update a product download link using cURL](#update-downloadable-links) section for more info.
 
-## 使用cURL创建可下载的产品（从远程服务器下载）
+## Create a downloadable product using cURL (download from remote server)
 
-此示例说明当要下载的文件不在同一服务器上时，如何使用cURL创建可下载的产品。 如果文件存储在S3存储段或其他数字资产管理器中，则此用例是典型的。
+This example shows how to create a downloadable product using cURL when the file to download is not on the same server. 如果文件存储在S3存储段或其他数字资产管理器中，则此用例是典型的。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -182,7 +196,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/POSTMAN-download-pro
 
 ## 使用Postman更新产品 {#update-downloadable-links}
 
-使用终结点`rest/all/V1/products/{sku}/downloadable-links`
+使用端点 `rest/all/V1/products/{sku}/downloadable-links`
 `SKU`是在创建产品时生成的产品ID。 例如，在下面的代码示例中，这是数字39，但请确保将其更新以使用您网站中的ID。 这将更新可下载产品的链接。
 
 ```json
@@ -238,6 +252,6 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 ## 其他资源
 
 * [可下载的产品类型](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=zh-Hans){target="_blank"}
-* [可下载的域配置指南](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=zh-Hans#downloadable_domains){target="_blank"}
+* [Downloadable Domains Configuration Guide](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=zh-Hans#downloadable_domains){target="_blank"}
 * [Adobe Developer REST教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

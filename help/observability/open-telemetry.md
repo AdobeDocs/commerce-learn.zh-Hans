@@ -1,25 +1,37 @@
 ---
-title: 打开遥测
-description: 与OpenTelemetry统一可观察性 — 日志、跟踪和量度，以实现无缝监控和根本原因分析。
+title: Open Telemetry
+description: Unify observability with OpenTelemetry—logs, traces, and metrics for seamless monitoring and root cause analysis.
 feature: Observability,Extensibility,App Builder
 topic: Performance
 role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 175
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18T00:00:00.000Z
 jira: KT-19975
 exl-id: 697d4290-1181-4fde-b8a8-132de9057264
-source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
+TQID: https://experienceleague.adobe.com/CduOz--PAPFhQOOfM-cEfmvUCKTk4A7C8dO5DyJ51ik
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: 121
 ht-degree: 0%
 
 ---
 
-# 打开遥测
+# Open telemetry
 
-了解开放式遥测如何标准化跨日志、跟踪和量度的可观察性，而不会将您锁定在单个监视工具中。 此视频介绍为何采用开放的行业标准来实现信号的无缝关联。 了解Open Telemetry如何支持现有栈栈，并为统一的监控策略提供端到端的操作分析。
+Learn how Open Telemetry standardizes observability across logs, traces, and metrics without locking you into a single monitoring tool. This video explains why adopting an open, industry-wide standard enables seamless correlation of signal. Learn how Open Telemetry supports existing stacks, and delivers end-to-end operational insights for a unified monitoring strategy.
 
 ## 此视频面向谁？
 
@@ -29,9 +41,9 @@ ht-degree: 0%
 
 ## 视频内容
 
-* 使用OpenTelemetry标准化所有信号的可观察性
-* 将日志、跟踪和量度关联起来，以加快根本原因分析
-* 在统一数据流的同时维护现有的监控工具
+* Standardize observability with OpenTelemetry across all signals
+* Correlate logs, traces, and metrics for faster root cause analysis
+* Maintain existing monitoring tools while unifying data streams
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478333?captions=chi_hans&learn=on)
 

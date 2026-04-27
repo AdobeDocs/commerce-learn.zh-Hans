@@ -1,27 +1,42 @@
 ---
-title: 管理配送和交货方式
-description: 了解如何为您的Commerce商店配置发货地、多发货、交货费用和运营商设置。
+title: Manage Shipping and Delivery Methods
+description: Learn how to configure shipping origin, multi-shipping, delivery fee, and carrier settings for your Commerce store.
 kt: 10543
 doc-type: feature video
 duration: 155
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00Z
+last-substantial-update: 2023-04-27T00:00:00.000Z
 feature: Configuration, System, Shipping/Delivery
 topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: fccbdb7b-2051-490a-a249-3525f96c51ab
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/rha6eehGpameXLRlBO1VXerxBbJ6IjosqVFmBCGGTRU
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: 137
 ht-degree: 0%
 
 ---
 
-# 管理配送和交货方式
+# Manage Shipping and Delivery Methods
 
-管理您的配送方式对于确保能够将您的产品交到客户手中至关重要。 在本视频中，您将了解如何管理货运来源、多件运输、运费和承运人设置。
+Managing your shipping and delivery methods is critical to making sure you&#39;re able to get your product into the hands of your customers. In this video, you learn how to manage your shipping origin, multi-shipping, delivery fee, and carrier settings.
 
 ## 此视频面向谁？
 
@@ -34,6 +49,6 @@ ht-degree: 0%
 
 ## 其他资源
 
-* [送货设置 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html?lang=zh-Hans)
-* [基本传递方法 —  [!DNL Commerce] 存储和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html?lang=zh-Hans#basic-delivery-methods)
-* [装运承运人设置 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html?lang=zh-Hans)
+* [Shipping settings - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html?lang=zh-Hans)
+* [Basic delivery methods - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html?lang=zh-Hans#basic-delivery-methods)
+* [Shipping carrier setup - [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html?lang=zh-Hans)

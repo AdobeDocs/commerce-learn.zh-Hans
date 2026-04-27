@@ -1,6 +1,6 @@
 ---
-title: 创建产品属性
-description: 创建一个返回带有一个参数的json的页面。
+title: Create a product attribute
+description: Create a page that returns json with one parameter.
 kt: 14131
 doc-type: video
 duration: 605
@@ -11,27 +11,39 @@ topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/nK2d0LjWl88FCVRW6IRCa-euZ8cTawlY3YOzjMyNq-Y
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: 325
 ht-degree: 0%
 
 ---
 
-# 创建产品属性
+# Create a product attribute
 
-添加产品属性是[!DNL Commerce]中最常用的操作之一。 属性是解决许多与产品相关的实际任务的强大方法。 向产品添加下拉列表类型属性的过程非常简单。
+Adding a product attribute is one of the most popular operations in [!DNL Commerce]. Attributes are a powerful way to solve many practical tasks related to a product. There is a simple process of adding a dropdown-type attribute to a product.
 
 在此视频中：
 
-* 添加一个名为clothing_material的属性，可能的值包括：棉花、皮革、丝绸、牛仔布、毛皮和羊毛
-* 在产品视图页面上以粗体文本显示此属性
-* 将其分配给“默认”属性集并添加限制
-* 添加新属性
+* Add an attribute called clothing_material with the possible values: Cotton, Leather, Silk, Denim, Fur, and Wool
+* Make this attribute visible on the product view page, in bold text
+* Assign it to the Default attribute set and add a restriction
+* Add the new attribute
 
 ## 此视频面向谁？
 
-* 刚开始使用Commerce的开发人员，他们需要了解如何以编程方式创建产品属性
+* Developers new to commerce who need to learn how to create a product attribute programmatically
 
 ## 视频内容
 
@@ -39,7 +51,7 @@ ht-degree: 0%
 
 ## 代码示例
 
-首先创建所需的文件夹、xml和PHP文件：
+First create the folders, xml and PHP files that necessary:
 
 * app/code/Learning/ClothingMaterial/registration.php
 * app/code/Learning/ClothingMaterial/etc/module.xml

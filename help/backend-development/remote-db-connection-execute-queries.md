@@ -7,12 +7,22 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
 duration: 1024
-last-substantial-update: 2024-06-25T00:00:00Z
+last-substantial-update: 2024-06-25T00:00:00.000Z
 jira: KT-14910
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
-source-git-commit: d2c01abbc24ec14f6147004bb9a13ebdbfb8b60e
+TQID: https://experienceleague.adobe.com/9jR79l0ERhs4UsQ9da2juigSktpcVE5IsiBnk83gCzc
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1010'
+source-wordcount: 1099
 ht-degree: 0%
 
 ---
@@ -260,7 +270,7 @@ SSH tunnel opened to database at: mysql://user:@127.0.0.1:30000/main
 
 ![Adobe Commerce云控制台](./assets/cloud-ui-screenshot.png "Adobe Commerce云控制台")
 
-以下是示例：`ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud`
+下面是一个示例： `ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud`
 在此示例中，@符号后面的SSH主机名即为`ssh.us-4.magento.cloud`。
 SSH用户名是@符号之前的所有内容： `abasrpikfw4123-remote-db-ecpefky--mymagento`
 
@@ -274,7 +284,7 @@ SSH用户名是@符号之前的所有内容： `abasrpikfw4123-remote-db-ecpefky
    magento-cloud ssh
    ```
 
-2. 从`database`$MAGENTO_CLOUD_RELATIONSHIP`type`变量中的[和](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=zh-Hans#relationships)属性检索MySQL登录凭据。
+2. 从[$MAGENTO_CLOUD_RELATIONSHIP](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=zh-Hans#relationships)变量中的`database`和`type`属性检索MySQL登录凭据。
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -346,7 +356,7 @@ Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
 Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 ```
 
-例如，您可以从`core_config_data`表中找到包含作为列`secure`一部分的单词`path`的所有记录：
+例如，您可以从`core_config_data`表中找到包含作为列`path`一部分的单词`secure`的所有记录：
 
 ```sql
 MariaDB [main]> SELECT * FROM core_config_data WHERE path LIKE '%secure%' \G;
@@ -383,4 +393,4 @@ MariaDB [main]>
 * [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=zh-Hans)
 * [设置MySQL服务](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html?lang=zh-Hans)
 * [设置远程MySQL数据库连接](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html?lang=zh-Hans)
-* [在云基础架构的Adobe Commerce上创建数据库转储](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=zh-Hans)
+* [在云基础架构上的Adobe Commerce上创建数据库转储](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=zh-Hans)

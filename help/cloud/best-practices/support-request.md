@@ -7,19 +7,31 @@ role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 126
-last-substantial-update: 2024-08-23T00:00:00Z
+last-substantial-update: 2024-08-23T00:00:00.000Z
 jira: KT-15165
 exl-id: cea62272-c7b9-44f7-9c39-5ad3d9122382
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/Si-izuH329pVtctIZ71FLXHfo48YaFtOGXGtAisu-tw
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: 519
 ht-degree: 0%
 
 ---
 
 # 有效的支持请求
 
-创建支持工单时，请务必通过相应渠道提交该工单，提供有关问题的准确详细信息，选择正确的组织和联系原因，选择适当的产品和版本，查看建议的文章以寻找可能的解决方案，在提交之前仔细检查所有信息，跟踪工单进度并与支持团队进行对话，在问题解决时将工单标记为已解决，并在需要进一步帮助时打开后续工单&#x200B;。 切记通过相应渠道提交票证，提供准确和详细的信息，选择正确的组织和联系原因，选择适当的产品和版本，查看建议的文章，在提交之前仔细检查所有信息，跟踪票证的进度，与支持团队进行对话，在问题解决时将票证标记为已解决，并根据需要打开后续票证&#x200B;。
+创建支持工单时，请务必通过相应渠道提交该工单，提供有关问题的准确详细信息，选择正确的组织和联系原因，选择适当的产品和版本，查看建议的文章以寻找可能的解决方案，在提交之前仔细检查所有信息，跟踪工单进度并与支持团队进行对话，在问题解决时将工单标记为已解决，并在需要进一步帮助时打开后续工单。 请记&#x200B;住通过相应渠道提交票证，提供准确和详细的信息，选择正确的组织和联系原因，选择适当的产品和版本，查看建议的文章，在提交之前仔细检查所有信息，跟踪票证的进度，与支持团队进行对话，在问题解决时将票证标记为已解决，并在需要时打开后续票证。  
 
 ## 包括日志或屏幕截图
 

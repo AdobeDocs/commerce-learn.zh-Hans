@@ -1,25 +1,39 @@
 ---
-title: 了解可观察性
-description: 为什么集中式可观察性对于可扩展的Adobe Commerce可扩展性至关重要
+title: Understanding Observability
+description: Why Centralized Observability Is Critical for Scalable Adobe Commerce Extensibility
 feature: Observability, Extensibility, App Builder
 topic: Architecture, Performance
 role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 205
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18T00:00:00.000Z
 jira: KT-19965
 exl-id: 619e7ac0-4415-4bea-829b-2211a3bf7d21
-source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
+TQID: https://experienceleague.adobe.com/4qNs0qCI0qqoOaIVv6m355YlBaetRoPQMQ5ynKdR-i4
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: 124
 ht-degree: 0%
 
 ---
 
 # 可观察性概述
 
-了解集中式可观察性为何对现代Adobe Commerce架构至关重要。 随着可扩展性发展成为具有独立应用程序、Webhook和UI扩展的可组合模型，商家面临着跟踪复杂执行流的挑战。 了解统一的可观察性层如何跨服务关联信号，从而实现主动优化并确保快速、可靠的结账体验。
+Learn why centralized observability is essential for modern Adobe Commerce architectures. As extensibility evolves into a composable model with independent apps, webhooks, and UI extensions, merchants face the challenge of tracking complex execution flows. Learn how a unified observability layer correlates signals across services, enabling proactive optimization and ensuring fast, reliable checkout experiences.
 
 ## 此视频面向谁？
 
@@ -29,9 +43,9 @@ ht-degree: 0%
 
 ## 视频内容
 
-* 可组合模型增加了复杂性：独立应用程序和Webhook缺乏单一上下文。
-* 集中化可观察性是关键：跨所有组件关联日志和量度。
-* 提高结账性能：快速发现瓶颈以保持购物顺畅。
+* Composable Model Adds Complexity: Independent apps and webhooks lack a single context.
+* Centralized Observability Is Key: Correlate logs and metrics across all components.
+* Boost Checkout Performance: Identify bottlenecks fast to keep shopping smooth.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478298?captions=chi_hans&learn=on)
 

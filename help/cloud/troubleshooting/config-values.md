@@ -8,12 +8,23 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 709
-last-substantial-update: 2024-11-08T00:00:00Z
+last-substantial-update: 2024-11-08T00:00:00.000Z
 jira: KT-16429
 exl-id: 9ff16e96-a63f-4fab-be7d-9160c1172603
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/-DrHhEXwmrrLBb63QKAYRdKbWQEFmJZ4uUhJa5ORFEs
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: 309
 ht-degree: 0%
 
 ---

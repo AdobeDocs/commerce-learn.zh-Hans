@@ -1,45 +1,63 @@
 ---
-title: 集成Adobe Commerce和Adobe Journey Optimizer
-description: 了解为何以及如何实施Adobe Commerce与Adobe Journey Optimizer的集成。
+title: Integrate Adobe Commerce and Adobe Journey Optimizer
+description: Learn why and how an integration between Adobe Commerce and Adobe Journey Optimizer can be implemented.
 feature: Audience Activation, Communications, Marketing Tools, Promotions/Events
 topic: Administration, Commerce, Integrations, Personalization
 role: Admin, Developer
 level: Beginner
 doc-type: Technical Video
 duration: 570
-last-substantial-update: 2024-01-17T00:00:00Z
+last-substantial-update: 2024-01-17T00:00:00.000Z
 jira: KT-14793
 thumbnail: 3426855.jpeg
 exl-id: 2f12c90f-710b-4680-a12e-62c436793b9c
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/ip2-LMzZezPGHDGnK0KbKUB3Pe7p0gwwmSIPtX9QUCg
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: 276
 ht-degree: 0%
 
 ---
 
-# 集成Adobe Commerce和Adobe Journey Optimizer
+# Integrate Adobe Commerce and Adobe Journey Optimizer
 
-了解如何在Adobe Commerce中使用[Data Connection](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=zh-Hans){target="blank"}来解锁Commerce数据，并通过Adobe Journey Optimizer帮助实时提供端到端、个性化的购物者体验。
+Learn how you can use [Data Connection](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=zh-Hans){target="blank"} in Adobe Commerce to unlock Commerce data and deliver end-to-end, personalized shopper experiences in real time with the help of Adobe Journey Optimizer.
 
 ## 此视频面向谁？
 
-* 对将电子商务数据和受众共享给营销团队感兴趣的E-Commerce经理和运营人员
-* 希望使用Commerce中的客户数据进一步推动大规模个性化的营销经理
-* 希望通过Commerce和Journey Optimizer之间的自动化数据流提高效率的营销运营
+* E-Commerce Managers and Operations interested in sharing e-commerce data and audiences to Marketing teams
+* Marketing Managers looking to use customer data from Commerce to further drive personalization at scale
+* Marketing Operations who are interested in driving efficiency with the automated data stream between Commerce and Journey Optimizer
 
 ## 视频内容
 
-* 通过在Adobe Commerce和Adobe Experience Platform（包括Journey Optimizer）之间通过Data Connection无缝流式传输数据，解决孤立的数据挑战
-* 实时获取从Commerce交付的数据，以在Journey Optimizer中激活客户历程并使其个性化
-* 将Commerce数据与来自其他源的数据相结合。 构建受众并通过独特消息、体验或选件定位受众
-* 使用Data Connection仅需1小时即可实施此集成，而自定义实施通常需要20天
-* 在Adobe Journey Optimizer中，使用数据连接中提供的现成事件轻松构建和激活1:1客户历程
-* 使用Adobe Journey Optimizer的本机消息传送功能实时吸引所有渠道的购物者
+* Address siloed data challenges by seamlessly streaming data between Adobe Commerce and the Adobe Experience Platform, including Journey Optimizer, with the Data Connection
+* Take data delivered from Commerce in real time to activate and personalize customer journeys in Journey Optimizer
+* Combine Commerce data with data from additional sources. Build audiences and target them with unique messages, experiences, or offers
+* Implement this integration in just one hour with the Data Connection, compared to the typical 20 days it takes for a custom implementation
+* In Adobe Journey Optimizer, easily build and activate 1:1 customer journeys, using out-of-the-box events that are available with the Data Connection
+* Engage with shoppers across all channels in real-time using Adobe Journey Optimizer&#39;s native messaging capabilities
 
 >[!VIDEO](https://video.tv.adobe.com/v/3452480?captions=chi_hans&learn=on)
 
 ## 其他资源
 
-[数据连接概述](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=zh-Hans){target="_blank"}
-[安装数据连接](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html?lang=zh-Hans){target="_blank"}
+[Data Connection Overview](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=zh-Hans){target="_blank"}
+[Install Data Connection](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html?lang=zh-Hans){target="_blank"}

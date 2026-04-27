@@ -12,9 +12,22 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/9RhL9cCMdV9Cs9Q8LkCWUSfPlYIyB3XMoWtaXLI0PlM
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: 673
 ht-degree: 0%
 
 ---
@@ -320,9 +333,9 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-produ
 
 ## 恢复产品选项
 
-在更新捆绑产品选项时，请确保包括要与此产品关联的所有选项。 如果原始选项集包含三个产品并且一个已删除，请在POST请求中包含所有三个选项，以确保产品捆绑包指定所有选项。 如果仅包含您删除的选项，则更新的产品捆绑包将仅包含该选项。
+在更新捆绑产品选项时，请确保包括要与此产品关联的所有选项。 如果原始选项集包含三个产品并且一个已删除，请在POST请求中包含所有三个选项，以确保产品捆绑包指定所有选项。 If you included only the option you removed, then the updated product bundle includes only that option.
 
-通过查看从为捆绑包产品创建的响应来查找选项ID。 在该响应中，`option_id`是`35`。
+Locate the option ID by reviewing the response from creation for the bundle product. In the that response, the `option_id` is `35`.
 
 ```json
 ...
@@ -373,7 +386,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-produ
 ...
 ```
 
-更新产品捆绑包，通过提交以下POST请求来添加您删除的选项。
+Update the product bundle to add the option you removed by submitting the following POST request.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' \
@@ -430,7 +443,7 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 
 ## 其他资源
 
-* [创建捆绑产品教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
-* [捆绑产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html?lang=zh-Hans){target="_blank"}
+* [Create a bundle product tutorial](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
+* [Bundle Product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html?lang=zh-Hans){target="_blank"}
 * [Adobe Developer REST教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

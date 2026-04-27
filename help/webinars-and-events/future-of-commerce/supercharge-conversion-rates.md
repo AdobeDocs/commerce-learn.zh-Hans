@@ -1,25 +1,34 @@
 ---
-title: 超级充电转换率
-description: 了解Adobe Commerce如何涵盖旨在提高电子商务性能的一系列功能和工具。
+title: Supercharge conversion rates
+description: Learn how Adobe Commerce covers a range of features and tools designed to enhance e-commerce performance.
 feature: Cloud, Extensibility
 topic: Commerce
 role: User
 level: Beginner
 doc-type: Value Video
 duration: 816
-last-substantial-update: 2025-05-16T00:00:00Z
+last-substantial-update: 2025-05-16T00:00:00.000Z
 jira: KT-18121
 exl-id: a93ba2c4-1a72-496c-b993-d5105be9ca49
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/qKPOl-FmaMKvLomLiSlzzDegyZXDfKeS6Xvv1cZlEX4
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: 156
 ht-degree: 0%
 
 ---
 
-# 超级充电转换率
+# Supercharge conversion rates
 
-了解Adobe Commerce如何借助旨在将转化率提高高达8%的尖端工具转变数字店面。 利用边缘交付技术、AI支持的内容创建和直观的无代码创作，企业可以实现快如闪电的站点性能、增强的SEO和无缝的A/B测试。 通过Adobe Express和Firefly的集成式资源管理和可视化编辑，团队可以快速创建、测试和优化个性化购物体验 — 以前所未有的方式推动增长和参与。
+Discover how Adobe Commerce is transforming digital storefronts with cutting-edge tools designed to supercharge conversion rates by up to 8%. Leveraging edge delivery technology, AI-powered content creation, and intuitive no-code authoring, businesses can achieve lightning-fast site performance, enhanced SEO, and seamless A/B testing. With integrated asset management and visual editing from Adobe Express and Firefly, teams can rapidly create, test, and optimize personalized shopping experiences—driving growth and engagement like never before.
 
 ## 此视频面向谁？
 
@@ -30,11 +39,11 @@ ht-degree: 0%
 
 ## 视频内容 {#video-content}
 
-* 性能和SEO优化
-* AI支持的内容和无代码创作
-* A/B测试和资产管理
-* 开发人员就绪组件和SDK
-* 集成的可视化编辑工具
+* Performance &amp; SEO Optimization
+* AI-Powered Content &amp; No-Code Authoring
+* A/B Testing &amp; Asset Management
+* Developer-Ready Components &amp; SDK
+* Integrated Visual Editing Tools
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458517?learn=on)
 
@@ -42,4 +51,4 @@ ht-degree: 0%
 
 [新产品公告](./new-product-announcements.md)
 [大幅削减成本](./drastically-cut-costs.md)
-[快速通道扩展](fast-track-expansion.md)
+[Fast track expansion](fast-track-expansion.md)

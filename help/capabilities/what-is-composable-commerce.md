@@ -10,16 +10,22 @@ duration: 323
 last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/NG-US7zLBgzV425mheo3oQ9Z6gnzAr6aRCLNjHVU0aM
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: c32adafa-ed01-4b31-997e-2413013911b0id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1257'
+source-wordcount: 1305
 ht-degree: 0%
 
 ---
 
 # 可组合商务
 
-可组合商务是电子商务的一种架构方法，它涉及将前端表示层与后端商务功能分离&#x200B;。 它允许企业选择和组合最佳的组件或模块，以创建定制的解决方案。 这一方法包括将传统的整体电子商务平台分解成更小的、独立的服务或微服务，这些服务或微服务可以组合在一起。 可组合商务具有灵活性、可扩展性、自定义性、灵活性以及与其他系统和技术更轻松集成的能力。
+可组合商务是电子商务的一种架构方法，它涉及将前端表示层与后端商务功能分离。 它允许&#x200B;企业选择和组合最佳的组件或模块，以创建定制的解决方案。 这一方法包括将传统的整体电子商务平台分解成更小的、独立的服务或微服务，这些服务或微服务可以组合在一起。 可组合商务具有灵活性、可扩展性、自定义性、灵活性以及与其他系统和技术更轻松集成的能力。
 
 Adobe Commerce提供了多种功能和工具，以支持商家采用和实施可组合商务。 Adobe Commerce提供了可组合的commerce方法论以及混合的headless和非headless前端体验。 考虑到流程的可扩展性，Adobe提供了用于集成多个服务的API Mesh，以及用于创建自定义微服务的Adobe App Builder。
 

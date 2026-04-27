@@ -1,25 +1,30 @@
 ---
-title: 可观察性演示设置和详细信息
-description: 跨Adobe Commerce和自定义应用程序使用标准化、关联的遥测实现端到端可观察性
+title: Observability demo setup and details
+description: Deliver end-to-end observability with standardized, correlated telemetry across Adobe Commerce and custom apps
 feature: Observability, Extensibility, App Builder
 topic: Architecture, Performance
 role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 208
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18T00:00:00.000Z
 jira: KT-19992
 exl-id: b81f83de-782c-42ae-ae27-96d78caab4f5
-source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
+TQID: https://experienceleague.adobe.com/qJtjFlX4HqMgwlJkv8wXllSgdvqgEmSiO89Jg6i93zU
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: 121
 ht-degree: 0%
 
 ---
 
-# 设置和配置
+# Setup and Configuration
 
-了解如何使用标准化的相关遥测实现Adobe Commerce和自定义应用程序的端到端可观察性。 此视频介绍关联和标准化为什么重要，并介绍Commerce可观察性模块和IO实时遥测库。 了解这些工具如何实现统一的监控、日志记录和跟踪，以实现无缝的操作流程。
+Learn how to achieve end-to-end observability across Adobe Commerce and custom applications using standardized, correlated telemetry. This video explains why correlation and standardization matter, introduces the Commerce Observability Module and IO Live Telemetry Library. Learn how these tools enable unified monitoring, logging, and tracing for a seamless operational flow.
 
 ## 此视频面向谁？
 
@@ -29,11 +34,11 @@ ht-degree: 0%
 
 ## 视频内容
 
-* 标准化并关联遥测以实现完全可观察性
-* 对自动信号使用Commerce可观察性模块
-* 使用应用程序的IO Live Telemetry Library扩展监视
+* Standardize and correlate telemetry for full observability
+* Use Commerce Observability Module for automated signals
+* Extend monitoring with IO Live Telemetry Library for apps
 
->[!VIDEO](https://video.tv.adobe.com/v/3478344?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478288?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

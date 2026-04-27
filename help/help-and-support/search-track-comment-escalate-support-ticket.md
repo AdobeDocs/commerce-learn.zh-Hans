@@ -7,12 +7,16 @@ role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 209
-last-substantial-update: 2024-08-23T00:00:00Z
+last-substantial-update: 2024-08-23T00:00:00.000Z
 jira: KT-16049
 exl-id: 15b560bd-29f7-4866-86a4-ef548a5ac953
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/-ATvMO7lsgqxCIZpBJTYLFeDrWYKRKgZPaZMk-aSsoQ
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: 125
 ht-degree: 0%
 
 ---
@@ -31,8 +35,8 @@ ht-degree: 0%
 * 了解如何向打开的支持票证添加评论
 * 了解升级支持票证的方式和一些原因
 
->[!VIDEO](https://video.tv.adobe.com/v/3445321?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433076?learn=on)
 
 ## Commerce知识库帮助中心指南
 
-[提交支持案例](https://experienceleague.adobe.com/zh-hans/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[提交支持案例](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)

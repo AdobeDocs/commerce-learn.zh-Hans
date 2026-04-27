@@ -13,9 +13,14 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 412060b3-76ae-4c27-bf96-8eb2a0f0d0e8
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/hrzcmSY8cAke4LBLRtqfkP8-t6jP4KMoMc7iL3WPRng
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: 394
 ht-degree: 0%
 
 ---
@@ -39,7 +44,7 @@ ht-degree: 0%
 * 开发人员控制台中的可视指示器，例如失败事件的警告图标和重试事件的圆形箭头图标。
 * “消费者”运行时操作在确定用于事件处理的相应HTTP响应状态代码方面发挥着关键作用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449083?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

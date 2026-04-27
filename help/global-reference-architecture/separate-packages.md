@@ -13,9 +13,15 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/ihTCXVhaBPi5-6Xs1tiB-wDbVX-1CwHSgz80X0B02ts
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '2101'
+source-wordcount: 2132
 ht-degree: 0%
 
 ---
@@ -116,7 +122,7 @@ git push -u origin main
 
 这样，您可以确保每个存储都包含相同的一组基础软件包。
 
-同样，您可以定义定义存储x的中继标记。它需要基础暗包，需要完整的GRA基础和一个本地模块：
+同样，您可以定义定义存储x的中继标记。 它需要基础暗包，需要完整的GRA基础和一个本地模块：
 
 ```json
 {
@@ -170,31 +176,31 @@ composer install --prefer-source
 
 ### 将第三方模块纳入GRA基础
 
-将第三方包添加到GRA中继。 如果无法从编辑器存储库安装第三方代码，请为其创建包。 创建Git存储库，添加包内容（应用程序/代码/供应商/包中的所有内容），并确保在存储库的根目录下存在有效的composer.json文件。 您现在可以通过Composer安装此包。
+Add third-party packages to the GRA metapackage. If third-party code is not available to be installed from a Composer repository, then create a package for it. Create a Git repo, add the packages contents (everything that would be in app/code/Vendor/Package) and make sure that there is a valid composer.json file at the root of the repository. You can now install this package through Composer.
 
-## 设置专用编辑器存储库
+## Set up a private Composer repository
 
-在全球参考架构中，私有存储库不是强制性的。 它可加快部署和安装速度，减少composer.json中的存储库配置，并提高安全性。 其他编辑器存储库和Adobe Commerce市场的凭据存储在您的专用存储库中。 没有与代码捆绑在一起的或开发人员计算机上捆绑的更加敏感的凭据。
+A private repository is not mandatory in global reference architecture. It makes deployments and installation faster, reduces repository configuration in composer.json, and it increases security. Credentials to other Composer repositories and the Adobe Commerce marketplace are stored in your private repository. No more sensitive credentials bundled with the code or on developers&#39; machines.
 
-此外，某些专用存储库还提供其他功能，例如，当您的某个存储库的某个依赖项中包含安全漏洞时，会发送电子邮件通知。
+Additionally, some private repositories offer extra functionalities such as email notifications when one of your stores contains a security vulnerability in one of its dependencies.
 
-当您在composer.json中有多个VCS存储库时，会出现速度缓慢问题。 在执行升级时，需要读取每个编辑器存储库，并且对于50个程序包具有50个存储库的单个编辑器存储库的开销至少是单个编辑器存储库的开销的50倍。
+The slowness issue is what occurs when you have multiple VCS repositories in composer.json. Each Composer repository needs to be read when doing upgrades and having 50 repositories for 50 packages has at least 50 times the overhead of just a single Composer repository.
 
-![显示缺少编辑器存储库时速度变慢位置的图表](/help/assets/global-reference-architecture/separate-packages-without-mirror-diagram.png){align="center"}
+![A diagram showing where slowness occurs when a composer repository is missing](/help/assets/global-reference-architecture/separate-packages-without-mirror-diagram.png){align="center"}
 
-包括私有编辑器存储库形式的编辑器镜像。 镜像包含来自其他编辑器存储库的所有包以及所有Git托管包的副本。 使用专用编辑器存储库，您还可以获得细粒度访问控制。
+Include a Composer mirror in the form of a private Composer repository. The mirror contains a copy of all packages from other Composer repositories as well as all Git hosted packages. With a private Composer repository, you additionally get fine grained access control.
 
-通过Git同步，专用编辑器存储库会自动检测Git存储库中的新包以及现有包的新版本。
+With Git synchronization, a private Composer repository automatically detects new packages in your Git repositories as well as new versions of existing packages.
 
-您可以使用Satis托管自己的专用存储库： <https://composer.github.io/satis/>。 在<https://antonevers.github.io/gra-composer-repository/>处查看公共存储库示例。 此存储库在代码示例中用作编辑器存储库。 需要执行其他措施来将Satis存储库设为私有。
+You can host your own private repository with Satis: <https://composer.github.io/satis/>. See an example public repository at <https://antonevers.github.io/gra-composer-repository/>. This repo is used as the composer repository in the code examples. Additional measures are necessary to make a Satis repository private.
 
-有一些解决方案可供您配置并忽略：专用打包程序<https://packagist.com/>，它由编写Composer或JFrog Artifactory <https://jfrog.com/artifactory/>的同一人创建。
+There are solutions that you can configure and forget about: Private Packagist <https://packagist.com/>, which is made by the same people that wrote Composer or JFrog Artifactory <https://jfrog.com/artifactory/>.
 
-## 投放代码
+## Deliver code
 
-利用中继包，可通过以下3个步骤来交付代码。
+With metapackages, there are 3 steps to deliver code.
 
-1. 将更改合并到包中，并对更改的包进行版本控制。
+1. Merge changes into packages and version the changed packages.
 2. （可选，仅当添加了新包时才可用）要求将新包添加到元包中，并对元包进行版本控制。
 3. （可选，仅当添加了新包时才能使用）在Adobe Commerce中需要新元包并进行部署。
 

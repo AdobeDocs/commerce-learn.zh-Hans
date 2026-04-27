@@ -1,36 +1,42 @@
 ---
-title: 后台用户的管理员角色
-description: 了解商业用户如何登录Adobe Commerce管理门户，以及商店管理员如何创建和管理对管理门户的基于角色的访问。
+title: Admin roles for back office users
+description: Lean how business users log into Adobe Commerce Admin Portal and how store admins create and manage role-based access to the Admin portal.
 feature: Admin Workspace, Roles/Permissions, Security
 topic: Administration, Commerce, Security
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
 duration: 299
-last-substantial-update: 2024-10-09T00:00:00Z
+last-substantial-update: 2024-10-09T00:00:00.000Z
 jira: KT-16186
 exl-id: 490cf618-9ebe-478d-9e12-49dde50ceae8
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/emyoykUc8mJE8X4HtksnPJrYJ6QeoTVyTvOY-yqmL80
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: c18ed297-2187-4aec-affb-9d9654eca6fc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: 195
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce管理员角色
+# Adobe Commerce admin roles
 
-了解使用Adobe ID或Federated ID登录Adobe Commerce管理门户的过程，并详细介绍商店管理员如何创建和管理基于角色的访问。 了解创建具有特定权限的新角色的步骤，如负责管理客户报价和模板的“销售方”角色。 了解如何将用户分配给这些角色，确保他们具有适当的访问级别，并演示将用户分配给新创建的角色并验证分配。
+Learn the process of logging into the Adobe Commerce Admin Portal using Adobe ID or Federated ID and details how store admins can create and manage role-based access. Understand the steps to create a new role with specific permissions, such as a &quot;Seller&quot; role responsible for managing customer quotes and templates. Understand how to assign users to these roles, ensuring they have the appropriate access levels, and includes a demonstration of assigning a user to a newly created role and verifying the assignment.
 
 ## 此视频面向谁
 
-* 存储管理员和负责管理访问权限的企业用户。
-* 需要说明如何创建具有特定权限的角色以及将用户分配给这些角色的新商店所有者
-* Adobe Commerce项目希望确保对Adobe Commerce管理员中执行的管理任务进行安全高效的管理。
+* Store administrators and business users responsible for managing access and permissions.
+* New store owners who need instructions on creating roles with specific permissions and assigning users to these roles
+* Adobe Commerce projects interested in ensuring secure and efficient management of administrative tasks performed in the Adobe Commerce admin.
 
 ## 视频内容
 
-* 了解最新的登录方法。
-* 充分了解角色的创建和管理
-* 了解用户分配和访问级别&#x200B;。
+* Learn the latest login methods.
+* Get a good understanding of the role creation and management
+* Understand the user assignment and access levels.  
 
->[!VIDEO](https://video.tv.adobe.com/v/3433523?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)

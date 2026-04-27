@@ -7,12 +7,18 @@ role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 903
-last-substantial-update: 2024-07-17T00:00:00Z
+last-substantial-update: 2024-07-17T00:00:00.000Z
 jira: KT-15836
 exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/GpcJqSCn3XqLZtm-QdQ-ka9c-RdkG-C6Hd3FpXrh8-I
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75id: f42e0a1a-0d79-488d-a83f-f2c30672b137
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: 593
 ht-degree: 0%
 
 ---
@@ -39,7 +45,7 @@ Quality Patches Tool是适用于Adobe Commerce和Magento Open Source的命令行
 
 这些修补程序由Adobe开发人员Magento Open Source社区开发，用于增强稳定性和性能。 请记住，不建议应用大量修补程序，因为这会使未来的升级复杂化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3454080?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
 ## 为何使用品质修补工具
 
@@ -54,25 +60,25 @@ Quality Patches Tool是适用于Adobe Commerce和Magento Open Source的命令行
 虽然质量修补程序工具提供了许多好处，但需要牢记以下几点：
 
 * 兼容性：确保这些修补程序与特定版本的Adobe Commerce或Magento Open Source兼容。
-* 测试：始终先在暂存环境中测试修补程序，然后再将其应用于生产。 可能会出现意外问题。
-* 修补程序依赖关系：某些修补程序可能依赖于其他修补程序。 了解任何先决条件。
-* 自定义项：如果您进行了自定义代码更改，则修补程序可能会发生冲突。 仔细查看更改。
-* 备份：在应用修补程序之前备份安装，以避免数据丢失。
+* 测试：始终先在暂存环境中测试修补程序，然后再将其应用于生产。 Unexpected issues can arise.
+* Patch Dependencies: Some patches may depend on others. Be aware of any prerequisites.
+* Customizations: If you&#39;ve made custom code changes, patches might conflict. Review the changes carefully.
+* Back up: Back up your installation before applying patches to avoid data loss.
 
-虽然质量修补程序工具可用于应用数量有限的修补程序，但不建议用于处理大量修补程序。 应用过多的修补程序会使未来的升级和维护工作变得复杂。 如果您要应用许多修补程序，请考虑其他方法或咨询Magento专家。 
+While the Quality Patches Tool is useful for applying a limited number of patches, it&#39;s not recommended for handling a large volume of patches. Applying too many patches can complicate future upgrades and maintenance. If you have numerous patches to apply, consider alternative approaches or consult with a Magento specialist. 
 
 ## 摘要
 
-借助质量修补程序工具，电子商务平台可以通过应用修补程序来增强稳定性和安全性。 这些修补程序可解决问题、提高性能并优化系统。 保持安装处于最新状态可确保针对漏洞提供保护。
+The Quality Patches Tool allows e-commerce platforms to enhance stability and security by applying patches. These patches address issues, improve performance, and optimize the system. Keeping your installation up-to-date ensures protection against vulnerabilities.
 
-在应用修补程序之前，在暂存环境中测试这些修补程序至关重要。 确保与特定版本的Adobe Commerce或Magento Open Source兼容。 某些修补程序可能具有依赖关系，因此请仔细查看先决条件。
+Before applying patches, it&#39;s crucial to test them in a staging environment. Ensure compatibility with your specific version of Adobe Commerce or Magento Open Source. Some patches may have dependencies, so review the prerequisites carefully.
 
- 在应用修补程序之前备份您的安装，以防止数据丢失。 如果您进行了自定义代码更改，请注意，修补程序可能会发生冲突。 遵循最佳实践并监控每个修补程序的影响。
+ Back up your installation before applying patches to prevent data loss. If you&#39;ve made custom code changes, be aware that patches might conflict. Follow best practices and monitor the impact of each patch.
 
-## 相关文章和视频
+## Related articles and videos
 
-* [Quality Patch Tools search](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=zh-Hans)
-* [发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/tools/quality-patches-tool/release-notes)
-* 修补程序的[Github](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [使用品质修补工具](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/tools/quality-patches-tool/usage)
-* QPT上的[技术视频](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [Quality Patch Tools search](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+* [发行说明](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [Github for patches](https://github.com/magento/quality-patches/blob/master/patches/os/)
+* [Usage of quality patch tool](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [有关QPT的技术视频](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)

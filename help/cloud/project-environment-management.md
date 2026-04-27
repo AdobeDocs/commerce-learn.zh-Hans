@@ -1,43 +1,49 @@
 ---
-title: 项目和环境管理
-description: 了解Adobe Commerce Cloud项目和环境管理界面
+title: Project and Environment management
+description: Learn about the Adobe Commerce Cloud project and environment management interface
 topic: Administration,Commerce
 role: User
 level: Beginner
 doc-type: Technical Video
 duration: 461
-last-substantial-update: 2025-09-16T00:00:00Z
+last-substantial-update: 2025-09-16T00:00:00.000Z
 jira: KT-19185
 exl-id: 5e92894a-dc12-4ca6-ac04-d1d584551f8f
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/7tHjRrHZ68B7UGAa-uXvNU-MjyqUYz8Ix9NHwVpZzsk
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: 200
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce云项目和环境管理
+# Adobe Commerce Cloud Project and Environment Management
 
-了解如何使用Adobe Commerce Cloud管理项目和环境。 它介绍了如何使用正确的电子邮件和广告ID登录、设置配置文件、添加SSH密钥以及了解生产和暂存等不同环境的布局。 此外，还介绍了如何让用户访问系统的正确部分、为什么在进行更改后进行重新部署很重要，以及云访问与商店后台访问有何不同。 目标是帮助用户使其项目保持井井有条、安全且顺畅运行。
+Learn how to use Adobe Commerce Cloud to manage projects and environments. It shows how to log in with the right email and MAG ID, set up your profile, add SSH keys, and understand the layout of different environments like production and staging. It also covers how to give people access to the right parts of the system, why it&#39;s important to redeploy after making changes, and how cloud access is different from store back office access. The goal is to help users keep their projects organized, secure, and running smoothly.
 
 ## 此视频面向谁
 
-* 云运营工程师
-* Adobe Commerce Cloud管理员
-* 技术项目经理
+* Cloud operations engineers
+* Adobe Commerce Cloud administrators
+* Technical Project Managers
 
-## 您将学习的内容
+## What you will learn
 
-* 登录并设置配置文件
-* 管理环境和部署
-* 控制用户访问和权限
+* Log in and set up your profile
+* Manage environments and deployments
+* Control user access and permissions
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3474971?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3474960?learn=on)
 
-## 相关内容和文档
+## Related content and documentation
 
-* [管理用户访问权限](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/project/user-access)
-* [到远程环境的安全连接](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/develop/secure-connections)
-* [云基础架构项目](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/project/overview)
+* [Manage User Access](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/user-access)
+* [Secure connectsion to remote environments](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/secure-connections)
+* [Cloud infrastructure project](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)

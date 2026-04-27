@@ -13,9 +13,14 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/TCR23A98L8XrVDEQeqLQoOXKQPBQu-Wb7YnGUkBXgak
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: 359
 ht-degree: 0%
 
 ---
@@ -36,15 +41,15 @@ ht-degree: 0%
 ## 受众
 
 * 希望了解可扩展性挂接的结构和功能的开发人员，以及这些挂接如何增强与第三方系统的连接。
-* 开发人员希望了解与每个可扩展性挂接相关的典型用例和最佳实践（如验证、转换、预处理、发送和后处理），以促进无缝数据流、系统同步和高效的集成设置维护&#x200B;。
+* 开发人员希望了解与每个可扩展性挂接相关的典型用例和最佳实践（如验证、转换、预处理、发送和后处理），以促进无缝数据流、系统同步和高效的集成设置维护。  
 
 ## 视频内容
 
 * 了解最后一英里集成中调用操作的结构。
-* 了解验证挂接中的典型用例，包括根据架构验证传入数据以及根据特定条件跳过特定事件&#x200B;。
+* 了解验证挂接中的典型用例，包括根据架构验证传入数据以及根据特定条件跳过特定事件。  
 * 了解转换挂接在原始系统和目标系统之间转换数据对象方面的作用。
 * 了解发送挂接对于促进实际数据发送到目标系统的重要性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451938?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

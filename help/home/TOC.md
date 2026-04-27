@@ -3,7 +3,7 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 2b41adb47f7e6dd482a9bf071f1b48b1456c8214
+source-git-commit: 68c27de91287f83f044ec777de3ee0cda37704b2
 workflow-type: tm+mt
 source-wordcount: '932'
 ht-degree: 3%
@@ -97,7 +97,7 @@ ht-degree: 3%
 
 + 可扩展性 {#extensibility}
    + 后端开发 {#backend-development}
-      + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+      + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [创建模块](../backend-development/create-module.md)
       + [添加产品属性](../backend-development/add-product-attribute.md)
       + [依赖项注入示例](../backend-development/dependency-injection.md)
@@ -152,7 +152,6 @@ ht-degree: 3%
       + 使用AI工具创建拆分付款POC {#create-a-split-payment-poc}
          + [创建拆分支付POC：App Builder和AI工具](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
          + [创建拆分付款POC：App Builder完整演示](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
-
       + 使用AI工具创建自定义运费 {#custom-shipping-rates-ai-tools}
          + [简介和设置](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [AI工具和Adobe入门工具包](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)

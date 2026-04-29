@@ -6,12 +6,12 @@ topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Technical Video
-duration: 955
+duration: 933
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: b3a9cee9ab59307883444650e8ee2423ab630b6b
+source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '1031'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 视频
 
->[!VIDEO](https://video.tv.adobe.com/v/3484087?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3484109?captions=chi_hans&learn=on)
 
 ## 此视频面向谁？
 
@@ -88,6 +88,4 @@ App Builder或&#x200B;**[!UICONTROL Commerce]**&#x200B;配置可以支持验证�
 
 演练与您管理的基础结构上的&#x200B;**[!UICONTROL Adobe Commerce]**&#x200B;或传统店面的&#x200B;**[!UICONTROL Commerce in the cloud]** (PaaS)匹配。 对于具有其他前端且此形状中无进程内模块的&#x200B;**[!UICONTROL Adobe Commerce as a Cloud service]** (SaaS)，App Builder部分大致相同，而店面和扩展工作则不同。 在所有情况下，相同的原则都成立：让&#x200B;**[!UICONTROL Commerce]**&#x200B;执行&#x200B;**[!UICONTROL Commerce]**&#x200B;请求内必须发生的事情，并将&#x200B;**[!UICONTROL App Builder]**&#x200B;用于其余的体验。
 
-## 其他资源
-
-* [创建拆分付款POC：App Builder和AI工具](create-a-split-payment-poc-app-builder-and-ai-tools.md) — 目标和架构系列简介。
+{{$include /help/_includes/split-payment-ai-tools-related-links.md}}

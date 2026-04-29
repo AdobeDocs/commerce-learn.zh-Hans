@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 视频
 
->[!VIDEO](https://video.tv.adobe.com/v/3484087?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3484109?captions=chi_hans&learn=on)
 
 ## 此视频面向谁？
 

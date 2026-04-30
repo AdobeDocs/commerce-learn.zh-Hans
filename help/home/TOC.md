@@ -3,9 +3,10 @@ user-guide-title: 视频和教程
 user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento Open Source。
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
-source-git-commit: 4ce3ef13cbfc5a0001d4a89a6c040eb3fb605c82
+author: Russell A.
+source-git-commit: be274a0e69527597ddad238ecbb7a46a7546ed84
 workflow-type: tm+mt
-source-wordcount: '1001'
+source-wordcount: '958'
 ht-degree: 3%
 
 ---
@@ -97,7 +98,7 @@ ht-degree: 3%
 
 + 可扩展性 {#extensibility}
    + 后端开发 {#backend-development}
-      + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+      + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [创建模块](../backend-development/create-module.md)
       + [添加产品属性](../backend-development/add-product-attribute.md)
       + [依赖项注入示例](../backend-development/dependency-injection.md)
@@ -150,17 +151,18 @@ ht-degree: 3%
       + [App Builder简介](../app-builder/introduction-to-app-builder.md)
       + [App Builder的可扩展性框架](../app-builder/extensibility-framework-commerce-eventing.md)
       + 使用AI工具创建拆分付款POC {#create-a-split-payment-poc}
-         + [创建拆分支付POC：App Builder和AI工具](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
-         + [创建拆分付款POC：App Builder完整演示](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
-         + [分割支付POC：架构和设计决策](../app-builder/split-payment-ai-tools/split-payment-poc-architecture-and-decisions.md)
-         + [拆分付款POC：先决条件和环境设置](../app-builder/split-payment-ai-tools/split-payment-poc-prerequisites-and-setup.md)
-         + [拆分付款POC：环境变量参考](../app-builder/split-payment-ai-tools/split-payment-poc-env-reference.md)
-         + [拆分付款POC：Commerce模块AI提示](../app-builder/split-payment-ai-tools/split-payment-poc-commerce-module-prompt.md)
-         + [拆分付款POC：App Builder orchestrator AI提示](../app-builder/split-payment-ai-tools/split-payment-poc-app-builder-orchestrator-prompt.md)
-         + [拆分付款POC：Experience Cloud UI扩展人工智能提示](../app-builder/split-payment-ai-tools/split-payment-poc-experience-cloud-ui-prompt.md)
-         + [拆分支付POC：测试和验证指南](../app-builder/split-payment-ai-tools/split-payment-poc-testing-and-verification.md)
-         + [分割支付POC：概念验证后的后续步骤](../app-builder/split-payment-ai-tools/split-payment-poc-next-steps.md)
-         + [拆分付款POC：教程作者快速参考](../app-builder/split-payment-ai-tools/split-payment-poc-tutorial-quick-reference.md)
+         + [App Builder和AI工具](../app-builder/split-payment-ai-tools/overview.md)
+         + [完整演示](../app-builder/split-payment-ai-tools/full-demo.md)
+         + [分步实施指南](../app-builder/split-payment-ai-tools/step-by-step-guide.md)
+         + [架构和设计决策](../app-builder/split-payment-ai-tools/architecture-and-decisions.md)
+         + [先决条件和环境设置](../app-builder/split-payment-ai-tools/prerequisites-and-setup.md)
+         + [测试和验证](../app-builder/split-payment-ai-tools/testing-and-verification.md)
+         + [后续步骤](../app-builder/split-payment-ai-tools/next-steps.md)
+         + 参考资源 {#split-payment-resources}
+            + [环境变量参考](../app-builder/split-payment-ai-tools/env-reference.md)
+            + [Commerce module AI提示](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
+            + [App Builder orchestrator AI提示](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
+            + [Experience Cloud UI扩展AI提示](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
       + 使用AI工具创建自定义运费 {#custom-shipping-rates-ai-tools}
          + [简介和设置](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [AI工具和Adobe入门工具包](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)

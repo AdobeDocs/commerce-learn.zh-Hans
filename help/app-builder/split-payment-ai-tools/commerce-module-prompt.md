@@ -1,6 +1,6 @@
 ---
-title: 'Split payment POC: Commerce module AI prompt'
-description: 'Learn how to use this prompt to generate Client_SplitPayment: REST, plugins, checkout JavaScript, I/O events, and enable, compile, and deploy commands.'
+title: 拆分付款POC：Commerce模块AI提示
+description: 了解如何使用此提示生成Client_SplitPayment。 REST、插件、签出JavaScript、I/O事件以及启用、编译和部署命令。
 feature: App Builder, Backend Development, Eventing, Extensibility, Paas, REST, Orders
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,42 +9,42 @@ doc-type: Tutorial
 duration: 503
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: beb22335cec97141b46ddbbca97d21b216c55a80
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '1207'
 ht-degree: 1%
 
 ---
 
-# Split payment POC: Commerce module AI prompt
+# 拆分付款POC：Commerce模块AI提示
 
-Use this page to copy the full prompt that generates the `Client_SplitPayment` in-process module: REST, session handling, **[!UICONTROL Checkout]**, and **[!UICONTROL Admin]** display for the split payment proof of concept. Operator workflow stays in App Builder.
+使用此页面复制生成`Client_SplitPayment`进程内模块的完整提示： REST、会话处理、**[!UICONTROL Checkout]**&#x200B;和为拆分付款概念验证显示的&#x200B;**[!UICONTROL Admin]**。 操作员工作流停留在App Builder中。
 
-## How to use this prompt
+## 如何使用此提示
 
-Copy everything from **PROMPT START** to **End of prompt** into Cursor (with Claude) or directly into Claude. Run it from the root of your Commerce project or a directory where the AI can create files.
+将从&#x200B;**PROMPT START**&#x200B;到&#x200B;**提示**&#x200B;结尾的所有内容复制到光标（使用Claude）或直接复制到Claude。 从Commerce项目的根目录或AI可以创建文件的目录运行它。
 
-## Customize before you run
+## 在运行前进行自定义
 
-* Replace `Client` with your real vendor name.
-* Change `SplitPayment` if you want a different module name.
-* If the site uses a custom theme, layout XML and RequireJS paths may need changes.
-* If your **[!UICONTROL Cash on delivery]** method uses a different code than `cashondelivery`, update `payment-method-helper.js`.
+* 将`Client`替换为您的真实供应商名称。
+* 如果需要其他模块名称，请更改`SplitPayment`。
+* 如果站点使用自定义主题，则需要更改布局XML和RequireJS路径。
+* 如果您的&#x200B;**[!UICONTROL Cash on delivery]**&#x200B;方法使用的代码与`cashondelivery`不同，请更新`payment-method-helper.js`。
 
 
-## The prompt
+## 提示
 
-**PROMPT START**
+**提示开始**
 
-You are generating a complete, production-ready Adobe Commerce 2.4.5+ in-process module for a split payment feature. This module is the thin PHP adapter that exposes the right REST surface and attaches the right data at the right moments in the Commerce lifecycle. All operator workflow logic lives in Adobe App Builder (not in this module).
+您正在为分割支付功能生成一个完整的生产就绪型Adobe Commerce 2.4.5及更高版本处理中模块。 此模块是细小的PHP适配器，可在Commerce生命周期的正确时刻公开正确的REST曲面并附加正确的数据。 所有运算符工作流逻辑都存在于Adobe App Builder中（而不是本模块中）。
 
-**Module identity:**
-* Vendor: `Client`
-* Module: `SplitPayment`
-* Full name: `Client_SplitPayment`
-* Namespace: `Client\SplitPayment`
-* Location: `app/code/Client/SplitPayment/`
-* Dependencies: `Magento_Checkout`, `Magento_CustomerBalance`, `Magento_Sales`, `Magento_Quote`, `Magento_WebApi`, `Magento_AdobeCommerceEventsClient`
+**模块标识：**
+* 供应商： `Client`
+* 模块： `SplitPayment`
+* 全名： `Client_SplitPayment`
+* 命名空间： `Client\SplitPayment`
+* 位置： `app/code/Client/SplitPayment/`
+* 依赖项： `Magento_Checkout`，`Magento_CustomerBalance`，`Magento_Sales`，`Magento_Quote`，`Magento_WebApi`，`Magento_AdobeCommerceEventsClient`
 
 生成以下文件结构列出的每个文件。 不要忽略任何文件。 在所有PHP文件中使用`declare(strict_types=1)`。
 
@@ -299,35 +299,35 @@ POST /V1/split-payment/orders/:orderId/cash-decline   → Magento_Sales::cancel
 
 #### 22. `cashondelivery-method.js`
 
-扩展`Magento_OfflinePayments/js/view/payment/offline-payments`。 使用`payment-method-helper.js`检测现金支付方式代码。 Registers `split-payment` component in its `additional` region.
+扩展`Magento_OfflinePayments/js/view/payment/offline-payments`。 使用`payment-method-helper.js`检测现金支付方式代码。 在其`additional`区域中注册`split-payment`组件。
 
 #### 23. `payment-method-helper.js`
 
-Utility returning `getCashMethodCode()` — checks `window.checkoutConfig.paymentMethods` for `cashondelivery`; falls back to `checkmo` if needed.
+实用程序返回`getCashMethodCode()` — 检查`cashondelivery`的`window.checkoutConfig.paymentMethods`；如果需要，回退到`checkmo`。
 
-#### 24. `cashondelivery.html` Template
+#### &#x200B;24. `cashondelivery.html` 模板
 
-Standard COD template but includes `<!-- ko foreach: getRegion('additional') -->` region so the split payment child component can render.
+标准COD模板，但包括`<!-- ko foreach: getRegion('additional') -->`区域，以便呈现拆分付款子组件。
 
-#### 25. `split-payment.html` Template
+#### &#x200B;25. `split-payment.html` 模板
 
-KnockoutJS template for the split payment fields:
-* Available store credit balance display
-* Cash amount input (number, step 0.01)
-* Store credit portion display (read-only)
-* Auto-apply store credit message (shown when split is valid and store credit > 0)
-* Validation error message
+拆分付款字段的挖空JS模板：
+* 显示可用的商店贷方余额
+* 现金金额输入（数字，步骤0.01）
+* 存储信用部分显示（只读）
+* 自动应用商店积分消息（在拆分有效并且商店积分> 0时显示）
+* 验证错误消息
 
 #### 26. `requirejs-config.js`
 
-Maps:
-* `Client_SplitPayment/js/view/payment/split-payment` → the component
-* `Client_SplitPayment/js/view/payment/cashondelivery-method` → the COD override
-* `Client_SplitPayment/js/model/payment-method-helper` → the helper
+映射：
+* 组件→的`Client_SplitPayment/js/view/payment/split-payment`
+* `Client_SplitPayment/js/view/payment/cashondelivery-method`→COD覆盖
+* `Client_SplitPayment/js/model/payment-method-helper`→帮助程序
 
 #### 27. `etc/config.xml`
 
-Default system config values:
+默认系统配置值：
 
 ```xml
 <split_payment>
@@ -339,15 +339,15 @@ Default system config values:
 ```
 
 
-### Critical Implementation Notes
+### 重要实施说明
 
-**Store credit application must use `BalanceManagementInterface`, not direct model manipulation.** `BalanceManagementInterface::apply()` handles the session, validation, and cart recalculation atomically.
+**存储信用申请必须使用`BalanceManagementInterface`，而不是直接模型操作。** `BalanceManagementInterface::apply()`自动处理会话、验证和购物车重新计算。
 
-**`PlaceOrderPlugin`must use `aroundPlaceOrder` (not `beforePlaceOrder`).** The store credit must be applied while the cart is still active, and that must be guaranteed before `$proceed()` is called.
+**`PlaceOrderPlugin`必须使用`aroundPlaceOrder` （不是`beforePlaceOrder`）。** 必须在购物车仍处于活动状态时应用商店点数，并且必须在调用`$proceed()`之前进行保证。
 
-**The session flag pattern for `beginBalanceApply` / `endBalanceApply` is critical.** Without it, `FixSplitPaymentGrandTotalPlugin` runs during `collectTotals()` inside the balance operation and sets grand total to the cash remainder, causing `BalanceManagementInterface::apply()` to fail or cap the credit.
+**`beginBalanceApply` / `endBalanceApply`的会话标志模式是关键的。** 如果没有它，`FixSplitPaymentGrandTotalPlugin`将在`collectTotals()`期间在余额操作中运行，并将总计设置为现金余额，从而导致`BalanceManagementInterface::apply()`失败或限制贷项。
 
-**Never expose internal error details to the customer.** All `catch` blocks that surface to REST responses must throw `LocalizedException('Payment could not be processed. Please try again or contact support.')`.
+**从不向客户公开内部错误详细信息。** 所有显示到REST响应的`catch`块都必须引发`LocalizedException('Payment could not be processed. Please try again or contact support.')`。
 
 **`entity_id`是数字数据库ID。** 来自App Builder的REST调用始终使用`entity_id`，而不是`increment_id`。
 

@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 192
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 7ea8492b082fb3f6e9ed7794526b0f83cb0481b3
+source-git-commit: 629bbb6fe26f128e346d85c857111c2f8dbb6d76
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 拆分付款POC：Experience Cloud UI扩展人工智能提示
 
-这是一个可选步骤，它使用`commerce-checkout-starter-kit`和`commerce-backend-ui-1`模式在&#x200B;**[!UICONTROL Adobe Commerce]**&#x200B;管理外壳(Experience Cloud)中嵌入拆分付款单面板。 App Builder Orchestrator中的独立[演示仪表板](split-payment-poc-app-builder-orchestrator-prompt.md)包含相同的接受和拒绝流程，但没有管理Shell集成。
+这是一个可选步骤，它使用`commerce-checkout-starter-kit`和`commerce-backend-ui-1`模式在&#x200B;**[!UICONTROL Adobe Commerce]**&#x200B;管理外壳(Experience Cloud)中嵌入拆分付款单面板。 App Builder Orchestrator中的独立[演示仪表板](./orchestrator-prompt.md)包含相同的接受和拒绝流程，但没有管理Shell集成。
 
 ## 如何使用此提示
 
@@ -26,8 +26,8 @@ ht-degree: 0%
 
 ## 运行之前
 
-* 除了OAuth值之外，此路径还需要&#x200B;**IMS**&#x200B;凭据（请参阅[拆分付款POC：环境变量引用`commerce-checkout-starter-kit`变量](split-payment-poc-env-reference.md)）。
-* 如果您希望将相同的`payment-accept`和`payment-decline`行为进行比较，请首先完成[拆分付款POC：App Builder orchestrator AI提示](split-payment-poc-app-builder-orchestrator-prompt.md)；UI扩展会使用`COMMERCE_INTEGRATION_*`环境名称重用该逻辑。
+* 除了OAuth值之外，此路径还需要&#x200B;**IMS**&#x200B;凭据（请参阅[拆分付款POC：环境变量引用`commerce-checkout-starter-kit`变量](./env-reference.md)）。
+* 如果您希望将相同的`payment-accept`和`payment-decline`行为进行比较，请首先完成[拆分付款POC：App Builder orchestrator AI提示](./orchestrator-prompt.md)；UI扩展会使用`COMMERCE_INTEGRATION_*`环境名称重用该逻辑。
 
 
 ## 提示

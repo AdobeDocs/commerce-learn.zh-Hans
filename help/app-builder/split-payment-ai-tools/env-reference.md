@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 115
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: d5f1e76c3a5127698f2933810fca218b79082571
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 拆分付款POC：环境变量参考
 
-在每个组件中使用相同的四个Commerce OAuth凭据。 在&#x200B;**[!UICONTROL Commerce Admin]**&#x200B;中，创建一个&#x200B;**[!UICONTROL Integration]**，然后重复使用下面每个`.env`文件中的四个值。 （有关激活步骤，请参阅[拆分付款POC：先决条件和环境设置](split-payment-poc-prerequisites-and-setup.md)。）
+在每个组件中使用相同的四个Commerce OAuth凭据。 在&#x200B;**[!UICONTROL Commerce Admin]**&#x200B;中，创建一个&#x200B;**[!UICONTROL Integration]**，然后重复使用下面每个`.env`文件中的四个值。 （有关激活步骤，请参阅[拆分付款POC：先决条件和环境设置](./prerequisites-and-setup.md)。）
 
 ## 四个OAuth凭据（在所有位置使用）
 

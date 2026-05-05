@@ -1,6 +1,6 @@
 ---
 title: 拆分付款POC：教程快速参考
-description: 了解拆分付款POC文件映射：哪个Experience League页面与Luma结账的每个AI提示、建议的部分顺序和创作注释相匹配。
+description: 了解拆分付款POC文件映射。 哪个Experience League页面与Luma结账的每个AI提示、建议的分区顺序和创作注释相匹配。
 feature: App Builder, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 398
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
-source-wordcount: '1455'
+source-wordcount: '1444'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ ht-degree: 0%
 
 ## 逐文件引用
 
-### [创建拆分付款POC：App Builder和AI工具](create-a-split-payment-poc-app-builder-and-ai-tools.md)
-
-**Source标签：** `00_TUTORIAL_OVERVIEW.md` （概念性概述；发布的系列随此页面打开。）
+### [创建拆分付款POC：App Builder和AI工具](./overview.md)
 
 **目的：**&#x200B;本教程的简介和方向。
 
@@ -34,7 +32,7 @@ ht-degree: 0%
 **教程使用：**&#x200B;正在打开部分。 在任何技术步骤之前设置上下文。
 
 
-### [拆分付款POC：架构和设计决策](split-payment-poc-architecture-and-decisions.md)
+### [拆分付款POC：架构和设计决策](./architecture-and-decisions.md)
 
 
 **目的：**&#x200B;对PoC中的每个架构决策进行深入说明。
@@ -52,7 +50,7 @@ ht-degree: 0%
 **教程使用：**“架构”或“工作原理”部分。 经验丰富的Commerce开发人员可以跳过，但对于App Builder的新手至关重要。
 
 
-### [拆分付款POC：先决条件和环境设置](split-payment-poc-prerequisites-and-setup.md)
+### [拆分付款POC：先决条件和环境设置](./prerequisites-and-setup.md)
 
 
 **用途：**&#x200B;在编写代码或运行提示之前完成预检核对清单。
@@ -68,7 +66,7 @@ ht-degree: 0%
 **教程使用：**“先决条件”或“入门”部分。 应该以交互方式完成 — 而不仅仅是阅读。
 
 
-### [拆分付款POC：环境变量引用](split-payment-poc-env-reference.md)
+### [拆分付款POC：环境变量引用](./env-reference.md)
 
 
 **用途：**&#x200B;所有三个组件的所有环境变量都集中在一处。
@@ -84,7 +82,7 @@ ht-degree: 0%
 **教程使用：**&#x200B;引用侧边栏或“配置”部分。 还用作生成提示的助手。
 
 
-### [拆分付款POC：Commerce模块AI提示](split-payment-poc-commerce-module-prompt.md)
+### [拆分付款POC：Commerce模块AI提示](./commerce-module-prompt.md)
 
 
 **用途：**&#x200B;完整、自包含的AI提示生成整个`Client_SplitPayment` PHP模块。
@@ -103,7 +101,7 @@ ht-degree: 0%
 **教程用法：**“构建Commerce模块”部分。 提示本身就是人工因素 — 开发人员将其复制到他们的人工智能工具中并运行它。
 
 
-### [拆分付款POC：App Builder orchestrator AI提示](split-payment-poc-app-builder-orchestrator-prompt.md)
+### [拆分付款POC：App Builder orchestrator AI提示](./orchestrator-prompt.md)
 
 
 **用途：**&#x200B;用于生成`split-payment-orchestrator` App Builder应用程序的完整、自包含的AI提示。
@@ -122,7 +120,7 @@ ht-degree: 0%
 **教程使用：**“构建App Builder应用程序”部分。 伴随Commerce module提示符。
 
 
-### [拆分付款POC：Experience Cloud UI扩展AI提示](split-payment-poc-experience-cloud-ui-prompt.md)
+### [拆分付款POC：Experience Cloud UI扩展AI提示](./experience-cloud-ui-prompt.md)
 
 
 **用途：** AI提示生成可选的Experience Cloud Admin UI SDK扩展。
@@ -139,7 +137,7 @@ ht-degree: 0%
 **教程使用：**&#x200B;可选的“更进一步”或“生产路径”部分。 如果本教程仅侧重于PoC，则可以跳过。
 
 
-### [拆分付款POC：测试和验证指南](split-payment-poc-testing-and-verification.md)
+### [拆分付款POC：测试和验证指南](./testing-and-verification.md)
 
 
 **用途：**&#x200B;分步测试指南按正确的验证顺序覆盖了每个组件。
@@ -162,7 +160,7 @@ ht-degree: 0%
 **教程使用：**“测试”或“验证”部分。 也可用作故障排除参考。
 
 
-### [拆分付款POC：概念验证后的后续步骤](split-payment-poc-next-steps.md)
+### [拆分付款POC：概念验证后的后续步骤](./next-steps.md)
 
 
 **用途：**&#x200B;将PoC发展为生产就绪模式的路线图。
@@ -186,16 +184,16 @@ ht-degree: 0%
 
 | 教程部分 | Experience League页面 |
 | --- | --- |
-| 简介和学习目标 | [创建拆分付款POC：App Builder和AI工具](create-a-split-payment-poc-app-builder-and-ai-tools.md) |
-| 端到端演示（视频） | [创建拆分付款POC：App Builder完整演示](create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md) |
-| 架构：哪些人生活在哪里 | [拆分付款POC：架构和设计决策](split-payment-poc-architecture-and-decisions.md) |
-| 先决条件和设置 | [拆分付款POC：先决条件和环境设置](split-payment-poc-prerequisites-and-setup.md) |
-| 环境变量 | [拆分付款POC：环境变量引用](split-payment-poc-env-reference.md) |
-| 步骤1：构建Commerce模块 | [拆分付款POC：Commerce模块AI提示](split-payment-poc-commerce-module-prompt.md) |
-| 步骤2：构建App Builder orchestrator | [拆分付款POC：App Builder orchestrator AI提示](split-payment-poc-app-builder-orchestrator-prompt.md) |
-| 步骤3：测试端到端流量 | [拆分付款POC：测试和验证指南](split-payment-poc-testing-and-verification.md) |
-| 第4步（可选）：管理员UI扩展 | [拆分付款POC：Experience Cloud UI扩展AI提示](split-payment-poc-experience-cloud-ui-prompt.md) |
-| 后续步骤和生产路径 | [拆分付款POC：概念验证后的后续步骤](split-payment-poc-next-steps.md) |
+| 简介和学习目标 | [创建拆分付款POC：App Builder和AI工具](./overview.md) |
+| 端到端演示（视频） | [创建拆分付款POC：App Builder完整演示](./full-demo.md) |
+| 架构：哪些人生活在哪里 | [拆分付款POC：架构和设计决策](./architecture-and-decisions.md) |
+| 先决条件和设置 | [拆分付款POC：先决条件和环境设置](./prerequisites-and-setup.md) |
+| 环境变量 | [拆分付款POC：环境变量引用](./env-reference.md) |
+| 步骤1：构建Commerce模块 | [拆分付款POC：Commerce模块AI提示](./commerce-module-prompt.md) |
+| 步骤2：构建App Builder orchestrator | [拆分付款POC：App Builder orchestrator AI提示](./orchestrator-prompt.md) |
+| 步骤3：测试端到端流量 | [拆分付款POC：测试和验证指南](./testing-and-verification.md) |
+| 第4步（可选）：管理员UI扩展 | [拆分付款POC：Experience Cloud UI扩展AI提示](./experience-cloud-ui-prompt.md) |
+| 后续步骤和生产路径 | [拆分付款POC：概念验证后的后续步骤](./next-steps.md) |
 
 
 ## 面向教程作者的重要说明

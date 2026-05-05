@@ -1,6 +1,6 @@
 ---
 title: 拆分支付POC：测试和验证指南
-description: 了解如何验证拆分付款POC：Commerce安装、REST、结账、阈值、模拟接受和拒绝、演示仪表板和App Builder日志。
+description: 了解如何验证拆分付款POC。 Commerce安装、REST、签出、阈值、模拟接受和拒绝、演示仪表板和App Builder日志。
 feature: App Builder, Configuration, Extensibility, Paas, Payments, REST, Orders
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 359
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: beb22335cec97141b46ddbbca97d21b216c55a80
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '907'
 ht-degree: 0%
@@ -72,45 +72,45 @@ curl -X POST https://your-store.example.com/rest/V1/split-payment/set \
    * 使用订单总额预填充的现金金额字段
    * 显示$0.00的“此订单的商店积分”字段（因为现金=全部订单总计）
 6. 减少现金金额（例如，为$50的订单输入$10）
-7. Verify the store credit portion updates to $40.00
-8. Verify the message appears: `"The remaining $40.00 will automatically be applied from your store credit."`
+7. 验证商店贷方部分是否更新为$40.00
+8. 验证消息是否显示： `"The remaining $40.00 will automatically be applied from your store credit."`
 
-**Test validation:**
-* Enter a cash amount greater than the order total → error message
-* Enter a cash amount that requires more store credit than available → error message
-* Enter cash = 0 → error (or store credit covers entire order)
-
-
-## Step 5 — Test Threshold Guard
-
-1. Add products totaling more than $100 (subtotal + shipping + tax > $100)
-2. Proceed to checkout, select **Cash**
-3. Attempt to place the order
-4. Verify the error message appears: `"Payment could not be processed. Please try again or contact support."`
-5. Verify the cart is preserved (customer can still adjust cart and try again)
+**测试验证：**
+* 输入大于订单总额→错误消息的现金金额
+* 输入需要比可用的→错误消息更多的商店贷项的现金金额
+* 输入现金= 0→错误（或商店信用覆盖整个订单）
 
 
-## Step 6 — Place a Test Split Payment Order
+## 步骤5 — 测试阈值保护
 
-1. Build a cart under $100 (logged in customer with store credit)
-2. Select Cash at checkout
-3. Enter a cash amount less than the order total (e.g., $10 of a $45 order)
-4. Confirm the store credit message appears
-5. Click **Place Order**
-
-After order placement, verify in Commerce Admin:
-* Order is in `pending_payment` status
-* Order has two history comments:
-   1. `"Cash payment of $X.XX pending. Awaiting admin confirmation."` (from App Builder `payment-orchestrator`)
-   2. `"Split payment orchestration completed. Order awaiting cash confirmation."` (from App Builder)
-* The split payment amounts are visible in the order payment block
-
-> **If no App Builder comments appear:** Check App Builder action logs with `aio app logs`. The event may not have fired or the action may have an error.
+1. 添加合计超过$100的产品（小计+运费+税> $100）
+2. 继续结帐，选择&#x200B;**现金**
+3. 尝试下单
+4. 验证是否显示错误消息： `"Payment could not be processed. Please try again or contact support."`
+5. 验证购物车是否已保留（客户仍然可以调整购物车并重试）
 
 
-## Step 7 — Test Accept via Simulation Script
+## 步骤6 — 下达测试分解支付订单
 
-The simulation script is the fastest way to test the accept/decline flow without the full operator UI.
+1. 构建低于$100的购物车（使用商店点数登录的客户）
+2. 选择结账时收款
+3. 输入小于订单总计的现金金额（例如，$45订单中的$10）
+4. 确认显示商店点数消息
+5. 单击&#x200B;**下单**
+
+下订单后，在Commerce管理员中验证：
+* 订单处于`pending_payment`状态
+* 订单具有两个历史记录注释：
+   1. `"Cash payment of $X.XX pending. Awaiting admin confirmation."` （来自App Builder `payment-orchestrator`）
+   2. `"Split payment orchestration completed. Order awaiting cash confirmation."` （来自App Builder）
+* 拆分付款金额在订单付款块中可见
+
+> **如果未出现App Builder注释：**&#x200B;请检查App Builder操作日志，其中包含`aio app logs`。 该事件可能没有触发，或者该操作可能有错误。
+
+
+## 步骤7 — 通过模拟脚本测试接受
+
+模拟脚本是在没有完整操作员UI的情况下测试接受/拒绝流的最快方式。
 
 ```bash
 cd commerce-checkout-starter-kit
@@ -127,52 +127,52 @@ node commerce-backend-ui-1/scripts/simulate-split-payment.mjs show 42
 node commerce-backend-ui-1/scripts/simulate-split-payment.mjs accept 42
 ```
 
-After accept, verify in Commerce Admin order view:
-* Order status is `processing`
-* History comment: `"Cash payment of $X.XX received."`
-* Cash invoice created (visible in Invoices tab)
-* Shipment created (visible in Shipments tab, if applicable)
-* History comment: `"Split payment: cash portion invoiced #XXXXXXXX."`
-* History comment: `"Split payment: shipment created after cash was accepted (App Builder / API)."`
+接受后，在Commerce管理员订单视图中验证：
+* 订单状态为`processing`
+* 历史记录注释： `"Cash payment of $X.XX received."`
+* 已创建现金发票（显示在“发票”标签中）
+* 已创建发运（如果适用，显示在“发运”标签中）
+* 历史记录注释： `"Split payment: cash portion invoiced #XXXXXXXX."`
+* 历史记录注释： `"Split payment: shipment created after cash was accepted (App Builder / API)."`
 
 
-## Step 8 — Test Decline via Simulation Script
+## 步骤8 — 通过模拟脚本进行测试拒绝
 
-Place another test order (same setup as Step 6), then:
+再次下达测试订单（与步骤6的设置相同），然后：
 
 ```bash
 node commerce-backend-ui-1/scripts/simulate-split-payment.mjs decline <orderId>
 ```
 
-After decline, verify in Commerce Admin:
-* Order status is `canceled`
-* History comment: `"Cash payment declined (simulated fraud check)."`
+拒绝后，在Commerce管理员中进行验证：
+* 订单状态为`canceled`
+* 历史记录注释： `"Cash payment declined (simulated fraud check)."`
 * `split_cash_status` = `declined`
 
 
-## Step 9 — Test the Demo Dashboard
+## 步骤9 — 测试演示仪表板
 
-After deploying the `split-payment-orchestrator`, `aio app deploy` prints the action URLs.
+部署`split-payment-orchestrator`后，`aio app deploy`将打印操作URL。
 
-Open the `demo-dashboard` URL in a browser:
+在浏览器中打开`demo-dashboard` URL：
 
 ```
 https://[runtime-host]/api/v1/web/split_payment_orchestrator/demo-dashboard
 ```
 
-If `DEMO_UI_SECRET` is set:
+如果设置了`DEMO_UI_SECRET`：
 
 ```
 https://[runtime-host]/api/v1/web/split_payment_orchestrator/demo-dashboard?secret=<your-secret>
 ```
 
-With a pending order:
-1. The dashboard should show the order in the pending list
-2. Click **Accept** → order should move to `processing` in Commerce
-3. Place another order; click **Decline** → order should be `canceled` in Commerce
+待处理订单：
+1. 仪表板应显示挂起列表中的顺序
+2. 单击&#x200B;**接受**→订单应移至Commerce中的`processing`
+3. 下另一张订单；单击&#x200B;**拒绝**，Commerce中的订单应为`canceled`
 
 
-## Step 10 — Test App Builder Action Logs
+## 步骤10 — 测试App Builder操作日志
 
 ```bash
 # Follow logs in real-time
@@ -183,52 +183,52 @@ aio runtime activation list --limit 10
 aio runtime activation logs <activation-id>
 ```
 
-For the `payment-orchestrator`, look for:
+对于`payment-orchestrator`，查找：
 
 ```
 [INFO] Split payment orchestration finished { orderId: '42' }
 ```
 
-For `payment-accept` or `payment-decline`:
+对于`payment-accept`或`payment-decline`：
 
 ```
 [INFO] Cash payment accepted on Commerce via REST { orderId: '42' }
 ```
 
 
-## Common Issues and Fixes
+## 常见问题和修复
 
-### &quot;The signature is invalid&quot; from Commerce OAuth
+### Commerce OAuth中的“签名无效”
 
-**Cause:** Clock skew between App Builder runtime and Commerce, or an OAuth signing bug.
+**原因：** App Builder运行时和Commerce之间的时钟偏差，或OAuth签名错误。
 
-**Fix:**
-* Confirm `COMMERCE_BASE_URL` has no trailing slash
-* Confirm the four OAuth credentials are for an _activated_ integration
-* Test with the simulation script first — if the script works but App Builder doesn&#39;t, it&#39;s likely an env variable not loaded (check `aio app deploy` output for missing env vars)
+**修复：**
+* 确认`COMMERCE_BASE_URL`没有尾随斜杠
+* 确认四个OAuth凭据用于&#x200B;_激活的_&#x200B;集成
+* 首先使用模拟脚本进行测试 — 如果脚本可正常使用，但App Builder无法正常使用，则很可能未加载环境变量（请检查`aio app deploy`输出以了解缺少的环境变量）
 
-### Split payment fields not appearing in checkout
+### 拆分付款字段未显示在结账中
 
-**Cause:** LayoutProcessorPlugin injection paths don&#39;t match your checkout layout.
+**原因：** LayoutProcessorPlugin注入路径与您的签出布局不匹配。
 
-**Fix:**
-* Check the browser console for RequireJS errors loading `Client_SplitPayment/js/view/payment/split-payment`
-* Check `bin/magento setup:static-content:deploy` completed successfully
-* Flush cache: `bin/magento cache:flush`
-* If your theme has a custom checkout, the `LayoutProcessorPlugin` path to inject the component may need adjustment
+**修复：**
+* 检查浏览器控制台中是否有加载`Client_SplitPayment/js/view/payment/split-payment`的RequireJS错误
+* 检查`bin/magento setup:static-content:deploy`已成功完成
+* 刷新缓存： `bin/magento cache:flush`
+* 如果您的主题具有自定义签出，则可能需要调整用于插入组件的`LayoutProcessorPlugin`路径
 
-### Store credit not applying / &quot;Payment could not be processed&quot; at place order
+### 商店积分未申请/“无法处理付款”下单
 
-**Cause:** Usually one of the edge case plugins not working correctly.
+**原因：**&#x200B;通常边缘案例插件之一无法正常工作。
 
-**Check:**
-1. Is `SplitPaymentSession` returning the correct amounts? Add temporary debug logging in `PlaceOrderPlugin`
-2. Is `FixSplitPaymentGrandTotalPlugin` running and affecting the quote total before `BalanceManagementInterface::apply()` is called? The `beginBalanceApply()` flag should suppress it.
-3. Is the customer balance module enabled in Commerce?
+**检查：**
+1. `SplitPaymentSession`是否返回正确的金额？ 在`PlaceOrderPlugin`中添加临时调试日志记录
+2. 是否在调用`BalanceManagementInterface::apply()`之前运行`FixSplitPaymentGrandTotalPlugin`并影响报价总额？ `beginBalanceApply()`标记应禁止使用。
+3. 是否在Commerce中启用了客户平衡模块？
 
-### App Builder action receives event but orderId is missing
+### App Builder操作会接收事件，但缺少orderId
 
-**Cause:** The `io_events.xml` field list doesn&#39;t include `entity_id`, or the event payload shape changed.
+**原因：** `io_events.xml`字段列表不包含`entity_id`，或事件有效负载形状已更改。
 
 **修复：**
 * 确认`io_events.xml`在字段列表中包含`entity_id`

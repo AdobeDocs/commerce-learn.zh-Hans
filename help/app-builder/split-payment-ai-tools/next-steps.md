@@ -1,6 +1,6 @@
 ---
 title: 分割支付POC：概念验证后的后续步骤
-description: 'Learn how to move the split payment POC toward production: Experience Cloud UI, ERP hooks, API Mesh, PHP scope, App Builder workflows, and deploy checklist.'
+description: 了解如何将拆分付款POC移至生产环境。 Experience Cloud UI、ERP挂接、API Mesh、PHP范围、App Builder工作流和部署核对清单。
 feature: App Builder, API Mesh, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 269
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '852'
 ht-degree: 0%
@@ -18,33 +18,33 @@ ht-degree: 0%
 
 # 分割支付POC：概念验证后的后续步骤
 
-The demo dashboard and simulation script you built in this tutorial are intentionally rough. They exist to prove the pattern. This page describes a practical path from proof of concept to production-style App Builder development.
+您在本教程中构建的演示仪表板和模拟脚本会刻意粗糙。 它们存在是为了证明这种模式。 本页介绍从概念验证到生产样式App Builder开发的实用途径。
 
 
-## Step 1 — Replace the Demo Dashboard with an Experience Cloud UI Extension
+## 第1步 — 将演示功能板替换为Experience Cloud UI扩展
 
-The `demo-dashboard` web action serves HTML from a string inside a Node.js function. It works, but it is not the production pattern.
+`demo-dashboard` Web操作从Node.js函数内的字符串提供HTML。 它管用，但不是生产模式。
 
-The proper replacement is the `commerce-backend-ui-1` extension in the `commerce-checkout-starter-kit` — a React application embedded in the Commerce Admin Shell via the Adobe Admin UI SDK. See [Split payment POC: Experience Cloud UI extension AI prompt](split-payment-poc-experience-cloud-ui-prompt.md) for the generation prompt.
+正确的替代方案是`commerce-checkout-starter-kit`中的`commerce-backend-ui-1`扩展 — 通过Adobe管理UI SDK嵌入到Commerce管理Shell中的React应用程序。 有关生成提示，请参阅[拆分付款POC：Experience Cloud UI扩展人工智能提示](./experience-cloud-ui-prompt.md)。
 
-**What changes:**
-* Operators log in through Commerce Admin Shell (IMS authentication instead of a shared secret)
-* The order list uses the IMS token context — no need for a demo secret
-* Accept/decline actions are scoped to the operator&#39;s IMS identity
-* The UI is embedded in Commerce Admin at the URL Commerce administrators already know
+**更改内容：**
+* 操作员通过Commerce Admin Shell登录（IMS身份验证而不是共享密钥）
+* 订单列表使用IMS令牌上下文 — 无需演示密码
+* 接受/拒绝操作的作用范围取决于操作员的IMS身份
+* 该UI嵌入到Commerce管理员中，位于Commerce管理员已知的URL上
 
-**What stays the same:**
-* `payment-accept` and `payment-decline` App Builder actions are unchanged
-* Commerce REST endpoints are unchanged
-* The PHP module is unchanged
+**保持不变的内容：**
+* `payment-accept`和`payment-decline` App Builder操作未更改
+* Commerce REST端点未更改
+* PHP模块保持不变
 
 
-## Step 2 — Connect a Real ERP
+## 步骤2 — 连接真正的ERP
 
-The accept/decline flow in this PoC is driven by a human clicking a button. In production, this is driven by your ERP, CRM, or payment processor.
+此PoC中的接受/拒绝流由用户单击按钮来驱动。 在生产环境中，这由您的ERP 、 CRM或支付处理器驱动。
 
-**The integration pattern:**
-1. Your ERP system captures cash and calls `POST /payment-accept` (the App Builder web action URL) with `{ orderId: <entity_id> }`
+**集成模式：**
+1. 您的ERP系统通过`{ orderId: <entity_id> }`捕获现金和呼叫`POST /payment-accept` （App Builder Web操作URL）
 2. App Builder验证调用（持有者令牌或API密钥 — 将身份验证中间件添加到`payment-accept`）
 3. App Builder调用Commerce REST `cash-received`
 4. Commerce开具发票并发送订单
@@ -72,7 +72,7 @@ ERP调用方的&#x200B;**身份验证选项：**
 
 ## 步骤4 — 减少PHP占用的空间
 
-当前PHP模块处理必须保持处于进程中的五个事项（请参阅[拆分付款POC：架构和设计决策](split-payment-poc-architecture-and-decisions.md)）。 随着Adobe Commerce的API表面日渐成熟，其中某些功能可能会变得可移动：
+当前PHP模块处理必须保持处于进程中的五个事项（请参阅[拆分付款POC：架构和设计决策](./architecture-and-decisions.md)）。 随着Adobe Commerce的API表面日渐成熟，其中某些功能可能会变得可移动：
 
 **将来可能可以移动：**
 * 商店积分REST API正在不断发展 — 未来的版本可能支持在订单后应用积分或将其应用到非活动的购物车
@@ -122,10 +122,10 @@ aio app deploy
 * [ ] `PAYMENT_THRESHOLD`与Commerce生产配置匹配
 * [ `.env`中的]个Commerce集成凭据用于专用生产集成（非暂存）
 * [ ] Fastly IP已使用App Builder生产出口IP (Commerce Cloud)更新
-* [ ] I/O Event registration confirmed in production workspace
+* [ 已在生产工作区中确认]个I/O事件注册
 
 
-## Architecture Evolution Diagram
+## 架构演变图
 
 ```
 PoC (this tutorial)
@@ -158,14 +158,14 @@ Phase 3: Real ERP + API Mesh
 ```
 
 
-## Key References
+## 关键引用
 
-* [Adobe App Builder documentation](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
-* [Adobe I/O Events for Commerce](https://developer.adobe.com/commerce/extensibility/events/){target="_blank"}
-* [Commerce Checkout Starter Kit](https://github.com/adobe/commerce-checkout-starter-kit){target="_blank"}
-* [Adobe Admin UI SDK](https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/){target="_blank"}
-* [Adobe API Mesh](https://developer.adobe.com/graphql-mesh-gateway/){target="_blank"}
-* [Adobe I/O Runtime (OpenWhisk)](https://developer.adobe.com/runtime/docs/){target="_blank"}
+* [Adobe App Builder文档](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
+* [适用于Commerce的Adobe I/O Events](https://developer.adobe.com/commerce/extensibility/events/){target="_blank"}
+* [Commerce Checkout入门工具包](https://github.com/adobe/commerce-checkout-starter-kit){target="_blank"}
+* [Adobe管理UI SDK](https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/){target="_blank"}
+* [Adobe API网格](https://developer.adobe.com/graphql-mesh-gateway/){target="_blank"}
+* [Adobe I/O Runtime(OpenWhisk)](https://developer.adobe.com/runtime/docs/){target="_blank"}
 
 
 

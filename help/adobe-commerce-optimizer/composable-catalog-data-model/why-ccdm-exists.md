@@ -31,7 +31,7 @@ ht-degree: 0%
 * 目录视图如何充当共享基础目录与特定店面或受众之间的“镜头”
 * Merchandising Services API如何使用这些视图，使Headless体验与配置的目录保持一致
 
->[!VIDEO](https://video.tv.adobe.com/v/3491285?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491295?captions=chi_hans&learn=on)
 
 ## 孤立的目录带来的挑战
 

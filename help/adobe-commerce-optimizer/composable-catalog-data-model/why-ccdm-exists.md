@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 259
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-18624
-source-git-commit: e3257f9713b26b0ab8ca2e827aeaac4532ff9dff
+source-git-commit: 96a1356a399fa5cdca9d9befd7c14ebad1b0162f
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 * 目录视图如何充当共享基础目录与特定店面或受众之间的“镜头”
 * Merchandising Services API如何使用这些视图，使Headless体验与配置的目录保持一致
 
->[!VIDEO](https://video.tv.adobe.com/v/3491285?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491295?captions=chi_hans&learn=on)
 
 ## 孤立的目录带来的挑战
 

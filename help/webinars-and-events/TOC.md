@@ -4,7 +4,7 @@ user-guide-description: 通过网络研讨会和活动了解Adobe Commerce。
 breadcrumb-title: Adobe Commerce网络研讨会和活动
 source-git-commit: 1a73be30f2ee55c9f767b7b10fd3c47172e4057d
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---

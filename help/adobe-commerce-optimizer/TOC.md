@@ -2,9 +2,9 @@
 user-guide-title: Adobe Commerce Optimizer视频和教程
 user-guide-description: 通过视频和教程了解Adobe Commerce Optimizer。
 breadcrumb-title: Adobe Commerce Optimizer
-source-git-commit: 57aa5e9ed4a83c66eeb7f3226c3c30dc92f82ab1
+source-git-commit: 43fee759ba8ea76dfa91f9ae838a6ad3474d2bcb
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '78'
 ht-degree: 5%
 
 ---
@@ -26,3 +26,4 @@ ht-degree: 5%
 + 可组合目录数据模型 {#composable-catalog-data-model}
    + [为什么存在CCDM](./composable-catalog-data-model/why-ccdm-exists.md)
    + [了解目录视图](./composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views.md)
+   + [了解CCDM政策](./composable-catalog-data-model/learn-about-ccdm-policies.md)

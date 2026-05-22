@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 378
 last-substantial-update: 2026-05-21T00:00:00Z
 jira: KT-21258
-source-git-commit: 43fee759ba8ea76dfa91f9ae838a6ad3474d2bcb
+source-git-commit: 84a3cb5868dd7c6f4adb0d46d53ed718133a6895
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -32,22 +32,7 @@ ht-degree: 0%
 * 由API请求标头激活的触发器策略（例如`AC-Policy-Brand`）
 * 在不重建目录的情况下更新日常操作中的策略
 
->[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
-
-## 情景：Carvelo Automotor和Celport
-
-**Carvelo Automoles**&#x200B;是一家在Adobe Commerce演示中使用的虚拟汽车部件公司。 Carvelo通过包括&#x200B;**Celport**&#x200B;在内的经销商跨三个品牌销售部件：**Aurora**、**Bolt**&#x200B;和&#x200B;**Cruz**。
-
-在[Celport目录视图](./learn-about-the-ccdm-feature-catalog-views.md)中，两个策略协同工作：
-
-1. **品牌筛选器** — 仅允许&#x200B;**Bolt**&#x200B;和&#x200B;**Cruz**&#x200B;品牌。 Aurora产品不通过此过滤器。
-2. **类别筛选器** — 将可见产品限制为仅&#x200B;**个制动器**&#x200B;和&#x200B;**暂停**。
-
-产品必须满足&#x200B;**每个活动策略**&#x200B;才能显示。 其他所有内容都将被过滤掉。
-
-策略评估产品属性，如&#x200B;**品牌**、**车辆型号**&#x200B;或&#x200B;**部件类别**，并定义允许哪些产品通过该目录视图。
-
-## 什么是策略？
+>[!VIDEO](https://video.tv.adobe.com/v/3491434?captions=chi_hans&learn=on)
 
 **策略**&#x200B;是&#x200B;**数据访问筛选器**。 它检查产品属性并应用用于确定目录视图可以公开哪些产品的规则。 策略位于共享的可组合目录的顶部 — 它们不会复制目录数据。
 

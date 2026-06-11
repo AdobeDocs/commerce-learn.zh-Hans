@@ -36,4 +36,4 @@ ht-degree: 0%
 
 ## 其他资源
 
-[[!DNL Brand Concierge]文档](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
+[[!DNL Brand Concierge]文档](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/home){target="_blank"}

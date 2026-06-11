@@ -7,14 +7,16 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21570
 duration: 303
-source-git-commit: cb1adeac1e57f4a0d43827a72f8762fff17bc727
+source-git-commit: a1e5b576b9e4a75e1dcc26d64a89d1072f6c4bcb
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
 # Brand Concierge和Commerce AI概述
+
+[!BADGE Beta]{type=Informative tooltip="此功能目前处于测试阶段，可能会发生变化。"}
 
 商业的大门不再是首页 — 而是对话。 Brand Concierge与Adobe Commerce集成，使用能够了解购物者意图、查询目录并在同一会话中管理购物车的AI Assistant替换过滤器、搜索栏和类别页面。 人工智能推荐的购物者转化率提高31%，每次访问产生的收入增加254%，网站逗留时间增加45%（Adobe Digital Insights，2026年1月）。
 
@@ -36,4 +38,4 @@ ht-degree: 0%
 
 ## 其他资源
 
-[[!DNL Brand Concierge]文档](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/home){target="_blank"}
+[[!DNL Brand Concierge]文档](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}

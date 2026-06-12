@@ -7,7 +7,7 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21572
 duration: 451
-source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
+source-git-commit: 618ab9f643122b2155afb07bcaf779f59ef37837
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!BADGE 即将推出]{type=Informative tooltip="此功能即将推出，并且可能会发生更改。"}
 
-即使是最丰富的产品目录也只能部分地看到大型语言模型(LLM)。 丰富属性（如产品变体、研磨类型、风味注释和包装）通常隐藏在可折叠面板和弹出窗口后面，人工智能爬虫无法读取。 Brand Concierge的目录代理会自动识别这些可见性差距并解决它们，而无需更改面向购物者的店面。
+即使是最丰富的产品目录也只能部分地看到大型语言模型(LLM)。 丰富属性（如产品变体、研磨类型、风味注释和包装）通常隐藏在可折叠面板和弹出窗口后面，人工智能爬虫无法读取。 商业目录代理会自动识别这些可见性差距并解决它们，而无需更改面向购物者的店面。
 
 ## 此视频面向谁？
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 * 目录扩充生成AI优化的产品名称和描述
 * 使用AI内容可见度检查器验证改进
 
->[!VIDEO](https://video.tv.adobe.com/v/3492287)
+>[!VIDEO](https://video.tv.adobe.com/v/3492331?captions=chi_hans)
 
 ## 其他资源
 

@@ -34,7 +34,7 @@ Experience Workspace是一个代理式创作环境，它为营销人员和开发
 * 查询目录和生成完整营销活动页面的自然语言提示
 * 块级编辑和发布前的实时边缘渲染预览
 
->[!VIDEO](https://video.tv.adobe.com/v/3492281)
+>[!VIDEO](https://video.tv.adobe.com/v/3492304?captions=chi_hans)
 
 <!-- ## Additional resources -->
 

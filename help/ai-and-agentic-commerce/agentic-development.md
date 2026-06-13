@@ -34,7 +34,7 @@ ht-degree: 0%
 * 在整个系统视图中并发验证和优化
 * 无切换或上下文丢失的连续部署流程
 
->[!VIDEO](https://video.tv.adobe.com/v/3492284)
+>[!VIDEO](https://video.tv.adobe.com/v/3492295?captions=chi_hans)
 
 <!-- ## Additional resources -->
 

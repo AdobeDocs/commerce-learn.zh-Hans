@@ -6,10 +6,10 @@ topic: Commerce
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 297
+duration: 208
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-21132
-source-git-commit: e0d9101a875d7f3181af0c945461b40d119b784d
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -30,9 +30,9 @@ ht-degree: 0%
 * 店面如何使用目录视图来筛选产品和定价（例如Celport）
 * 目录视图唯一ID和单一真实来源的业务价值
 
->[!VIDEO](https://video.tv.adobe.com/v/3491272?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491261?learn=on)
 
 ## 相关内容
 
-* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/overview){target="_blank"}
-* [促销API快速入门](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [促销API快速入门](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}

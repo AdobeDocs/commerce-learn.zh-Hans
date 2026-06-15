@@ -1,6 +1,6 @@
 ---
 title: 安装Salesforce Commerce Cloud墨盒
-description: 了解在Salesforce和Adobe Commerce Optimizer中使用的墨盒。
+description: 了解如何安装和配置适用于Salesforce Commerce Cloud的Adobe Commerce Optimizer墨盒、设置增量导出以及验证安装。
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
 role: Developer
@@ -10,9 +10,9 @@ duration: 710
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19015
 exl-id: b7c6d55f-bef6-4245-b45f-ec0842a94952
-source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Salesforce Commerce Cloud简介
-description: 了解使用SFCC连接器将Salesforce Commerce Cloud与Adobe Commerce Optimizer结合使用。
+description: 了解Salesforce Commerce Cloud Connector如何将SFCC与Commerce Optimizer集成，以通过AI发现和目录同步来实现电子商务现代化。
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
 role: Developer
@@ -10,9 +10,9 @@ duration: 230
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-18990
 exl-id: 042f6a15-0cbb-412e-96e0-383bd4058c0f
-source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -32,4 +32,4 @@ ht-degree: 0%
 * 了解Salesforce Commerce Cloud集成入门工具包的用途。
 * 了解在何处安装入门套件
 
->[!VIDEO](https://video.tv.adobe.com/v/3476023?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473988?captions=chi_hans&learn=on)

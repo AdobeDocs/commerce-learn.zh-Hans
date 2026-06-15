@@ -6,10 +6,10 @@ topic: Commerce
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 297
+duration: 208
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-21132
-source-git-commit: e0d9101a875d7f3181af0c945461b40d119b784d
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -35,4 +35,4 @@ ht-degree: 0%
 ## 相关内容
 
 * [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/overview){target="_blank"}
-* [促销API快速入门](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
+* [促销API快速入门](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}

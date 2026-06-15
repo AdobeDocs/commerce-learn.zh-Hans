@@ -1,6 +1,6 @@
 ---
-title: Salesforce Commerce Cloud连接器的架构概述
-description: 了解使用Adobe Commerce Optimizer的Salesforce Commerce Cloud的架构。
+title: Salesforce Commerce Cloud连接器架构
+description: 了解Salesforce Commerce Cloud Connector Starter Kit如何使用App Builder运行时操作和增量导出功能将目录与Adobe Commerce Optimizer同步。
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
 role: Developer
@@ -10,9 +10,9 @@ duration: 288
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-19014
 exl-id: 1e0edcbb-5619-45c2-b06d-9133f23a634f
-source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---

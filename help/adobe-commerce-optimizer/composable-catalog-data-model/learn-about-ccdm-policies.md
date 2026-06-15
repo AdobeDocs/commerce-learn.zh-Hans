@@ -1,17 +1,17 @@
 ---
 title: 了解可组合目录数据模型中的CCDM策略
-description: 了解Adobe可组合目录数据模型中的策略如何在每个目录视图上通过STATIC rules和TRIGGER标头过滤产品。
+description: 了解Adobe可组合目录数据模型中的STATIC和TRIGGER策略如何控制跨目录视图的产品可见性，而无需重建目录。
 feature: Saas, Storefront
 topic: Commerce
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 378
+duration: 349
 last-substantial-update: 2026-05-21T00:00:00Z
 jira: KT-21258
-source-git-commit: 84a3cb5868dd7c6f4adb0d46d53ed718133a6895
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -81,4 +81,4 @@ ht-degree: 0%
 * [了解目录视图](./learn-about-the-ccdm-feature-catalog-views.md)
 * [Merchanding Services的目录视图](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
 * [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/overview){target="_blank"}
-* [促销API快速入门](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
+* [促销API快速入门](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}

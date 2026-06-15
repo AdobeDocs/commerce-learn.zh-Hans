@@ -1,13 +1,13 @@
 ---
-title: How to Create Your First Adobe Commerce Optimizer Instance
-description: Learn how to create your first Adobe Commerce Optimizer instance with this step-by-step tutorial.
+title: 如何创建您的第一个Adobe Commerce Optimizer实例
+description: 了解如何通过验证权利、检查信用并选择正确的实例类型和区域来创建您的第一个Adobe Commerce Optimizer实例。
 feature: Saas, Storefront
 topic: Commerce, Performance
-role: Admin, User
+role: Developer
 level: Beginner
-doc-type: Tutorial
+doc-type: Technical Video
 duration: 131
-last-substantial-update: 2025-07-25T00:00:00.000Z
+last-substantial-update: 2025-07-25
 jira: KT-18610
 exl-id: 7136b0d6-a29f-42f4-8363-5bd4a2d828fc
 TQID: https://experienceleague.adobe.com/XER1wNXU6pfVCN2pI8YWTMMsh54HimErWEzJAghTgpk
@@ -18,32 +18,32 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: 167
+source-wordcount: 173
 ht-degree: 0%
 
 ---
 
-# Create your first instance of Adobe Commerce Optimizer
+# 创建您的第一个Adobe Commerce Optimizer实例
 
-Learn how to create your first Adobe Commerce Optimizer instance from start to finish. A few topics that are covered include verifying your organization and entitlements, checking available credits, and selecting the right instance type and environment. This beginner-friendly walkthrough is designed to help you get up and running quickly, with clear steps and helpful tips to ensure a smooth experience.
+了解如何从头到尾创建您的第一个Adobe Commerce Optimizer实例。 其中涵盖的几个主题包括验证您的组织和权利、检查可用积分，以及选择正确的实例类型和环境。 这个入门级友好的演练旨在帮助您快速启动和运行，其中提供了清晰的步骤和有用的提示以确保流畅的体验。
 
 ## 此视频面向谁？
 
-* Commerce Solution Architect
-* Technical Marketing Engineers
-* eCommerce Platform Administrators
+* Commerce解决方案架构师
+* 技术营销工程师
+* 电子商务平台管理员
 
 ## 视频内容
 
-* Set up your first Adobe Commerce Optimizer instance step by step.
-* Choose the right environment and region for your instance.
-* Quickly deploy and prepare for catalog setup in future tutorials.
+* 逐步设置您的第一个Adobe Commerce Optimizer实例。
+* 为您的实例选择正确的环境和区域。
+* 在未来的教程中，快速部署和准备目录设置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3469888?captions=chi_hans&learn=on)
 
-## Related Content
+## 相关内容
 
 * [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/overview){target="_blank"}
-* [Adobe Commerce Optimizer概述](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
+* [Adobe Commerce Optimizer概述](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/adobe-commerce-optimizer/overview){target="_blank"}

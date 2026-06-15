@@ -30,7 +30,7 @@ ht-degree: 0%
 * 店面如何使用目录视图来筛选产品和定价（例如Celport）
 * 目录视图唯一ID和单一真实来源的业务价值
 
->[!VIDEO](https://video.tv.adobe.com/v/3491261?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491272?captions=chi_hans&learn=on)
 
 ## 相关内容
 

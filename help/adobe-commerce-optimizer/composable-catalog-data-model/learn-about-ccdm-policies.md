@@ -79,6 +79,6 @@ ht-degree: 0%
 
 * [为什么存在可组合目录数据模型](./why-ccdm-exists.md)
 * [了解目录视图](./learn-about-the-ccdm-feature-catalog-views.md)
-* [Merchanding Services的目录视图](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Merchanding Services的目录视图](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/overview){target="_blank"}
 * [促销API快速入门](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}

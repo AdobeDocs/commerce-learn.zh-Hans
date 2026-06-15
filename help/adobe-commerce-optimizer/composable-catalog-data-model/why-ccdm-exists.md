@@ -53,14 +53,14 @@ CCDM存在，因此产品信息可以存在于其他系统扩充的&#x200B;**一
 
 ## 作为店面镜头的目录视图
 
-如[促销服务的目录视图](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}中所述，目录视图的行为类似于&#x200B;**镜头**：购物者只能看到视图允许的产品、价格和规则，而&#x200B;**基本目录**&#x200B;仍然是共享记录系统。 该模型直接与&#x200B;**促销服务**&#x200B;配对，因此API客户端传递正确的视图（和相关标头）并为每个体验接收一致的策略驱动响应。
+如[促销服务的目录视图](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/setup/catalog-view){target="_blank"}中所述，目录视图的行为类似于&#x200B;**镜头**：购物者只能看到视图允许的产品、价格和规则，而&#x200B;**基本目录**&#x200B;仍然是共享记录系统。 该模型直接与&#x200B;**促销服务**&#x200B;配对，因此API客户端传递正确的视图（和相关标头）并为每个体验接收一致的策略驱动响应。
 
 有关这些部分如何适合端到端流程的更深入演练，请参阅开发人员演练[为您的店面创建可编写的目录](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}。
 
 ## 相关内容
 
 * [了解目录视图](./learn-about-the-ccdm-feature-catalog-views.md)
-* [Merchanding Services的目录视图](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [Merchanding Services的目录视图](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
 * [为您的店面创建可组合目录](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/overview){target="_blank"}
 * [促销API快速入门](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}

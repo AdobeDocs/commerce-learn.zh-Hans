@@ -34,5 +34,5 @@ ht-degree: 0%
 * 目录扩充生成AI优化的产品名称和描述
 * 使用AI内容可见度检查器验证改进
 
->[!VIDEO](https://video.tv.adobe.com/v/3492287)
+>[!VIDEO](https://video.tv.adobe.com/v/3492331?captions=chi_hans)
 

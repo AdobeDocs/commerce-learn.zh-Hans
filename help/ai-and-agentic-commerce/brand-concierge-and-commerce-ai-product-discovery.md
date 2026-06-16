@@ -7,7 +7,7 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21572
 duration: 451
-source-git-commit: 618ab9f643122b2155afb07bcaf779f59ef37837
+source-git-commit: 3475138b5a0dd2eaa30ee7da0e3f7b2699428d59
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -34,8 +34,9 @@ ht-degree: 0%
 * 目录扩充生成AI优化的产品名称和描述
 * 使用AI内容可见度检查器验证改进
 
->[!VIDEO](https://video.tv.adobe.com/v/3492331?captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3492287)
 
 ## 其他资源
 
-[[!DNL Brand Concierge]文档](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/home){target="_blank"}
+[[!DNL Brand Concierge]文档](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
+

@@ -1,20 +1,20 @@
 ---
-title: Brand Concierge和Commerce AI产品发现
-description: 了解Brand Concierge如何使用目录代理弥合AI可见性缺口，丰富Commerce产品数据，以便LLM能够发现您的产品并提出建议。
+title: Commerce AI产品发现
+description: 了解Commerce目录代理如何弥合AI可见性缺口，丰富Commerce产品数据，以便LLM能够发现您的产品并提出建议。
 role: User
 level: Beginner
 doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21572
 duration: 451
-source-git-commit: 3475138b5a0dd2eaa30ee7da0e3f7b2699428d59
+source-git-commit: 23a3ecdc06ec2738f524359169668a1423c34493
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
-# Brand Concierge和Commerce AI产品发现
+# Commerce AI产品发现
 
 [!BADGE 即将推出]{type=Informative tooltip="此功能即将推出，并且可能会发生更改。"}
 
@@ -35,8 +35,4 @@ ht-degree: 0%
 * 使用AI内容可见度检查器验证改进
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492331?captions=chi_hans)
-
-## 其他资源
-
-[[!DNL Brand Concierge]文档](https://experienceleague.adobe.com/zh-hans/docs/brand-concierge/content/home){target="_blank"}
 

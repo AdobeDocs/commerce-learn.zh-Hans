@@ -34,4 +34,4 @@ ht-degree: 0%
 * 结帐已在对话中完成，未导航离开
 * 特定于所购买产品的购买后上下文指南
 
->[!VIDEO](https://video.tv.adobe.com/v/3492285)
+>[!VIDEO](https://video.tv.adobe.com/v/3492322?captions=chi_hans)

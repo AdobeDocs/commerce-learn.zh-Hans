@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 视频
 
->[!VIDEO](https://video.tv.adobe.com/v/3483933?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3483943?captions=chi_hans&learn=on)
 
 ## 重要详细信息
 

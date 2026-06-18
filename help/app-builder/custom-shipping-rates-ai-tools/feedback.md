@@ -32,6 +32,6 @@ ht-degree: 0%
 * 了解MCP反馈工具的工作原理
 * 了解如何从IDE向Adobe提供反馈
 
->[!VIDEO](https://video.tv.adobe.com/v/3481306?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481316?captions=chi_hans&learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

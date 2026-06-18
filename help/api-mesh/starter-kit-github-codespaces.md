@@ -1,6 +1,6 @@
 ---
 title: 使用GitHub代码空间的API Mesh入门工具包
-description: 使用基于GitHub的入门工具包（无需本地设置）开始使用Adobe Commerce API Mesh。
+description: 了解如何使用GitHub代码空间入门工具包开始使用Adobe Commerce API Mesh，而无需本地环境配置。
 jira: KT-18367
 doc-type: Tutorial
 duration: 253
@@ -19,16 +19,16 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: c73744d503de5023e5c001d0534200522db55b04
 workflow-type: tm+mt
-source-wordcount: 182
+source-wordcount: 188
 ht-degree: 0%
 
 ---
 
 # 使用GitHub代码空间的API Mesh入门工具包
 
-此会话介绍Adobe Commerce API Mesh Starter Kit，旨在帮助开发人员使用GitHub代码空间快速探索API Mesh，而无需本地设置。 它介绍了如何设置存储库、配置端点以及使用GraphQL Yoga等内置工具进行测试。
+此会话介绍Adobe Commerce API Mesh Starter Kit。 它旨在帮助开发人员使用GitHub代码空间快速浏览API Mesh，而无需本地设置。 它介绍了如何设置存储库、配置端点以及使用GraphQL Yoga等内置工具进行测试。
 
 ## 此视频面向谁？
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 * 使用GitHub代码空间来浏览Adobe Commerce API Mesh，而无需配置本地环境。
 * 内置测试工具：包括预配置的GraphQL服务器(Yoga)和自动服务器重新启动，以实现无缝开发。
-* 动手学习：直接在浏览器中克隆入门工具包、配置端点并测试API响应。
+* 实践学习：直接在浏览器中克隆启动器工具包、配置端点并测试API响应。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464027?captions=chi_hans&learn=on)
 

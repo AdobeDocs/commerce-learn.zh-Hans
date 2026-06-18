@@ -1,18 +1,18 @@
 ---
 title: 使用项目和工作区
-description: 了解如何使用Adobe Developer控制台处理项目和工作区。
+description: 了解如何使用Adobe Developer Console处理API Mesh的项目和工作区，包括添加网格、通过CLI登录和切换组织。
 jira: KT-11803
 doc-type: Tutorial
-duration: 593
+duration: 572
 last-substantial-update: 2023-02-08T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
-level: Beginner, Intermediate
+level: Beginner
 exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
-source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
+source-git-commit: c73744d503de5023e5c001d0534200522db55b04
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -38,12 +38,12 @@ ht-degree: 0%
 
 ## 了解Adobe Developer Console
 
-在Adobe Developer Console中，以下层次结构表示您的API如何适合您的组织：`Organization > Project > Workspace > [API]`。 要了解有关Adobe App Builder、登录到控制台和基本疑难解答的更多信息，请访问[创建您的第一个App Builder应用程序](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}。
+在Adobe Developer Console中，以下层次结构表示您的API在组织中的组织方式：`Organization > Project > Workspace > [API]`。 要了解有关Adobe App Builder、登录到控制台和基本疑难解答的更多信息，请访问[创建您的第一个App Builder应用程序](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}。
 
 ## Adobe Developer Console中的项目简介
 
 Adobe Developer Console中的所有开发工作都是作为项目的一部分完成的。 项目可以包含一个或多个产品以及API、事件、运行时和插件的组合。 有关Adobe Developer控制台中项目的更多详细信息，请访问[项目](https://developer.adobe.com/developer-console/docs/guides/projects/){target="_blank"}。
 
-有关在API Mesh上下文中使用项目和工作区的详细信息，请参阅[修改项目和工作区](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces){target="_blank"}。
+有关在API Mesh上下文中使用项目和工作区的详细信息，请参阅[修改项目和工作区](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/create-mesh){target="_blank"}。
 
 {{$include /help/_includes/api-mesh-related-links.md}}

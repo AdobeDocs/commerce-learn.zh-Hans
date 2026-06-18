@@ -1,14 +1,14 @@
 ---
 title: 使用GraphQL显示行项目折扣
-description: 使用GraphQL了解B2B订单优惠行项目折扣的报价
-doc-type: Feature Video
-duration: 117
+description: 了解如何使用GraphQL在Adobe Commerce中对B2B销售报价应用行项目折扣，并在查询响应中检索生成的折扣值。
+doc-type: Technical Video
+duration: 99
 jira: KT-13800
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: Developer, User
+level: Beginner
 exl-id: c30457dc-0eca-4f94-bb7c-b493d173ebab
 TQID: https://experienceleague.adobe.com/9z3JbEtLShByucwPm4eHYriFz6A-VWk87tEaib-BqSw
 product_v2:
@@ -23,16 +23,16 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 51
+source-wordcount: 65
 ht-degree: 0%
 
 ---
 
 # 使用GraphQL的B2B销售报价单行项目折扣
 
-了解如何使用行项目折扣，并使用GraphQL查看值
+了解如何使用行项目折扣并查看GraphQL的值
 
 {{b2b-feature}}
 

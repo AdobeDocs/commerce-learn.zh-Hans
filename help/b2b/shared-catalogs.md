@@ -1,14 +1,14 @@
 ---
 title: 管理共享目录
-description: Learn how to use B2B shared catalogs to maintain gated catalogs with custom pricing for different companies.
+description: 了解如何使用Adobe Commerce中的B2B共享目录来维护具有不同公司帐户的具有自定义定价结构的封闭产品目录。
 doc-type: Feature Video
 duration: 456
 jira: KT-10682
-last-substantial-update: 2023-05-10T00:00:00.000Z
+last-substantial-update: 2023-05-10
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: User
+level: Intermediate
 exl-id: 74fb5548-a077-4c09-a351-0be830060841
 TQID: https://experienceleague.adobe.com/Fk8p57LTFTqSPxjVCPsxvubqnmr0wCUCINIsK8xqmW0
 product_v2:
@@ -27,18 +27,18 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 156
+source-wordcount: 164
 ht-degree: 0%
 
 ---
 
 # 管理共享目录
 
-B2B for Adobe Commerce gives you the ability to maintain gated shared catalogs with custom pricing for different companies. In addition to the standard primary product catalog, it provides customer access to two types of shared catalogs with different pricing structures.
+Adobe Commerce的B2B使您能够使用自定义定价为不同的公司维护封闭共享目录。 除了标准的主要产品目录外，它还允许客户访问具有不同定价结构的两种共享目录。
 
-If the Shared Catalog feature is enabled in the configuration, the original primary catalog remains visible from the Admin, but only the Default (General) public shared catalog is visible from the storefront. In addition, custom catalogs can be created that are visible only to members of specific company accounts.
+如果配置中启用了共享目录功能，则管理员仍可看到原始主目录，但店面中只能看到默认（常规）公共共享目录。 此外，可以创建仅对特定公司帐户成员可见的自定义目录。
 
 {{b2b-feature}}
 
@@ -53,5 +53,5 @@ If the Shared Catalog feature is enabled in the configuration, the original prim
 
 ## 其他资源
 
-* [Working with Shared Catalogs](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html?lang=zh-Hans){target="_blank"}
-* [Create a Shared Catalog](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html?lang=zh-Hans){target="_blank"}
+* [使用共享目录](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/b2b/shared-catalogs/catalog-shared){target="_blank"}
+* [创建共享目录](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create){target="_blank"}

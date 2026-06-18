@@ -1,14 +1,14 @@
 ---
-title: Using Adobe Commerce to show line item notes for a quote
-description: Learn about line item notes on a B2B quote in Adobe Commerce
-doc-type: Feature Video
-duration: 227
+title: 使用Adobe Commerce显示报价单的行项目注释
+description: 了解如何在Adobe Commerce中添加和查看B2B报价的明细项目注释，以使买方和卖方能够在报价过程中共享项目级别的详细信息。
+doc-type: Technical Video
+duration: 209
 jira: KT-13799
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
-level: Beginner, Intermediate
+level: Beginner
 exl-id: c4bfd5d2-0099-4bde-babe-79ad8815b8eb
 TQID: https://experienceleague.adobe.com/ESPHNL476Yp3ktyZOvv0h-q03tLj8TWWb3Ic2-a4gWA
 product_v2:
@@ -23,16 +23,16 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 55
+source-wordcount: 72
 ht-degree: 0%
 
 ---
 
-# B2B Sales quote line item discount
+# B2B销售报价单行项目折扣
 
-Learn how to use the line item notes for an Adobe Commerce B2B quote.
+了解如何为Adobe Commerce B2B报价使用行项目注释。
 
 {{b2b-feature}}
 

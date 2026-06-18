@@ -1,14 +1,14 @@
 ---
 title: 管理公司帐户
-description: 了解如何管理您的B2B公司帐户，包括任何待批准的请求。
-doc-type: Feature Video
+description: 了解如何在Adobe Commerce中管理B2B公司帐户 — 审查待批准的帐户，筛选帐户列表，调整列布局和导出数据。
+doc-type: Technical Video
 duration: 172
 jira: KT-13909
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: Configuration, System, B2B, Companies, Roles/Permissions
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: User
+level: Beginner
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
 TQID: https://experienceleague.adobe.com/f1P1dTAZPjXJzVsKD5NE8HLgCnGChCPwLbEHXDIbKKg
 product_v2:
@@ -27,9 +27,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 113
+source-wordcount: 124
 ht-degree: 0%
 
 ---
@@ -52,5 +52,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-* [公司帐户](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html?lang=zh-Hans){target="_blank"}
-* [管理公司帐户](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html?lang=zh-Hans){target="_blank"}
+* [公司帐户](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
+* [管理公司帐户](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}

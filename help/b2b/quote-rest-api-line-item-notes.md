@@ -1,14 +1,14 @@
 ---
 title: 将Adobe Commerce REST API用于行项目注释
-description: 了解关于使用REST API的Adobe Commerce中的B2B报价的行项目注释
-doc-type: Feature Video
-duration: 176
+description: 了解如何使用Adobe Commerce REST API在B2B销售报价单中添加和检索行项目注释，从而能够以编程方式访问买方和卖方注释。
+doc-type: Technical Video
+duration: 159
 jira: KT-13801
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: Developer, User
+level: Beginner
 exl-id: ee8b03e6-2f8f-474f-9180-acdc120f87a4
 TQID: https://experienceleague.adobe.com/9NfnpDlPqBmoeFRrZL4Kxq-VZqhtjc6BYHDJZ6s6DXY
 product_v2:
@@ -23,9 +23,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 59
+source-wordcount: 73
 ht-degree: 0%
 
 ---

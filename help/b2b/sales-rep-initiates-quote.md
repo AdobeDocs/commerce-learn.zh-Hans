@@ -1,14 +1,14 @@
 ---
-title: Sales Rep initiates the quote
-description: Learn how the sales representative can initiate the quote from the Adobe Commerce admin
-doc-type: Feature Video
-duration: 283
+title: 销售代表启动报价
+description: 了解销售代表如何从Adobe Commerce管理面板启动B2B报价、按用户和网站筛选、创建草稿以及控制报价可见性。
+doc-type: Technical Video
+duration: 264
 jira: KT-13794
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
-level: Beginner, Intermediate
+level: Beginner
 exl-id: eddf5b36-8b63-4d73-a66b-b3f14da3747f
 TQID: https://experienceleague.adobe.com/qYOv5KZHwdRE4jBIyEaiiiDFLEWJmRfYSd1PgynEeJ4
 product_v2:
@@ -25,16 +25,16 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 61
+source-wordcount: 72
 ht-degree: 0%
 
 ---
 
-# Sales Representative initiates the quote
+# 销售代表启动报价
 
-Learn how the sales representative can initiate the quote from the admin panel, filter by user and website, draft quotes, quote visibility and many more features.
+了解销售代表如何从管理面板启动报价、按用户和网站筛选、报价草稿、报价可见性和许多其他功能。
 
 {{b2b-feature}}
 

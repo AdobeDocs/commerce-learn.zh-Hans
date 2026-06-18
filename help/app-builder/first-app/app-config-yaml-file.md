@@ -1,6 +1,6 @@
 ---
 title: app.config.yaml文件
-description: 了解此示例应用程序的app.config.yaml文件中的文件类型。
+description: 了解app.config.yaml文件如何确定应用程序配置，以及它的定义如何链接到Adobe Developer App Builder示例应用程序中的JavaScript文件。
 jira: KT-12929
 doc-type: Tutorial
 duration: 136
@@ -20,9 +20,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: 86
+source-wordcount: 96
 ht-degree: 0%
 
 ---

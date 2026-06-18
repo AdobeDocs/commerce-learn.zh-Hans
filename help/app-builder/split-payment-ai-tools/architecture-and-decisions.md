@@ -1,15 +1,15 @@
 ---
-title: 分割支付POC：架构和设计决策
+title: 分割支付POC — 架构和设计决策
 description: 了解拆分付款POC如何将签出映射到Commerce，以及如何将I/O驱动的步骤映射到App Builder，以及扩展属性、REST和五个插件边缘案例。
 feature: App Builder, Eventing, Extensibility, Paas, Payments, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 293
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 9add0b4bfa1eba33ec359adaa766b64711df25ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '863'
 ht-degree: 1%

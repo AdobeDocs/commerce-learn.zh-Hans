@@ -1,7 +1,7 @@
 ---
-title: The actions folder
-description: Learn about the types of files in the actions folder for this sample application.
-jira: KT-12422
+title: 操作文件夹
+description: 了解App Builder actions文件夹中的JavaScript文件和文件夹，包括示例应用程序的OAuth身份验证和Commerce连接模式。
+jira: KT-21680
 doc-type: Tutorial
 duration: 465
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -20,29 +20,29 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 189
+source-wordcount: 199
 ht-degree: 0%
 
 ---
 
-# Learn about the actions folder {#actions-folder}
+# 了解操作文件夹 {#actions-folder}
 
-The `actions` folder for this sample app contains a few JavaScript files and one folder called `commerce`. The JavaScript shown is an excellent example file that can be reused if it is relevant to your work. This folder can save you time in development efforts when connecting to the Adobe Commerce application using OAuth and REST.
+此示例应用程序的`actions`文件夹包含一些JavaScript文件和一个名为`commerce`的文件夹。 显示的JavaScript是一个有用的示例文件，如果您的工作需要它，则可以重用该文件。 使用OAuth和REST连接到Adobe Commerce应用程序时，此文件夹可以节省开发时间。
 
-The actual names of folders in this example are arbitrary, but knowing their names can help you interpret the sample code. By using a meaningful naming convention, you can avoid confusion if the application grows more complex.
+本示例中文件夹的实际名称是任意的，但了解其名称可以帮助您解释示例代码。 通过使用有意义的命名约定，可以避免在应用程序变得更复杂时造成混淆。
 
 ## 此视频面向谁？
 
-* Developers new to Adobe Commerce with limited experience with Adobe App Builder who are learning about the actions folder in the sample application.
+* 刚开始接触Adobe Commerce、但对Adobe App Builder经验有限的开发人员，正在了解示例应用程序中的actions文件夹。
 
 ## 视频内容
 
-* Introduction to App Builder and the sample module focusing on the `actions` folder
-* How to use the &quot;actions&quot; folder
-* The purpose of the JavaScript file found in the `actions` and `commerce` folders
-* A quick overview of the OAuth authentication files
+* App Builder和以`actions`文件夹为重点的示例模块简介
+* 如何使用“actions”文件夹
+* 在`actions`和`commerce`文件夹中找到的JavaScript文件的用途
+* OAuth身份验证文件快速概述
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421077?captions=chi_hans&learn=on)
 

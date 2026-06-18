@@ -1,7 +1,7 @@
 ---
 title: 在本地测试
-description: 了解如何测试您的第一个Adobe Developer App Builder应用程序。
-jira: KT-12427
+description: 了解如何在本地测试Adobe Developer App Builder应用程序，包括单元测试、端到端测试和面向Commerce开发人员的手动测试方法。
+jira: KT-21685
 doc-type: Tutorial
 duration: 85
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -18,9 +18,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 68
+source-wordcount: 82
 ht-degree: 0%
 
 ---

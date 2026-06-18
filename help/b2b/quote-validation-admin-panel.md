@@ -1,38 +1,31 @@
 ---
 title: Adobe Commerce管理员中的B2B报价验证级别
-description: 了解Adobe Commerce应用程序如何具有严格的验证流程。  本视频教程演示了Adobe Commerce管理员面板中的验证过程，以确保引号过程有效且一致
-doc-type: Feature Video
-duration: 348
+description: 了解Adobe Commerce如何在管理面板中实施报价验证，以确保在提交之前B2B报价过程准确、一致且完整。
+doc-type: Technical Video
+duration: 330
 jira: KT-13470
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: User
+level: Beginner
 exl-id: ca789f44-456a-461c-9249-41fdb2bd6804
 TQID: https://experienceleague.adobe.com/UVj-9pN-4ftzPsagPPa9wVPCyNl2WCt4-fJep95zueo
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 81
+source-wordcount: 72
 ht-degree: 0%
 
 ---
 
 # 使用管理面板验证B2B销售报价
 
-了解Adobe Commerce B2B报价功能提供的验证步骤和领域，以确保一致有效的报价流程。
+了解Adobe Commerce B2B报价功能为确保一致有效的报价流程而提供的验证步骤和领域。
 
 {{b2b-feature}}
 
@@ -43,6 +36,6 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3423716?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420413?learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

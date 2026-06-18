@@ -1,15 +1,15 @@
 ---
-title: 拆分付款POC：教程快速参考
+title: 拆分付款POC — 教程快速参考
 description: 了解拆分付款POC文件映射。 哪个Experience League页面与Luma结账的每个AI提示、建议的分区顺序和创作注释相匹配。
 feature: App Builder, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 398
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '1444'
 ht-degree: 0%
@@ -120,10 +120,10 @@ ht-degree: 0%
 **教程使用：**“构建App Builder应用程序”部分。 伴随Commerce module提示符。
 
 
-### [拆分付款POC：Experience Cloud UI扩展AI提示](./experience-cloud-ui-prompt.md)
+### [拆分付款POC：Experience Cloud UI扩展人工智能提示](./experience-cloud-ui-prompt.md)
 
 
-**用途：** AI提示生成可选的Experience Cloud Admin UI SDK扩展。
+**用途：** AI提示生成可选的Experience Cloud管理UI SDK扩展。
 
 **为什么需要它：** Orchestrator提示中的演示仪表板刻意粗糙 — 它是概念验证，而不是生产。 此部分向开发人员展示下一步骤：使用管理UI SDK将拆分付款仪表板嵌入到Commerce管理外壳程序中。 原始提示中完全缺失它。
 
@@ -192,7 +192,7 @@ ht-degree: 0%
 | 步骤1：构建Commerce模块 | [拆分付款POC：Commerce模块AI提示](./commerce-module-prompt.md) |
 | 步骤2：构建App Builder orchestrator | [拆分付款POC：App Builder orchestrator AI提示](./orchestrator-prompt.md) |
 | 步骤3：测试端到端流量 | [拆分付款POC：测试和验证指南](./testing-and-verification.md) |
-| 第4步（可选）：管理员UI扩展 | [拆分付款POC：Experience Cloud UI扩展AI提示](./experience-cloud-ui-prompt.md) |
+| 第4步（可选）：管理员UI扩展 | [拆分付款POC：Experience Cloud UI扩展人工智能提示](./experience-cloud-ui-prompt.md) |
 | 后续步骤和生产路径 | [拆分付款POC：概念验证后的后续步骤](./next-steps.md) |
 
 

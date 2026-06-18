@@ -1,18 +1,18 @@
 ---
 title: 使用AI工具构建自定义运费功能
-description: 了解如何使用Adobe的AI工具，通过模拟API和安全配置创建自定义配送费率并扩展结账功能。
+description: 了解如何使用Adobe的AI工具创建自定义配送费率、使用模拟API扩展结账功能以及配置安全服务端点。
 feature: Extensibility
 topic: Artificial Intelligence
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 341
+duration: 327
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20516
 exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b
-source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -32,8 +32,8 @@ ht-degree: 0%
 * AI Agent分析上下文并使用基于角色的技能指导开发。
 * Starter Kit提供了结构和示例模式，以便更快地构建扩展。
 * MCP工具公开代理用于规划和生成代码的命令和数据。
-* AI可自动执行要求、架构和实施决策。
+* AI可自动化需求、架构和实施决策。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481354?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481344?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

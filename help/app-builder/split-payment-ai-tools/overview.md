@@ -1,16 +1,16 @@
 ---
-title: 创建拆分支付POC：App Builder和AI工具
+title: 拆分支付POC — App Builder和AI工具
 description: 了解使用App Builder和Commerce PaaS的分段支付概念验证，包括目标、架构以及本次第一场会议涵盖的内容。
 feature: App Builder, Paas, Payments
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Technical Video
-duration: 260
+duration: 237
 jira: KT-20791
-source-git-commit: 9add0b4bfa1eba33ec359adaa766b64711df25ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '572'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 视频
 
->[!VIDEO](https://video.tv.adobe.com/v/3483943?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3483933?learn=on)
 
 ## 重要详细信息
 

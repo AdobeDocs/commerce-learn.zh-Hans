@@ -1,7 +1,7 @@
 ---
-title: The test folder
-description: Learn about the types of files in the test folder for this sample application.
-jira: KT-12424
+title: 测试文件夹
+description: 了解App Builder测试文件夹中的JavaScript单元测试文件，以及如何扩展该文件以全面测试Adobe Commerce示例应用程序。
+jira: KT-21682
 doc-type: Tutorial
 duration: 233
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -11,37 +11,33 @@ role: Developer
 level: Beginner, Intermediate
 exl-id: 5d3ced3f-174d-4481-8511-82616bb77c43
 TQID: https://experienceleague.adobe.com/84OKfd7Xbb1q-EoEPOVt9l2bISkQJVqfXdIJFr4jCis
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 111
+source-wordcount: 122
 ht-degree: 0%
 
 ---
 
-# Learn about the test folder {#test-folder}
+# 了解测试文件夹 {#test-folder}
 
-The `test` folder for this sample app contains a single JavaScript file, which is used when running unit tests on the application.
+此示例应用程序的`test`文件夹包含一个JavaScript文件，在对该应用程序运行单元测试时使用该文件。
 
-This is a simple example and can be expanded to create comprehensive tests for your specific applications.
+可以扩展此起点，以便为特定应用程序创建全面的测试。
 
 ## 此视频面向谁？
 
-* Developers new to Adobe Commerce with limited experience using Adobe App Builder who wants to learn about the `test` folder.
+* 刚开始使用Adobe Commerce但使用Adobe App Builder经验有限的开发人员，他们想要了解`test`文件夹。
 
 ## 视频内容
 
-* Why use the `test` folder?
-* A brief explanation of the unit test file and its components
-* Introduction to end-to-end testing
+* 为何使用`test`文件夹？
+* 单元测试文件及其组件的简要说明
+* 端到端测试简介
 
->[!VIDEO](https://video.tv.adobe.com/v/3421059?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416662?learn=on)
 
 ## 代码示例
 

@@ -1,35 +1,28 @@
 ---
 title: 使用重试机制的本机功能
-description: 将Adobe I/O Events的重试机制用于弹性应用程序，包括重试条件和视觉指示器。
-landing-page-description: 了解并利用Adobe I/O Events的内置重试机制来增强应用程序可复原性并有效管理事件激活。
-kt: 15872
-doc-type: video
+description: 了解如何使用Adobe I/O Events的重试机制构建弹性应用程序，包括重试条件、回退策略和视觉指示器。
+doc-type: Technical Video
 duration: 402
-audience: all
-last-substantial-update: 2024-7-31
+last-substantial-update: 2024-07-31
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-15872
 exl-id: 412060b3-76ae-4c27-bf96-8eb2a0f0d0e8
 TQID: https://experienceleague.adobe.com/hrzcmSY8cAke4LBLRtqfkP8-t6jP4KMoMc7iL3WPRng
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
 workflow-type: tm+mt
-source-wordcount: 394
+source-wordcount: 382
 ht-degree: 0%
 
 ---
 
-# 利用Adobe I/O Events重试机制实现应用程序可复原性
+# 使用Adobe I/O Events重试机制实现应用程序可复原性
 
 此视频概述了关于利用Adobe I/O Events内置重试机制增强应用程序可复原性的全面指南。 了解特定的HTTP响应状态代码如何触发事件重试。 Adobe I/O Events使用指数和固定的重试回退策略，间隔从1分钟增加到15分钟。 该文档还详细说明了重试指示器如何在开发人员控制台中显示，并显示警告图标和指示失败和重试事件的圆形箭头等可视提示。
 
@@ -48,7 +41,7 @@ ht-degree: 0%
 * 开发人员控制台中的可视指示器，例如失败事件的警告图标和重试事件的圆形箭头图标。
 * “消费者”运行时操作在确定用于事件处理的相应HTTP响应状态代码方面发挥着关键作用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449083?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

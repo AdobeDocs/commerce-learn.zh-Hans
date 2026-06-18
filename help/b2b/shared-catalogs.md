@@ -53,5 +53,5 @@ Adobe Commerce的B2B使您能够使用自定义定价为不同的公司维护封
 
 ## 其他资源
 
-* [使用共享目录](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/catalog-shared){target="_blank"}
-* [创建共享目录](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create){target="_blank"}
+* [使用共享目录](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/b2b/shared-catalogs/catalog-shared){target="_blank"}
+* [创建共享目录](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create){target="_blank"}

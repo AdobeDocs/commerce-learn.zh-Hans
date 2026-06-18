@@ -48,7 +48,7 @@ ht-degree: 0%
 * 要创建和配置事件提供程序和订阅，请运行脚本。
 * 正在更新Commerce和App Builder中的事件以进行同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/3431690?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452785?captions=chi_hans&learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

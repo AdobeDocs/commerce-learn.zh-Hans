@@ -1,19 +1,19 @@
 ---
 title: API Mesh入门
-description: 了解如何在Adobe Commerce和 [!DNL Adobe App Builder]上使用API Mesh。 了解如何安装 Adobe App Builder、使用项目、创建 graphql 反向代理等等。
+description: 了解如何在Adobe Commerce和Adobe App Builder上使用API Mesh，包括安装App Builder、处理项目和创建反向代理。
 jira: KT-11802
 doc-type: Tutorial
-duration: 442
+duration: 422
 last-substantial-update: 2023-08-27T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
-level: Beginner, Intermediate
+level: Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
+source-git-commit: c73744d503de5023e5c001d0534200522db55b04
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 6%
+source-wordcount: '269'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 6%
 
 API Mesh将多个数据源整合在一起，得到单个响应以供应用程序使用。
 
-[查看完整的API Mesh文档](https://developer.adobe.com/graphql-mesh-gateway/gateway/){target="_blank"}
+[查看完整的API网格文档](https://developer.adobe.com/graphql-mesh-gateway/mesh/){target="_blank"}
 
 ## 此视频面向谁？
 
@@ -34,19 +34,19 @@ API Mesh将多个数据源整合在一起，得到单个响应以供应用程序
 ## 视频内容
 
 * API Mesh概述
-* 指向补充文档的链接
+* 补充文档链接
 * 在结账时执行实时清单检查的用例
 * 将开发工作和资源使用从您的商务应用程序中移开
 
->[!VIDEO](https://video.tv.adobe.com/v/3421884?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?learn=on)
 
 ## 示例用例
 
-您的Commerce应用程序具有REST API和GraphQL端点。 例如，您可以使用REST API应用特殊定价或GraphQL端点处理库存状态。 使用API网格，您可以定义两个端点，检索信息，并将其作为一次响应返回到请求应用程序。
+您的Commerce应用程序具有REST API和GraphQL端点。 例如，使用REST API应用特殊定价或GraphQL端点处理库存状态。 使用API网格，您可以定义两个端点，检索信息，并将其作为一次响应返回到请求应用程序。
 
 ## 什么是反向代理
 
-作为使用Adobe App Builder和API Mesh的开发人员，无需了解什么是反向代理。 但是，如果您对与Adobe App Builder相关的整体功能感兴趣，请使用以下资源：
+作为使用Adobe App Builder和API Mesh的开发人员，无需了解反向代理的定义。 但是，如果您对与Adobe App Builder相关的整体功能感兴趣，请使用以下资源：
 
 * [什么是反向代理](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
 

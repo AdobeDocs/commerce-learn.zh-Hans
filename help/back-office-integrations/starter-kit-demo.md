@@ -1,17 +1,14 @@
 ---
-title: 了解用于后台集成的Adobe Commerce入门工具包
-description: 了解用于后台集成的Adobe Commerce Starter工具包。 此视频演示展示了使用此方法连接到后台集成的强大功能和便利性。
-landing-page-description: 了解用于后台集成的Adobe Commerce入门工具包
-kt: 15341
-doc-type: video
+title: 用于后台集成的Adobe Commerce入门工具包
+description: 了解用于后台集成的Adobe Commerce入门工具包，并探索它如何简化Commerce与外部后端系统的连接。
+doc-type: Technical Video
 duration: 502
-audience: all
-last-substantial-update: 2024-4-19
+last-substantial-update: 2024-04-19
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-15341
 exl-id: 8895c904-3cf6-4bd1-917d-f9c91caa4ea9
 TQID: https://experienceleague.adobe.com/R4Xg35sZ3GKOCckxXx1Zax-bVCGVjp4Usfng5-uieis
 product_v2:
@@ -26,9 +23,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
 workflow-type: tm+mt
-source-wordcount: 138
+source-wordcount: 119
 ht-degree: 0%
 
 ---

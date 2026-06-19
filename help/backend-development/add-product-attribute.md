@@ -1,15 +1,14 @@
 ---
-title: Create a product attribute
-description: Create a page that returns json with one parameter.
-kt: 14131
-doc-type: video
-duration: 605
-activity: use
-last-substantial-update: 2023-2-10
+title: 创建产品属性
+description: 了解如何在Adobe Commerce中以编程方式创建产品属性，包括带有自定义后端、前端和源模型的下拉列表类型属性。
+doc-type: Tutorial
+duration: 491
+last-substantial-update: 2023-02-10
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
+jira: KT-14131
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
 TQID: https://experienceleague.adobe.com/nK2d0LjWl88FCVRW6IRCa-euZ8cTawlY3YOzjMyNq-Y
 product_v2:
@@ -23,27 +22,27 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: add3e29f8841ca4ca99f4c40afc656f00e93ec36
 workflow-type: tm+mt
-source-wordcount: 325
+source-wordcount: 337
 ht-degree: 0%
 
 ---
 
-# Create a product attribute
+# 创建产品属性
 
-Adding a product attribute is one of the most popular operations in [!DNL Commerce]. Attributes are a powerful way to solve many practical tasks related to a product. There is a simple process of adding a dropdown-type attribute to a product.
+添加产品属性是[!DNL Commerce]中最常用的操作之一。 属性是解决与产品相关的许多实际任务的有效方法。 向产品添加下拉列表类型属性的过程非常简单。
 
 在此视频中：
 
-* Add an attribute called clothing_material with the possible values: Cotton, Leather, Silk, Denim, Fur, and Wool
-* Make this attribute visible on the product view page, in bold text
-* Assign it to the Default attribute set and add a restriction
-* Add the new attribute
+* 添加一个名为clothing_material的属性，可能的值包括：棉花、皮革、丝绸、牛仔布、毛皮和羊毛
+* 在产品视图页面上以粗体文本显示此属性
+* 将其分配给“默认”属性集并添加限制
+* 添加新属性
 
 ## 此视频面向谁？
 
-* Developers new to commerce who need to learn how to create a product attribute programmatically
+* 刚接触[!DNL Commerce]的开发人员，需要学习如何以编程方式创建产品属性
 
 ## 视频内容
 
@@ -51,7 +50,7 @@ Adding a product attribute is one of the most popular operations in [!DNL Commer
 
 ## 代码示例
 
-First create the folders, xml and PHP files that necessary:
+首先创建所需的文件夹、xml和PHP文件：
 
 * app/code/Learning/ClothingMaterial/registration.php
 * app/code/Learning/ClothingMaterial/etc/module.xml
@@ -84,7 +83,7 @@ ComponentRegistrar::register(
 
 ```xml
 <?xml version="1.0"?>
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<config xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
     <module name="Learning_ClothingMaterial" setup_version="0.0.1"/>
 </config>

@@ -1,16 +1,14 @@
 ---
-title: 了解Percona Toolkit pt-query-digest的工作方式及其使用原因
-description: 从慢速、常规和二进制日志文件分析MySQL查询。 它还可以分析来自“SHOW PROCESSLIST”的查询以及来自tcpdump的MySQL协议数据。
-kt: 13846
-doc-type: video
-duration: 510
-activity: use
-last-substantial-update: 2023-8-28
+title: 使用Percona Toolkit pt-query-digest分析MySQL查询
+description: 了解如何使用pt-query-digest从慢速、常规和二进制日志文件、SHOW PROCESSLIST和tcpdump中的MySQL协议数据分析MySQL查询。
+doc-type: Technical Video
+duration: 506
+last-substantial-update: 2023-08-28
 feature: Backend Development, Tools and External Services, Logs
 topic: Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-13846
 exl-id: 77e91f1b-b3ae-4c6d-bb6d-4fd7ebbb0baf
 TQID: https://experienceleague.adobe.com/lh-fBjlhZO6W-K08KNb-KaG-N2slLZVpNOSg6LAp0n8
 product_v2:
@@ -21,18 +19,18 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: add3e29f8841ca4ca99f4c40afc656f00e93ec36
 workflow-type: tm+mt
-source-wordcount: 113
+source-wordcount: 105
 ht-degree: 0%
 
 ---
 
 # Percona Toolkit pt-query-digest
 
-了解为何使用pt-query-digest和一些现实示例来加深推理。
+了解为何使用pt-query-digest和一些实际示例来帮助改进分析。
 
-## 此视频面向谁？
+## 目标受众
 
 * 架构师
 * 开发人员

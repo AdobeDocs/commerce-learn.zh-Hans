@@ -31,7 +31,7 @@ ht-degree: 0%
 * 将产品数据转换为语义信号的自动目录索引
 * 结果提升、相似度阈值和模糊搜索配置
 
->[!VIDEO](https://video.tv.adobe.com/v/3492286)
+>[!VIDEO](https://video.tv.adobe.com/v/3492313?captions=chi_hans)
 
 ## 其他资源
 

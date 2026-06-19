@@ -7,16 +7,14 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21573
 duration: 192
-source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
+source-git-commit: 48d47dcb7e559513b72e8e24ec678613d9163515
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
 # 语义搜索
-
-[!BADGE 即将推出]{type=Informative tooltip="此功能即将推出，并且可能会发生更改。"}
 
 传统的关键词搜索会匹配精确的单词，但消费者很少知道正确的单词。 Adobe Commerce中的语义搜索使用人工智能来了解查询背后的意图，根据含义而不是文本来匹配购物者和产品。 这改进了产品发现，提高了参与度，并通过返回反映购物者需求的结果而提高了转化率。
 
@@ -37,4 +35,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-[[!DNL Live Search] 概述](https://experienceleague.adobe.com/zh-hans/docs/commerce/live-search/overview){target="_blank"}
+&#x200B;- 有关云上的Adobe Commerce、Prem和Adobe Commerce as a Cloud Service上的部署，请参阅&#x200B;_实时搜索指南_&#x200B;中的[[!DNL Live Search] 语义搜索](https://experienceleague.adobe.com/zh-hans/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"}。
+&#x200B;- 有关使用Adobe Commerce Optimizer的部署，请参阅&#x200B;_Commerce Optimizer指南_&#x200B;中的[设置 — 高级搜索](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/settings#advanced-search){target="_blank"}。

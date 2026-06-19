@@ -46,7 +46,7 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/35789?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412437?captions=chi_hans&learn=on)
 
 ## 代码示例
 

@@ -44,7 +44,7 @@ ht-degree: 0%
 4. 要注册并安装模块，请运行`bin/magento setup:upgrade`。
 5. 检查模块是否正常工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412450?captions=chi_hans&learn=on)
 
 ### module.xml文件
 

@@ -47,4 +47,4 @@ ht-degree: 0%
 * 了解角色创建和管理
 * 了解用户分配和访问级别。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433523?captions=chi_hans&learn=on)

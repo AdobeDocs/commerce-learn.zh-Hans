@@ -1,6 +1,6 @@
 ---
 title: EDGE DELIVERY SERVICES BOPI
-description: 了解Adobe Edge Delivery Services，并添加商店中的在线购买提货或BOPIS功能以进行结账。
+description: 了解如何使用Adobe Commerce购物车组件和内容片段将在线购买、店内提货(BOPIS)支持添加到Edge Delivery Services结账中。
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -20,24 +20,24 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d394484608d6ee530932387938e04030ed3b590e
 workflow-type: tm+mt
-source-wordcount: 147
+source-wordcount: 158
 ht-degree: 0%
 
 ---
 
-# 添加BOPI以签出
+# 添加BOPI以进行签出
 
-了解如何将满足在线购买和店内提货要求的、必要组件添加到Edge Delivery Services结账中（也称为BOPIS）。
+了解如何将满足在线购买和店内取货要求的（也称为BOPIS）必要组件添加到Edge Delivery Services结账中。
 
 ## 您将学习的内容
 
-了解如何使用Edge Delivery Services中的Adobe Commerce购物车提供BOPIS功能。
+了解如何使用Edge Delivery Services中的Adobe Commerce购物车提供在线购买和店内提货功能。
 
 ## 此视频面向谁？
 
-* 电子商务企业希望通过在线购买和店内提货来提升购物车质量。
+* 电子商务企业希望通过在线购买和到店购物来提升购物车质量。
 * 需要了解如何实施BOPIS的开发人员。
 
 ## 视频内容

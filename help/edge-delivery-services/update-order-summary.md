@@ -1,6 +1,6 @@
 ---
 title: 结账中的Edge Delivery Services订单摘要
-description: 了解Adobe Edge Delivery Services以及如何更新结帐时Commerce下拉列表的订单摘要部分。
+description: 了解如何更新Adobe Commerce购物车下拉订单摘要，包括发货估算、总节省额显示和可折叠部分布局。
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -22,25 +22,25 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d394484608d6ee530932387938e04030ed3b590e
 workflow-type: tm+mt
-source-wordcount: 196
+source-wordcount: 197
 ht-degree: 0%
 
 ---
 
 # 在结帐时更新购物车摘要
 
-了解如何更改Edge Delivery Services中Adobe Commerce购物车下拉菜单的订单摘要。  以下几个示例介绍了如何快速改进结账时提供给客户的布局或信息。
+了解如何更改Edge Delivery Services的Adobe Commerce购物车下拉列表的订单摘要。 以下几个示例介绍了如何改进结账时提供给客户的布局或信息。
 
 ## 您将学习的内容
 
-了解如何使用Adobe Commerce购物车下拉菜单并调整购物车体验。  有多种方法可通过对代码进行一些细微更改或更新来增强购物车。
+了解如何使用Adobe Commerce购物车下拉菜单并调整购物车体验。 有多种方法可通过对代码进行细微更改或更新来增强购物车。
 
 ## 此视频面向谁？
 
 * 需要了解如何为订单摘要实施这些自定义设置的开发人员。
-* 促销员以了解哪些选项可使用本机功能来增强有关订单摘要的客户体验。
+* 希望了解哪些选项可以使用本机功能来增强有关订单摘要的客户体验的推销员。
 
 ## 视频内容
 

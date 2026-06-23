@@ -1,6 +1,6 @@
 ---
 title: Edge Delivery Services交易流程
-description: 了解Adobe Edge Delivery Services以及如何更改事务型流程。
+description: 了解如何使用Edge Delivery Services购物车下拉菜单在Adobe Commerce结账中调整事务流，包括数量、折扣和A/B测试。
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -20,9 +20,9 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d394484608d6ee530932387938e04030ed3b590e
 workflow-type: tm+mt
-source-wordcount: 217
+source-wordcount: 228
 ht-degree: 0%
 
 ---
@@ -33,12 +33,12 @@ ht-degree: 0%
 
 ## 您将学习的内容
 
-了解如何使用Adobe Commerce购物车并调整事务型流程，以便通过更改几行代码向客户显示一组新功能。  另外，了解如何将这些更改从Sharepoint转换为可管理以进行关联测试。
+了解如何使用Adobe Commerce购物车下拉菜单并调整事务型流程，以通过更改几行代码向客户显示一组新功能。 还了解如何将这些更改从SharePoint中转化为可进行A/B测试的更改。
 
 ## 此视频面向谁？
 
 * 开发人员和商店所有者正在了解Edge Delivery Services，并且需要更改某些购物车下拉元素。
-* 对使用SharePoint管理功能和AB测试感兴趣的营销人员和其他人员。
+* 对使用SharePoint管理功能和A/B测试感兴趣的营销人员和其他人员。
 
 ## 视频内容
 

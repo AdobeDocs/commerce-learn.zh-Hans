@@ -4,7 +4,7 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: be274a0e69527597ddad238ecbb7a46a7546ed84
+source-git-commit: f5b1e429dc7c3732d0c9e7be4b2ac972d259143e
 workflow-type: tm+mt
 source-wordcount: '958'
 ht-degree: 3%
@@ -98,7 +98,7 @@ ht-degree: 3%
 
 + 可扩展性 {#extensibility}
    + 后端开发 {#backend-development}
-      + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+      + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [创建模块](../backend-development/create-module.md)
       + [添加产品属性](../backend-development/add-product-attribute.md)
       + [依赖项注入示例](../backend-development/dependency-injection.md)
@@ -289,4 +289,3 @@ ht-degree: 3%
    + [Report Builder同类群组](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [为将来准备](../business-intelligence/prepare-for-future.md)
-

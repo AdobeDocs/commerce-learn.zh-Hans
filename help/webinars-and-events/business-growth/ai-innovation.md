@@ -26,7 +26,7 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: f5b1e429dc7c3732d0c9e7be4b2ac972d259143e
+source-git-commit: f122612cb5aa90d827bb1648fed6da340ac0c442
 workflow-type: tm+mt
 source-wordcount: 139
 ht-degree: 0%
@@ -50,4 +50,3 @@ ht-degree: 0%
 * 通过对话式Commerce增强店面体验
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475705?captions=chi_hans&learn=on)
-

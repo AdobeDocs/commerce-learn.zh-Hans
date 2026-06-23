@@ -58,4 +58,4 @@ ht-degree: 0%
 * 处理购物车和订单：添加商品、以访客身份结帐、取消订单、重新订购和处理退货。
 * 更新帐户信息，合并来宾和客户购物车，以及维护结账一致性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446772?captions=chi_hans&learn=on)

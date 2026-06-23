@@ -50,4 +50,4 @@ ht-degree: 0%
 
 ## 其他文档
 
-* [多步结账](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)
+* [多步结账](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=zh-Hans)

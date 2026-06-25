@@ -32,7 +32,7 @@ ht-degree: 0%
 * 由API请求标头激活的触发器策略（例如`AC-Policy-Brand`）
 * 在不重建目录的情况下更新日常操作中的策略
 
->[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491434?captions=chi_hans&learn=on)
 
 **策略**&#x200B;是&#x200B;**数据访问筛选器**。 它检查产品属性并应用用于确定目录视图可以公开哪些产品的规则。 策略位于共享的可组合目录的顶部 — 它们不会复制目录数据。
 

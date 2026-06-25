@@ -33,7 +33,7 @@ AI代理可完成实施、清除未使用的代码并准备项目以进行部署
 凭据和环境配置为部署和注册新的配送扩展。
 店面测试可以确认外部运费是否按预期显示和运行。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481357?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481367?captions=chi_hans&learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
 

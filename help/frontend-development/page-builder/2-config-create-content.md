@@ -9,7 +9,7 @@ topic: Commerce, Development
 role: Admin, Developer, Leader
 level: Beginner
 exl-id: 589d13fe-3b9d-4a48-a26e-a43b44726f93
-badgePaas: label="仅限PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="仅适用于云项目（Adobe管理的PaaS基础架构）和内部部署项目上的Adobe Commerce 。"
+badgePaas: label="仅限PaaS" type="Informative" url="https://experienceleague.adobe.com/zh-hans/docs/commerce/user-guides/product-solutions" tooltip="仅适用于云项目（Adobe管理的PaaS基础架构）和内部部署项目上的Adobe Commerce 。"
 TQID: https://experienceleague.adobe.com/gl0kllOii0nmwEZ2iFkzUJAcjJ31-v9xJUnKDLOtcBU
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此内容反映了Adobe Commerce 2.3.1的Page Builder 1.0.0版本。 有关更高版本中的更新的信息，请参阅[Page Builder发行说明](https://experienceleague.adobe.com/en/docs/commerce-admin/page-builder/release-notes)。
+>此内容反映了Adobe Commerce 2.3.1的Page Builder 1.0.0版本。 有关更高版本中的更新的信息，请参阅[Page Builder发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/page-builder/release-notes)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35710?learn=on)
 
@@ -59,4 +59,4 @@ ht-degree: 0%
 
 [Page Builder开发人员文档](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Page Builder指南](https://experienceleague.adobe.com/en/docs/commerce-admin/page-builder/introduction)
+[Page Builder指南](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/page-builder/introduction)

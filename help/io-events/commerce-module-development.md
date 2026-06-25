@@ -1,8 +1,8 @@
 ---
-title: Learn how to create a module in Adobe Commerce to use events.
-description: Learn how to create Commerce module to use events.
-landing-page-description: Learn how to create an Adobe Commerce module to use events.
-short-description: Learn how to create an Adobe Commerce module to use events.
+title: 了解如何在Adobe Commerce中创建模块以使用事件。
+description: 了解如何创建Commerce模块以使用事件。
+landing-page-description: 了解如何创建Adobe Commerce模块以使用事件。
+short-description: 了解如何创建Adobe Commerce模块以使用事件。
 kt: 11891
 doc-type: tutorial
 duration: 348
@@ -25,28 +25,28 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: 173
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce module development
+# Adobe Commerce模块开发
 
-Learn how register events, find supported events, and how to use a new XML file `io_events.xml` in custom module development. The video will also show developers how to find registered events that can used as well as unsubscribe any events that may already be defined. 在[安装适用于Adobe Commerce的Adobe I/O Events](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}中找到其他文档。
+了解如何注册事件、查找支持的事件以及如何在自定义模块开发中使用新的XML文件`io_events.xml`。 此视频还将向开发人员展示如何查找可以使用的已注册事件，以及取消订阅可能已经定义的任何事件。 在[安装适用于Adobe Commerce的Adobe I/O Events](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}中找到其他文档。
 
 ## 此视频面向谁？
 
-* Developers new to Adobe Commerce and Adobe Developer App Builder using I/O events.
+* 刚开始使用I/O事件的Adobe Commerce和Adobe Developer App Builder的开发人员。
 
 ## 视频内容 {#video-content}
 
-* Registering events in Commerce for use in Adobe Developer App Builder
-* Identify events that can be registered
-* Learn how to register events in io_events.xml
-* Learn how to register events in the Commerce instances `app/etc/config.php`
-* Learn how to unsubscribe to an event
+* 在Commerce中注册事件以用于Adobe Developer App Builder
+* 识别可以注册的事件
+* 了解如何在io_events.xml中注册事件
+* 了解如何在Commerce实例`app/etc/config.php`中注册事件
+* 了解如何取消订阅事件
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419833?captions=chi_hans&learn=on)
 
@@ -67,3 +67,4 @@ bin/magento events:list
 ```
 
 {{$include /help/_includes/io-events-related-links.md}}
+

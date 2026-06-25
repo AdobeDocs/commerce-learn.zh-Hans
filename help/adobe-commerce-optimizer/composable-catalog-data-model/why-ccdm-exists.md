@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 259
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-18624
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
@@ -64,3 +64,4 @@ CCDM存在，因此产品信息可以存在于其他系统扩充的&#x200B;**一
 * [为您的店面创建可组合目录](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}
 * [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/overview){target="_blank"}
 * [促销API快速入门](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
+

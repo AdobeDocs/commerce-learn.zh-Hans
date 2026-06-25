@@ -10,7 +10,7 @@ duration: 371
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20517
 exl-id: aff6de33-46ae-48f1-a6c3-e9dd342e2642
-source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -33,6 +33,7 @@ AI代理可完成实施、清除未使用的代码并准备项目以进行部署
 凭据和环境配置为部署和注册新的配送扩展。
 店面测试可以确认外部运费是否按预期显示和运行。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481367?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481357?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
+

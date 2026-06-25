@@ -10,7 +10,7 @@ duration: 710
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19015
 exl-id: b7c6d55f-bef6-4245-b45f-ec0842a94952
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -36,4 +36,5 @@ ht-degree: 0%
 * 导入自定义对象和作业定义以支持跟踪和同步。
 * 测试自定义API端点以确认安装成功并准备目录同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476080?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)
+

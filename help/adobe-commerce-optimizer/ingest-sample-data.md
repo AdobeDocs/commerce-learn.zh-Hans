@@ -11,14 +11,10 @@ last-substantial-update: 2025-08-05
 jira: KT-18663
 exl-id: 629f3781-1f64-4417-b51f-03be4ccfc06a
 TQID: https://experienceleague.adobe.com/KeK3RtTA95vbPO1dlH-GLkqXt2j-h4hJ85Q46-mvZ5k
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: 153
 ht-degree: 0%
@@ -41,11 +37,12 @@ ht-degree: 0%
 * 创建策略。
 * 创建目录视图。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470484?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470472?learn=on)
 
 ## 相关内容
 
 * [GitHub存储库示例数据](https://github.com/adobe-commerce/aco-sample-catalog-data-ingestion){target="_blank"}
-* [管理员用例](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
-* [Adobe Commerce Optimizer入门](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/get-started){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/overview){target="_blank"}
+* [管理员用例](https://experienceleague.adobe.com/en/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
+* [Adobe Commerce Optimizer入门](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+

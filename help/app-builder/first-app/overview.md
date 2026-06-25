@@ -11,17 +11,11 @@ role: Developer
 level: Beginner, Intermediate
 exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
 TQID: https://experienceleague.adobe.com/vaWPlxMkONIlEhq4-WEjw8wKWBaBb1iYmeOPSjsnnjk
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: 332
 ht-degree: 0%
@@ -39,7 +33,7 @@ ht-degree: 0%
 * [已创建Adobe Developer App Builder工作区 — 步骤2.6](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app#2-creating-a-new-project-on-developer-console){target="_blank"}
 * [已执行用于初始化项目并运行的AIO CLI命令](https://developer.adobe.com/runtime){target="_blank"}
 
-有关构建您的第一个App Builder应用程序的更多信息，您可以查看以下博客帖子来帮助完成此初始设置和配置[App Builder如何帮助提高您的商务平台的业务敏捷性](https://business.adobe.com/cn/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}。
+有关构建您的第一个App Builder应用程序的更多信息，您可以查看以下博客帖子来帮助完成此初始设置和配置[App Builder如何帮助提高您的商务平台的业务敏捷性](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}。
 
 ## 阅读本教程期待完成的任务
 
@@ -60,8 +54,9 @@ ht-degree: 0%
 * 对使用示例模块的期望
 * 示例模块的可重用部分
 
->[!VIDEO](https://video.tv.adobe.com/v/3421022?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416740?learn=on)
 
 {{avoid-400-error}}
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
+

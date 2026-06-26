@@ -1,45 +1,40 @@
 ---
-title: Localize & Schedule Content
-description: Localize content and schedule campaigns easily with Adobe Commerce’s built-in tools for fast, flexible site management.
+title: 本地化并安排内容
+description: 使用Adobe Commerce的内置工具轻松地将内容和计划活动本地化，以实现快速、灵活的站点管理。
 feature: Site Management, Content Staging, Admin Workspace
 topic: Localization, Content Management
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 365
-last-substantial-update: 2026-01-12T00:00:00.000Z
+last-substantial-update: 2026-01-12
 jira: KT-20086
 exl-id: 2b0ff49b-0703-43c2-8127-b4b395c17971
 TQID: https://experienceleague.adobe.com/hhm-NOOVVOvCshnj5lZx3J0p5-rwJmb4SZNSFjldcsI
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 496cf8fad3c8178ae50839deb4b9f9cd8ffded2e
 workflow-type: tm+mt
-source-wordcount: 103
+source-wordcount: 104
 ht-degree: 0%
 
 ---
 
-# Localize and schedule content
+# 本地化并安排内容
 
-Discover how to use Adobe ACCS and effectively localize and schedule your content. Doing so ensures that you reach your audience timely and globally, enhancing communication and engagement. Watch the video to gain insights and practical tips.
+了解如何使用Adobe ACCS并有效地本地化和计划您的内容。 这样做可确保您在全球范围内及时接触受众，从而增强沟通和参与。 观看视频，获取见解和实用提示。
 
 ## 此视频面向谁？
 
-* commerce Merchandiser
+* Commerce Merchandiser
 * 数字营销经理
-* Localization Specialist
+* 本地化专家
 
 ## 视频内容
 
-* Learn how to localize content and manage multiple storefronts using DA.live without developer support.
-* Discover how built-in scheduling and GenAI tools streamline campaign launches and content updates.
+* 了解如何在没有开发人员支持的情况下使用DA.live本地化内容和管理多个店面。
+* 了解内置计划和GenAI工具如何简化活动启动和内容更新。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478792?learn=on)

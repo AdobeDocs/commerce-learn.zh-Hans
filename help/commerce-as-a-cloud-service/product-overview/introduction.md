@@ -1,13 +1,13 @@
 ---
-title: Introduction to Adobe Commerce Cloud
-description: Explore Adobe Commerce Cloud, a scalable AI powered platform for personalized shopping experiences.
+title: Adobe Commerce Cloud简介
+description: 探索Adobe Commerce Cloud，这是一个由AI提供支持的可扩展平台，用于提供个性化的购物体验。
 feature: Cloud, Personalization, Admin Workspace
 topic: Commerce, Personalization
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 69
-last-substantial-update: 2026-01-12T00:00:00.000Z
+last-substantial-update: 2026-01-12
 jira: KT-20095
 exl-id: 02018072-b6e8-42f1-925c-322aed9e6aca
 TQID: https://experienceleague.adobe.com/9qvexIDMeuXXX6eiGWp-7qEpFcWiqmnW-afs5gFYMRM
@@ -22,26 +22,26 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 496cf8fad3c8178ae50839deb4b9f9cd8ffded2e
 workflow-type: tm+mt
 source-wordcount: 97
 ht-degree: 0%
 
 ---
 
-# Introduction to Adobe Commerce as a Cloud Service
+# Adobe Commerce as a Cloud Service简介
 
-Learn how Adobe Commerce as a Cloud Service streamlines operations with a centralized admin and modular architecture. Discover how AI-driven personalization enhances shopping experiences across channels.
+了解Adobe Commerce as a Cloud Service如何使用集中化的管理和模块化架构来简化操作。 了解AI驱动的个性化如何增强跨渠道的购物体验。
 
 ## 此视频面向谁？
 
 * 电子商务管理器
 * 数字营销专家
-* IT Solutions Architect
+* IT解决方案设计师
 
 ## 视频内容
 
-* Learn how Adobe Commerce as a Cloud Service scales faster with centralized admin and modular architecture.
-* Discover how AI-driven personalization powers seamless shopping experiences across multiple channels.
+* 了解Adobe Commerce as a Cloud Service如何通过集中化的管理和模块化架构更快地扩展。
+* 了解AI驱动的个性化如何推动跨多个渠道的无缝购物体验。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478789?learn=on)

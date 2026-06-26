@@ -1,13 +1,13 @@
 ---
-title: Boost Storefront Performance with Edge Delivery
-description: Learn how Adobe Commerce’s Edge Delivery architecture delivers fast, resilient storefronts with improved SEO and Core Web Vitals.
+title: 使用Edge Delivery提升店面性能
+description: 了解Adobe Commerce的Edge Delivery架构如何通过改进的SEO和Core Web Vitals提供快速、可复原的店面。
 feature: Cache, Storefront, Best Practices
 topic: Performance, Architecture
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 227
-last-substantial-update: 2026-01-12T00:00:00.000Z
+last-substantial-update: 2026-01-12
 jira: KT-20090
 exl-id: 4e8e3760-d42c-46cd-adda-b298e6f487b9
 TQID: https://experienceleague.adobe.com/ZlM3iQOhtGchWh-xtRJB3Yns1k4zE69iHHK6HRvU3tw
@@ -23,26 +23,26 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 496cf8fad3c8178ae50839deb4b9f9cd8ffded2e
 workflow-type: tm+mt
 source-wordcount: 117
 ht-degree: 0%
 
 ---
 
-# Boost Storefront Performance with Edge Delivery
+# 使用Edge Delivery提升店面性能
 
-Discover how Adobe Commerce storefronts powered by Edge Delivery Services achieve exceptional speed and resilience. Learn how intelligent page rendering, persistent caching, and CDN architecture improve Lighthouse scores, Core Web Vitals, and SEO out of the box.
+了解由Edge Delivery Services提供支持的Adobe Commerce存储前端如何实现卓越的速度和可复原性。 了解智能页面渲染、持久缓存和CDN架构如何开箱即用地提高Lighthouse分数、Core Web Vitals和SEO。
 
 ## 此视频面向谁？
 
-* Front-End Developer
-* Site Performance Engineer
+* 前端开发人员
+* 站点性能工程师
 * 电子商务管理器
 
 ## 视频内容
 
-* Learn how Edge Delivery architecture enables storefronts to score above 90 in Lighthouse and pass Core Web Vitals.
-* Discover how CDN-powered delivery and caching improve SEO, traffic, and conversion rates without extra effort.
+* 了解Edge Delivery架构如何使店面在Lighthouse中得分超过90分并传递Core Web Vitals。
+* 了解CDN支持的交付和缓存如何在不增加工作量的情况下提高SEO、流量和转化率。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478796?learn=on)

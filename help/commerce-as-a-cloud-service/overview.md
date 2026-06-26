@@ -1,14 +1,13 @@
 ---
 title: Adobe Commerce as a Cloud Service概述
 description: 了解Adobe Commerce as a Cloud Service。 一种灵活、可扩展且高效的解决方案，用于具有可组合架构的动态数字操作。
-kt: 17219
+jira: KT-17219
 doc-type: Technical Video
-duration: 232
-audience: all
-last-substantial-update: 2025-2-3
+duration: 231
+last-substantial-update: 2025-02-03
 feature: Auto Scaling, Cloud, Services
 topic: Architecture, Commerce, Headless, Performance
-role: Admin, Leader, User
+role: Developer
 level: Beginner
 exl-id: ba6cd559-812f-4985-881f-45a9324095f3
 TQID: https://experienceleague.adobe.com/5qPs-Bkz-AgLjlQfgdHMh7nXyew33l3kz58HBGiqse8
@@ -25,7 +24,7 @@ role_v2:
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 496cf8fad3c8178ae50839deb4b9f9cd8ffded2e
 workflow-type: tm+mt
 source-wordcount: 267
 ht-degree: 0%
@@ -34,7 +33,7 @@ ht-degree: 0%
 
 # Adobe Commerce as a Cloud Service概述
 
-Adobe Commerce as a Cloud Service为企业提供了灵活、可扩展且高效的解决方案，具备弹性自动缩放和自动更新等云原生功能。 它通过自助服务配置简化了入职流程，并拥有可组合的架构，以实现独立服务部署和API优先扩展。 预配置服务和持续提供的新功能可确保最佳性能和易用性，使其成为动态成长型企业的理想之选
+Adobe Commerce as a Cloud Service为企业提供了灵活、可扩展且高效的解决方案，具备弹性自动缩放和自动更新等云原生功能。 它通过自助服务配置简化了入职流程，并具有可组合的架构，可实现独立服务部署和API优先扩展。 预配置服务和持续提供的新功能可确保最佳性能和易用性，使其成为动态成长型企业的理想之选
 
 ## 您将学习的内容
 

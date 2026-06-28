@@ -2,14 +2,12 @@
 title: 单独的软件包全球参考体系结构
 description: 使用单独的包GRA优化Adobe Commerce。 了解灵活版本化包管理的设置、好处和最佳实践。
 jira: KT-16727
-doc-type: tutorial
-duration: 594
-audience: all
-last-substantial-update: 2025-1-6
+doc-type: Tutorial
+duration: 340
+last-substantial-update: 2025-01-06
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-badge: label="由Adobe高级技术架构师Tony Evers提供" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="托尼·埃弗斯撰稿"
-old-role: Architect, Developer
+badge: label="由Adobe高级技术架构师Tony Evers提供" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="托尼·埃弗斯撰稿"
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
@@ -30,9 +28,9 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
-source-wordcount: 2132
+source-wordcount: 2099
 ht-degree: 0%
 
 ---
@@ -45,7 +43,7 @@ ht-degree: 0%
 
 单独的包GRA模式涉及每个公共包的一个Git存储库和每个Adobe Commerce实例的一个Git存储库。 通用包通过具有专用编辑器存储库的Composer公开。
 
-此全局参考架构模式完全基于Composer，旨在从所有Composer功能中获取最大利益。
+此全局参考架构模式基于Composer，旨在从所有Composer功能中获取最大利益。
 
 ![显示代码以单独的包GRA模式存储位置的图表](/help/assets/global-reference-architecture/separate-packages-gra-pattern-diagram.png){align="center"}
 
@@ -54,7 +52,7 @@ ht-degree: 0%
 优点：
 
 * 通过共享代码存储库重用代码
-* 软件包安装完全灵活，每个GRA软件包都可以单独升级、降级或反向移植
+* 包安装完全灵活，每个GRA包都可以单独升级、降级或反向移植
 * 完全支持语义版本控制
 * 无需特殊工具、复杂的基础架构或特殊的分支策略
 * 支持编辑器支持的所有包类型
@@ -62,7 +60,7 @@ ht-degree: 0%
 缺点：
 
 * 在这种GRA模式中进行开发在开始时难度稍大一些，但有一段较短的学习曲线
-* 要部署未使用相同配置开发的软件包组合，需要严格的测试过程
+* 可以部署未在同一配置中开发的包组合；需要严格的测试过程
 
 ## 使用单独的包GRA模式设置Adobe Commerce
 
@@ -127,7 +125,7 @@ git push -u origin main
 }
 ```
 
-上面的代码片段是一个隐喻的composer.json。 因为元包只包含composer.json文件，不包含其他代码。 上面的代码也是完整的隐喻。 将其托管在Git存储库中，您便拥有了一个可安装的元包编辑器存储库。 它需要一个示例GRA模块、第三方模块以及Adobe Commerce核心。 它还需要gra-component-foundation ，这将在下一章中介绍。
+上面的代码片段是一个隐喻的composer.json。 元包只包含composer.json文件，不包含其他代码。 上面的代码也是完整的隐喻。 将其托管在Git存储库中，您便拥有了一个可安装的元包编辑器存储库。 它需要一个示例GRA模块、第三方模块以及Adobe Commerce核心。 它还需要gra-component-foundation，下一章将对此进行说明。
 
 使用中间包可以捆绑包，而无需在包之间创建依赖关系。 因此，即使包之间不存在技术依赖关系，通过中继包，也可以使它们安装在一起。 如果您在项目中需要此中间包，则会安装该中间包所需的任何包或中间包。 因此，如果您创建一个空白编辑器项目，而您只需要此包，则编辑器将安装Adobe Commerce以及GRA和第三方模块。
 
@@ -146,11 +144,11 @@ git push -u origin main
 }
 ```
 
-Brand-X中继是可选的。 您还可以跳过品牌隐含，并直接在商店编辑器项目中要求这些依赖项。 为本地模块创建元包的好处是，在商店Git存储库中，只有包存储库中没有任何功能分支和功能提取请求。 这是一项安全措施。 此外，您可以选择在包存储库中应用语义版本控制，并在主项目中使用不同的Git标记，例如，跟踪命名的版本。 由你来决定。
+Brand-X中继是可选的。 跳过品牌内涵，并直接在您的商店编辑器项目中要求使用这些依赖项。 为本地模块创建元包的好处是，在商店Git存储库中，只有包存储库中没有任何功能分支和功能提取请求。 这是一项安全措施。 此外，您可以选择在包存储库中应用语义版本控制，并在主项目中使用不同的Git标记，例如，跟踪命名的版本。 由你来决定。
 
 ### 供应商目录之外的GRA Foundation文件
 
-有时您需要将文件存储在供应商目录之外。 如`.gitignore`，位于`dev/`目录中的文件或域验证文件。 magento2-component软件包类型就是为此目的而设计的。 查看<https://github.com/AntonEvers/gra-component-foundation>。
+有时您需要将文件存储在供应商目录之外。 例如`.gitignore`，位于`dev/`目录中的文件或域验证文件。 magento2-component软件包类型就是为此目的而设计的。 查看<https://github.com/AntonEvers/gra-component-foundation>。
 
 ```json
 {
@@ -183,35 +181,35 @@ rm -r vendor/antonevers/*
 composer install --prefer-source
 ```
 
-通过此命令，已使用Git签出安东尼命名空间中的包。 当您输入vendor/antonevers/module-gra目录时，也会输入module-gra Git存储库。 您现在可以直接从供应商目录创建、签出和合并分支，并以这种方式进行开发。
+通过此命令，已使用Git签出安东尼命名空间中的包。 当您输入vendor/antonevers/module-gra目录时，也会输入module-gra Git存储库。 您现在可以从供应商目录中就地创建、签出和合并分支，并以这种方式进行开发。
 
-### 将第三方模块纳入GRA基础
+### 在GRA基础中包含第三方模块
 
-Add third-party packages to the GRA metapackage. If third-party code is not available to be installed from a Composer repository, then create a package for it. Create a Git repo, add the packages contents (everything that would be in app/code/Vendor/Package) and make sure that there is a valid composer.json file at the root of the repository. You can now install this package through Composer.
+将第三方包添加到GRA中继。 如果无法从编辑器存储库安装第三方代码，请为其创建包。 创建Git存储库，添加包内容（应用程序/代码/供应商/包中的所有内容）并确保在存储库的根目录下存在有效的composer.json文件。 您现在可以通过Composer安装此包。
 
-## Set up a private Composer repository
+## 设置专用编辑器存储库
 
-A private repository is not mandatory in global reference architecture. It makes deployments and installation faster, reduces repository configuration in composer.json, and it increases security. Credentials to other Composer repositories and the Adobe Commerce marketplace are stored in your private repository. No more sensitive credentials bundled with the code or on developers&#39; machines.
+在全球参考架构中，私有存储库不是强制性的。 它可加快部署和安装速度，减少composer.json中的存储库配置，并提高安全性。 其他编辑器存储库和Adobe Commerce市场的凭据存储在您的专用存储库中。 没有与代码捆绑在一起的或开发人员计算机上捆绑的更加敏感的凭据。
 
-Additionally, some private repositories offer extra functionalities such as email notifications when one of your stores contains a security vulnerability in one of its dependencies.
+此外，某些专用存储库还提供其他功能，例如，当您的某个存储库的某个依赖项中包含安全漏洞时，会发送电子邮件通知。
 
-The slowness issue is what occurs when you have multiple VCS repositories in composer.json. Each Composer repository needs to be read when doing upgrades and having 50 repositories for 50 packages has at least 50 times the overhead of just a single Composer repository.
+当您在composer.json中有多个VCS存储库时，会出现速度缓慢问题。 在执行升级时需要读取每个Composer存储库，并且50个程序包的50个存储库的开销是单个Composer存储库的50倍。
 
-![A diagram showing where slowness occurs when a composer repository is missing](/help/assets/global-reference-architecture/separate-packages-without-mirror-diagram.png){align="center"}
+![显示缺少编辑器存储库时速度变慢位置的图表](/help/assets/global-reference-architecture/separate-packages-without-mirror-diagram.png){align="center"}
 
-Include a Composer mirror in the form of a private Composer repository. The mirror contains a copy of all packages from other Composer repositories as well as all Git hosted packages. With a private Composer repository, you additionally get fine grained access control.
+包括私有编辑器存储库形式的编辑器镜像。 镜像包含来自其他编辑器存储库的所有包以及所有Git托管包的副本。 使用专用编辑器存储库，您还可以获得细粒度访问控制。
 
-With Git synchronization, a private Composer repository automatically detects new packages in your Git repositories as well as new versions of existing packages.
+通过Git同步，专用编辑器存储库会自动检测Git存储库中的新包以及现有包的新版本。
 
-You can host your own private repository with Satis: <https://composer.github.io/satis/>. See an example public repository at <https://antonevers.github.io/gra-composer-repository/>. This repo is used as the composer repository in the code examples. Additional measures are necessary to make a Satis repository private.
+您可以使用Satis托管自己的专用存储库： <https://composer.github.io/satis/>。 在<https://antonevers.github.io/gra-composer-repository/>处查看公共存储库示例。 此存储库在代码示例中用作编辑器存储库。 需要执行其他措施来将Satis存储库设为私有。
 
-There are solutions that you can configure and forget about: Private Packagist <https://packagist.com/>, which is made by the same people that wrote Composer or JFrog Artifactory <https://jfrog.com/artifactory/>.
+有一些解决方案可供您配置并忽略：专用打包程序<https://packagist.com/>，它由编写Composer或JFrog Artifactory <https://jfrog.com/artifactory/>的同一人创建。
 
-## Deliver code
+## 投放代码
 
-With metapackages, there are 3 steps to deliver code.
+利用中继包，可通过以下3个步骤来交付代码。
 
-1. Merge changes into packages and version the changed packages.
+1. 将更改合并到包中，并对更改的包进行版本控制。
 2. （可选，仅当添加了新包时才可用）要求将新包添加到元包中，并对元包进行版本控制。
 3. （可选，仅当添加了新包时才能使用）在Adobe Commerce中需要新元包并进行部署。
 
@@ -221,8 +219,7 @@ With metapackages, there are 3 steps to deliver code.
 
 ## 版本控制
 
-在单独的包GRA中进行版本控制是Git中标记模块的同义词。 Git标记会创建Composer安装的包的编号版本。
-正确的版本控制方法可让您的包自动流动，同时保持安全。
+在单独的包GRA中进行版本控制是Git中标记模块的同义词。 Git标记会创建Composer安装的包的编号版本。正确的版本控制方法可让您的包自动流动，同时保持安全。
 
 两个示例：
 
@@ -258,8 +255,7 @@ With metapackages, there are 3 steps to deliver code.
 
 只要您发布了上述任何软件包的新版本，就会自动随Composer更新一起安装。
 
-应用语义版本控制。 您可以在<https://semver.org/>上了解有关语义版本控制的所有信息。 特别是，常见问题解答是必须阅读的。 通过语义版本控制，“1.0.0”中的数字称为MAJOR.MINOR.PATCH。 应该可以安全地引入包的次要版本和修补程序版本，而不会破坏应用程序。
-您可以自动包括修补程序并手动选择次要升级。 请注意，通过手动选择每个次要更改，这样做会增加额外的开销：
+应用语义版本控制。 您可以在<https://semver.org/>上了解有关语义版本控制的所有信息。 特别是常见问题解答，建议阅读。 通过语义版本控制，“1.0.0”中的数字称为MAJOR.MINOR.PATCH。 可以在不中断应用程序的情况下安全地引入包的次要版本和修补程序版本。您可以自动包括修补程序并手动选择次要升级。 请注意，通过手动选择每个次要更改，这样做会增加额外的开销：
 
 ```json
 {
@@ -273,7 +269,7 @@ With metapackages, there are 3 steps to deliver code.
 }
 ```
 
-当然，所有这些只有在您始终一致地应用语义版本控制时才有效。 不仅在中间包中，常规包的要求也应该宽松地定义依赖关系。 如果您的系统中具有一个严格依赖关系，则该包将受限于严格的定义。
+当然，所有这些只有在您始终一致地应用语义版本控制时才有效。 不仅在中间包中，常规包的要求也松散地定义了依赖关系。 如果您的系统中具有一个严格依赖关系，则该包将受限于严格的定义。
 
 通过键入composer depends \&lt;包名称\>查找这些严格的依赖项。 有关详细信息，请参阅<https://getcomposer.org/doc/03-cli.md#depends-why>。
 
@@ -281,9 +277,9 @@ With metapackages, there are 3 steps to deliver code.
 
 您可以使用各种分支策略来支持此全局引用策略模式，前提是主分支是您对包进行版本控制的唯一分支。 如果跨多个分支进行版本，则会引入在版本之间随机丢失功能的风险。 仅在主分支上创建稳定版本。
 
-仅在程序包存储库中创建功能分支。 不在应用商店安装存储库中。 只需使用Composer，即可继续为商店引入任何更改。 避免Git必须在部署存储库中合并。
+仅在程序包存储库中创建功能分支。 不在应用商店安装存储库中。 能够使用编辑器向您的商店引入任何更改。 避免Git必须在部署存储库中合并。
 
-分支策略中常见的分支类型以及应存在于中的存储库：
+分支策略中常见的分支类型及其中存在的存储库：
 
 **功能分支**：位于包存储库中，任何其他位置都存在。
 
@@ -291,8 +287,7 @@ With metapackages, there are 3 steps to deliver code.
 
 **QA/开发分支**：类似于发布分支。
 
-**主分支**：必须存在于每个存储库中，并且应始终是代表生产或生产就绪状态的分支。 主要分支是标记发行版本代码的位置。
-请确保您选择的分支策略和维护开销很小。 例如，在修补程序版本之后将主分支合并回QA、UAT、版本或开发分支是一项开销维护任务。 程序包越多，存储库越多，重复开销任务也越多。
+**主分支**：存在于每个存储库中，并且始终是表示生产或生产就绪状态的分支。 主要分支是标记发行版本代码的位置。请确保您选择的分支策略和维护开销很小。 例如，在修补程序版本之后将主分支合并回QA、UAT、版本或开发分支是一项开销维护任务。 程序包越多，存储库越多，重复开销任务也越多。
 
 使用mixu/gr等工具对批次中的多个Git存储库执行例行操作： <https://github.com/mixu/gr>
 
@@ -300,13 +295,13 @@ With metapackages, there are 3 steps to deliver code.
 
 使用单独的包GRA模式时，如果基础元包需要，则包是GRA基础的一部分。 在元包中添加或删除包以将其移入和移出基础。
 
-利用中继，可以灵活地确定软件包的安装范围。 软件包的名称中不包含与软件包的预期用途相关的任何词语，这一点格外重要。 当您决定将该包从GRA基础中取出时，名称antonevers/module-gra-store-locator可能会变得混乱。 避免范围(GRA、foundation、local)。 避免地区（欧洲、中东和非洲、西班牙、全球）。 最好避免使用为生成包的商店的名称。 选择仅与包中添加的功能相关的名称。 这样，您就可以在任何需要的地方（在不可预见的未来情形中）重复使用它们。 名称antonevers/module-store-locator将非常好。
+利用中继，可以灵活地确定软件包的安装范围。 软件包的名称中不包含与软件包的预期用途相关的任何词语，这一点格外重要。 当您决定将该包从GRA基础中取出时，名称antonevers/module-gra-store-locator可能会变得混乱。 避免范围(GRA、foundation、local)。 避免地区（欧洲、中东和非洲、西班牙、全球）。 最好避免使用为生成包的商店的名称。 选择仅与包中添加的功能相关的名称。 这样，您就可以在任何环境中重复使用它们，在不可预见的未来情形中也是如此。 名称antonevers/module-store-locator将非常好。
 
 确保相关包一起显示在概述中。 将名称从通用内部版本转换为特定内部版本。 因此，使用antonevers/module-b2b-tax-exempt代替antonevers/tax-exempt-module-b2b。
 
 ## 代码示例
 
-此博客帖子的代码示例已合并到一组Git存储库中，您可以使用这些存储库来玩概念验证。
+本文中的代码示例已合并到一组Git存储库中，您可以使用这些存储库来探索概念验证。
 
 * 示例生产存储： <https://github.com/AntonEvers/gra-separate-brand-x>
 * 基础模块示例： <https://github.com/AntonEvers/module-example-gra>

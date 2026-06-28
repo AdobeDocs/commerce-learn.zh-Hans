@@ -1,17 +1,14 @@
 ---
-title: How do you implement Global Reference Architecture
-description: Learn how to implement a global reference architecture. Learn ideas for distributing your websites, keys for success and roles needed to ensure your Global Reference Architecture project starts off on the right track.
-landing-page-description: Learn how to implement a Global Reference Architecture with Adobe Commerce
-kt: 14042
-doc-type: video
-duration: 2289
-audience: all
-last-substantial-update: 2023-10-6
+title: 如何实施全局参考体系结构
+description: 了解如何实施全球参考架构。 了解分发网站的想法、成功关键因素以及确保全球参考架构项目走上正确轨道所需的角色。
+jira: KT-14042
+doc-type: Value Video
+duration: 2273
+last-substantial-update: 2023-10-06
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer, User, Leader
-level: Beginner, Intermediate
+level: Beginner
 exl-id: 0eb1f994-24a7-491f-b267-00202f6086e6
 TQID: https://experienceleague.adobe.com/gvluu4w1CEQOC6Ar77DspSSx9ED682P41DSEqG44cok
 product_v2:
@@ -29,16 +26,16 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
-source-wordcount: 169
+source-wordcount: 157
 ht-degree: 0%
 
 ---
 
-# Implementing Global Reference Architecture
+# 实施全球参考体系结构
 
-Learn how to implement Global Reference Architecture or GRA for short. Learn about early decisions that help setup a successful GRA. Gain ideas for how to separate your websites, keys to success and some concepts for developing features in an organized manner.
+了解如何实施全球参考架构(GRA)。 了解有助于建立成功GRA的早期决策。 获取有关如何划分网站的想法、取得成功的关键，以及以有条理的方式开发功能的一些概念。
 
 ## 受众
 
@@ -47,14 +44,14 @@ Learn how to implement Global Reference Architecture or GRA for short. Learn abo
 
 ## 视频内容
 
-* Early decisions are fundamental to a successful GRA
-* Ideas for distributing websites in a GRA
-* Keys for a successful Global Reference Architecture project
-* Naming conventions
-* Choosing the right brand or website for the foundational set of features
-* Key roles and responsibilities
-* Global Control Board - what features to work on
-* Alternative concept for using GRA as a module marketplace
+* 早期决策是成功的GRA的基础
+* 在GRA中分发网站的想法
+* 全球参考体系结构项目取得成功的关键
+* 命名约定
+* 为基本功能集选择正确的品牌或网站
+* 主要角色和职责
+* 全局控制板 — 可使用的功能
+* 将GRA用作模块市场的替代概念
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457218?captions=chi_hans&learn=on)
 

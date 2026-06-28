@@ -1,17 +1,14 @@
 ---
 title: 如何利用全球参考体系结构
 description: 了解如何利用全球参考架构来建立可扩展且可复原的商务体验
-landing-page-description: 了解全球参考架构以及如何将其与Adobe Commerce一起使用
-kt: 14040
-doc-type: video
-duration: 1833
-audience: all
-last-substantial-update: 2023-9-27
+jira: KT-14040
+doc-type: Value Video
+duration: 1817
+last-substantial-update: 2023-09-27
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer, User, Leader
-level: Beginner, Intermediate
+level: Beginner
 exl-id: 3b733e3c-b292-4b1a-96f2-30c14f35ac67
 TQID: https://experienceleague.adobe.com/TrXRXs3ZSuBgwQvua-27DM5tc9Y4EfxlLzobqGiVxns
 product_v2:
@@ -31,16 +28,16 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
-source-wordcount: 128
+source-wordcount: 113
 ht-degree: 0%
 
 ---
 
 # 利用全球参考体系结构
 
-了解如何利用全球参考架构或GRA。 为了更好地为GRA的成功实施做好准备，Adobe专家讨论了项目的各个阶段，并详细介绍了发现阶段。 讨论QA资源，以及它们如何成为GRA实施的宝贵资源。
+了解如何利用全球参考架构或GRA。 为了更好地准备GRA以成功实施，Adobe专家讨论了项目的各个阶段，并详细介绍了发现阶段。 讨论了QA资源，以及它们是GRA实施宝贵资源的原因。
 
 ## 受众
 

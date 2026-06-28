@@ -1,16 +1,14 @@
 ---
-title: 使用批量包优化Adobe Commerce全球参考架构
-description: 了解如何使用批量包全局参考架构来设置Adobe Commerce，以实现高效的代码管理和版本控制。
+title: 批量包全局参考架构模式
+description: 了解如何使用批量包GRA模式设置Adobe Commerce，以实现高效的代码管理、版本控制和可扩展的多实例部署。
 jira: KT-16726
-doc-type: tutorial
-duration: 391
-audience: all
-last-substantial-update: 2025-1-6
+doc-type: Tutorial
+duration: 296
+last-substantial-update: 2025-01-06
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-badge: label="由Adobe高级技术架构师Tony Evers提供" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="托尼·埃弗斯撰稿"
-old-role: Architect, Developer
-role: Developer, User, Leader
+badge: label="由Adobe高级技术架构师Tony Evers提供" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="托尼·埃弗斯撰稿"
+role: Developer
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
 TQID: https://experienceleague.adobe.com/q4NzQxc7XJDB-TNv2pU7ghDr6bahliY6soUGPu7fhfg
@@ -28,7 +26,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
 source-wordcount: 1188
 ht-degree: 0%
@@ -53,7 +51,7 @@ ht-degree: 0%
 * 灵活地在不同实例上安装不同的GRA历史版本，从而实现分阶段发布
 * 灵活地支持并维护GRA的多个主要版本
 * 支持GRA的语义版本控制
-* 简单明了，开发人员不需要比常规单商店开发模式更多的技能
+* 简单；开发人员不需要比常规单商店开发模式更多的技能
 * 无需特殊工具、复杂的基础架构或特殊的分支策略
 * 发行版中的软件包组合始终一起开发和测试
 

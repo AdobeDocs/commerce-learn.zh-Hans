@@ -33,7 +33,7 @@ ht-degree: 0%
 * 购物者意图和改进搜索相关性的真实示例
 * 主要优点：提高了相关性，减少了零结果搜索，改善了购物者体验
 
->[!VIDEO](https://video.tv.adobe.com/v/3492286)
+>[!VIDEO](https://video.tv.adobe.com/v/3492313?captions=chi_hans)
 
 ## 其他资源
 

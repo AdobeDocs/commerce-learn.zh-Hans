@@ -7,9 +7,9 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21573
 duration: 192
-source-git-commit: 48d47dcb7e559513b72e8e24ec678613d9163515
+source-git-commit: 676b83020173983f2045c715e3b3ee28f7bb1c6b
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -26,14 +26,16 @@ ht-degree: 0%
 
 ## 视频内容
 
-* 属性选择，以便语义搜索了解您的目录
-* 优先级配置，用于对最相关的信号进行加权，以进行购物者意图匹配
-* 将产品数据转换为语义信号的自动目录索引
-* 结果提升、相似度阈值和模糊搜索配置
+* 语义搜索及其改进产品发现的方法
+* 如何在实时搜索设置中启用语义搜索
+* 启用语义搜索后商家可以期待什么
+* 自动编录索引和AI支持的产品数据理解
+* 购物者意图和改进搜索相关性的真实示例
+* 主要优点：提高了相关性，减少了零结果搜索，改善了购物者体验
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492313?captions=chi_hans)
 
 ## 其他资源
 
-&#x200B;- 有关云上的Adobe Commerce、Prem和Adobe Commerce as a Cloud Service上的部署，请参阅&#x200B;_实时搜索指南_&#x200B;中的[[!DNL Live Search] 语义搜索](https://experienceleague.adobe.com/zh-hans/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"}。
-&#x200B;- 有关使用Adobe Commerce Optimizer的部署，请参阅&#x200B;_Commerce Optimizer指南_&#x200B;中的[设置 — 高级搜索](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/settings#advanced-search){target="_blank"}。
+&#x200B;- 有关云上Adobe Commerce、内部部署和Adobe Commerce as a Cloud Service的部署，请参阅&#x200B;_实时搜索指南_&#x200B;中的[[!DNL Live Search] 语义搜索](https://experienceleague.adobe.com/zh-hans/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"}。
+&#x200B;- 有关使用Adobe Commerce Optimizer的部署，请参阅&#x200B;_Commerce Optimizer指南_&#x200B;中的[语义搜索](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/setup/semantic-search){target="_blank"}。

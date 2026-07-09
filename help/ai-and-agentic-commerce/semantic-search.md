@@ -37,5 +37,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-- 有关云上Adobe Commerce、内部部署和Adobe Commerce as a Cloud Service的部署，请参阅&#x200B;_实时搜索指南_&#x200B;中的[[!DNL Live Search] 语义搜索](https://experienceleague.adobe.com/en/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"}。
-- 有关使用Adobe Commerce Optimizer的部署，请参阅&#x200B;_Commerce Optimizer指南_&#x200B;中的[语义搜索](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/semantic-search){target="_blank"}。
+&#x200B;- 有关云上Adobe Commerce、内部部署和Adobe Commerce as a Cloud Service的部署，请参阅&#x200B;_实时搜索指南_&#x200B;中的[[!DNL Live Search] 语义搜索](https://experienceleague.adobe.com/en/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"}。
+&#x200B;- 有关使用Adobe Commerce Optimizer的部署，请参阅&#x200B;_Commerce Optimizer指南_&#x200B;中的[语义搜索](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/semantic-search){target="_blank"}。

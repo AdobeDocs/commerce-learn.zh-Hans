@@ -38,7 +38,7 @@ ht-degree: 0%
 * 了解如何关闭支持票证
 * 了解如何重新打开支持票证
 
->[!VIDEO](https://video.tv.adobe.com/v/3433082?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441362?captions=chi_hans&learn=on)
 
 ## Commerce知识库Adobe帮助中心指南
 

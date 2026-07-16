@@ -11,24 +11,15 @@ last-substantial-update: 2026-01-27
 jira: KT-20160
 exl-id: f40d9b21-1f41-4c76-84a9-161168dbfb1a
 TQID: https://experienceleague.adobe.com/DiP21e4T-iLM-IuOVDVkJIvHOJ6y-q4IIdSKVplxcX0
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
-  - id: c32adafa-ed01-4b31-997e-2413013911b0
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
-subfeature_v2:
-  - id: f8ddfd3b-6194-46e8-a176-0e918039be56
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: a919fc30133c58050d260bea8562e920694f5c58
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: bd989d82-1e15-4534-88db-f1f51dd77ffaid: c32adafa-ed01-4b31-997e-2413013911b0id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2: id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: a9472912c20d157e310abfece16519156b10945f
 workflow-type: tm+mt
-source-wordcount: 507
+source-wordcount: 509
 ht-degree: 0%
 
 ---
@@ -48,7 +39,7 @@ ht-degree: 0%
 * 对Commerce as a Cloud Service使用正确的REST API端点格式
 * 通过适当的JSON负载，使用POST和PUT请求以编程方式创建和更新客户帐户
 
->[!VIDEO](https://video.tv.adobe.com/v/3479372?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479361?learn=on)
 
 ## 代码示例
 
@@ -62,7 +53,9 @@ ht-degree: 0%
 
 实例详细信息包含实例ID、GraphQL端点、凭据等内容。
 
-### 开发人员详细信息 — [developer.adobe.com/console](https://developer.adobe.com/console/)
+### 开发人员详细信息 — developer.adobe.com/console
+
+[developer.adobe.com/console](https://developer.adobe.com/console/)
 
 在Developer Console中，您可以管理API凭据，包括客户端ID、客户端密钥和访问令牌。 您还可以创建新的凭据类型，如服务器到服务器或本机应用程序身份验证。
 
@@ -259,6 +252,6 @@ curl -s -X PUT \
 
 ## 引用
 
-* [Adobe Commerce as a Cloud Service发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce/cloud-service/release-notes)
+* [Adobe Commerce as a Cloud Service发行说明](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
 * [SaaS REST API参考](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
 * [用户身份验证指南](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)

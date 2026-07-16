@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 398
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
+source-git-commit: a9472912c20d157e310abfece16519156b10945f
 workflow-type: tm+mt
-source-wordcount: '1444'
+source-wordcount: '1515'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,9 @@ ht-degree: 0%
 
 ## 逐文件引用
 
-### [创建拆分付款POC：App Builder和AI工具](./overview.md)
+### 创建拆分支付POC：App Builder和AI工具
+
+[创建拆分支付POC：App Builder和AI工具](./overview.md)
 
 **目的：**&#x200B;本教程的简介和方向。
 
@@ -32,8 +34,9 @@ ht-degree: 0%
 **教程使用：**&#x200B;正在打开部分。 在任何技术步骤之前设置上下文。
 
 
-### [拆分付款POC：架构和设计决策](./architecture-and-decisions.md)
+### 分割支付POC：架构和设计决策
 
+[分割支付POC：架构和设计决策](./architecture-and-decisions.md)
 
 **目的：**&#x200B;对PoC中的每个架构决策进行深入说明。
 
@@ -50,8 +53,9 @@ ht-degree: 0%
 **教程使用：**“架构”或“工作原理”部分。 经验丰富的Commerce开发人员可以跳过，但对于App Builder的新手至关重要。
 
 
-### [拆分付款POC：先决条件和环境设置](./prerequisites-and-setup.md)
+### 拆分付款POC：先决条件和环境设置
 
+[拆分付款POC：先决条件和环境设置](./prerequisites-and-setup.md)
 
 **用途：**&#x200B;在编写代码或运行提示之前完成预检核对清单。
 
@@ -66,8 +70,9 @@ ht-degree: 0%
 **教程使用：**“先决条件”或“入门”部分。 应该以交互方式完成 — 而不仅仅是阅读。
 
 
-### [拆分付款POC：环境变量引用](./env-reference.md)
+### 拆分付款POC：环境变量参考
 
+[拆分付款POC：环境变量参考](./env-reference.md)
 
 **用途：**&#x200B;所有三个组件的所有环境变量都集中在一处。
 
@@ -82,8 +87,9 @@ ht-degree: 0%
 **教程使用：**&#x200B;引用侧边栏或“配置”部分。 还用作生成提示的助手。
 
 
-### [拆分付款POC：Commerce模块AI提示](./commerce-module-prompt.md)
+### 拆分付款POC：Commerce模块AI提示
 
+[拆分付款POC：Commerce模块AI提示](./commerce-module-prompt.md)
 
 **用途：**&#x200B;完整、自包含的AI提示生成整个`Client_SplitPayment` PHP模块。
 
@@ -101,8 +107,9 @@ ht-degree: 0%
 **教程用法：**“构建Commerce模块”部分。 提示本身就是人工因素 — 开发人员将其复制到他们的人工智能工具中并运行它。
 
 
-### [拆分付款POC：App Builder orchestrator AI提示](./orchestrator-prompt.md)
+### 拆分付款POC：App Builder orchestrator AI提示
 
+[拆分付款POC：App Builder orchestrator AI提示](./orchestrator-prompt.md)
 
 **用途：**&#x200B;用于生成`split-payment-orchestrator` App Builder应用程序的完整、自包含的AI提示。
 
@@ -120,8 +127,9 @@ ht-degree: 0%
 **教程使用：**“构建App Builder应用程序”部分。 伴随Commerce module提示符。
 
 
-### [拆分付款POC：Experience Cloud UI扩展人工智能提示](./experience-cloud-ui-prompt.md)
+### 拆分付款POC：Experience Cloud UI扩展人工智能提示
 
+[拆分付款POC：Experience Cloud UI扩展人工智能提示](./experience-cloud-ui-prompt.md)
 
 **用途：** AI提示生成可选的Experience Cloud管理UI SDK扩展。
 
@@ -137,8 +145,9 @@ ht-degree: 0%
 **教程使用：**&#x200B;可选的“更进一步”或“生产路径”部分。 如果本教程仅侧重于PoC，则可以跳过。
 
 
-### [拆分付款POC：测试和验证指南](./testing-and-verification.md)
+### 拆分支付POC：测试和验证指南
 
+[拆分支付POC：测试和验证指南](./testing-and-verification.md)
 
 **用途：**&#x200B;分步测试指南按正确的验证顺序覆盖了每个组件。
 
@@ -160,8 +169,9 @@ ht-degree: 0%
 **教程使用：**“测试”或“验证”部分。 也可用作故障排除参考。
 
 
-### [拆分付款POC：概念验证后的后续步骤](./next-steps.md)
+### 分割支付POC：概念验证后的后续步骤
 
+[分割支付POC：概念验证后的后续步骤](./next-steps.md)
 
 **用途：**&#x200B;将PoC发展为生产就绪模式的路线图。
 

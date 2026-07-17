@@ -26,9 +26,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: a919fc30133c58050d260bea8562e920694f5c58
+source-git-commit: a9472912c20d157e310abfece16519156b10945f
 workflow-type: tm+mt
-source-wordcount: 507
+source-wordcount: 509
 ht-degree: 0%
 
 ---
@@ -62,7 +62,9 @@ ht-degree: 0%
 
 实例详细信息包含实例ID、GraphQL端点、凭据等内容。
 
-### 开发人员详细信息 — [developer.adobe.com/console](https://developer.adobe.com/console/)
+### 开发人员详细信息 — developer.adobe.com/console
+
+[developer.adobe.com/console](https://developer.adobe.com/console/)
 
 在Developer Console中，您可以管理API凭据，包括客户端ID、客户端密钥和访问令牌。 您还可以创建新的凭据类型，如服务器到服务器或本机应用程序身份验证。
 

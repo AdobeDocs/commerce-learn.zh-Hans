@@ -4,9 +4,9 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 0dcb41e9138a36528f10333b0b5a9a9b2a39ed40
+source-git-commit: b3c029f7c1080550900cbc5838478cd7a4137a20
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '969'
 ht-degree: 3%
 
 ---
@@ -69,6 +69,7 @@ ht-degree: 3%
       + [简介](../commerce-as-a-cloud-service/bulk-data-migration-tool/introduction.md)
       + [Source凭据](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
       + [数据库凭据](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
+      + [Target凭据](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
   + 迁移到Adobe Commerce{#migrating-to-adobe-commerce}
     + [概述](../migrating-to-adobe-commerce/overview.md)
     + 准备{#preparation}
@@ -102,7 +103,7 @@ ht-degree: 3%
 
 + 可扩展性 {#extensibility}
   + 后端开发 {#backend-development}
-    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [创建模块](../backend-development/create-module.md)
     + [添加产品属性](../backend-development/add-product-attribute.md)
     + [依赖项注入示例](../backend-development/dependency-injection.md)

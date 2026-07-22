@@ -33,4 +33,4 @@ ht-degree: 0%
 * 在Adobe Developer Console中从&#x200B;**Project** > **OAuth服务器到服务器**&#x200B;检索Adobe IMS客户端ID和客户端密钥。
 * 复制目标组织ID并配置CDMS主机、端口和本地服务器设置以匹配您的环境。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496167?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496175?captions=chi_hans&learn=on)

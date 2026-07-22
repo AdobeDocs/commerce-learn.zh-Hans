@@ -4,9 +4,9 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 337b968834175098aac4c332e8570d4ed94dd86c
+source-git-commit: 0dcb41e9138a36528f10333b0b5a9a9b2a39ed40
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '967'
 ht-degree: 3%
 
 ---
@@ -67,6 +67,8 @@ ht-degree: 3%
       + [正在关闭](../commerce-as-a-cloud-service/product-overview/closing.md)
     + 批量数据迁移工具{#bulk-data-migration-tool}
       + [简介](../commerce-as-a-cloud-service/bulk-data-migration-tool/introduction.md)
+      + [Source凭据](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
+      + [数据库凭据](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
   + 迁移到Adobe Commerce{#migrating-to-adobe-commerce}
     + [概述](../migrating-to-adobe-commerce/overview.md)
     + 准备{#preparation}

@@ -1,16 +1,12 @@
 ---
 title: 了解如何在Adobe Commerce中使用条件事件
 description: 了解如何使用要在Adobe Developer App Builder中使用的条件事件。
-landing-page-description: 了解如何使用Adobe Commerce条件事件。
-short-description: 了解如何使用Adobe Commerce条件事件。
-kt: 11890
-doc-type: tutorial
-duration: 421
-audience: all
-last-substantial-update: 2023-02-21T00:00:00.000Z
+jira: KT-11890
+doc-type: Tutorial
+duration: 387
+last-substantial-update: 2023-02-21
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 03787aa3-051b-4a35-b2e8-ecf6762b5eb4
@@ -25,20 +21,20 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 9f50b87d13f48b239d814783eb2c56319946cb29
 workflow-type: tm+mt
-source-wordcount: 144
+source-wordcount: 128
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce条件事件
 
-了解Adobe Commerce中可以在Adobe Developer App Builder中使用的条件事件。 在[安装适用于Adobe Commerce的Adobe I/O Events](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"}中找到其他文档。
+了解Adobe Commerce中可以在Adobe Developer App Builder中使用的条件事件。 在[安装适用于Adobe Commerce的Adobe I/O Events](https://developer.adobe.com/commerce/extensibility/events/conditional-events){target="_blank"}中找到其他文档。
 
 ## 此视频面向谁？
 
-* 刚开始使用I/O事件的Adobe Commerce和Adobe Developer App Builder的开发人员，需要创建一个Adobe App Builder项目。
+* 刚开始接触Adobe Commerce和Adobe Developer App Builder的开发人员，他们使用的I/O事件需要创建Adobe App Builder项目。
 
 ## 视频内容 {#video-content}
 

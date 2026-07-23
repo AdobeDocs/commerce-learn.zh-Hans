@@ -1,16 +1,12 @@
 ---
-title: 使用Adobe App Builder和Adobe Commerce的IO事件快速入门
-description: Adobe I/O Events快速入门。 为Adobe Commerce事件创建App Builder运行时操作。
-landing-page-description: 了解如何对Adobe Commerce事件使用App Builder运行时操作。
-short-description: 为Adobe Commerce事件创建App Builder运行时操作。
-kt: 14583
-doc-type: tutorial
-duration: 750
-audience: all
-last-substantial-update: 2023-11-27T00:00:00.000Z
+title: 开始使用Commerce和App Builder的I/O事件
+description: 了解如何通过为Adobe I/O Events事件创建App Builder运行时操作来开始使用Adobe Commerce。
+jira: KT-14583
+doc-type: Tutorial
+duration: 725
+last-substantial-update: 2023-11-27
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 266d13ac-439e-4590-a0be-e22ea8e34014
@@ -25,25 +21,25 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: aea3c1c4ad2b5fbb28ebc64965f09d3a73831344
 workflow-type: tm+mt
-source-wordcount: 173
+source-wordcount: 151
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce IO事件快速入门
 
-了解Adobe I/O活动。 在此演示中，使用Adobe Commerce将来自Adobe Developer App Builder的事件发送到Slack渠道，并使用Adobe Commerce中的事件。
+了解Adobe I/O Events。 在本演示中，Adobe Commerce中的某个事件使用Adobe Developer App Builder发送到Slack渠道。
 
 ## 此视频面向谁？
 
-* 开发人员学习使用Adobe Commerce和Adobe IO事件构建事件驱动型应用程序。
+* 开发人员学习使用Adobe Commerce和Adobe I/O Events构建事件驱动型应用程序。
 
 ## 视频内容 {#video-content}
 
-* 了解Adobe IO活动
-* 了解Adobe IO事件的不同端点，包括Amazon EventBridge
+* 了解Adobe I/O Events
+* 了解Adobe I/O Events的不同端点，包括Amazon EventBridge
 * 了解如何设置和配置App Builder项目
 * 在CLI中使用Adobe I/O命令
 * 创建用于处理事件的运行时操作

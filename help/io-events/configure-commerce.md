@@ -1,16 +1,12 @@
 ---
 title: 配置Adobe Commerce
 description: 了解如何配置Adobe Commerce以允许在Adobe Developer App Builder中使用事件。
-landing-page-description: 了解如何配置Adobe Commerce以使用Adobe Developer App Builder使用的事件机制。
-short-description: 了解如何配置Adobe Commerce以使用Adobe Developer App Builder使用的事件机制。
-kt: 11889
-doc-type: tutorial
-duration: 299
-audience: all
-last-substantial-update: 2023-02-21T00:00:00.000Z
+jira: KT-11889
+doc-type: Tutorial
+duration: 268
+last-substantial-update: 2023-02-21
 feature: App Builder, Configuration, Backend Development
 topic: Commerce, Architecture
-old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: b8062042-2e90-4750-92ef-d55a76f2d842
@@ -26,24 +22,24 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 9f50b87d13f48b239d814783eb2c56319946cb29
 workflow-type: tm+mt
-source-wordcount: 151
+source-wordcount: 114
 ht-degree: 0%
 
 ---
 
 # 配置Adobe Commerce
 
-了解如何配置Adobe Commerce以公开事件。 在[安装适用于Adobe Commerce的Adobe I/O Events](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}中找到其他文档。
+了解如何配置Adobe Commerce以公开事件。 在[安装适用于Adobe Commerce的Adobe I/O Events](https://developer.adobe.com/commerce/extensibility/events/installation){target="_blank"}中找到其他文档。
 
 ## 此视频面向谁？
 
-* 刚开始使用I/O事件的Adobe Commerce和Adobe Developer App Builder的开发人员，需要创建一个Adobe App Builder项目。
+* 刚开始接触Adobe Commerce和Adobe Developer App Builder的开发人员，他们使用的I/O事件需要创建Adobe App Builder项目。
 
 ## 视频内容 {#video-content}
 
-* 在Commerce管理员中配置Adobe I/O事件
+* 在Commerce管理员中配置Adobe I/O Events
 * 在Commerce管理员中保存私钥
 * 在Commerce管理员中保存唯一标识符
 * 创建事件提供程序

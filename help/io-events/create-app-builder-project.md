@@ -1,16 +1,12 @@
 ---
-title: 了解如何使用Commerce事件创建App Builder项目
+title: 使用Commerce事件创建App Builder项目
 description: 了解如何创建用于Commerce事件的App Builder项目
-landing-page-description: 了解如何创建Adobe App Builder项目以使用Adobe Commerce事件
-short-description: 了解如何创建Adobe App Builder项目以使用Adobe Commerce事件
-kt: 11888
-doc-type: tutorial
-duration: 372
-audience: all
-last-substantial-update: 2023-02-22T00:00:00.000Z
+jira: KT-11888
+doc-type: Tutorial
+duration: 342
+last-substantial-update: 2023-02-22
 feature: App Builder, Configuration, Backend Development
 topic: Commerce, Architecture
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: ec746cde-856b-4076-8ea4-e1c3f2f4b97b
@@ -25,20 +21,20 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 9f50b87d13f48b239d814783eb2c56319946cb29
 workflow-type: tm+mt
-source-wordcount: 137
+source-wordcount: 105
 ht-degree: 0%
 
 ---
 
 # 创建App Builder项目
 
-了解如何创建一个Adobe Developer App Builder项目以使用Adobe Commerce中的事件。 在[安装适用于Adobe Commerce的Adobe I/O Events](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}中找到其他文档。
+了解如何创建一个Adobe Developer App Builder项目以使用Adobe Commerce中的事件。 在[安装适用于Adobe Commerce的Adobe I/O Events](https://developer.adobe.com/commerce/extensibility/events/installation){target="_blank"}中找到其他文档。
 
 ## 此视频面向谁？
 
-* 刚开始使用I/O事件的Adobe Commerce和Adobe Developer App Builder的开发人员，需要创建一个Adobe App Builder项目。
+* 刚开始接触Adobe Commerce和Adobe Developer App Builder的开发人员，他们使用的I/O事件需要创建Adobe App Builder项目。
 
 ## 视频内容 {#video-content}
 

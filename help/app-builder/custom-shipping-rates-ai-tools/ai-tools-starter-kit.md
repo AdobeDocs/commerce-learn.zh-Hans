@@ -10,7 +10,7 @@ duration: 327
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20516
 exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -34,7 +34,8 @@ ht-degree: 0%
 * MCP工具公开代理用于规划和生成代码的命令和数据。
 * AI可自动化需求、架构和实施决策。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481354?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481344?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
+
 

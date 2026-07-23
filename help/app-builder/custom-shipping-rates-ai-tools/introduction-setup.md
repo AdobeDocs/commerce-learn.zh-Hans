@@ -10,7 +10,7 @@ duration: 180
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20428
 exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -33,7 +33,8 @@ ht-degree: 0%
 * 介绍如何设置开发环境，包括克隆存储库、查看starter-kit结构和安装所需工具。
 * 通过登录、配置访问并确保所有依赖项和先决条件都到位来为人工智能辅助开发准备系统。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481338?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481328?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
+
 

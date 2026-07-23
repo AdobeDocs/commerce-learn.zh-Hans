@@ -10,7 +10,7 @@ duration: 87
 last-substantial-update: 2026-03-10T00:00:00Z
 jira: KT-20518
 exl-id: 7d1487be-2e3b-4067-8382-297a040a820b
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -32,7 +32,8 @@ ht-degree: 0%
 * 了解MCP反馈工具的工作原理
 * 了解如何从IDE向Adobe提供反馈
 
->[!VIDEO](https://video.tv.adobe.com/v/3481316?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481306?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
+
 

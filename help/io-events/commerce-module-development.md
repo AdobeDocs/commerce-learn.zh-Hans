@@ -21,7 +21,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: aea3c1c4ad2b5fbb28ebc64965f09d3a73831344
+source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
 workflow-type: tm+mt
 source-wordcount: 140
 ht-degree: 0%
@@ -63,4 +63,5 @@ bin/magento events:list
 ```
 
 {{$include /help/_includes/io-events-related-links.md}}
+
 

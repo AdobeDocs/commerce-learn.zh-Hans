@@ -33,4 +33,4 @@ ht-degree: 0%
 * 提取工具包并设置正确的文件夹权限。
 * 查看此系列后续视频中配置的`.env.example`文件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496121?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496130?captions=chi_hans&learn=on)

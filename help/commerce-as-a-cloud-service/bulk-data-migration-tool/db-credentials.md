@@ -33,4 +33,4 @@ ht-degree: 0%
 * 使用Magento Cloud CLI通道命令获取主机、用户、密码、端口和数据库值。
 * 如果您的源是内部部署的，请在运行该工具之前确认主机和端口连接。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496152?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496165?captions=chi_hans&learn=on)

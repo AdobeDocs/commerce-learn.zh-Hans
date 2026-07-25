@@ -34,4 +34,4 @@ ht-degree: 0%
 * 检查迁移摘要报告 — 步骤8（数据完整性验证）记录故障而不停止管道，因此完成的运行不能保证干净的验证。
 * 此单相命令是一个完整、独立的管道 — 请勿将其用作具有自己的专用命令的维护模式（分阶段迁移）工作流中的步骤。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496316?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496324?captions=chi_hans&learn=on)

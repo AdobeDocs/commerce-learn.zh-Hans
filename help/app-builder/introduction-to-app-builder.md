@@ -11,20 +11,11 @@ role: Developer
 level: Beginner
 exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
 TQID: https://experienceleague.adobe.com/c3dl6gZ7Jtje5rZCB9HrwmCbFrcu8bllL0z0B9cl5Jg
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
-  - id: c32adafa-ed01-4b31-997e-2413013911b0
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: c32adafa-ed01-4b31-997e-2413013911b0id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: 761
@@ -38,7 +29,7 @@ ht-degree: 0%
 
 ## 适用于Adobe Commerce的App Builder {#app-builder}
 
->[!VIDEO](https://video.tv.adobe.com/v/3432201?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412839?learn=on)
 
 Adobe Developer App Builder是一个用于集成和创建自定义体验以扩展Adobe解决方案的无服务器可扩展性平台，现在可用于Adobe Commerce。 借助App Builder，您可以构建安全且可扩展的应用程序，以扩展Commerce原生功能并与第三方解决方案集成。 作为开发人员，您现在可以利用Adobe Commerce进程外的可扩展性，这反过来又会立即带来长期好处。
 
@@ -81,7 +72,7 @@ Adobe Developer App Builder提供了一个通用、一致和标准化的开发�
 
 可通过阅读以下博客帖子来大致了解包括初始设置的可组合商务策略：
 
-[App Builder如何帮助提高商务平台的业务敏捷性](https://business.adobe.com/cn/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
+[App Builder如何帮助提高商务平台的业务敏捷性](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
 
 为帮助您开始使用App Builder，Adobe已创建以下文档：
 

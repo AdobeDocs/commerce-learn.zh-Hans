@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## 适用于Adobe Commerce的App Builder {#app-builder}
 
->[!VIDEO](https://video.tv.adobe.com/v/3412839?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432201?captions=chi_hans&learn=on)
 
 Adobe Developer App Builder是一个用于集成和创建自定义体验以扩展Adobe解决方案的无服务器可扩展性平台，现在可用于Adobe Commerce。 借助App Builder，您可以构建安全且可扩展的应用程序，以扩展Commerce原生功能并与第三方解决方案集成。 作为开发人员，您现在可以利用Adobe Commerce进程外的可扩展性，这反过来又会立即带来长期好处。
 

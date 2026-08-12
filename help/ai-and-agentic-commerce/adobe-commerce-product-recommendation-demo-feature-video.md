@@ -3,7 +3,9 @@ title: Adobe Commerce产品推荐演示 — 功能视频
 description: 了解如何将Adobe Sensei产品推荐添加到Adobe Commerce产品详细信息页面，包括价格范围和缺货排除规则。
 feature: Recommendations
 topic: Commerce
-role: AdminUser
+role:
+  - Admin
+  - User
 level: Beginner
 doc-type: Feature Video
 duration: 235

@@ -34,7 +34,7 @@ Adobe Commerce Developer Agent将纯英语请求转换为可使用的已部署�
 * 将限制和消息公开为可在启动后商店团队调整的业务配置
 * 完整演练的预览：Blueprint、开发、连接、部署、配置和测试
 
->[!VIDEO](https://video.tv.adobe.com/v/3502440)
+>[!VIDEO](https://video.tv.adobe.com/v/3502457?captions=chi_hans)
 
 {{$include /help/_includes/commerce-developer-agent-related-links.md}}
 

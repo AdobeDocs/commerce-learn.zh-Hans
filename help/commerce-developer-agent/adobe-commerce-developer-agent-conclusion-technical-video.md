@@ -9,9 +9,9 @@ doc-type: Technical Video
 duration: 39
 last-substantial-update: 2026-08-28T00:00:00Z
 jira: KT-22479
-source-git-commit: 6ce75fe023cfb9c3be988787e8993db556cf3150
+source-git-commit: 92af5355fa31c1ce9e627679b0a1bb92cce0e1d8
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,7 @@ ht-degree: 0%
 
 {{$include /help/_includes/commerce-developer-agent-related-links.md}}
 
-<!-- ## Additional resources -->
+## 其他资源
 
-<!-- Link to related Experience League or Adobe Developer documentation. -->
+* [Commerce开发人员代理概述](https://developer.adobe.com/commerce/extensibility/developer-agent/)
+* [Commerce Developer Agent支持和反馈](https://developer.adobe.com/commerce/extensibility/developer-agent/support)

@@ -8,9 +8,9 @@ level: Intermediate
 doc-type: Tutorial
 duration: 438
 last-substantial-update: 2026-08-28T00:00:00Z
-source-git-commit: 6ce75fe023cfb9c3be988787e8993db556cf3150
+source-git-commit: 92af5355fa31c1ce9e627679b0a1bb92cce0e1d8
 workflow-type: tm+mt
-source-wordcount: '1646'
+source-wordcount: '1700'
 ht-degree: 0%
 
 ---
@@ -434,6 +434,9 @@ npx skills add adobe/skills --skill appbuilder-project-init -y
 
 {{$include /help/_includes/commerce-developer-agent-related-links.md}}
 
-<!-- ## Additional resources -->
+## 其他资源
 
-<!-- Link to related Experience League or Adobe Developer documentation. -->
+* [Commerce开发人员代理概述](https://developer.adobe.com/commerce/extensibility/developer-agent/)
+* [Commerce Developer Agent入门](https://developer.adobe.com/commerce/extensibility/developer-agent/getting-started)
+* [Commerce Developer Agent提示信息](https://developer.adobe.com/commerce/extensibility/developer-agent/prompting)
+* [Commerce Developer Agent支持和反馈](https://developer.adobe.com/commerce/extensibility/developer-agent/support)

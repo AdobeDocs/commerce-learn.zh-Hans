@@ -47,4 +47,4 @@ Adobe Commerce Patching Automation是Adobe Commerce站点范围分析工具(SWAT
 
 ## 相关文档
 
-* [修补自动化文档](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/caps-tool/intro)
+* [修补自动化文档](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/tools/caps-tool/intro)

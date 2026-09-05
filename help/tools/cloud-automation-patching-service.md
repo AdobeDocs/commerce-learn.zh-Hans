@@ -1,13 +1,13 @@
 ---
-title: 云自动化修补服务
-description: 通过SWAT使用CAPS简化Adobe Commerce修补 — 自动更新，实现安全、轻松的站点维护
+title: 自动修补
+description: 了解如何使用SWAT仪表板中的Adobe Commerce修补自动化功能选择项目和环境，然后发现、应用和还原修补程序。
 feature: Configuration, System, Security, Tools and External Services
 topic: Commerce, Administration
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 192
-last-substantial-update: 2025-10-24T00:00:00.000Z
+duration: 216
+last-substantial-update: 2025-10-24
 jira: KT-19485
 exl-id: 2acb0226-516a-4b33-835a-4eeeab2fcfc5
 TQID: https://experienceleague.adobe.com/ZGVmvNQFySX-mmXehuwNiW9PSKhQtgMeeioKG2Rz--M
@@ -24,22 +24,22 @@ topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 1081236a1fc40ae079dd2e489290a33c7b3be18d
 workflow-type: tm+mt
-source-wordcount: 102
+source-wordcount: 106
 ht-degree: 0%
 
 ---
 
-# 云自动化修补服务
+# Adobe Commerce修补自动化
 
-Adobe的Cloud Automation Patching Service (CAPS)是Adobe Commerce站点范围分析工具(SWAT)中的一项功能，可简化发现和应用安全修补程序的过程。 用户通过SWAT功能板下的Commerce管理员访问CAPS，选择其项目和环境，并查看可用的修补程序。
+Adobe Commerce Patching Automation是Adobe Commerce站点范围分析工具(SWAT)中的一项功能，可简化发现和应用安全修补程序的过程。 用户通过SWAT功能板下的Commerce管理员访问“自动修补”，选择其项目和环境，并查看可用的修补程序。
 
 ## 此视频面向谁？
 
 * 网站管理员
 * 开发人员
-* DevOps和系统管理员
+* DevOps和系统管理
 
 ## 视频内容
 
@@ -47,4 +47,4 @@ Adobe的Cloud Automation Patching Service (CAPS)是Adobe Commerce站点范围分
 
 ## 相关文档
 
-* [Cloud Automation修补服务文档](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/tools/caps-tool/intro)
+* [修补自动化文档](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/tools/caps-tool/intro)

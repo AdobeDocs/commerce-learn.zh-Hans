@@ -56,4 +56,4 @@ ht-degree: 0%
 
 ## 其他资源
 
-* [客户组 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/en/docs/commerce-admin/customers/customer-groups)
+* [客户组 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/customers/customer-groups)

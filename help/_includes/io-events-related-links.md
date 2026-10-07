@@ -3,11 +3,9 @@ title: IO事件相关页面
 description: IO事件中相关页面的链接
 source-git-commit: bc425e44acbd8cf726a7f947065cc59daa785b62
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '63'
 ht-degree: 0%
-
 ---
-
 # IO事件相关链接
 
 ## 其他相关教程
@@ -22,4 +20,4 @@ ht-degree: 0%
 
 ## Adobe Developer文档
 
-* Adobe Commerce概述的[Adobe I/O活动](https://developer.adobe.com/commerce/events/get-started/){target="_blank"}
+* [适用于Adobe Commerce的Adobe I/O Events概述](https://developer.adobe.com/commerce/events/get-started/){target="_blank"}

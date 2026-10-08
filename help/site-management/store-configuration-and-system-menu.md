@@ -35,7 +35,7 @@ ht-degree: 0%
 * 在默认视图和保存的视图之间切换，并更新现有视图。
 * 导航到存储配置并浏览常规、目录、安全性、客户和销售设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/3473115?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473181?captions=chi_hans&learn=on)
 
 ## 保存的网格视图
 

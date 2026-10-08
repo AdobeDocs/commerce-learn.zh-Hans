@@ -4,13 +4,11 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 6ce75fe023cfb9c3be988787e8993db556cf3150
+source-git-commit: 43c67e910e10d5db0f8c14ea24ba97ba89bd35d2
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '1006'
 ht-degree: 3%
-
 ---
-
 
 # Adobe Commerce视频和教程 {#tutorials}
 
@@ -238,6 +236,7 @@ ht-degree: 3%
   + [配送方式](../site-management/shipping-delivery.md)
   + [管理网格和筛选器](../site-management/admin-grids-and-filters.md)
   + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
+  + [导航存储配置和系统菜单](../site-management/store-configuration-and-system-menu.md)
   + Adobe Commerce服务 {#adobe-commerce-services}
     + [配置Commerce服务连接器](../site-management/configure-adobe-commerce-services-connector.md)
     + [配置支付服务](../site-management/configure-adobe-payment-services.md)

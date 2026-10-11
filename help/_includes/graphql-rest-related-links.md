@@ -5,9 +5,7 @@ source-git-commit: a285852b7960d93687388e09ad901bb9a1ee675a
 workflow-type: tm+mt
 source-wordcount: '25'
 ht-degree: 4%
-
 ---
-
 # GraphQL REST相关链接
 
 ## 有用的GraphQL资源
@@ -15,4 +13,4 @@ ht-degree: 4%
 * [GraphQL基础知识](../graphql-rest/intro-graphql.md)
 * [查询](../graphql-rest/graphql-queries.md)
 * [突变](../graphql-rest/graphql-mutations.md)
-* [模式](../graphql-rest/graphql-schema.md)
+* [架构](../graphql-rest/graphql-schema.md)

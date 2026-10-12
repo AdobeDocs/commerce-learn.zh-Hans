@@ -7,15 +7,27 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 349
-last-substantial-update: 2026-05-21T00:00:00Z
+last-substantial-update: 2026-05-21T00:00:00.000Z
 jira: KT-21258
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: d3b92bef-63fa-5031-a925-d04d9362d616
+    internal-label: Saas
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
-
 ---
-
 # Adobe可组合目录数据模型中的策略
 
 如果&#x200B;**目录视图**&#x200B;是塑造购物者从统一基础目录看到的内容的镜头，则&#x200B;**政策**&#x200B;是该镜头的组成部分。 本教程将介绍什么是策略，**STATIC**&#x200B;和&#x200B;**TRIGGER**&#x200B;策略如何在&#x200B;**Carvelo Automots**&#x200B;演示方案中协同工作，以及为什么更新策略会立即生效 — 而不重建目录。
@@ -32,7 +44,7 @@ ht-degree: 0%
 * 由API请求标头激活的触发器策略（例如`AC-Policy-Brand`）
 * 在不重建目录的情况下更新日常操作中的策略
 
->[!VIDEO](https://video.tv.adobe.com/v/3491434?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
 
 **策略**&#x200B;是&#x200B;**数据访问筛选器**。 它检查产品属性并应用用于确定目录视图可以公开哪些产品的规则。 策略位于共享的可组合目录的顶部 — 它们不会复制目录数据。
 
@@ -79,7 +91,7 @@ ht-degree: 0%
 
 * [为什么存在可组合目录数据模型](./why-ccdm-exists.md)
 * [了解目录视图](./learn-about-the-ccdm-feature-catalog-views.md)
-* [Merchanding Services的目录视图](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/overview){target="_blank"}
+* [Merchanding Services的目录视图](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [促销API快速入门](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
 

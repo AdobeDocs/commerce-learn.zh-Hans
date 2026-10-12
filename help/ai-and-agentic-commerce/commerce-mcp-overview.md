@@ -4,16 +4,23 @@ description: 了解Commerce MCP和Adobe Commerce如何使用具有完整目录�
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11T00:00:00Z
+last-substantial-update: 2026-06-11T00:00:00.000Z
 jira: KT-21570
 duration: 303
-source-git-commit: f5371d8e7427a6909199ad3d81be8321d24288f4
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
-
 ---
-
 # Commerce MCP概述
 
 [!BADGE 即将推出]{type=Informative tooltip="此功能即将推出，并且可能会发生更改。"}
@@ -34,4 +41,4 @@ ht-degree: 0%
 * 结帐已在对话中完成，未导航离开
 * 特定于所购买产品的购买后上下文指南
 
->[!VIDEO](https://video.tv.adobe.com/v/3492322?captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3492285)

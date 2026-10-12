@@ -7,15 +7,25 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 186
-last-substantial-update: 2026-08-28T00:00:00Z
+last-substantial-update: 2026-08-28T00:00:00.000Z
 jira: KT-22473
-source-git-commit: 92af5355fa31c1ce9e627679b0a1bb92cce0e1d8
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: 72863f3c-9d27-5dda-afe1-d9f934b1fba0
+    internal-label: Extensibility
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
-
 ---
-
 # Adobe Commerce开发人员代理概述
 
 Adobe Commerce Developer Agent将纯英语请求转换为可使用的已部署商店功能 — 没有手写代码。 此概述遵循从单类型指令到实际店面上的实时测试的完整历程，并解释了它为什么会更改自定义Commerce功能的构建方式。
@@ -34,7 +44,7 @@ Adobe Commerce Developer Agent将纯英语请求转换为可使用的已部署�
 * 将限制和消息公开为可在启动后商店团队调整的业务配置
 * 完整演练的预览：Blueprint、开发、连接、部署、配置和测试
 
->[!VIDEO](https://video.tv.adobe.com/v/3502457?captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3502440)
 
 {{$include /help/_includes/commerce-developer-agent-related-links.md}}
 

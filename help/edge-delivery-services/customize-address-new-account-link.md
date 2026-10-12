@@ -7,31 +7,49 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 856
-last-substantial-update: 2025-01-13
+last-substantial-update: 2025-01-13T00:00:00.000Z
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-TQID: https://experienceleague.adobe.com/QnipDRCT13r3KSOOZj3G8A8EoAZNET6Y823qbjDAXE8
+TQID: 'https://experienceleague.adobe.com/QnipDRCT13r3KSOOZj3G8A8EoAZNET6Y823qbjDAXE8'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: cc250cf1-34eb-4863-80d0-d170d45ea067
+    internal-label: Developer tools
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 72863f3c-9d27-5dda-afe1-d9f934b1fba0
+    internal-label: Extensibility
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
+    internal-label: Tools and External Services
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d394484608d6ee530932387938e04030ed3b590e
+    internal-label: Insights
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 322
+source-wordcount: '322'
 ht-degree: 0%
-
 ---
-
 # 自定义地址布局
 
 了解如何在结账时自定义地址表单布局，以确保所有字段的宽度均为50%（文本区域除外）。 了解使用集成的第三方API（尤其是Google Address API）启用地址表单中的自动地址查找和验证的方法。 了&#x200B;解如何向用户帐户仪表板添加新的侧栏菜单项，以链接到商店定位器的自定义页面。
@@ -54,8 +72,8 @@ ht-degree: 0%
 * 地址输入字段的验证和错误处理，确保用户立即收到有关不正确或不完整条目的反馈，从而改善用户体验。
 * 用户帐户仪表板的扩展，用于向用户帐户仪表板添加新的侧栏菜单项。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442916?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
 ## 其他文档
 
-* [用户帐户](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account?lang=zh-Hans)
+* [用户帐户](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account)

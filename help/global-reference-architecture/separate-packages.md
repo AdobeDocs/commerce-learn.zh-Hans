@@ -4,37 +4,50 @@ description: 使用单独的包GRA优化Adobe Commerce。 了解灵活版本化�
 jira: KT-16727
 doc-type: Tutorial
 duration: 340
-last-substantial-update: 2025-01-06
+last-substantial-update: 2025-01-06T00:00:00.000Z
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 badge: label="由Adobe高级技术架构师Tony Evers提供" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="托尼·埃弗斯撰稿"
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-TQID: https://experienceleague.adobe.com/ihTCXVhaBPi5-6Xs1tiB-wDbVX-1CwHSgz80X0B02ts
+TQID: 'https://experienceleague.adobe.com/ihTCXVhaBPi5-6Xs1tiB-wDbVX-1CwHSgz80X0B02ts'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 6388cf7b-8a81-5248-a1e4-7bb57bbe250f
+    internal-label: Install
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
+    internal-label: Security
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 2099
+source-wordcount: '2099'
 ht-degree: 0%
-
 ---
-
 # 单独的软件包全局参考体系结构模式
 
 {{only-for-on-prem-commerce-cloud}}
@@ -219,7 +232,8 @@ composer install --prefer-source
 
 ## 版本控制
 
-在单独的包GRA中进行版本控制是Git中标记模块的同义词。 Git标记会创建Composer安装的包的编号版本。正确的版本控制方法可让您的包自动流动，同时保持安全。
+在单独的包GRA中进行版本控制是Git中标记模块的同义词。 Git标记会创建Composer安装的包的编号版本。
+正确的版本控制方法可让您的包自动流动，同时保持安全。
 
 两个示例：
 
@@ -255,7 +269,8 @@ composer install --prefer-source
 
 只要您发布了上述任何软件包的新版本，就会自动随Composer更新一起安装。
 
-应用语义版本控制。 您可以在<https://semver.org/>上了解有关语义版本控制的所有信息。 特别是常见问题解答，建议阅读。 通过语义版本控制，“1.0.0”中的数字称为MAJOR.MINOR.PATCH。 可以在不中断应用程序的情况下安全地引入包的次要版本和修补程序版本。您可以自动包括修补程序并手动选择次要升级。 请注意，通过手动选择每个次要更改，这样做会增加额外的开销：
+应用语义版本控制。 您可以在<https://semver.org/>上了解有关语义版本控制的所有信息。 特别是常见问题解答，建议阅读。 通过语义版本控制，“1.0.0”中的数字称为MAJOR.MINOR.PATCH。 可以在不中断应用程序的情况下安全地引入包的次要版本和修补程序版本。
+您可以自动包括修补程序并手动选择次要升级。 请注意，通过手动选择每个次要更改，这样做会增加额外的开销：
 
 ```json
 {
@@ -287,7 +302,8 @@ composer install --prefer-source
 
 **QA/开发分支**：类似于发布分支。
 
-**主分支**：存在于每个存储库中，并且始终是表示生产或生产就绪状态的分支。 主要分支是标记发行版本代码的位置。请确保您选择的分支策略和维护开销很小。 例如，在修补程序版本之后将主分支合并回QA、UAT、版本或开发分支是一项开销维护任务。 程序包越多，存储库越多，重复开销任务也越多。
+**主分支**：存在于每个存储库中，并且始终是表示生产或生产就绪状态的分支。 主要分支是标记发行版本代码的位置。
+请确保您选择的分支策略和维护开销很小。 例如，在修补程序版本之后将主分支合并回QA、UAT、版本或开发分支是一项开销维护任务。 程序包越多，存储库越多，重复开销任务也越多。
 
 使用mixu/gr等工具对批次中的多个Git存储库执行例行操作： <https://github.com/mixu/gr>
 

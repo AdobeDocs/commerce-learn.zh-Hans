@@ -15,28 +15,37 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 2ff2e1c8-384a-453f-bb8b-f6c834ca334b
-TQID: https://experienceleague.adobe.com/yNZ7U6Sq1KGD-s3NL0yMBw5Tn2QJiPK-J5q0YKa3RAI
+TQID: 'https://experienceleague.adobe.com/yNZ7U6Sq1KGD-s3NL0yMBw5Tn2QJiPK-J5q0YKa3RAI'
 product_v2:
   - id: cc9c1b69-d771-4a04-84d3-df2e3989418f
+    internal-label: Commerce Intelligence
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: b6935462-7263-4ced-a703-60de6a5aeb2d
+    internal-label: Administration
+  - id: 3cd14413-6539-5c64-b063-fdcabf03abff
+    internal-label: Commerce Intelligence
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Administration
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 236
+source-wordcount: '236'
 ht-degree: 0%
-
 ---
-
 # Commerce Intelligence — 为未来做好准备
 
 随着新型冠状病毒肺炎疫情在全球蔓延，数百万人依赖数字商业来满足他们最基本的需求。 随着企业为了适应历史性的消费者需求而加班加点，关注未来变得前所未有地重要。
@@ -47,7 +56,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您是Commerce Intelligence的新用户，[Adobe Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=zh-Hans){target="_blank"}将全面概述如何通过数据汇总、分析和可视化来获取更好的业务见解和结果。
+>如果您是Commerce Intelligence的新用户，[Adobe Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"}将全面概述如何通过数据汇总、分析和可视化来获取更好的业务见解和结果。
 
 ## 此视频面向谁？
 

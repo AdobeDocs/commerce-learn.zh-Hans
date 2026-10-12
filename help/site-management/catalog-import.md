@@ -12,28 +12,44 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 18713a44-df39-4b94-91ce-c7efeb4ce2b3
-TQID: https://experienceleague.adobe.com/-JG7blrxImSXjA2DP9soZfsicISW0hkP2zJeWdMpVBU
+TQID: 'https://experienceleague.adobe.com/-JG7blrxImSXjA2DP9soZfsicISW0hkP2zJeWdMpVBU'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+    internal-label: Accounts
   - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: 601e4abe-d9bf-58de-a779-32ed6794dcbe
+    internal-label: Data Import/Export
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf
+    internal-label: REST API
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Administration
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 898
+source-wordcount: '907'
 ht-degree: 0%
-
 ---
-
 # 用于导入目录的选项
 
 有一些本机方法将目录导入Adobe Commerce。 每种方法都有其使用推理以及必须考虑的优点和缺点。
@@ -46,7 +62,7 @@ ht-degree: 0%
 
 ## 手动创建产品 {#manual-import}
 
-如果您的目录有限并且更新不频繁，手动创建它们可能是最佳选择。 输入每个产品都需要时间，并且有关如何使用Commerce管理员需要进行一些有限的培训。 手动目录管理不是大多数商店的正确选择，但在某些情况下，它可能是合理的。 若要查看有关此过程的其他文档，请访问[创建产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=zh-Hans){target="_blank"}。 请不要忘记，您可以使用多种方法管理您的目录，但是，一旦使用自动化，必须限制手动编辑。 自动更新有机会覆盖手动执行的任何更改，因此会导致混淆。 一旦与Adobe Commerce的集成使用自动化和API来管理目录，建议限制从管理员到[用户角色和权限](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=zh-Hans){target="_blank"}的目录管理。
+如果您的目录有限并且更新不频繁，手动创建它们可能是最佳选择。 输入每个产品都需要时间，并且有关如何使用Commerce管理员需要进行一些有限的培训。 手动目录管理不是大多数商店的正确选择，但在某些情况下，它可能是合理的。 若要查看有关此过程的其他文档，请访问[创建产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}。 请不要忘记，您可以使用多种方法管理您的目录，但是，一旦使用自动化，必须限制手动编辑。 自动更新有机会覆盖手动执行的任何更改，因此会导致混淆。 一旦与Adobe Commerce的集成使用自动化和API来管理目录，建议限制从管理员到[用户角色和权限](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}的目录管理。
 
 ### 何时考虑这种方法
 
@@ -61,7 +77,7 @@ ht-degree: 0%
 ## 管理员CSV导入工具 {#admin-csv}
 
 此工具允许商店所有者使用商务管理员提供的CSV权限导入目录。
-[从Commerce管理员导入数据](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=zh-Hans){target="_blank"}
+[从Commerce管理员导入数据](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
 
 优点：
 从管理员上传CSV是直接进行目录管理的方法。 它允许对中等大小的目录进行更快的目录产品更新。
@@ -155,6 +171,6 @@ ht-degree: 0%
 ## 其他资源
 
 * [使用新的REST CSV导入数据](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
-* [导入数据主文档](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=zh-Hans){target="_blank"}
-* [Adobe Commerce版本2.4.6发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html?lang=zh-Hans){target="_blank"}
+* [导入数据主文档](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
+* [Adobe Commerce版本2.4.6发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html){target="_blank"}
 * [用户、角色和权限](../site-management/users-roles-permissions.md){target="_blank"}

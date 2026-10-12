@@ -4,16 +4,23 @@ description: 了解Adobe Commerce语义搜索如何解释购物者意图以提�
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11T00:00:00Z
+last-substantial-update: 2026-06-11T00:00:00.000Z
 jira: KT-21573
 duration: 192
-source-git-commit: 676b83020173983f2045c715e3b3ee28f7bb1c6b
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
-
 ---
-
 # 语义搜索
 
 传统的关键词搜索会匹配精确的单词，但消费者很少知道正确的单词。 Adobe Commerce中的语义搜索使用人工智能来了解查询背后的意图，根据含义而不是文本来匹配购物者和产品。 这改进了产品发现，提高了参与度，并通过返回反映购物者需求的结果而提高了转化率。
@@ -33,9 +40,9 @@ ht-degree: 0%
 * 购物者意图和改进搜索相关性的真实示例
 * 主要优点：提高了相关性，减少了零结果搜索，改善了购物者体验
 
->[!VIDEO](https://video.tv.adobe.com/v/3492313?captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3492286)
 
 ## 其他资源
 
-&#x200B;- 有关云上Adobe Commerce、内部部署和Adobe Commerce as a Cloud Service的部署，请参阅&#x200B;_实时搜索指南_&#x200B;中的[[!DNL Live Search] 语义搜索](https://experienceleague.adobe.com/zh-hans/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"}。
-&#x200B;- 有关使用Adobe Commerce Optimizer的部署，请参阅&#x200B;_Commerce Optimizer指南_&#x200B;中的[语义搜索](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/setup/semantic-search){target="_blank"}。
+- 有关云上Adobe Commerce、内部部署和Adobe Commerce as a Cloud Service的部署，请参阅&#x200B;_实时搜索指南_&#x200B;中的[[!DNL Live Search] 语义搜索](https://experienceleague.adobe.com/en/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"}。
+- 有关使用Adobe Commerce Optimizer的部署，请参阅&#x200B;_Commerce Optimizer指南_&#x200B;中的[语义搜索](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/semantic-search){target="_blank"}。

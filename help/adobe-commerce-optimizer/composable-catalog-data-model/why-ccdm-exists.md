@@ -7,15 +7,27 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 259
-last-substantial-update: 2026-05-15T00:00:00Z
+last-substantial-update: 2026-05-15T00:00:00.000Z
 jira: KT-18624
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: d3b92bef-63fa-5031-a925-d04d9362d616
+    internal-label: Saas
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
-
 ---
-
 # 为什么存在可组合目录数据模型
 
 现代商务团队经常跨&#x200B;**品牌**、**地区**、**经销商**&#x200B;和&#x200B;**数字渠道**&#x200B;进行销售。 当每个渠道都有自己的目录副本时，团队在协调SKU、价格和可用性方面花费的时间会多于改善购物者体验的时间。 **Adobe Commerce Optimizer**&#x200B;后面的&#x200B;**Adobe可组合目录数据模型(CCDM)**&#x200B;旨在反转该模式：在SaaS层中&#x200B;**一个统一目录**，具有&#x200B;**目录视图**&#x200B;和&#x200B;**策略**，可决定每个店面或集成允许查看的内容。
@@ -31,7 +43,7 @@ ht-degree: 0%
 * 目录视图如何充当共享基础目录与特定店面或受众之间的“镜头”
 * Merchandising Services API如何使用这些视图，使Headless体验与配置的目录保持一致
 
->[!VIDEO](https://video.tv.adobe.com/v/3491295?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491285?learn=on)
 
 ## 孤立的目录带来的挑战
 
@@ -53,15 +65,15 @@ CCDM存在，因此产品信息可以存在于其他系统扩充的&#x200B;**一
 
 ## 作为店面镜头的目录视图
 
-如[促销服务的目录视图](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/setup/catalog-view){target="_blank"}中所述，目录视图的行为类似于&#x200B;**镜头**：购物者只能看到视图允许的产品、价格和规则，而&#x200B;**基本目录**&#x200B;仍然是共享记录系统。 该模型直接与&#x200B;**促销服务**&#x200B;配对，因此API客户端传递正确的视图（和相关标头）并为每个体验接收一致的策略驱动响应。
+如[促销服务的目录视图](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}中所述，目录视图的行为类似于&#x200B;**镜头**：购物者只能看到视图允许的产品、价格和规则，而&#x200B;**基本目录**&#x200B;仍然是共享记录系统。 该模型直接与&#x200B;**促销服务**&#x200B;配对，因此API客户端传递正确的视图（和相关标头）并为每个体验接收一致的策略驱动响应。
 
 有关这些部分如何适合端到端流程的更深入演练，请参阅开发人员演练[为您的店面创建可编写的目录](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}。
 
 ## 相关内容
 
 * [了解目录视图](./learn-about-the-ccdm-feature-catalog-views.md)
-* [Merchanding Services的目录视图](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [Merchanding Services的目录视图](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
 * [为您的店面创建可组合目录](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/overview){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [促销API快速入门](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
 

@@ -10,27 +10,46 @@ duration: 588
 last-substantial-update: 2024-02-21T00:00:00.000Z
 jira: KT-17259
 exl-id: 27a2aaa6-7748-4ec2-919f-9e5dc07e94e7
-TQID: https://experienceleague.adobe.com/3AYupbUJJncbDDt6wnSXU0MO2Em-6gOeCbzwgxMzpBQ
+TQID: 'https://experienceleague.adobe.com/3AYupbUJJncbDDt6wnSXU0MO2Em-6gOeCbzwgxMzpBQ'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+    internal-label: Order Management System
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+    internal-label: Compliance
+  - id: 72863f3c-9d27-5dda-afe1-d9f934b1fba0
+    internal-label: Extensibility
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
+    internal-label: Tools and External Services
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d394484608d6ee530932387938e04030ed3b590e
+    internal-label: Insights
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 174
+source-wordcount: '174'
 ht-degree: 0%
-
 ---
-
 # 购物者体验
 
 了解Edge Delivery Services上的Commerce店面如何支持常见的购物者任务：添加商品、应用折扣、访客结账、帐户更新、取消订单、重新排序和退货。 该视频还介绍了Order Management、客户如何应用折扣以及何时可以栈叠多个优惠券代码。
@@ -58,4 +77,4 @@ ht-degree: 0%
 * 处理购物车和订单：添加商品、以访客身份结帐、取消订单、重新订购和处理退货。
 * 更新帐户信息，合并来宾和客户购物车，以及维护结账一致性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446772?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)

@@ -12,26 +12,44 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
-TQID: https://experienceleague.adobe.com/9RhL9cCMdV9Cs9Q8LkCWUSfPlYIyB3XMoWtaXLI0PlM
+TQID: 'https://experienceleague.adobe.com/9RhL9cCMdV9Cs9Q8LkCWUSfPlYIyB3XMoWtaXLI0PlM'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf
+    internal-label: REST API
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Optimization
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 673
+source-wordcount: '673'
 ht-degree: 0%
-
 ---
-
 # 创建捆绑产品
 
 捆绑产品是一种将多个产品分组到父产品下的方法。 这些子产品可以是一组已定义的产品，也可以提供一些变体，以便为客户提供灵活的配置选项。 捆绑产品类型的设置时间确实要长一些，在配置它们之前，您必须进行一些规划。 但是，提供捆绑产品可让客户更轻松地自定义其产品选择，从而改善购物体验。
@@ -47,9 +65,9 @@ ht-degree: 0%
 * 标准冲浪板
 * 典型的冲浪板拉链
 * 翅片颜色选择：
-   * 红色
-   * 蓝色
-   * 黄色
+  * 红色
+  * 蓝色
+  * 黄色
 
 无论捆绑包是一组简单的静态产品还是多个具有变体的产品，灵活的配置选项都使捆绑包产品类型成为Adobe Commerce商店独一无二且功能强大的促销工具。
 
@@ -75,7 +93,7 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3454513?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426797?learn=on)
 
 ## 使用REST创建产品
 
@@ -333,9 +351,9 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-produ
 
 ## 恢复产品选项
 
-在更新捆绑产品选项时，请确保包括要与此产品关联的所有选项。 如果原始选项集包含三个产品并且一个已删除，请在POST请求中包含所有三个选项，以确保产品捆绑包指定所有选项。 If you included only the option you removed, then the updated product bundle includes only that option.
+在更新捆绑产品选项时，请确保包括要与此产品关联的所有选项。 如果原始选项集包含三个产品并且一个已删除，请在POST请求中包含所有三个选项，以确保产品捆绑包指定所有选项。 如果仅包含您删除的选项，则更新的产品捆绑包将仅包含该选项。
 
-Locate the option ID by reviewing the response from creation for the bundle product. In the that response, the `option_id` is `35`.
+通过查看从为捆绑包产品创建的响应来查找选项ID。 在该响应中，`option_id`是`35`。
 
 ```json
 ...
@@ -386,7 +404,7 @@ Locate the option ID by reviewing the response from creation for the bundle prod
 ...
 ```
 
-Update the product bundle to add the option you removed by submitting the following POST request.
+更新产品捆绑包，通过提交以下POST请求来添加您删除的选项。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' \
@@ -443,7 +461,7 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 
 ## 其他资源
 
-* [Create a bundle product tutorial](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
-* [Bundle Product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html?lang=zh-Hans){target="_blank"}
+* [创建捆绑包产品教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
+* [捆绑产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
 * [Adobe Developer REST教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

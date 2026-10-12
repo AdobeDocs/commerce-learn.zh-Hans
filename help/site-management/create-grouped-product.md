@@ -1,6 +1,6 @@
 ---
-title: Create a grouped product
-description: Learn how to create a grouped product using the REST API and the Commerce Admin.
+title: 创建分组产品
+description: 了解如何使用REST API和Commerce管理员创建分组产品。
 kt: 14585
 doc-type: video
 duration: 979
@@ -12,53 +12,69 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 3ad7125b-ef6d-4ea0-9fa7-8fc9eb399ec1
-TQID: https://experienceleague.adobe.com/nosJh3ytiC54wmNWaUmSu9qjZCN-ssjolNZD702EpEg
+TQID: 'https://experienceleague.adobe.com/nosJh3ytiC54wmNWaUmSu9qjZCN-ssjolNZD702EpEg'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf
+    internal-label: REST API
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 551
+source-wordcount: '559'
 ht-degree: 0%
-
 ---
+# 创建分组产品
 
-# Create a grouped product
+分组产品由简单独立产品组成，这些产品以组形式显示。 您可以提供单个产品的变体或按季节或主题对它们进行分组。 在创建分组产品之前，请验证要包含在分组中的所有简单产品在Adobe Commerce中均可用，并创建任何不存在的产品。
 
-A grouped product consists of simple standalone products that are presented as a group. You can offer variations of a single product or group them by season or theme. Before creating a grouped product, verify that all the simple products to include in the group are available in Adobe Commerce, and create any that do not exist.
+在本教程中，您将了解如何使用REST API和Adobe Commerce管理员创建分组产品。
 
-In this tutorial, you learn how to create a grouped product using the REST API and the Adobe Commerce Admin.
+使用REST API在管理员中创建组产品：
 
-Use the REST API to create a group product in the Admin:
+1. 创建一个空的分组产品。
+1. 创建要在分组产品中使用的简单产品。
+1. 使用简单产品填充空的分组产品。
+1. 创建一个空的分组产品并关联简单产品。
 
-1. Create an empty grouped product.
-1. Create simple products for use in the grouped product.
-1. Populate the empty grouped product with simple products.
-1. Create an empty grouped product and associate the simple products.
+   将简单产品与分组产品关联时，前端将使用有效负荷中的排序顺序属性(`position`)来按所需顺序显示关联的产品。 如果未指定`position`属性，则产品将按添加到分组产品的顺序显示。
 
-   When you associate simple products to the grouped product, the sort order attribute (`position`) in the payload  is used by the frontend to display the associated products in a desired order. If the `position` attribute is not specified, the products are displayed in the order that they were added to the grouped product.
-
-When creating grouped products from the Adobe Commerce Admin, create the simple products first. When you are ready to create the grouped product, associate the simple products by assigning them to the grouped product in one batch.
+从Adobe Commerce管理员创建分组产品时，请先创建简单产品。 准备好创建分组产品后，将简单产品分配给一个批次中的分组产品，以关联这些产品。
 
 ## 此视频面向谁？
 
 * 网站管理员
 * 电子商务促销商
-* New Adobe Commerce developers who want to learn how to create grouped products in Adobe Commerce using the REST API.
+* 新的Adobe Commerce开发人员，他们想要了解如何使用REST API在Adobe Commerce中创建分组产品。
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3454048?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425920?learn=on)
 
-## Setup for the grouped product
+## 分组产品的设置
 
-In this example, there are three simple products (created first) and a grouped product. Two simple products are associated with the grouped product, and then the third simple product is added to the grouped product.
+在此示例中，有三个简单产品（首先创建）和一个分组产品。 两个简单产品与分组产品相关联，然后将第三个简单产品添加到分组产品中。
 
 ## 使用cURL创建第一个简单产品
 
@@ -235,6 +251,6 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-
 ## 其他资源
 
 * [创建和管理分组的产品](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
-* [已分组的产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html?lang=zh-Hans){target="_blank"}
+* [已分组的产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html){target="_blank"}
 * [Adobe Developer REST教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

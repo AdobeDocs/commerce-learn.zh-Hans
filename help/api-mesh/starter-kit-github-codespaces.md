@@ -10,23 +10,42 @@ topic: App Builder, Commerce, Development, Integrations
 role: Developer
 level: Beginner
 exl-id: 4a2c210d-4df1-4601-95a8-19b3efed5ac0
-TQID: https://experienceleague.adobe.com/AHgUyT9nm4XOEacWvA7WVLYp6aus3IZNpDTfkxHd8Xw
+autotag-review: '2026-08-11T19:13:42.718Z'
+TQID: 'https://experienceleague.adobe.com/AHgUyT9nm4XOEacWvA7WVLYp6aus3IZNpDTfkxHd8Xw'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+    internal-label: Integrations
+subfeature_v2:
+  - id: ce84ce08-883f-4337-ae83-6bb1855ca732
+    internal-label: API Mesh
+  - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
+    internal-label: Tools and External Services
+  - id: e396cff5-f586-484c-89f0-7f1da3308f92
+    internal-label: GraphQL
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-08-11T19:13:42.718Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 188
+source-wordcount: '188'
 ht-degree: 0%
-
 ---
-
 # 使用GitHub代码空间的API Mesh入门工具包
 
 此会话介绍Adobe Commerce API Mesh Starter Kit。 它旨在帮助开发人员使用GitHub代码空间快速浏览API Mesh，而无需本地设置。 它介绍了如何设置存储库、配置端点以及使用GraphQL Yoga等内置工具进行测试。
@@ -43,10 +62,10 @@ ht-degree: 0%
 * 内置测试工具：包括预配置的GraphQL服务器(Yoga)和自动服务器重新启动，以实现无缝开发。
 * 实践学习：直接在浏览器中克隆启动器工具包、配置端点并测试API响应。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464027?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464017?learn=on)
 
 ## 相关文档
 
 * [API mesh starter kit GitHub存储库](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Adobe Developer文档graphql-mesh-gateway](https://developer.adobe.com/graphql-mesh-gateway/)
-* [API Mesh视频播放列表](https://experienceleague.adobe.com/zh-hans/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [API Mesh视频播放列表](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)

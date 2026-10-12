@@ -11,25 +11,33 @@ duration: 302
 last-substantial-update: 2025-3-25
 jira: KT-17595
 exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
-TQID: https://experienceleague.adobe.com/A-ecz3Yr1lCNQZmM9ung-lf7WIJZmB3h0TnsblyAbkQ
+TQID: 'https://experienceleague.adobe.com/A-ecz3Yr1lCNQZmM9ung-lf7WIJZmB3h0TnsblyAbkQ'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 938d2364-5176-55ec-80f1-9415253e5e51
+    internal-label: Site Management
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Troubleshooting
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 200
+source-wordcount: '200'
 ht-degree: 0%
-
 ---
-
 # 截断日志
 
 了解如何分类以及由于硬盘已满导致的部署失败。 了解如何查找以及可以运行哪些命令来释放Adobe Commerce云环境中的空间。
@@ -47,7 +55,7 @@ ht-degree: 0%
 * 在其中找到一些常见的大型日志文件
 * 截断日志文件的快速方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3454593?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
 
 
 ## 视频中使用的命令
@@ -103,4 +111,4 @@ ssh进入正确的项目和环境后，转到`var/log`目录。 然后，您可�
 
 ## 相关文档
 
-* [运行状况通知](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+* [运行状况通知](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

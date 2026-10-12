@@ -1,6 +1,6 @@
 ---
-title: Create a configurable product
-description: Learn how to create a configurable product using the REST API and the Commerce Admin.
+title: 创建可配置产品
+description: 了解如何使用REST API和Commerce管理员创建可配置产品。
 kt: 14586
 doc-type: video
 duration: 1760
@@ -12,46 +12,63 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 112bec9a-0f8e-4252-8c52-f486a5e663b5
-TQID: https://experienceleague.adobe.com/XAvtOnOIycqQ4z-uztWuVzzv0--eVit-I-QDnl67ba8
+TQID: 'https://experienceleague.adobe.com/XAvtOnOIycqQ4z-uztWuVzzv0--eVit-I-QDnl67ba8'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf
+    internal-label: REST API
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 994
+source-wordcount: '998'
 ht-degree: 0%
-
 ---
+# 创建可配置产品
 
-# Create a configurable product
+可配置产品是多个简单产品的父产品。 定义可配置产品，要求采购员作出一个或多个选择以选择特定的产品变型。 例如，如果产品是衬衫，则购买者必须选择“尺寸”和“颜色”选项来选择衬衫。
 
-A configurable product is a parent product of multiple simple products. Define a configurable product to require the buyer to make one or more choices to select a specific product variation. For example, if the product is a shirt, the buyer must choose the size and color options to select the shirt.
+尽管可配置产品使用更多的SKU，并且最初可能需要更长的时间进行设置，但最终仍可以节省您的时间。 如果您计划拓展业务，那么可配置的产品类型对于具有多种选项的产品来说是一个不错的选择。
 
-Although a configurable product uses more SKUs and may initially take a little longer to set up, it can save you time in the end. If you plan to grow your business, the configurable product type is a good choice for products with multiple options.
+在创建可配置产品之前，请验证可配置产品中包含的所有简单产品在Adobe Commerce中是否都可用。 创建任何不存在的项目。
 
-Before creating a configurable product, verify that all the simple products to include in the configurable product are available in Adobe Commerce. Create any that do not exist.
+在本教程中，了解如何使用REST API和Adobe Commerce管理员创建可配置产品。
 
-In this tutorial, learn how to create a configurable product using the REST API and the Adobe Commerce Admin.
+使用REST API创建可配置的产品：
 
-Use the REST API to create a configurable product:
+1. 获取[属性集](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)的属性，以便为后续API调用使用ID号。
+1. 创建简单产品以在可配置产品中使用。
+1. 创建空的可配置产品并关联简单产品。
+1. 设置可配置产品的产品属性。
+1. 使用简单产品填充空的可配置产品。
+1. 获取可配置产品和所有属性。
+1. 获取为可配置产品分配的子产品。
+1. 删除简单产品与可配置产品的关联。
 
-1. Get the attributes for an [attribute set](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=zh-Hans) to use the ID numbers for subsequent API calls.
-1. Create simple products for use in the configurable product.
-1. Create an empty configurable product and associate the simple products.
-1. Set the product attributes for the configurable product.
-1. Populate the empty configurable product with simple products.
-1. Get the configurable product and all the attributes.
-1. Get the assigned children products for the configurable product.
-1. Delete the association of simple products to configurable products.
-
-When creating configurable products from the Adobe Commerce Admin, you can either create the simple products first, or use the automated tool that creates new simple products for use using the wizard.
+从Adobe Commerce管理员创建可配置产品时，您可以先创建简单产品，也可以使用自动工具创建新的简单产品以供使用。
 
 ## 此视频面向谁？
 
@@ -229,13 +246,13 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## Create an empty configurable product using cURL
+## 使用cURL创建空的可配置产品
 
-Create an empty configurable product by sending the following POST request using cURL.
+通过使用cURL发送以下POST请求来创建空的可配置产品。
 
 在提交请求之前，请使用环境的值更新示例。
 
-* Change `"attribute_set_id": 10,` and replace `10` with the attribute set id from your environment.
+* 更改`"attribute_set_id": 10,`并使用您环境中的属性集ID替换`10`。
 * 更改`"value": "93"`并使用您环境中的值替换`93`。
 
 ```bash
@@ -262,11 +279,11 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }'
 ```
 
-## Set the options available for the configurable product
+## 为可配置产品设置可用选项
 
-Set the options available for the configurable product by sending the following POST request using cURL.
+通过使用cURL发送以下POST请求，设置可配置产品的可用选项。
 
-Before submitting the request, change `"attribute_id": 93,` to replace `93` with the attribute id from your environment.
+在提交请求之前，请更改`"attribute_id": 93,`以使用您环境中的属性ID替换`93`。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/options' \
@@ -288,21 +305,21 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Ha
 }'
 ```
 
-If you forget to set the options for the configurable product (parent), you get an error when you try to associate a child product to the configurable product. The error message is similar to the following example:
+如果忘记设置可配置产品（父产品）的选项，则在尝试将子产品与可配置产品关联时会出现错误。 错误消息类似于以下示例：
 
 `{"message":"The parent product doesn't have configurable product options.","trace":"#0 [internal function]: Magento\\ConfigurableProduct\\Model\\LinkManagement->addChild('Kids-Hawaiian-U...'}`
 
-## Link the child product to the configurable
+## 将子产品链接到可配置
 
-Now, you have created three simple products:
+现在，您已创建了三个简单的产品：
 
 * `"Kids Hawaiian Ukulele Red"`,
 * `"Kids-Hawaiian-Ukulele-Blue"`
 * `"Kids-Hawaiian-Ukulele-Green"`
 
-Add these simple products as children of the configurable product by sending the following POST request. Submit a separate request for each product.
+通过发送以下POST请求，将这些简单产品添加为可配置产品的子项。 为每种产品单独提交请求。
 
-For each request, update the `childSKU` value with the value for the child product you are adding. The following example assigns the simple product `kids-Hawaiian-Ukulele-red` to the configurable product with the SKU `Kids-Hawaiian-Ukulele-red`.
+对于每个请求，使用您正在添加的子产品的值更新`childSKU`值。 以下示例将简单产品`kids-Hawaiian-Ukulele-red`分配给具有SKU `Kids-Hawaiian-Ukulele-red`的可配置产品。
 
 
 ```bash
@@ -316,9 +333,9 @@ curl --location '{{your.url.here}}rest/default/V1/configurable-products/Kids-Haw
 '
 ```
 
-## Get a configurable product using cURL
+## 使用cURL获取可配置产品
 
-Now that you have created a configurable product with three assigned child SKUs. You can see the linked IDs for the assigned products by sending the following GET request using cURL. This request returns detailed information about the configurable product.
+现在，您已创建具有三个已分配的子SKU的可配置产品。 通过使用cURL发送以下GET请求，您可以查看已分配产品的链接ID。 此请求返回有关可配置产品的详细信息。
 
 ```json
 ...
@@ -330,27 +347,27 @@ Now that you have created a configurable product with three assigned child SKUs.
 ...
 ```
 
-The following uses the GET method
+下面使用GET方法
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulele' \
 --header 'Authorization: Bearer {{Your Bearer Token}}'
 ```
 
-## Get the children product associated to a configurable product
+## 获取与可配置产品关联的子产品
 
-Return only the children associated with the configurable product by sending the following GET request. The response will include all the attributes for the child product including SKU and price.
+通过发送以下GET请求，仅返回与可配置产品关联的子项。 响应将包括子产品的所有属性，包括SKU和价格。
 
-The following uses the GET method
+下面使用GET方法
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/configurable-products/kids-hawaiian-ukulele/children' \
 --header 'Authorization: Bearer {{Your Bearer Token}}'
 ```
 
-## Delete or remove a child product from the parent configurable
+## 从父可配置产品中删除或移除子产品
 
-You can remove a child product from a configurable product without deleting the product from the catalog by sending the following DELETE request using cURL.
+通过使用cURL发送以下DELETE请求，您可以从可配置产品中删除子产品而无需从目录中删除该产品。
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/children/Kids-Hawaiian-Ukulele-Blue' \
@@ -359,7 +376,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 
 ## 其他资源
 
-* [Create a configurable product tutorial](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
-* [Configurable Product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html?lang=zh-Hans){target="_blank"}
+* [创建可配置的产品教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
+* [可配置产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
 * [Adobe Developer REST教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

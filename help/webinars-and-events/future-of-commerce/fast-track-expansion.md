@@ -10,26 +10,35 @@ duration: 887
 last-substantial-update: 2025-05-16T00:00:00.000Z
 jira: KT-18122
 exl-id: 4cca6730-1e55-47ab-9b86-ae23d59f4b7f
-TQID: https://experienceleague.adobe.com/VUdDVdkqp8eUyZrF7YUD0loCnKd8jDlvjHsR2x2lY1Q
+TQID: 'https://experienceleague.adobe.com/VUdDVdkqp8eUyZrF7YUD0loCnKd8jDlvjHsR2x2lY1Q'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 72863f3c-9d27-5dda-afe1-d9f934b1fba0
+    internal-label: Extensibility
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b23e006f-0a29-4f1d-8fd0-77aa56f3d12b
+    internal-label: Data modeling
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Customer experience
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 178
+source-wordcount: '178'
 ht-degree: 0%
-
 ---
-
 # 快速通道扩展
 
 了解Adobe Commerce如何在目录管理、B2B商务和多渠道可扩展性方面提供强大的新功能，让企业能够快速跟踪其数字扩展。 此会议重点介绍可支持多达2.5亿SKU的灵活数据建模、跨区域的动态定价以及第一方和第三方分类的无缝集成。 通过增强的B2B功能（如父子帐户结构、报价模板和店面上下文切换），Adobe Commerce可实现更快的走向市场战略和个性化的客户体验，同时降低运营复杂性和成本。

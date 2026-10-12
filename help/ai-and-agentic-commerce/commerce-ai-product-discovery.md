@@ -4,16 +4,23 @@ description: 了解Commerce目录代理如何弥合AI可见性缺口，丰富Com
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11T00:00:00Z
+last-substantial-update: 2026-06-11T00:00:00.000Z
 jira: KT-21572
 duration: 451
-source-git-commit: 23a3ecdc06ec2738f524359169668a1423c34493
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
-
 ---
-
 # Commerce AI产品发现
 
 [!BADGE 即将推出]{type=Informative tooltip="此功能即将推出，并且可能会发生更改。"}
@@ -32,7 +39,7 @@ ht-degree: 0%
 * “优化机会”面板中呈现高影响力的扩充建议
 * 产品详细信息页面扩充，向LLM爬虫显示隐藏属性
 * 目录扩充生成AI优化的产品名称和描述
-* 使用AI内容可见度检查器验证改进
+* 使用AI Content Visibility Checker验证改进
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492331?captions=chi_hans)
 

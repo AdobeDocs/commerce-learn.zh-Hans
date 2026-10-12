@@ -1,6 +1,6 @@
 ---
-title: Create a downloadable product
-description: Learn how to create a downloadable product using the REST API and the Adobe Commerce Admin.
+title: 创建可下载的产品
+description: 了解如何使用REST API和Adobe Commerce管理员创建可下载的产品。
 kt: 14464
 doc-type: video
 duration: 946
@@ -12,44 +12,63 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 90753b8d-eca0-4868-b40e-9563d2b0e1e8
-TQID: https://experienceleague.adobe.com/YHtAD-NRQmIG58myhZk9X7-jJjwlk8S4NX9jYnZwnQc
+TQID: 'https://experienceleague.adobe.com/YHtAD-NRQmIG58myhZk9X7-jJjwlk8S4NX9jYnZwnQc'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf
+    internal-label: REST API
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Security
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 631
-ht-degree: 0%
-
+source-wordcount: '664'
+ht-degree: 4%
 ---
+# 创建可下载的产品
 
-# Create a downloadable product
-
-Learn how to create a downloadable product using the REST API and the Adobe Commerce Admin.
+了解如何使用REST API和Adobe Commerce管理员创建可下载的产品。
 
 ## 此视频面向谁？
 
 * 网站管理员
 * 电子商务促销商
-* New Adobe Commerce developers who want to learn how to create products in Adobe Commerce using the REST API
+* 新的Adobe Commerce开发人员，他们想要了解如何使用REST API在Adobe Commerce中创建产品
 
 ## 视频内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/3453956?captions=chi_hans&learn=on)
 
-## Allowed downloadable domains
+## 允许下载的域
 
-You must specify which domains are permitted to allow downloads. Domains are added to the project&#39;s `env.php` file via the command line. The `env.php` file details the domains allowed to contain downloadable content. An error occurs if a downloadable product is created using the REST API _before_  the `php.env` file is updated:
+您必须指定允许下载的域。 域通过命令行添加到项目的`env.php`文件。 `env.php`文件详细列出了允许包含可下载内容的域。 如果在&#x200B;_之前使用REST API_&#x200B;创建了可下载的产品，则更新了`php.env`文件时出错：
 
 ```bash
 {
@@ -57,9 +76,9 @@ You must specify which domains are permitted to allow downloads. Domains are add
 }
 ```
 
-To set the domain, connect to the server: `bin/magento downloadable:domains:add www.example.com`
+若要设置域，请连接到服务器： `bin/magento downloadable:domains:add www.example.com`
 
-Once that is complete, the `env.php` is modified inside the _downloadable_ domains_ array.
+完成此操作后，`env.php`将在&#x200B;_downloadable_ domains_数组内进行修改。
 
 ```php
     'downloadable_domains' => [
@@ -67,22 +86,22 @@ Once that is complete, the `env.php` is modified inside the _downloadable_ domai
     ],
 ```
 
-Now that the domain is added to the `env.php`, you can create a downloadable product in the Adobe Commerce Admin or by using the REST API.
+现在该域已添加到`env.php`，您可以在Adobe Commerce管理员中或使用REST API创建可下载的产品。
 
-See [Configuration Reference](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=zh-Hans#downloadable_domains) to learn more.
+有关详细信息，请参阅[配置引用](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=zh-Hans#downloadable_domains)。
 
 >[!IMPORTANT]
->On some versions of Adobe Commerce, you might get the following error when a product is edited in the Adobe Commerce Admin. The product is created using the REST API but the linked download has a `null` price.
+>在某些版本的Adobe Commerce上，在Adobe Commerce管理员中编辑产品时，您可能会收到以下错误。 产品是使用REST API创建的，但链接下载的价格为`null`。
 
 `Deprecated Functionality: number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /app/vendor/magento/module-downloadable/Ui/DataProvider/Product/Form/Modifier/Data/Links.php on line 228`.
 
-To fix this error, use the update link API: `POST V1/products/{sku}/downloadable-links.`
+要修复此错误，请使用更新链接API： `POST V1/products/{sku}/downloadable-links.`
 
-See the [Update a product download link using cURL](#update-downloadable-links) section for more info.
+有关详细信息，请参阅[使用cURL更新产品下载链接](#update-downloadable-links)。
 
-## Create a downloadable product using cURL (download from remote server)
+## 使用cURL创建可下载的产品（从远程服务器下载）
 
-This example shows how to create a downloadable product using cURL when the file to download is not on the same server. 如果文件存储在S3存储段或其他数字资产管理器中，则此用例是典型的。
+此示例说明当要下载的文件不在同一服务器上时，如何使用cURL创建可下载的产品。 如果文件存储在S3存储段或其他数字资产管理器中，则此用例是典型的。
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -252,6 +271,6 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 ## 其他资源
 
 * [可下载的产品类型](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=zh-Hans){target="_blank"}
-* [Downloadable Domains Configuration Guide](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=zh-Hans#downloadable_domains){target="_blank"}
+* [可下载的域配置指南](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=zh-Hans#downloadable_domains){target="_blank"}
 * [Adobe Developer REST教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

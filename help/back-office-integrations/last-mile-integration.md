@@ -3,31 +3,41 @@ title: Commerce入门工具包中的最后一英里集成
 description: 了解Commerce中的“最后一英里”集成，其中使用可扩展性挂钩进行验证、转换、预处理、发送和后处理。
 doc-type: Technical Video
 duration: 557
-last-substantial-update: 2024-07-30
+last-substantial-update: 2024-07-30T00:00:00.000Z
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
 level: Intermediate
 jira: KT-15869
 exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
-TQID: https://experienceleague.adobe.com/TCR23A98L8XrVDEQeqLQoOXKQPBQu-Wb7YnGUkBXgak
+TQID: 'https://experienceleague.adobe.com/TCR23A98L8XrVDEQeqLQoOXKQPBQu-Wb7YnGUkBXgak'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+    internal-label: Order Management System
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
+    internal-label: Intermediate
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 342
+source-wordcount: '342'
 ht-degree: 0%
-
 ---
-
 # 使用Adobe Starter Kit的最后一英里集成
 
 了解在开始与Adobe Commerce进行最后一英里集成时要考虑的项目，侧重于可扩展性挂钩以增强与第三方系统的连接。 此视频概述了结构化方法，其中各种挂接（如验证、转换、预处理、发送和后处理）可确保无缝的数据流和系统同步。 每个挂接都有不同的用途，包括：
@@ -44,12 +54,12 @@ ht-degree: 0%
 ## 受众
 
 * 希望了解可扩展性挂接的结构和功能的开发人员，以及这些挂接如何增强与第三方系统的连接。
-* 开发人员希望了解与每个可扩展性挂接相关的典型用例和最佳实践（如验证、转换、预处理、发送和后处理），以促进无缝数据流、系统同步和高效的集成设置维护。&#x200B;AEM
+* 开发人员希望了解与每个可扩展性挂接相关的典型用例和最佳实践（如验证、转换、预处理、发送和后处理），以促进无缝数据流、系统同步和高效的集成设置维护。 &#x200B;
 
 ## 视频内容
 
 * 了解最后一英里集成中调用操作的结构。
-* 了解验证挂接中的典型用例，包括根据架构验证传入数据以及根据特定条件跳过特定事件。&#x200B;AEM
+* 了解验证挂接中的典型用例，包括根据架构验证传入数据以及根据特定条件跳过特定事件。 &#x200B;
 * 了解转换挂接在原始系统和目标系统之间转换数据对象方面的作用。
 * 了解发送挂接对于促进实际数据发送到目标系统的重要性。
 

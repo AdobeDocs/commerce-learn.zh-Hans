@@ -7,15 +7,27 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 349
-last-substantial-update: 2026-05-21T00:00:00Z
+last-substantial-update: 2026-05-21T00:00:00.000Z
 jira: KT-21258
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: d3b92bef-63fa-5031-a925-d04d9362d616
+    internal-label: Saas
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
-
 ---
-
 # Adobe可组合目录数据模型中的策略
 
 如果&#x200B;**目录视图**&#x200B;是塑造购物者从统一基础目录看到的内容的镜头，则&#x200B;**政策**&#x200B;是该镜头的组成部分。 本教程将介绍什么是策略，**STATIC**&#x200B;和&#x200B;**TRIGGER**&#x200B;策略如何在&#x200B;**Carvelo Automots**&#x200B;演示方案中协同工作，以及为什么更新策略会立即生效 — 而不重建目录。

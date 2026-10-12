@@ -10,33 +10,50 @@ duration: 451
 last-substantial-update: 2024-04-17T00:00:00.000Z
 jira: KT-15180
 exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
-TQID: https://experienceleague.adobe.com/czbb8zkX55fzgKiZthAj4whBCF-IL2bEox0M7rDr9oE
+TQID: 'https://experienceleague.adobe.com/czbb8zkX55fzgKiZthAj4whBCF-IL2bEox0M7rDr9oE'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
 subfeature_v2:
   - id: f8ddfd3b-6194-46e8-a176-0e918039be56
+    internal-label: Cloud architecture
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Insights
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 2365
+source-wordcount: '2365'
 ht-degree: 0%
-
 ---
-
 # 启动前核对清单
 
 此页面汇总了Adobe Commerce [站点启动文档](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/launch/overview){target="_blank"}。
@@ -109,35 +126,35 @@ Adobe Commerce Cloud使用MariaDB Galera群集作为暂存环境和生产环境�
 2. 确保所有数据库表的行格式都设置为[DYNAMIC而不是COMPACT](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"} （对于本地到云的迁移尤其如此）。
 3. 将所有表的数据库存储引擎从[MyISAM更改为InnoDB](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud#convert-all-myisam-tables-to-innodb){target="_blank"}。
 4. 提前审查并优化大小超过1 GB的数据库表。
-5. The database schema information is current and up to date. (Refer to [this guide](https://mariadb.com/docs/server/ha-and-performance/optimization-and-tuning/query-optimizations/statistics-for-optimizing-queries/engine-independent-table-statistics#collecting-statistics-with-the-analyze-table-statement){target="_blank"}).
+5. 数据库架构信息是最新的信息。 （请参阅[本指南](https://mariadb.com/docs/server/ha-and-performance/optimization-and-tuning/query-optimizations/statistics-for-optimizing-queries/engine-independent-table-statistics#collecting-statistics-with-the-analyze-table-statement){target="_blank"}）。
 
-## 6. Deployments
+## &#x200B;6. 部署
 
-1. Review the Static Content Deployment (SCD) ideal state to reduce maintenance time during deployments on the production environment. Review [Static Content Deployment (SCD) Strategies](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/develop/deploy/static-content){target="_blank"} and [Store configuration management](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/configure-store/store-settings){target="_blank"} guide.
-2. Review minification settings for HTML, JavaScript, and CSS. (This does not apply to PWA/Headless websites).
-3. Confirm that the utilization of the following cloud variables aligns with their intended purposes. ([SCD_MATRIX](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-build#scd_matrix){target="_blank"}, [SCD_ON_DEMAND](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-global#scd_on_demand){target="_blank"} and [SKIP_SCD](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#skip_scd){target="_blank"})
+1. 查看静态内容部署(SCD)理想状态，以减少在生产环境中进行部署期间的维护时间。 查看[静态内容部署(SCD)策略](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/develop/deploy/static-content){target="_blank"}和[存储配置管理](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/configure-store/store-settings){target="_blank"}指南。
+2. 查看HTML、JavaScript和CSS的缩小设置。 （这不适用于PWA/Headless网站）。
+3. 确认以下云变量的使用符合其预期目的。 （[SCD_MATRIX](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-build#scd_matrix){target="_blank"}、[SCD_ON_DEMAND](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-global#scd_on_demand){target="_blank"}和[SKIP_SCD](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#skip_scd){target="_blank"}）
 
-## 7. Testing and Troubleshooting
+## &#x200B;7. 测试和故障排除
 
-1. Test the outgoing transactional emails. Read more about [Adobe Commerce Cloud - SendGrid Mail functionality](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/project/sendgrid){target="_blank"}.
-2. [!BADGE Blocker]{type=caution tooltip="潜在的阻断因素"} Confirm there are no Adobe-related blockers to launch.
-3. [!BADGE Blocker]{type=caution tooltip="潜在的阻断因素"} Perform load and stress testing on the Production instance before going live and share results with the assigned CTA/CSE.
+1. 测试传出事务性电子邮件。 详细了解[Adobe Commerce Cloud - SendGrid Mail功能](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/project/sendgrid){target="_blank"}。
+2. [!BADGE 阻止程序]{type=caution tooltip="潜在的阻断因素"}确认没有可启动的Adobe相关阻止程序。
+3. [!BADGE 阻止程序]{type=caution tooltip="潜在的阻断因素"}在生产实例上线之前执行负载和压力测试，并与分配的CTA/CSE共享结果。
 
    >[!NOTE]
-   > A [load and stress test serves the purpose](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/develop/test/guidance#:~:text=A%20load%20test%20can%20help,Scan%20Tool%20for%20your%20sites.){target="_blank"} of identifying bottlenecks and uncovering performance issues within the application. It plays a crucial role in managing expectations regarding cluster size and determining the necessary scaling adjustments to meet the business requirements effectively.
+   > [负载和压力测试用于识别应用程序中的瓶颈并发现性能问题](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/develop/test/guidance#:~:text=A%20load%20test%20can%20help,Scan%20Tool%20for%20your%20sites.){target="_blank"}。 它在管理对集群规模的期望和确定必要的扩展调整以有效满足业务需求方面发挥着关键作用。
 
    >[!IMPORTANT]
-   > **_WARNING:_** When preparing a load test, **do not** send live transaction emails (even to dummy addresses). Sending emails during testing can cause the project to reach the default send limit (12k) configured for SendGrid prior to launch.
+   > **_WARNING:_**&#x200B;在准备负载测试时，**不**&#x200B;发送实时交易电子邮件（甚至发送到虚拟地址）。 在测试期间发送电子邮件可能导致项目达到在启动之前为SendGrid配置的默认发送限制(12k)。
    > 
-   > * How to disable email communication:
-   >   Go to _Store > Configuration > Advanced > System > Email Sending Settings_.
+   > * 如何禁用电子邮件通信：
+   >   转到&#x200B;_商店>配置>高级>系统>电子邮件发送设置_。
 
-4. Conduct security penetration testing on the production instance as part of the [shared responsibility security model](https://business.adobe.com/cn/products/commerce.html){target="_blank"}. For PCI (Payment Card Industry) compliance, the customized site requires penetration testing.
+4. 作为[责任共享安全模型](https://business.adobe.com/cn/products/commerce.html){target="_blank"}的一部分，对生产实例进行安全渗透测试。 为符合PCI（支付卡行业）标准，定制站点需要进行渗透测试。
 
-## 8. Other Configurations
+## &#x200B;8. 其他配置
 
-1. Switch indexing to _&quot;update on schedule_&quot;, except the **_customer_grid_** which remains on &quot;SAVE&quot; (see [Indexing modes](https://developer.adobe.com/commerce/php/development/components/indexing/#indexing-modes){target="_blank"}).
-2. Document any third-party search engines or extensions in use.
+1. 将索引切换为&#x200B;_&quot;计划_&#x200B;更新&quot;，但&#x200B;**_customer_grid_**&#x200B;保留在&quot;SAVE&quot;中（请参阅[索引模式](https://developer.adobe.com/commerce/php/development/components/indexing/#indexing-modes){target="_blank"}）。
+2. 记录任何正在使用的第三方搜索引擎或扩展。
 3. 确认已正确设置[SEO（搜索引擎优化）配置](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/marketing/seo/seo-overview){target="_blank"}，以允许索引器/爬虫扫描网站（如果相关）。
 4. 添加重定向和路由（请参阅[配置路由](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/configure/routes/routes-yaml){target="_blank"}）
 

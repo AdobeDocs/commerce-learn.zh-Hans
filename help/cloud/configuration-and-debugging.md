@@ -10,30 +10,40 @@ duration: 553
 last-substantial-update: 2024-03-06T00:00:00.000Z
 jira: KT-15019
 exl-id: 8f5895bb-b402-4187-abf7-d7b2ac3f3c93
-TQID: https://experienceleague.adobe.com/OY4JXDu6LE86ApgMaPIjj4DobJBAJZlHpJDdHIACWlw
+TQID: 'https://experienceleague.adobe.com/OY4JXDu6LE86ApgMaPIjj4DobJBAJZlHpJDdHIACWlw'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
 subfeature_v2:
   - id: f8ddfd3b-6194-46e8-a176-0e918039be56
+    internal-label: Cloud architecture
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Insights
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 312
+source-wordcount: '312'
 ht-degree: 0%
-
 ---
-
 # 配置和调试
 
 此视频是Adobe Commerce Cloud技术入门系列的一部分。 它介绍了YAML配置文件如何跨环境工作，哪些工具可帮助您验证和优化它们，以及如何进行调试和日志记录。 您还可以看到ECE-Tools和Quality Patches Tool如何适应，New Relic如何聚合日志，如何使用Xdebug进行远程调试，以及如何跨多个应用程序服务器管理日志。
@@ -54,7 +64,7 @@ ht-degree: 0%
 
 ## 视频中提到的Experience League文档
 
-* [配置Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html?lang=zh-Hans){target="_blank"}
+* [配置Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html){target="_blank"}
 * [Cloud Docker：配置Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/){target="_blank"}
 * [调试最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html?lang=zh-Hans){target="_blank"}
 * [配置文件概述](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html?lang=zh-Hans){target="_blank"}

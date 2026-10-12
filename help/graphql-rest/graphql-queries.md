@@ -1,26 +1,41 @@
 ---
 title: 使用GraphQL执行查询
-description: 了解如何在Adobe Commerce和 [!DNL Magento Open Source]上使用GraphQL执行查询。 以下是关于使用GET和POST调用的GraphQL的简介。
-landing-page-description: 了解如何在Adobe Commerce和 [!DNL Magento Open Source]上使用GraphQL执行查询。 以下是关于使用GET和POST调用的GraphQL的简介。
-short-description: 了解如何在Adobe Commerce和 [!DNL Magento Open Source]上使用GraphQL执行查询。 以下是关于使用GET和POST调用的GraphQL的简介。
+description: 了解如何在Adobe Commerce和[!DNL Magento Open Source]上使用GraphQL执行查询。 以下是关于使用GET和POST调用的GraphQL的简介。
+landing-page-description: 了解如何在Adobe Commerce和[!DNL Magento Open Source]上使用GraphQL执行查询。 以下是关于使用GET和POST调用的GraphQL的简介。
+short-description: 了解如何在Adobe Commerce和[!DNL Magento Open Source]上使用GraphQL执行查询。 以下是关于使用GET和POST调用的GraphQL的简介。
 kt: 13937
 doc-type: video
 duration: 651
 audience: all
-last-substantial-update: 2023-10-12T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00.000Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+    internal-label: Integrations
+subfeature_v2:
+  - id: e396cff5-f586-484c-89f0-7f1da3308f92
+    internal-label: GraphQL
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: '984'
+source-wordcount: '1000'
 ht-degree: 0%
-
 ---
-
 # GraphQL查询
 
 这是GraphQL和Adobe Commerce系列的第2部分。 在本教程和视频中，了解GraphQL查询以及如何针对Adobe Commerce执行这些查询。
@@ -130,7 +145,7 @@ GraphQL服务器对上述查询的合理响应可能是：
 
 >[!NOTE]
 >
->GraphQL客户端会对发送的实际HTTP请求的形式进行模糊处理，但这很容易发现。 如果您使用基于浏览器的客户端，请在发送查询时观察[!UICONTROL Network]选项卡。 您看到请求包含由“查询： `{string}`”组成的原始正文，其中`{string}`只是整个查询的原始字符串。 如果请求作为GET发送，则查询可能会改用查询字符串参数“query”进行编码。 与REST不同，HTTP请求类型并不重要，只有关注查询的内容。
+>GraphQL客户端会对发送的实际HTTP请求的形式进行模糊处理，但这很容易发现。 如果您使用基于浏览器的客户端，请在发送查询时观察[!UICONTROL Network]选项卡。 您看到请求包含由“查询： `{string}`”组成的原始正文，其中`{string}`只是整个查询的原始字符串。 如果请求以GET形式发送，则查询可能会改用查询字符串参数“query”进行编码。 与REST不同，HTTP请求类型并不重要，只有关注查询的内容。
 
 
 ## 查询您想要的
@@ -148,7 +163,7 @@ GraphQL服务器对上述查询的合理响应可能是：
 
 虽然要返回的字段在每种类型的大括号中指定，但它们的命名参数和值在类型名称后面的括号中指定。 参数通常是可选的，并且经常会影响查询结果的筛选、格式化或以其他方式转换的方式。
 
-您正在将`id`参数传递给`country`，指定要查询的特定国家/地区以及`filters`的`categories`参数。
+您正在将`id`参数传递给`country`，指定要查询的特定国家/地区以及`categories`的`filters`参数。
 
 ## 字段一直向下对齐
 
@@ -156,7 +171,7 @@ GraphQL服务器对上述查询的合理响应可能是：
 
 任何GraphQL数据图都有一个“根”类型（通常称为`Query`）来启动树，并且通常被认为是实体的类型会被分配给此根上的字段。 示例查询实际上为根类型创建了一个泛型查询，并选择字段`country`和`categories`。 然后，它选择这些字段的子字段，依此类推，可能深入多个级别。 只要字段的返回类型是复杂类型（例如，具有自己的字段而不是标量类型的字段），请继续选择所需的字段。
 
-嵌套字段的这个概念也是为什么可以像对顶级`products`字段一样为`pageSize` （`currentPage`和`categories`）传递参数的原因。
+嵌套字段的这个概念也是为什么可以像对顶级`categories`字段一样为`products` （`pageSize`和`currentPage`）传递参数的原因。
 
 ![GraphQL字段树](../assets/graphql-field-tree.png)
 
@@ -190,7 +205,7 @@ fragment productDetails on ProductInterface {
 
 在上一个查询中，您以字符串或整数的形式直接对字段的参数值进行硬编码。 但是，GraphQL规范提供一流的支持，可以使用变量将用户输入与主查询分开。
 
-在新查询中，您在整个查询的开头大括号前使用圆括号定义`$search`变量（变量始终使用美元符号前缀语法）。 是此变量提供给`search`的`products`参数。
+在新查询中，您在整个查询的开头大括号前使用圆括号定义`$search`变量（变量始终使用美元符号前缀语法）。 是此变量提供给`products`的`search`参数。
 
 当查询包含变量时，GraphQL请求应在查询本身旁包含一个单独的JSON编码值字典。 对于上述查询，除了查询正文之外，您还可以发送以下JSON格式的变量值：
 

@@ -1,25 +1,40 @@
 ---
 title: GraphQL简介
-description: 了解如何在Adobe Commerce和 [!DNL Magento Open Source]上使用GraphQL。 对Adobe Commerce和 [!DNL Magento Open Source]使用GraphQL GET和POST调用。
-short-description: 了解如何为Adobe Commerce和 [!DNL Magento Open Source]使用GraphQL GET和POST调用。
+description: 了解如何在 Adobe Commerce 和 [!DNL Magento Open Source] 上使用 GraphQL。 对 Adobe Commerce 和 [!DNL Magento Open Source] 使用 GraphQL GET 和 POST 调用。
+short-description: 了解如何对 Adobe Commerce 和 [!DNL Magento Open Source] 使用 GraphQL GET 和 POST 调用。
 kt: 11524
 doc-type: video
 duration: 286
 audience: all
-last-substantial-update: 2023-10-12T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00.000Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+    internal-label: Integrations
+subfeature_v2:
+  - id: e396cff5-f586-484c-89f0-7f1da3308f92
+    internal-label: GraphQL
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: '481'
-ht-degree: 0%
-
+source-wordcount: '514'
+ht-degree: 6%
 ---
-
 # GraphQL简介
 
 这是GraphQL和Adobe Commerce系列的第1部分。 GraphQL已迅速成为功能强大的客户端应用程序与后端交互的行业标准。 随着该平台在Headless实施领域的不断扩展，它对于Adobe Commerce开发人员来说越来越重要。
@@ -57,6 +72,6 @@ GraphQL允许客户端显式地描述&#x200B;_确切的_&#x200B;所需数据。 
 * [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql){target="_blank"}是GraphQL Foundation中的GraphQL IDE的实现。 这不是一个可安装的工具，而是一个可用于自行构建界面的软件包。
 * 如果您已熟悉[Postman](https://www.postman.com/){target="_blank"}，它可为GraphQL查询提供良好的支持，但并不像专用的GraphQL客户端那样功能完善。
 
-在GraphQL客户端中，您应该将请求提交到Adobe Commerce或`/graphql`实例上的URL路径[!DNL Magento Open Source]。 如果您希望将现有实例用于测试，则可以使用Venia主题的演示（PWA Studio的示例实现）： `https://venia.magento.com/graphql`
+在GraphQL客户端中，您应该将请求提交到Adobe Commerce或[!DNL Magento Open Source]实例上的URL路径`/graphql`。 如果您希望将现有实例用于测试，则可以使用Venia主题的演示（PWA Studio的示例实现）： `https://venia.magento.com/graphql`
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

@@ -8,14 +8,12 @@ level: Intermediate
 doc-type: Tutorial
 duration: 421
 jira: KT-20902
-last-substantial-update: 2026-04-27T00:00:00Z
+last-substantial-update: 2026-04-27
 source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: '927'
-ht-degree: 0%
-
+source-wordcount: '945'
+ht-degree: 1%
 ---
-
 # 拆分付款POC：App Builder orchestrator AI提示
 
 使用此页面复制生成&#x200B;**split-payment-orchestrator**&#x200B;项目的完整提示：**payment-orchestrator** I/O事件消费者、**payment-accept**&#x200B;和&#x200B;**payment-decline** Web操作、**demo-dashboard**&#x200B;以及Commerce REST客户端。
@@ -217,8 +215,8 @@ Adobe Commerce I/O事件可能会以多种形式交付有效负载。 通过按�
 * `orderId = value.entity_id || value.id`
 * `orderTotal = parseFloat(value.grand_total ?? value.base_grand_total ?? value.subtotal ?? '0')`
 * 从`value.extension_attributes`拆分金额（同时检查`extension_attributes`和`extensionAttributes`）：
-   * `storeCredit = parseFloat(ext.split_store_credit_amount ?? value.split_store_credit_amount ?? '0')`
-   * `cash = parseFloat(ext.split_cash_amount ?? value.split_cash_amount ?? '0')`
+  * `storeCredit = parseFloat(ext.split_store_credit_amount ?? value.split_store_credit_amount ?? '0')`
+  * `cash = parseFloat(ext.split_cash_amount ?? value.split_cash_amount ?? '0')`
 
 **流量：**
 1. 提取值；如果缺少`orderId`，则记录错误并返回`{ statusCode: 200, body: { ok: false, message: PUBLIC_ERROR } }`

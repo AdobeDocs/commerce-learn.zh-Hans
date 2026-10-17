@@ -64,7 +64,7 @@ ht-degree: 0%
 
 ## 视频中提到的Experience League文档
 
-* [配置Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html){target="_blank"}
+* [配置Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html?lang=zh-Hans){target="_blank"}
 * [Cloud Docker：配置Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/){target="_blank"}
 * [调试最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html?lang=zh-Hans){target="_blank"}
 * [配置文件概述](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html?lang=zh-Hans){target="_blank"}

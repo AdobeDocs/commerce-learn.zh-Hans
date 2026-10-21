@@ -55,7 +55,7 @@ Galera群集有助于提高性能和可扩展性。 在考虑副本数据库时�
 * 仅在主系统上执行批量操作。 一次只进行复制
 * 为帮助复制与主要复制保持同步，请批量处理您的大型提交。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423537?captions=chi_hans&learn=on)
 
 ## 有用的资源
 

@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
@@ -62,7 +62,7 @@ ht-degree: 0%
 * 解释Webhook和事件的关联以实现可跟踪性
 * 显示与Grafana和New Relic的集成以供日志和跟踪使用
 
->[!VIDEO](https://video.tv.adobe.com/v/3477877?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477867?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

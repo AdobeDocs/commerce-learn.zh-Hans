@@ -44,14 +44,14 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 ---
 # 管理公司信用
 
-已启用&#x200B;_[!UICONTROL Payment on Account]_&#x200B;且有可用公司信用额度的公司可在授予的信用额度内购买其帐户。 通过此功能，客户可以从其帐户仪表板检查其公司积分的状态。
+已启用&#x200B;_[!UICONTROL Payment on Account]_且有可用公司信用额度的公司可在授予的信用额度内购买其帐户。 通过此功能，客户可以从其帐户仪表板检查其公司积分的状态。
 
 您可以为每个公司配置文件设置以下与信用相关的参数：
 
@@ -70,9 +70,9 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3410757?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344445?learn=on)
 
 ## 其他资源
 
-* [配置分期付款](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
-* [管理公司信用](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/b2b/companies/credit-company)
+* [配置分期付款](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
+* [管理公司信用](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/credit-company)

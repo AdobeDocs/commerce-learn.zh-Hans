@@ -27,7 +27,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -47,5 +47,5 @@ ht-degree: 0%
 * 了解Salesforce Commerce Cloud集成入门工具包的用途。
 * 了解在何处安装入门套件
 
->[!VIDEO](https://video.tv.adobe.com/v/3473988?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473977?learn=on)
 

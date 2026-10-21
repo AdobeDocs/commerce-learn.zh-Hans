@@ -27,7 +27,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -49,5 +49,5 @@ ht-degree: 0%
 * Salesforce Commerce Cloud目录中的产品详细信息和定价更改可通过增量同步过程在Commerce Optimizer中自动检测和更新。
 * 实时更新和演示系统之间的无缝数据流和同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476103?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)
 

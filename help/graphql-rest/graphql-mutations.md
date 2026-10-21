@@ -34,7 +34,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 0%
@@ -44,7 +44,7 @@ ht-degree: 0%
 这是GraphQL和Adobe Commerce系列的第3部分。 突变是指使用GraphQL保存、更新和返回值的能力。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441936?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
 
 ## 本系列中GraphQL的相关视频和教程
 

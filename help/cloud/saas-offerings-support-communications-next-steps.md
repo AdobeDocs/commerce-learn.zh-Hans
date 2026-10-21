@@ -49,7 +49,7 @@ topic_v2:
     internal-label: Machine learning
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 0%
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3432839?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427902?learn=on)
 
 ## 首字母缩略词
 
@@ -109,22 +109,22 @@ ht-degree: 0%
 
 ## 视频中提到的Experience League文档
 
-* [打开搜索](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/opensearch.html?lang=zh-Hans)
-* [实时搜索](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=zh-Hans)
-* [产品推荐](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=zh-Hans)
-* [实时搜索和目录服务](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2023/nov2023/nov-commerce/commerce-search-and-catalog-service.html?lang=zh-Hans)
-* [目录服务价格索引](https://experienceleague.adobe.com/docs/commerce-merchant-services/price-indexer/price-indexing.html?lang=zh-Hans)
+* [打开搜索](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/opensearch.html)
+* [实时搜索](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
+* [产品推荐](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
+* [实时搜索和目录服务](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2023/nov2023/nov-commerce/commerce-search-and-catalog-service.html)
+* [目录服务价格索引](https://experienceleague.adobe.com/docs/commerce-merchant-services/price-indexer/price-indexing.html)
 * [App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-technical-overview.html)
-* [分担责任](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html?lang=zh-Hans)
+* [分担责任](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html)
 * [客户数据访问和隐私](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-support-customer-data-access-and-privacy.html)
-* [Commerce认证](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html?lang=zh-Hans)
+* [Commerce认证](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html)
 * [Commerce学习课程](https://learning.adobe.com/catalog.html?products=Commerce)
 * [Commerce社区论坛](https://community.magento.com/)
-* [配置Fastly](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html?lang=zh-Hans)
-* [性能测试](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/implementation-playbook/best-practices/maintenance/backend-performance)
-* [全站点分析工具 — SWAT](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html?lang=zh-Hans？)
-* [适用于Adobe Commerce的New Relic观察](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html?lang=zh-Hans)
-* [安全修补程序](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/security-patches/overview.html?lang=zh-Hans)
-* [启动项核对清单](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html?lang=zh-Hans)
+* [配置Fastly](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html)
+* [性能测试](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/backend-performance)
+* [全站点分析工具 — SWAT](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html？)
+* [适用于Adobe Commerce的New Relic观察](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
+* [安全修补程序](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/security-patches/overview.html)
+* [启动项核对清单](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

@@ -46,7 +46,7 @@ topic_v2:
     internal-label: Machine learning
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -64,12 +64,12 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3452579?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418797?learn=on)
 
 
 ## 其他资源
 
-* [Live Search完整演示](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/capabilities/live-search-full-demonstration.html?lang=zh-Hans){target="_blank"}
-* [[!DNL Live Search]推荐](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html?lang=zh-Hans){target="_blank"}
-* [[!DNL Live Search] 概述](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=zh-Hans){target="_blank"}
-* [Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=zh-Hans){target="_blank"}
+* [Live Search完整演示](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/capabilities/live-search-full-demonstration.html){target="_blank"}
+* [[!DNL Live Search]推荐](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html){target="_blank"}
+* [[!DNL Live Search] 概述](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html){target="_blank"}
+* [Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}

@@ -55,7 +55,7 @@ topic_v2:
     internal-label: Machine learning
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 0%
@@ -81,7 +81,7 @@ ht-degree: 0%
 * 高级集成和自定义。
 * 增强的购物体验。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434074?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434039?learn=on)
 
 ## 实时搜索
 
@@ -93,7 +93,7 @@ ht-degree: 0%
 * 可自定义的搜索体验：高级搜索规则、同义词和Facet等功能，可为客户提供量身定制的优化搜索体验。
 * B2B集成：实时搜索支持具有共享目录和特定定价的B2B模型，从而增强了其针对各种业务需求的多功能性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434052?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on)
 
 ## 促销活动  
 
@@ -105,5 +105,5 @@ Adobe Commerce使商店经理无需任何编码技能即可轻松创建和管理
 * 高级促销策略。
 * 与第三方系统无缝集成，增强了灵活性和自动化程度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434063?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on)
 >

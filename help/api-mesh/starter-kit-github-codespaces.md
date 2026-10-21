@@ -41,7 +41,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -62,10 +62,10 @@ ht-degree: 0%
 * 内置测试工具：包括预配置的GraphQL服务器(Yoga)和自动服务器重新启动，以实现无缝开发。
 * 实践学习：直接在浏览器中克隆启动器工具包、配置端点并测试API响应。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464027?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464017?learn=on)
 
 ## 相关文档
 
 * [API mesh starter kit GitHub存储库](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Adobe Developer文档graphql-mesh-gateway](https://developer.adobe.com/graphql-mesh-gateway/)
-* [API Mesh视频播放列表](https://experienceleague.adobe.com/zh-hans/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [API Mesh视频播放列表](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)

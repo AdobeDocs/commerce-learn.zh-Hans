@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 jira: KT-17150
 duration: 302
 exl-id: 756d06cf-f7a2-4b9b-b369-12a9d99586b1
-badgePaas: label="仅限PaaS" type="Informative" url="https://experienceleague.adobe.com/zh-hans/docs/commerce/user-guides/product-solutions" tooltip="仅适用于云项目（Adobe管理的PaaS基础架构）和内部部署项目上的Adobe Commerce 。"
+badgePaas: label="仅限PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="仅适用于云项目（Adobe管理的PaaS基础架构）和内部部署项目上的Adobe Commerce 。"
 TQID: 'https://experienceleague.adobe.com/D7zN1UEk8ua0lOpt3oQtdWO5ndbH2cf6Gom1P8NbN0U'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -48,7 +48,7 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
@@ -64,9 +64,9 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3411066?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343783?learn=on)
 
 ## 其他资源
 
-* [块 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html?lang=zh-Hans)
-* [动态块 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html?lang=zh-Hans)
+* [块 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
+* [动态块 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)

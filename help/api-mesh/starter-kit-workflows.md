@@ -42,7 +42,7 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -62,10 +62,10 @@ ht-degree: 0%
 * 自动部署或更新网格的deployMesh工作流
 * 使用K6负载测试工作流进行负载测试
 
->[!VIDEO](https://video.tv.adobe.com/v/3464534?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464524?learn=on)
 
 ## 相关文档
 
 * [API mesh starter kit GitHub存储库](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Adobe Developer OAuth服务器到服务器实施指南](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation)
-* [API Mesh视频播放列表](https://experienceleague.adobe.com/zh-hans/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [API Mesh视频播放列表](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)

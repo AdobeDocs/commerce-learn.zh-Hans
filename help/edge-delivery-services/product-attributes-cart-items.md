@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -67,9 +67,9 @@ ht-degree: 0%
 * 使用购物车规则和页脚版块显示的优惠券折扣以有效显示此信息。
 * 使用产品属性和插槽扩展和自定义购物车功能，确保所有项目要求都得到满足。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441126?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
 
 
 ## 其他文档
 
-* [将产品线添加到购物车](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=zh-Hans)
+* [将产品线添加到购物车](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)

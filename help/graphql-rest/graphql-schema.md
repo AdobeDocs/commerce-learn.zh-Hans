@@ -37,7 +37,7 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 0%
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 这是GraphQL和Adobe Commerce系列的第4部分。 使用的查询和突变依赖于在服务器上实现的特定数据图，GraphQL运行时将使用这些数据图解析查询。 GraphQL规范定义了一种不可知语言，用于表示数据图的类型和关系。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446620?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
 
 ## 本系列中GraphQL的相关视频和教程
 

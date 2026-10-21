@@ -38,7 +38,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
@@ -65,8 +65,8 @@ Adobe Commerce as a Cloud Service为企业提供了一个灵活、可扩展且�
 * 简化的载入和自助服务配置，可快速高效地设置沙盒或生产实例。
 * 用于独立部署、扩展和更新服务的可组合架构，具有API优先的可扩展性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443321?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443311?learn=on)
 
 ## 相关文档
 
-* [Adobe Commerce as a Cloud Service指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/cloud-service/overview)
+* [Adobe Commerce as a Cloud Service指南](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)

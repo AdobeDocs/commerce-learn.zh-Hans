@@ -49,7 +49,7 @@ topic_v2:
     internal-label: Insights
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
     internal-label: Customer profiles
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
@@ -72,4 +72,4 @@ Adobe Commerce是一个以体验为导向的平台，它结合了技术灵活性
 * Adobe Commerce提供可组合服务，例如实时搜索、AI推荐和灵活的支付解决方案。
 * 高级集成，包括API Mesh、统一的事件管理和无缝的Adobe Experience Platform集成。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433445?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433435?learn=on)

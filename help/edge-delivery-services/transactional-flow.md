@@ -38,7 +38,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -63,8 +63,8 @@ ht-degree: 0%
 * A/B测试灵活性。 通过SharePoint启用配置，使营销人员能够控制和测试这些功能。
 * 增强的营销控制。 轻松管理和测试配置，改善用户体验和营销有效性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442361?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
 
 ## 其他文档
 
-* [配置购物车摘要](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=zh-Hans)
+* [配置购物车摘要](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)

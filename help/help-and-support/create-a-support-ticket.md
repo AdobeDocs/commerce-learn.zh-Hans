@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -61,8 +61,8 @@ ht-degree: 0%
 * 了解推荐的文章如何根据表单中使用的信息进行更改
 * 表单字段中找到的占位符文本如何有助于了解良好支持请求所需的信息类型
 
->[!VIDEO](https://video.tv.adobe.com/v/3449563?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
 
 ## Commerce知识库Adobe帮助中心指南
 
-[提交支持案例](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
+[提交支持案例](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)

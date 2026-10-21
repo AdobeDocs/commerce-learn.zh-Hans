@@ -37,7 +37,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 了解如何使用Adobe Commerce Cloud cli命令重置管理员URI。 如果管理员URL从管理员更改为其他管理员，但出现错误，导致您无法访问管理员，则此功能会非常有用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439702?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435066?learn=on)
 
 ## 本教程中使用的一些命令
 

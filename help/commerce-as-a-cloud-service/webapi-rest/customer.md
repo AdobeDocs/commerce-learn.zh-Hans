@@ -43,7 +43,7 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '509'
 ht-degree: 0%
@@ -63,7 +63,7 @@ ht-degree: 0%
 * 对Commerce as a Cloud Service使用正确的REST API端点格式
 * 通过适当的JSON负载，使用POST和PUT请求以编程方式创建和更新客户帐户
 
->[!VIDEO](https://video.tv.adobe.com/v/3479372?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479361?learn=on)
 
 ## 代码示例
 
@@ -276,6 +276,6 @@ curl -s -X PUT \
 
 ## 引用
 
-* [Adobe Commerce as a Cloud Service发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce/cloud-service/release-notes)
+* [Adobe Commerce as a Cloud Service发行说明](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
 * [SaaS REST API参考](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
 * [用户身份验证指南](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)

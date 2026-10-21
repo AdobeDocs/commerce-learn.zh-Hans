@@ -34,7 +34,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -55,7 +55,7 @@ ht-degree: 0%
 * 对自动信号使用Commerce可观察性模块
 * 使用应用程序的IO Live Telemetry Library扩展监视
 
->[!VIDEO](https://video.tv.adobe.com/v/3478344?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478288?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

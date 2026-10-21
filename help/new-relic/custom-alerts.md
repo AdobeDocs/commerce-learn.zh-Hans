@@ -35,7 +35,7 @@ topic_v2:
     internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -56,4 +56,4 @@ ht-degree: 0%
 * 了解如何基于数据聚合来设置警报的阈值。
 * 使用严重性级别配置警报，并将其分配到现有策略以控制通知工作流和目标。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440781?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440771?learn=on)

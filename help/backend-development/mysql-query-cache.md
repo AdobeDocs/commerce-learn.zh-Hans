@@ -32,7 +32,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -54,9 +54,9 @@ ht-degree: 0%
 * 了解如何保存和使用SQL查找匹配的查询缓存
 * 有关配置设置的一些提示
 
->[!VIDEO](https://video.tv.adobe.com/v/3423381?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
 
 ## 有用的资源
 
-* [一般MySQL准则](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql){target="_blank"}
-* [galera复制和查询缓慢](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"}
+* [一般MySQL准则](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql){target="_blank"}
+* [galera复制和查询缓慢](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"}

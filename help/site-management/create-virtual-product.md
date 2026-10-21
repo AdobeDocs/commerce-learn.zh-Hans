@@ -40,7 +40,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3444874?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425723?learn=on)
 
 ## 使用curl创建虚拟产品
 

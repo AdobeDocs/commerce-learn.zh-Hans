@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -63,9 +63,9 @@ Adobe Commerce支持团队和Magento Open Source社区将开发质量补丁。
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3410781?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344000?learn=on)
 
 ## 其他资源
 
-* [Quality修补工具](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=zh-Hans)
+* [Quality修补工具](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
 * [GitHub上的质量修补工具](https://github.com/magento/quality-patches)

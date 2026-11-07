@@ -52,7 +52,7 @@ ht-degree: 0%
 * 开发人员就绪组件和SDK
 * 集成的可视化编辑工具
 
->[!VIDEO](https://video.tv.adobe.com/v/3458517?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505728?captions=chi_hans&learn=on)
 
 ## 此系列中的其他视频
 

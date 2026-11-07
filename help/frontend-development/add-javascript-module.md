@@ -66,7 +66,7 @@ ht-degree: 0%
 * 通过布局更新和模板连接脚本。
 * 验证页面上的问候语。
 
->[!VIDEO](https://video.tv.adobe.com/v/35790?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507651?captions=chi_hans&learn=on)
 
 ## 有用的资源
 

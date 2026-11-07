@@ -58,7 +58,7 @@ ht-degree: 0%
 * 第一方和第三方产品分类的无缝集成
 * 使用下拉菜单和主题加快店面开发
 
->[!VIDEO](https://video.tv.adobe.com/v/3458518?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505308?captions=chi_hans&learn=on)
 
 ## 此系列中的其他视频
 

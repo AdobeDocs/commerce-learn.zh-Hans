@@ -61,7 +61,7 @@ Adobe Commerce或Magento Open Source安装中的每个网站都有一个分配�
 >
 >视频中的内容反映了2.1.0版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hans)。
 
->[!VIDEO](https://video.tv.adobe.com/v/35488?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507859?captions=chi_hans&learn=on)
 
 ## 其他资源
 

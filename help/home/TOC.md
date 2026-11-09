@@ -4,9 +4,9 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 5c0f4dcbf6ba5b317d27e911624f3175cebc5662
+source-git-commit: 0109e556addb09b7f930793feadc8ed245757f5a
 workflow-type: tm+mt
-source-wordcount: '1003'
+source-wordcount: '1007'
 ht-degree: 3%
 ---
 
@@ -112,7 +112,7 @@ ht-degree: 3%
     + [结论](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder练习](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 后端开发 {#backend-development}
-    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [创建模块](../backend-development/create-module.md)
     + [添加产品属性](../backend-development/add-product-attribute.md)
     + [依赖项注入示例](../backend-development/dependency-injection.md)
@@ -210,18 +210,22 @@ ht-degree: 3%
     + [创建单一源GraphQL API网格](../api-mesh/graphql-single-source.md)
     + [创建多源GraphQL API网格](../api-mesh/graphql-multiple-source.md)
 
-+ 可观测性 {#observability}
-  + [可观察性概述](../observability/overview.md)
-  + [打开遥测](../observability/open-telemetry.md)
-  + [演示设置和配置](../observability/demo-setup-configuration.md)
-  + [演示](../observability/demo.md)
 + 全球参考体系结构 {#global-reference-architecture-implementation-techniques}
   + [概述](../global-reference-architecture/overview.md)
   + [拆分Git](../global-reference-architecture/split-git.md)
   + [批量包](../global-reference-architecture/bulk-packages.md)
   + [单独的包](../global-reference-architecture/separate-packages.md)
   + [莫诺雷波](../global-reference-architecture/monorepo.md)
-+ [监控、分析和支持](https://experienceleague.adobe.com/en/docs/commerce-learn/monitoring-analytics-support/help-and-support/create-a-support-ticket)
++ 监控、分析和支持 {#monitoring-analytics-support}
+  + 可观测性 {#observability}
+    + [可观察性概述](../monitoring-analytics-support/observability/overview.md)
+    + [OpenTelemetry](../monitoring-analytics-support/observability/open-telemetry.md)
+    + [演示设置和配置](../monitoring-analytics-support/observability/demo-setup-configuration.md)
+    + [演示](../monitoring-analytics-support/observability/demo.md)
+  + 帮助和支持 {#help-and-support}
+    + [创建支持票证](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
+    + [搜索、查看、评论和升级支持工单](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
+    + [管理支持票证观察者和状态](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
 + 商店管理 {#admin}
   + [管理用户角色和权限](../site-management/users-roles-permissions.md)

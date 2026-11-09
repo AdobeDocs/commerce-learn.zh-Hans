@@ -4,15 +4,39 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
+source-git-commit: 3be42a811f2532f46071612ec5d930ef711dc8d8
 workflow-type: tm+mt
-source-wordcount: '1007'
+source-wordcount: '1016'
 ht-degree: 3%
 ---
 
 # Adobe Commerce视频和教程 {#tutorials}
 
 + [[!DNL Commerce] 教程](overview.md)
++ Adobe Commerce as a Cloud Service {#commerce-as-a-cloud-service}
+  + [概述](../commerce-as-a-cloud-service/overview.md)
+  + [架构](../commerce-as-a-cloud-service/architecture.md)
+  + 产品导览 {#product-overview}
+    + [简介](../commerce-as-a-cloud-service/product-overview/introduction.md)
+    + [设置体验](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
+    + [内容创作](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
+    + [本地化并安排内容](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
+    + [GenAI支持的内容创建](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
+    + [目录管理和销售服务](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
+    + [Commerce店面试验](../commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation.md)
+    + [Commerce店面速度](../commerce-as-a-cloud-service/product-overview/commerce-storefront-speed.md)
+    + [Commerce店面全套购物者历程](../commerce-as-a-cloud-service/product-overview/commerce-storefront-full-shopper-journey.md)
+    + [组合式店面和模块化体系结构](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
+    + [可扩展性](../commerce-as-a-cloud-service/product-overview/extensibility.md)
+    + [现代化和迁移](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
+    + [正在关闭](../commerce-as-a-cloud-service/product-overview/closing.md)
+  + 批量数据迁移工具 {#bulk-data-migration-tool}
+    + [简介](../commerce-as-a-cloud-service/bulk-data-migration-tool/introduction.md)
+    + [Source凭据](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
+    + [数据库凭据](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
+    + [Target凭据](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
+    + [单相迁移](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
+    + [多阶段迁移](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
   + 故障排除 {#troubleshooting}
     + [SSL无效](../cloud/troubleshooting/invalid-ssl.md)
@@ -44,32 +68,6 @@ ht-degree: 3%
     + [支持请求](../cloud/best-practices/support-request.md)
     + [启动前核对清单](../cloud/best-practices/pre-launch-checklist.md)
 + 快速入门 {#getting-started}
-  + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
-    + [概述](../commerce-as-a-cloud-service/overview.md)
-    + [架构](../commerce-as-a-cloud-service/architecture.md)
-    + Webapi-rest{#webapi-rest}
-      + [客户](../commerce-as-a-cloud-service/webapi-rest/customer.md)
-    + 产品概述{#product-overview}
-      + [介绍](../commerce-as-a-cloud-service/product-overview/introduction.md)
-      + [安装体验](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
-      + [内容创作](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
-      + [本地化并安排内容](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
-      + [GenAI支持的内容创建](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
-      + [目录管理和销售服务](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
-      + [Commerce店面试验](../commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation.md)
-      + [Commerce店面速度](../commerce-as-a-cloud-service/product-overview/commerce-storefront-speed.md)
-      + [商务店面全套购物者历程](../commerce-as-a-cloud-service/product-overview/commerce-storefront-full-shopper-journey.md)
-      + [组合式店面和模块化体系结构](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
-      + [可扩展性](../commerce-as-a-cloud-service/product-overview/extensibility.md)
-      + [现代化和迁移](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
-      + [正在关闭](../commerce-as-a-cloud-service/product-overview/closing.md)
-    + 批量数据迁移工具{#bulk-data-migration-tool}
-      + [简介](../commerce-as-a-cloud-service/bulk-data-migration-tool/introduction.md)
-      + [Source凭据](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
-      + [数据库凭据](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
-      + [Target凭据](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
-      + [单相迁移](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
-      + [多阶段迁移](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
   + 迁移到Adobe Commerce{#migrating-to-adobe-commerce}
     + [概述](../migrating-to-adobe-commerce/overview.md)
     + 准备{#preparation}
@@ -101,6 +99,10 @@ ht-degree: 3%
     + [Webhook引入](../back-office-integrations/webhook-ingestion.md)
     + [重试机制](../back-office-integrations/retry-mechanism.md)
 
++ API和集成 {#apis-and-integration}
+  + 实际REST和GraphQL示例 {#examples}
+    + [具有REST的客户](../apis-and-integration/examples/customer.md)
+
 + 可扩展性 {#extensibility}
   + Commerce Developer Agent {#commerce-developer-agent}
     + [概述](../commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video.md)
@@ -112,7 +114,7 @@ ht-degree: 3%
     + [结论](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder练习](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 后端开发 {#backend-development}
-    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [创建模块](../backend-development/create-module.md)
     + [添加产品属性](../backend-development/add-product-attribute.md)
     + [依赖项注入示例](../backend-development/dependency-injection.md)

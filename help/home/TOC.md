@@ -4,9 +4,9 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 43c67e910e10d5db0f8c14ea24ba97ba89bd35d2
+source-git-commit: 5c0f4dcbf6ba5b317d27e911624f3175cebc5662
 workflow-type: tm+mt
-source-wordcount: '1006'
+source-wordcount: '1003'
 ht-degree: 3%
 ---
 
@@ -112,7 +112,7 @@ ht-degree: 3%
     + [结论](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder练习](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 后端开发 {#backend-development}
-    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [创建模块](../backend-development/create-module.md)
     + [添加产品属性](../backend-development/add-product-attribute.md)
     + [依赖项注入示例](../backend-development/dependency-injection.md)
@@ -221,10 +221,7 @@ ht-degree: 3%
   + [批量包](../global-reference-architecture/bulk-packages.md)
   + [单独的包](../global-reference-architecture/separate-packages.md)
   + [莫诺雷波](../global-reference-architecture/monorepo.md)
-+ 帮助和支持 {#help-and-support}
-  + [创建支持票证](../help-and-support/create-a-support-ticket.md)
-  + [搜索、跟踪、注释和升级支持票证](../help-and-support/search-track-comment-escalate-support-ticket.md)
-  + [添加和删除观察者，关闭并重新打开票证](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ [监控、分析和支持](https://experienceleague.adobe.com/en/docs/commerce-learn/monitoring-analytics-support/help-and-support/create-a-support-ticket)
 
 + 商店管理 {#admin}
   + [管理用户角色和权限](../site-management/users-roles-permissions.md)

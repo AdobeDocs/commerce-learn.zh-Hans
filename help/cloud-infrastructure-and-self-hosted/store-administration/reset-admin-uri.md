@@ -46,7 +46,7 @@ ht-degree: 0%
 
 要在错误的URL更改后重新获得对管理员的访问权限，请使用Adobe Commerce Cloud CLI重置管理员URI。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435066?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439702?captions=chi_hans&learn=on)
 
 ## 本教程中使用的一些命令
 

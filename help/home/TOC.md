@@ -4,9 +4,9 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 3be42a811f2532f46071612ec5d930ef711dc8d8
+source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1021'
 ht-degree: 3%
 ---
 
@@ -37,52 +37,85 @@ ht-degree: 3%
     + [Target凭据](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
     + [单相迁移](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
     + [多阶段迁移](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
-+ Adobe Commerce Cloud {#adobe-commerce-cloud}
-  + 故障排除 {#troubleshooting}
-    + [SSL无效](../cloud/troubleshooting/invalid-ssl.md)
-    + [分类并解决2个常见站点错误](../cloud/troubleshooting/triage-two-common-site-errors.md)
-    + [配置值](../cloud/troubleshooting/config-values.md)
-    + [截断日志](../cloud/troubleshooting/truncate-logs.md)
-  + [项目和环境管理](../cloud/project-environment-management.md)
-  + [Adobe Commerce Cloud如何扩展](../cloud/how-adobe-commerce-cloud-scales.md)
-  + [HIPAA就绪托管](../cloud/hippa-ready-hosting.md)
-  + [检测IP地址](../cloud/detect-ip-address.md)
-  + [市场结构](../cloud/marketecture.md)
-  + [全局投放模型](../cloud/global-delivery-model.md)
-  + [管理员角色](../cloud/admin-roles.md)
-  + [营销流程](../cloud/marketing-flows.md)
-  + [店面选项](../cloud/storefront-options.md)
-  + [数据共享](../cloud/data-sharing.md)
-  + [多个网站](../cloud/multiple-websites.md)
-  + [Experience Lead数据和促销](../cloud/experience-lead-data-promoitions.md)
-  + [AEM Assets](../cloud/aem-assets.md)
-  + [从自托管解决方案迁移](../cloud/overview.md)
-  + [使用Fastly限制访问](../cloud/limit-website-access-using-fastly.md)
-  + 技术入门和硬件移交 {#technical-onboarding-hardware-handoff}
-    + [基础设施和发展最佳实践](../cloud/infrastructure-development-best-practices.md)
-    + [Fastly](../cloud/fastly.md)
-    + [配置和调试](../cloud/configuration-and-debugging.md)
-    + [部署、测试、监控和安全性](../cloud/deployments-testing-monitoring-security.md)
-    + [SaaS产品、支持和通信以及后续步骤](../cloud/saas-offerings-support-communications-next-steps.md)
-  + 最佳实践 {#commerce-cloud-best-practices}
-    + [支持请求](../cloud/best-practices/support-request.md)
-    + [启动前核对清单](../cloud/best-practices/pre-launch-checklist.md)
++ 云基础架构和自托管 {#cloud-infrastructure-and-self-hosted}
+  + 平台和迁移 {#platform-and-migration}
+    + [市场结构](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketecture.md)
+    + [全局投放模型](../cloud-infrastructure-and-self-hosted/platform-and-migration/global-delivery-model.md)
+    + [管理员角色](../cloud-infrastructure-and-self-hosted/platform-and-migration/admin-roles.md)
+    + [营销流程](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketing-flows.md)
+    + [店面选项](../cloud-infrastructure-and-self-hosted/platform-and-migration/storefront-options.md)
+    + [数据共享](../cloud-infrastructure-and-self-hosted/platform-and-migration/data-sharing.md)
+    + [多个网站](../cloud-infrastructure-and-self-hosted/platform-and-migration/multiple-websites.md)
+    + [Experience Lead数据和促销](../cloud-infrastructure-and-self-hosted/platform-and-migration/experience-lead-data-promoitions.md)
+    + [AEM Assets](../cloud-infrastructure-and-self-hosted/platform-and-migration/aem-assets.md)
+    + [从自托管解决方案迁移](../cloud-infrastructure-and-self-hosted/platform-and-migration/overview.md)
+    + 迁移到Adobe Commerce {#migrating-to-adobe-commerce}
+      + [概述](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/overview.md)
+      + 准备 {#preparation}
+        + [评估团队和项目](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
+      + 自定义 {#customizations}
+        + [进程内代码标准](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
+      + QA {#qa}
+        + [代码冻结](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/qa/code-freeze.md)
+  + 云操作 {#cloud-operations}
+    + 故障排除 {#troubleshooting}
+      + [SSL无效](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/invalid-ssl.md)
+      + [分类并解决2个常见站点错误](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/triage-two-common-site-errors.md)
+      + [配置值](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/config-values.md)
+      + [截断日志](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/truncate-logs.md)
+    + [项目和环境管理](../cloud-infrastructure-and-self-hosted/cloud-operations/project-environment-management.md)
+    + [Adobe Commerce Cloud如何扩展](../cloud-infrastructure-and-self-hosted/cloud-operations/how-adobe-commerce-cloud-scales.md)
+    + [HIPAA就绪托管](../cloud-infrastructure-and-self-hosted/cloud-operations/hippa-ready-hosting.md)
+    + [检测IP地址](../cloud-infrastructure-and-self-hosted/cloud-operations/detect-ip-address.md)
+    + [使用Fastly限制访问](../cloud-infrastructure-and-self-hosted/cloud-operations/limit-website-access-using-fastly.md)
+    + 技术入门和硬件移交 {#technical-onboarding-hardware-handoff}
+      + [基础设施和发展最佳实践](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/infrastructure-development-best-practices.md)
+      + [Fastly](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/fastly.md)
+      + [配置和调试](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/configuration-and-debugging.md)
+      + [部署、测试、监控和安全性](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security.md)
+      + [SaaS产品、支持和通信以及后续步骤](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/saas-offerings-support-communications-next-steps.md)
+    + 最佳实践 {#commerce-cloud-best-practices}
+      + [支持请求](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/support-request.md)
+      + [启动前核对清单](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist.md)
+    + 操作工具 {#tools}
+      + [站点范围分析工具仪表板](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/site-wide-analysis-tool.md)
+      + [云自动化修补服务](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/cloud-automation-patching-service.md)
+      + [Adobe Commerce观察](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/observation-tool.md)
+      + [Quality Patch Tool概述](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool-overview.md)
+      + [Quality修补工具](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool.md)
+      + New Relic {#new-relic}
+        + [查找恶意IP](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/malicious-ip.md)
+        + [警报通知设置](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup.md)
+        + [自定义警报](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/custom-alerts.md)
+  + 商店管理 {#store-administration}
+    + [管理用户角色和权限](../cloud-infrastructure-and-self-hosted/store-administration/users-roles-permissions.md)
+    + [双重身份验证](../cloud-infrastructure-and-self-hosted/store-administration/two-factor-authentication.md)
+    + [管理币种和税则](../cloud-infrastructure-and-self-hosted/store-administration/currency-tax-rules.md)
+    + [添加网站、商店和商店视图](../cloud-infrastructure-and-self-hosted/store-administration/add-websites-stores-views.md)
+    + [更改商店URL](../cloud-infrastructure-and-self-hosted/store-administration/change-store-url.md)
+    + [重置管理员URI](../cloud-infrastructure-and-self-hosted/store-administration/reset-admin-uri.md)
+    + [配送方式](../cloud-infrastructure-and-self-hosted/store-administration/shipping-delivery.md)
+    + [管理网格和筛选器](../cloud-infrastructure-and-self-hosted/store-administration/admin-grids-and-filters.md)
+    + [Commerce cli](../cloud-infrastructure-and-self-hosted/store-administration/view-update-store-configuration-cli.md)
+    + [导航存储配置和系统菜单](../cloud-infrastructure-and-self-hosted/store-administration/store-configuration-and-system-menu.md)
+    + Commerce服务设置 {#adobe-commerce-services}
+      + [配置Commerce服务连接器](../cloud-infrastructure-and-self-hosted/store-administration/adobe-commerce-services/configure-adobe-commerce-services-connector.md)
+      + [配置支付服务](../cloud-infrastructure-and-self-hosted/store-administration/adobe-commerce-services/configure-adobe-payment-services.md)
+      + [使用付款服务](../cloud-infrastructure-and-self-hosted/store-administration/adobe-commerce-services/payment-services.md)
+    + 客户 {#customers}
+      + [创建客户区段](../cloud-infrastructure-and-self-hosted/store-administration/customers/customer-segments.md)
+      + [创建客户组](../cloud-infrastructure-and-self-hosted/store-administration/customers/customer-groups.md)
+      + [创建客户属性](../cloud-infrastructure-and-self-hosted/store-administration/customers/customer-attributes.md)
+      + [卖方辅助购物](../cloud-infrastructure-and-self-hosted/store-administration/customers/seller-assisted-shopping.md)
+    + 订单和履行 {#orders}
+      + [管理订单状态](../cloud-infrastructure-and-self-hosted/store-administration/orders/order-status.md)
+      + [检查库存状态](../cloud-infrastructure-and-self-hosted/store-administration/orders/checking-inventory-status.md)
 + 快速入门 {#getting-started}
-  + 迁移到Adobe Commerce{#migrating-to-adobe-commerce}
-    + [概述](../migrating-to-adobe-commerce/overview.md)
-    + 准备{#preparation}
-      + [评估团队和项目](../migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
-    + 自定义{#customizations}
-      + [进程内代码标准](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
-    + QA{#qa}
-      + [代码冻结](../migrating-to-adobe-commerce/qa/code-freeze.md)
-
   + Commerce功能 {#capabilities}
     + [可用的商务选项](../capabilities/adobes-available-commerce-options.md)
     + [数据连接](../capabilities/data-connection.md)
     + [Live Search完整演示](../capabilities/live-search-full-demonstration.md)
     + [可组合的Commerce](../capabilities/what-is-composable-commerce.md)
-    + [Quality Patch tool](../capabilities/quality-patch-tool.md)
   + 创建产品 {#create-products}
     + [简单产品](../site-management/create-simple-product.md)
     + [虚拟产品](../site-management/create-virtual-product.md)
@@ -237,26 +270,6 @@ ht-degree: 3%
     + [搜索、查看、评论和升级支持工单](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [管理支持票证观察者和状态](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ 商店管理 {#admin}
-  + [管理用户角色和权限](../site-management/users-roles-permissions.md)
-  + [双重身份验证](../site-management/two-factor-authentication.md)
-  + [管理币种和税则](../site-management/currency-tax-rules.md)
-  + [添加网站、商店和商店视图](../site-management/add-websites-stores-views.md)
-  + [更改商店URL](../site-management/change-store-url.md)
-  + [重置管理员URI](../site-management/reset-admin-uri.md)
-  + [配送方式](../site-management/shipping-delivery.md)
-  + [管理网格和筛选器](../site-management/admin-grids-and-filters.md)
-  + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
-  + [导航存储配置和系统菜单](../site-management/store-configuration-and-system-menu.md)
-  + Adobe Commerce服务 {#adobe-commerce-services}
-    + [配置Commerce服务连接器](../site-management/configure-adobe-commerce-services-connector.md)
-    + [配置支付服务](../site-management/configure-adobe-payment-services.md)
-    + [使用付款服务](../site-management/payment-services.md)
-+ 客户管理 {#customers}
-  + [创建客户区段](../site-management/customer-segments.md)
-  + [创建客户组](../site-management/customer-groups.md)
-  + [创建客户属性](../site-management/customer-attributes.md)
-  + [卖方辅助购物](../site-management/seller-assisted-shopping.md)
 + 目录管理 {#catalog}
   + [创建类别](../site-management/category-create.md)
   + [管理类别中的产品](../site-management/category-products.md)
@@ -282,9 +295,6 @@ ht-degree: 3%
   + [Live Search简介](../site-management/live-search.md)
   + [推荐的实时搜索](../site-management/live-search-recommendations.md)
   + [将Commerce与AJO集成](../site-management/integrate-commerce-ajo.md)
-+ 订单和履行 {#orders}
-  + [管理订单状态](../orders-and-fulfillment/order-status.md)
-  + [检查库存状态](../orders-and-fulfillment/checking-inventory-status.md)
 + 适用于Adobe Commerce的B2B {#b2b}
   + [管理公司帐户](../b2b/company-accounts.md)
   + [管理共享目录](../b2b/shared-catalogs.md)
@@ -298,12 +308,3 @@ ht-degree: 3%
     + [报价单行项目注释](../b2b/quote-line-item-notes.md)
     + [报价单行项目折扣GraphQL](../b2b/quote-graphql-line-item-discount.md)
     + [报价单行项目折扣REST API](../b2b/quote-rest-api-line-item-notes.md)
-+ 工具和外部服务 {#tools}
-  + [站点范围分析工具仪表板](../tools/site-wide-analysis-tool.md)
-  + [云自动化修补服务](../tools/cloud-automation-patching-service.md)
-  + [Adobe Commerce观察](../tools/observation-tool.md)
-  + [Quality修补工具](../tools/quality-patch-tool.md)
-  + New Relic {#new-relic}
-    + [查找恶意IP](../new-relic/malicious-ip.md)
-    + [警报通知设置](../new-relic/new-relic-alert-notification-setup.md)
-    + [自定义警报](../new-relic/custom-alerts.md)

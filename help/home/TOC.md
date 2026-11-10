@@ -4,9 +4,9 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 3be42a811f2532f46071612ec5d930ef711dc8d8
+source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1024'
 ht-degree: 3%
 ---
 
@@ -37,6 +37,26 @@ ht-degree: 3%
     + [Target凭据](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
     + [单相迁移](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
     + [多阶段迁移](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
++ 云基础架构和自托管 {#cloud-infrastructure-and-self-hosted}
+  + 平台和迁移 {#platform-and-migration}
+    + [市场结构](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketecture.md)
+    + [全局投放模型](../cloud-infrastructure-and-self-hosted/platform-and-migration/global-delivery-model.md)
+    + [管理员角色](../cloud-infrastructure-and-self-hosted/platform-and-migration/admin-roles.md)
+    + [营销流程](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketing-flows.md)
+    + [店面选项](../cloud-infrastructure-and-self-hosted/platform-and-migration/storefront-options.md)
+    + [数据共享](../cloud-infrastructure-and-self-hosted/platform-and-migration/data-sharing.md)
+    + [多个网站](../cloud-infrastructure-and-self-hosted/platform-and-migration/multiple-websites.md)
+    + [Experience Lead数据和促销](../cloud-infrastructure-and-self-hosted/platform-and-migration/experience-lead-data-promoitions.md)
+    + [AEM Assets](../cloud-infrastructure-and-self-hosted/platform-and-migration/aem-assets.md)
+    + [从自托管解决方案迁移](../cloud-infrastructure-and-self-hosted/platform-and-migration/overview.md)
+    + 迁移到Adobe Commerce {#migrating-to-adobe-commerce}
+      + [概述](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/overview.md)
+      + 准备 {#preparation}
+        + [评估团队和项目](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
+      + 自定义 {#customizations}
+        + [进程内代码标准](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
+      + QA {#qa}
+        + [代码冻结](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/qa/code-freeze.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
   + 故障排除 {#troubleshooting}
     + [SSL无效](../cloud/troubleshooting/invalid-ssl.md)
@@ -47,16 +67,6 @@ ht-degree: 3%
   + [Adobe Commerce Cloud如何扩展](../cloud/how-adobe-commerce-cloud-scales.md)
   + [HIPAA就绪托管](../cloud/hippa-ready-hosting.md)
   + [检测IP地址](../cloud/detect-ip-address.md)
-  + [市场结构](../cloud/marketecture.md)
-  + [全局投放模型](../cloud/global-delivery-model.md)
-  + [管理员角色](../cloud/admin-roles.md)
-  + [营销流程](../cloud/marketing-flows.md)
-  + [店面选项](../cloud/storefront-options.md)
-  + [数据共享](../cloud/data-sharing.md)
-  + [多个网站](../cloud/multiple-websites.md)
-  + [Experience Lead数据和促销](../cloud/experience-lead-data-promoitions.md)
-  + [AEM Assets](../cloud/aem-assets.md)
-  + [从自托管解决方案迁移](../cloud/overview.md)
   + [使用Fastly限制访问](../cloud/limit-website-access-using-fastly.md)
   + 技术入门和硬件移交 {#technical-onboarding-hardware-handoff}
     + [基础设施和发展最佳实践](../cloud/infrastructure-development-best-practices.md)
@@ -68,15 +78,6 @@ ht-degree: 3%
     + [支持请求](../cloud/best-practices/support-request.md)
     + [启动前核对清单](../cloud/best-practices/pre-launch-checklist.md)
 + 快速入门 {#getting-started}
-  + 迁移到Adobe Commerce{#migrating-to-adobe-commerce}
-    + [概述](../migrating-to-adobe-commerce/overview.md)
-    + 准备{#preparation}
-      + [评估团队和项目](../migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
-    + 自定义{#customizations}
-      + [进程内代码标准](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
-    + QA{#qa}
-      + [代码冻结](../migrating-to-adobe-commerce/qa/code-freeze.md)
-
   + Commerce功能 {#capabilities}
     + [可用的商务选项](../capabilities/adobes-available-commerce-options.md)
     + [数据连接](../capabilities/data-connection.md)
@@ -114,7 +115,7 @@ ht-degree: 3%
     + [结论](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder练习](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 后端开发 {#backend-development}
-    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [创建模块](../backend-development/create-module.md)
     + [添加产品属性](../backend-development/add-product-attribute.md)
     + [依赖项注入示例](../backend-development/dependency-injection.md)

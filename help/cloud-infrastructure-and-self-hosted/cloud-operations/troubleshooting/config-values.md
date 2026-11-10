@@ -54,7 +54,7 @@ ht-degree: 0%
 * 了解如何通过管理面板、代码存储库和特定于环境的文件编辑和覆盖配置值。
 * 探索使用应用程序:config:转储和Adobe Commerce Cloud管理UI等工具在不同环境中维护一致配置设置的最佳实践。
 
->[!VIDEO](https://video.tv.adobe.com/v/3436458?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505791?captions=chi_hans&learn=on)
 
 ## 相关Experience League文档
 

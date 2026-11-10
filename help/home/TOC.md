@@ -4,9 +4,9 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
+source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
 workflow-type: tm+mt
-source-wordcount: '1022'
+source-wordcount: '1021'
 ht-degree: 3%
 ---
 
@@ -87,6 +87,29 @@ ht-degree: 3%
         + [查找恶意IP](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/malicious-ip.md)
         + [警报通知设置](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup.md)
         + [自定义警报](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/custom-alerts.md)
+  + 商店管理 {#store-administration}
+    + [管理用户角色和权限](../cloud-infrastructure-and-self-hosted/store-administration/users-roles-permissions.md)
+    + [双重身份验证](../cloud-infrastructure-and-self-hosted/store-administration/two-factor-authentication.md)
+    + [管理币种和税则](../cloud-infrastructure-and-self-hosted/store-administration/currency-tax-rules.md)
+    + [添加网站、商店和商店视图](../cloud-infrastructure-and-self-hosted/store-administration/add-websites-stores-views.md)
+    + [更改商店URL](../cloud-infrastructure-and-self-hosted/store-administration/change-store-url.md)
+    + [重置管理员URI](../cloud-infrastructure-and-self-hosted/store-administration/reset-admin-uri.md)
+    + [配送方式](../cloud-infrastructure-and-self-hosted/store-administration/shipping-delivery.md)
+    + [管理网格和筛选器](../cloud-infrastructure-and-self-hosted/store-administration/admin-grids-and-filters.md)
+    + [Commerce cli](../cloud-infrastructure-and-self-hosted/store-administration/view-update-store-configuration-cli.md)
+    + [导航存储配置和系统菜单](../cloud-infrastructure-and-self-hosted/store-administration/store-configuration-and-system-menu.md)
+    + Commerce服务设置 {#adobe-commerce-services}
+      + [配置Commerce服务连接器](../cloud-infrastructure-and-self-hosted/store-administration/adobe-commerce-services/configure-adobe-commerce-services-connector.md)
+      + [配置支付服务](../cloud-infrastructure-and-self-hosted/store-administration/adobe-commerce-services/configure-adobe-payment-services.md)
+      + [使用付款服务](../cloud-infrastructure-and-self-hosted/store-administration/adobe-commerce-services/payment-services.md)
+    + 客户 {#customers}
+      + [创建客户区段](../cloud-infrastructure-and-self-hosted/store-administration/customers/customer-segments.md)
+      + [创建客户组](../cloud-infrastructure-and-self-hosted/store-administration/customers/customer-groups.md)
+      + [创建客户属性](../cloud-infrastructure-and-self-hosted/store-administration/customers/customer-attributes.md)
+      + [卖方辅助购物](../cloud-infrastructure-and-self-hosted/store-administration/customers/seller-assisted-shopping.md)
+    + 订单和履行 {#orders}
+      + [管理订单状态](../cloud-infrastructure-and-self-hosted/store-administration/orders/order-status.md)
+      + [检查库存状态](../cloud-infrastructure-and-self-hosted/store-administration/orders/checking-inventory-status.md)
 + 快速入门 {#getting-started}
   + Commerce功能 {#capabilities}
     + [可用的商务选项](../capabilities/adobes-available-commerce-options.md)
@@ -124,7 +147,7 @@ ht-degree: 3%
     + [结论](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder练习](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 后端开发 {#backend-development}
-    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [创建模块](../backend-development/create-module.md)
     + [添加产品属性](../backend-development/add-product-attribute.md)
     + [依赖项注入示例](../backend-development/dependency-injection.md)
@@ -247,26 +270,6 @@ ht-degree: 3%
     + [搜索、查看、评论和升级支持工单](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [管理支持票证观察者和状态](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ 商店管理 {#admin}
-  + [管理用户角色和权限](../site-management/users-roles-permissions.md)
-  + [双重身份验证](../site-management/two-factor-authentication.md)
-  + [管理币种和税则](../site-management/currency-tax-rules.md)
-  + [添加网站、商店和商店视图](../site-management/add-websites-stores-views.md)
-  + [更改商店URL](../site-management/change-store-url.md)
-  + [重置管理员URI](../site-management/reset-admin-uri.md)
-  + [配送方式](../site-management/shipping-delivery.md)
-  + [管理网格和筛选器](../site-management/admin-grids-and-filters.md)
-  + [Commerce cli](../site-management/view-update-store-configuration-cli.md)
-  + [导航存储配置和系统菜单](../site-management/store-configuration-and-system-menu.md)
-  + Adobe Commerce服务 {#adobe-commerce-services}
-    + [配置Commerce服务连接器](../site-management/configure-adobe-commerce-services-connector.md)
-    + [配置支付服务](../site-management/configure-adobe-payment-services.md)
-    + [使用付款服务](../site-management/payment-services.md)
-+ 客户管理 {#customers}
-  + [创建客户区段](../site-management/customer-segments.md)
-  + [创建客户组](../site-management/customer-groups.md)
-  + [创建客户属性](../site-management/customer-attributes.md)
-  + [卖方辅助购物](../site-management/seller-assisted-shopping.md)
 + 目录管理 {#catalog}
   + [创建类别](../site-management/category-create.md)
   + [管理类别中的产品](../site-management/category-products.md)
@@ -292,9 +295,6 @@ ht-degree: 3%
   + [Live Search简介](../site-management/live-search.md)
   + [推荐的实时搜索](../site-management/live-search-recommendations.md)
   + [将Commerce与AJO集成](../site-management/integrate-commerce-ajo.md)
-+ 订单和履行 {#orders}
-  + [管理订单状态](../orders-and-fulfillment/order-status.md)
-  + [检查库存状态](../orders-and-fulfillment/checking-inventory-status.md)
 + 适用于Adobe Commerce的B2B {#b2b}
   + [管理公司帐户](../b2b/company-accounts.md)
   + [管理共享目录](../b2b/shared-catalogs.md)

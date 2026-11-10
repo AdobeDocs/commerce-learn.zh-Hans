@@ -88,4 +88,4 @@ Adobe Commerce是一个混合云电子商务平台，可在AWS和Azure上使用�
 * 高级AI驱动服务。 您将了解智能、API优先的服务，如实时搜索、AI驱动的产品推荐和目录服务，以增强客户体验和运营效率。
 * 全面的开发人员工具。 了解一整套云原生、无服务器的开发人员工具，如API Mesh和App Builder，它们可实现无缝集成和自定义，以扩展商业功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433500?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433510?captions=chi_hans&learn=on)

@@ -65,4 +65,4 @@ Adobe Commerce的Edge Delivery Services提供了快速、高效且高度可自�
 * 实现数字资产的实时个性化和高效管理
 * 增强非技术用户的能力
 
->[!VIDEO](https://video.tv.adobe.com/v/3431725?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448396?captions=chi_hans&learn=on)

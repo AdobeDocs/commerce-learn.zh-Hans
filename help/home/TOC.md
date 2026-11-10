@@ -4,7 +4,7 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
 workflow-type: tm+mt
 source-wordcount: '1022'
 ht-degree: 3%
@@ -128,6 +128,13 @@ ht-degree: 3%
     + [管理SEO的URL重写](../cloud-infrastructure-and-self-hosted/catalog-and-products/seo-url-rewrites.md)
     + [AR查看器](../cloud-infrastructure-and-self-hosted/catalog-and-products/augmented-reality.md)
     + [目录导入和更新](../cloud-infrastructure-and-self-hosted/catalog-and-products/catalog-import.md)
+  + 内容管理 {#content-management}
+    + [Page Builder概述](../cloud-infrastructure-and-self-hosted/content-management/page-builder-overview.md)
+    + [创建静态块和动态块](../cloud-infrastructure-and-self-hosted/content-management/static-dynamic-blocks.md)
+    + [创建构件](../cloud-infrastructure-and-self-hosted/content-management/widgets.md)
+    + [使用内容模板](../cloud-infrastructure-and-self-hosted/content-management/content-templates.md)
+    + [内容暂存](../cloud-infrastructure-and-self-hosted/content-management/content-staging.md)
+    + [管理媒体集](../cloud-infrastructure-and-self-hosted/content-management/media-gallery.md)
 + 快速入门 {#getting-started}
   + Commerce功能 {#capabilities}
     + [可用的商务选项](../capabilities/adobes-available-commerce-options.md)
@@ -157,7 +164,7 @@ ht-degree: 3%
     + [结论](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder练习](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 后端开发 {#backend-development}
-    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [创建模块](../backend-development/create-module.md)
     + [添加产品属性](../backend-development/add-product-attribute.md)
     + [依赖项注入示例](../backend-development/dependency-injection.md)
@@ -280,13 +287,6 @@ ht-degree: 3%
     + [搜索、查看、评论和升级支持工单](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [管理支持票证观察者和状态](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ 内容管理 {#content}
-  + [Page Builder概述](../site-management/page-builder-overview.md)
-  + [创建静态块和动态块](../site-management/static-dynamic-blocks.md)
-  + [创建构件](../site-management/widgets.md)
-  + [使用内容模板](../site-management/content-templates.md)
-  + [内容暂存](../site-management/content-staging.md)
-  + [管理媒体集](../site-management/media-gallery.md)
 + 营销工具 {#marketing}
   + [创建目录价格规则](../site-management/catalog-price-rules.md)
   + [创建购物车价格规则](../site-management/cart-price-rules.md)

@@ -62,7 +62,7 @@ ht-degree: 0%
 
 ## 手动创建产品 {#manual-import}
 
-考虑为很少更新的小型目录手动创建产品。 输入每个产品都需要一些时间，并且需要接受有关Commerce管理员的基础培训。 手动目录管理适合特定情况而不是大多数商店。 有关说明，请参阅[创建产品](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/products/product-create){target="_blank"}。 如果结合使用目录管理方法，请限制在引入自动化后进行手动编辑。 自动更新可能会覆盖手动更改并导致混淆。 当集成通过自动化和API管理目录时，通过[用户角色和权限](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/user-accounts/permissions-user-roles){target="_blank"}限制管理员中的目录管理。
+考虑为很少更新的小型目录手动创建产品。 输入每个产品都需要一些时间，并且需要接受有关Commerce管理员的基础培训。 手动目录管理适合特定情况而不是大多数商店。 有关说明，请参阅[创建产品](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/catalog/products/product-create){target="_blank"}。 如果结合使用目录管理方法，请限制在引入自动化后进行手动编辑。 自动更新可能会覆盖手动更改并导致混淆。 当集成通过自动化和API管理目录时，通过[用户角色和权限](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/systems/user-accounts/permissions-user-roles){target="_blank"}限制管理员中的目录管理。
 
 ### 何时考虑这种方法
 
@@ -77,7 +77,7 @@ ht-degree: 0%
 ## 管理员CSV导入工具 {#admin-csv}
 
 此工具允许商店所有者使用商务管理员提供的CSV权限导入目录。
-[从Commerce管理员导入数据](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
+[从Commerce管理员导入数据](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
 
 优点：
 从管理员上传CSV是直接进行目录管理的方法。 它允许对中等大小的目录进行更快的目录产品更新。
@@ -171,6 +171,6 @@ ht-degree: 0%
 ## 其他资源
 
 * [使用新的REST CSV导入数据](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
-* [导入数据主文档](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
-* [Adobe Commerce版本2.4.6发行说明](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/adobe-commerce/2-4-6){target="_blank"}
+* [导入数据主文档](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
+* [Adobe Commerce版本2.4.6发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/adobe-commerce/2-4-6){target="_blank"}
 * [用户、角色和权限](../store-administration/users-roles-permissions.md){target="_blank"}

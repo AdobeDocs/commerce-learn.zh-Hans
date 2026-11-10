@@ -4,9 +4,9 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
 workflow-type: tm+mt
-source-wordcount: '1023'
+source-wordcount: '1022'
 ht-degree: 3%
 ---
 
@@ -77,13 +77,22 @@ ht-degree: 3%
     + 最佳实践 {#commerce-cloud-best-practices}
       + [支持请求](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/support-request.md)
       + [启动前核对清单](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist.md)
+    + 操作工具 {#tools}
+      + [站点范围分析工具仪表板](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/site-wide-analysis-tool.md)
+      + [云自动化修补服务](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/cloud-automation-patching-service.md)
+      + [Adobe Commerce观察](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/observation-tool.md)
+      + [Quality Patch Tool概述](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool-overview.md)
+      + [Quality修补工具](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool.md)
+      + New Relic {#new-relic}
+        + [查找恶意IP](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/malicious-ip.md)
+        + [警报通知设置](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup.md)
+        + [自定义警报](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/custom-alerts.md)
 + 快速入门 {#getting-started}
   + Commerce功能 {#capabilities}
     + [可用的商务选项](../capabilities/adobes-available-commerce-options.md)
     + [数据连接](../capabilities/data-connection.md)
     + [Live Search完整演示](../capabilities/live-search-full-demonstration.md)
     + [可组合的Commerce](../capabilities/what-is-composable-commerce.md)
-    + [Quality Patch tool](../capabilities/quality-patch-tool.md)
   + 创建产品 {#create-products}
     + [简单产品](../site-management/create-simple-product.md)
     + [虚拟产品](../site-management/create-virtual-product.md)
@@ -115,7 +124,7 @@ ht-degree: 3%
     + [结论](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder练习](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 后端开发 {#backend-development}
-    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [创建模块](../backend-development/create-module.md)
     + [添加产品属性](../backend-development/add-product-attribute.md)
     + [依赖项注入示例](../backend-development/dependency-injection.md)
@@ -299,12 +308,3 @@ ht-degree: 3%
     + [报价单行项目注释](../b2b/quote-line-item-notes.md)
     + [报价单行项目折扣GraphQL](../b2b/quote-graphql-line-item-discount.md)
     + [报价单行项目折扣REST API](../b2b/quote-rest-api-line-item-notes.md)
-+ 工具和外部服务 {#tools}
-  + [站点范围分析工具仪表板](../tools/site-wide-analysis-tool.md)
-  + [云自动化修补服务](../tools/cloud-automation-patching-service.md)
-  + [Adobe Commerce观察](../tools/observation-tool.md)
-  + [Quality修补工具](../tools/quality-patch-tool.md)
-  + New Relic {#new-relic}
-    + [查找恶意IP](../new-relic/malicious-ip.md)
-    + [警报通知设置](../new-relic/new-relic-alert-notification-setup.md)
-    + [自定义警报](../new-relic/custom-alerts.md)

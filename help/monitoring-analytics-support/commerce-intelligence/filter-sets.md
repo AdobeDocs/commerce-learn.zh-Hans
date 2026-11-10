@@ -3,10 +3,10 @@ title: Commerce Intelligence — 过滤器集
 description: 了解如何使用Commerce Intelligence过滤器集功能简化Adobe Commerce和Magento Open Source的业务数据报告。
 landing-page-description: 观看此视频，了解如何使用Commerce Intelligence过滤器集功能简化业务数据报告。
 short-description: 观看本视频，了解如何使用MBCommerce IntelligenceI过滤器集功能简化业务数据报告。
-kt: 10289
-doc-type: feature video
+jira: KT-10289
+doc-type: Technical Video
 duration: 515
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 audience: all
 activity: use
 last-substantial-update: 2023-2-10
@@ -47,7 +47,7 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%

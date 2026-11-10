@@ -1,20 +1,22 @@
 ---
-title: 了解可观察性
-description: 为什么集中式可观察性对于可扩展的Adobe Commerce可扩展性至关重要
+title: 可观察性演示
+description: 了解Adobe Commerce如何使用可观察性、Webhook和事件关联来无缝跟踪和调试订单
 feature: Observability, Extensibility, App Builder
 topic: Architecture, Performance
 role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 205
-last-substantial-update: 2025-12-18T00:00:00.000Z
-jira: KT-19965
-exl-id: 619e7ac0-4415-4bea-829b-2211a3bf7d21
-TQID: 'https://experienceleague.adobe.com/4qNs0qCI0qqoOaIVv6m355YlBaetRoPQMQ5ynKdR-i4'
+duration: 508
+last-substantial-update: 2025-12-12T00:00:00.000Z
+jira: KT-20000
+exl-id: 3ebb1778-5e15-4bcf-8efc-037d3f51c0a4
+TQID: 'https://experienceleague.adobe.com/nwg7TTIX4TxifdJgIZq2Z1CY2hW-Kpr-hVaBi-wXnpE'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
 feature_v2:
+  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+    internal-label: Order Management System
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
@@ -39,16 +41,14 @@ topic_v2:
     internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-    internal-label: Optimization
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 53888e376f3532b8b32e938d562d73703b061685
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '146'
 ht-degree: 0%
 ---
-# 可观察性概述
+# 可观察性演示
 
-了解集中式可观察性为何对现代Adobe Commerce架构至关重要。 随着可扩展性发展成为具有独立应用程序、Webhook和UI扩展的可组合模型，商家面临着跟踪复杂执行流的挑战。 了解统一的可观察性层如何跨服务关联信号，从而实现主动优化并确保快速、可靠的结账体验。
+观看Adobe Commerce中的可观察性实时演示。 此演示演示了Webhook和事件工作流如何连接不同的服务，以便更轻松地跟踪订单和解决问题。 查看如何下达订单、修复错误以及检查流程。  了解同步和异步流。 它还介绍了跟踪和日志如何显示在Grafana和New Relic中以进行故障排除。 了解关联对于发现慢点和保持系统顺利工作很重要的原因。
 
 ## 此视频面向谁？
 
@@ -58,11 +58,11 @@ ht-degree: 0%
 
 ## 视频内容
 
-* 可组合模型增加了复杂性：独立应用程序和Webhook缺乏单一上下文。
-* 集中化可观察性是关键：跨所有组件关联日志和量度。
-* 提高结账性能：快速发现瓶颈以保持购物顺畅。
+* 通过实订单工作流演示Adobe Commerce可观察性
+* 解释Webhook和事件的关联以实现可跟踪性
+* 显示与Grafana和New Relic的集成以供日志和跟踪使用
 
->[!VIDEO](https://video.tv.adobe.com/v/3478298?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477877?captions=chi_hans&learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

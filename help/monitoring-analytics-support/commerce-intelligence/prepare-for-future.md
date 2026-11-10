@@ -3,10 +3,10 @@ title: Commerce Intelligence — 为未来做好准备
 description: 观看本系列视频，以澄清您对塑造数字商业未来的空前变化的理解。
 landing-page-description: 观看本系列视频，以澄清您对塑造数字商业未来的空前变化的理解。
 short-description: 观看本系列视频，以澄清您对塑造数字商业未来的空前变化的理解。
-kt: 10411
-doc-type: feature video
+jira: KT-10411
+doc-type: Technical Video
 duration: 1516
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 audience: all
 activity: use
 last-substantial-update: 2023-2-10
@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%

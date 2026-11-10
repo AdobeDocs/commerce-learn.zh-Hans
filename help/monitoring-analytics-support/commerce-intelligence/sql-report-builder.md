@@ -1,14 +1,15 @@
 ---
 title: COMMERCE INTELLIGENCE - SQL REPORT BUILDER
-description: 了解如何使用Adobe Commerce Intelligence SQL Report Builder查询数据仓库、查看结果和构建图表，而无需等待报告更新周期。
+description: 了解如何使用Adobe Commerce Intelligence SQL Report Builder查询Data Warehouse、审查结果和构建图表，而无需等待报告更新周期。
 feature: Commerce Intelligence
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 259
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 last-substantial-update: 2023-02-10T00:00:00.000Z
+jira: KT-10287
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
 TQID: https://experienceleague.adobe.com/o4S12aA7X2D-PGFY6r0rvFrWLqazLakOFrA5S8TnPhE
 product_v2:
@@ -36,13 +37,11 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
 workflow-type: tm+mt
-source-wordcount: 214
+source-wordcount: '212'
 ht-degree: 0%
-
 ---
-
 # SQL REPORT BUILDER
 
 Adobe Commerce Intelligence SQL Report Builder允许您查询数据仓库、查看结果并将它们转换为图表。 使用SQL构建报表时，不必等待更新周期来优化您创建的列。 如果出现问题，请编辑并重新运行查询，直到输出与您预期的结果匹配。

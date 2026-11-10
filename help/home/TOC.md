@@ -4,15 +4,39 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 43c67e910e10d5db0f8c14ea24ba97ba89bd35d2
+source-git-commit: 3be42a811f2532f46071612ec5d930ef711dc8d8
 workflow-type: tm+mt
-source-wordcount: '1006'
+source-wordcount: '1016'
 ht-degree: 3%
 ---
 
 # Adobe Commerce视频和教程 {#tutorials}
 
 + [[!DNL Commerce] 教程](overview.md)
++ Adobe Commerce as a Cloud Service {#commerce-as-a-cloud-service}
+  + [概述](../commerce-as-a-cloud-service/overview.md)
+  + [架构](../commerce-as-a-cloud-service/architecture.md)
+  + 产品导览 {#product-overview}
+    + [简介](../commerce-as-a-cloud-service/product-overview/introduction.md)
+    + [设置体验](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
+    + [内容创作](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
+    + [本地化并安排内容](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
+    + [GenAI支持的内容创建](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
+    + [目录管理和销售服务](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
+    + [Commerce店面试验](../commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation.md)
+    + [Commerce店面速度](../commerce-as-a-cloud-service/product-overview/commerce-storefront-speed.md)
+    + [Commerce店面全套购物者历程](../commerce-as-a-cloud-service/product-overview/commerce-storefront-full-shopper-journey.md)
+    + [组合式店面和模块化体系结构](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
+    + [可扩展性](../commerce-as-a-cloud-service/product-overview/extensibility.md)
+    + [现代化和迁移](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
+    + [正在关闭](../commerce-as-a-cloud-service/product-overview/closing.md)
+  + 批量数据迁移工具 {#bulk-data-migration-tool}
+    + [简介](../commerce-as-a-cloud-service/bulk-data-migration-tool/introduction.md)
+    + [Source凭据](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
+    + [数据库凭据](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
+    + [Target凭据](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
+    + [单相迁移](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
+    + [多阶段迁移](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
   + 故障排除 {#troubleshooting}
     + [SSL无效](../cloud/troubleshooting/invalid-ssl.md)
@@ -44,32 +68,6 @@ ht-degree: 3%
     + [支持请求](../cloud/best-practices/support-request.md)
     + [启动前核对清单](../cloud/best-practices/pre-launch-checklist.md)
 + 快速入门 {#getting-started}
-  + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
-    + [概述](../commerce-as-a-cloud-service/overview.md)
-    + [架构](../commerce-as-a-cloud-service/architecture.md)
-    + Webapi-rest{#webapi-rest}
-      + [客户](../commerce-as-a-cloud-service/webapi-rest/customer.md)
-    + 产品概述{#product-overview}
-      + [介绍](../commerce-as-a-cloud-service/product-overview/introduction.md)
-      + [安装体验](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
-      + [内容创作](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
-      + [本地化并安排内容](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
-      + [GenAI支持的内容创建](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
-      + [目录管理和销售服务](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
-      + [Commerce店面试验](../commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation.md)
-      + [Commerce店面速度](../commerce-as-a-cloud-service/product-overview/commerce-storefront-speed.md)
-      + [商务店面全套购物者历程](../commerce-as-a-cloud-service/product-overview/commerce-storefront-full-shopper-journey.md)
-      + [组合式店面和模块化体系结构](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
-      + [可扩展性](../commerce-as-a-cloud-service/product-overview/extensibility.md)
-      + [现代化和迁移](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
-      + [正在关闭](../commerce-as-a-cloud-service/product-overview/closing.md)
-    + 批量数据迁移工具{#bulk-data-migration-tool}
-      + [简介](../commerce-as-a-cloud-service/bulk-data-migration-tool/introduction.md)
-      + [Source凭据](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
-      + [数据库凭据](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
-      + [Target凭据](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
-      + [单相迁移](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
-      + [多阶段迁移](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
   + 迁移到Adobe Commerce{#migrating-to-adobe-commerce}
     + [概述](../migrating-to-adobe-commerce/overview.md)
     + 准备{#preparation}
@@ -100,6 +98,10 @@ ht-degree: 3%
     + [最后一英里集成](../back-office-integrations/last-mile-integration.md)
     + [Webhook引入](../back-office-integrations/webhook-ingestion.md)
     + [重试机制](../back-office-integrations/retry-mechanism.md)
+
++ API和集成 {#apis-and-integration}
+  + 实际REST和GraphQL示例 {#examples}
+    + [具有REST的客户](../apis-and-integration/examples/customer.md)
 
 + 可扩展性 {#extensibility}
   + Commerce Developer Agent {#commerce-developer-agent}
@@ -210,21 +212,30 @@ ht-degree: 3%
     + [创建单一源GraphQL API网格](../api-mesh/graphql-single-source.md)
     + [创建多源GraphQL API网格](../api-mesh/graphql-multiple-source.md)
 
-+ 可观测性 {#observability}
-  + [可观察性概述](../observability/overview.md)
-  + [打开遥测](../observability/open-telemetry.md)
-  + [演示设置和配置](../observability/demo-setup-configuration.md)
-  + [演示](../observability/demo.md)
 + 全球参考体系结构 {#global-reference-architecture-implementation-techniques}
   + [概述](../global-reference-architecture/overview.md)
   + [拆分Git](../global-reference-architecture/split-git.md)
   + [批量包](../global-reference-architecture/bulk-packages.md)
   + [单独的包](../global-reference-architecture/separate-packages.md)
   + [莫诺雷波](../global-reference-architecture/monorepo.md)
-+ 帮助和支持 {#help-and-support}
-  + [创建支持票证](../help-and-support/create-a-support-ticket.md)
-  + [搜索、跟踪、注释和升级支持票证](../help-and-support/search-track-comment-escalate-support-ticket.md)
-  + [添加和删除观察者，关闭并重新打开票证](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ 监控、分析和支持 {#monitoring-analytics-support}
+  + 可观测性 {#observability}
+    + [可观察性概述](../monitoring-analytics-support/observability/overview.md)
+    + [OpenTelemetry](../monitoring-analytics-support/observability/open-telemetry.md)
+    + [演示设置和配置](../monitoring-analytics-support/observability/demo-setup-configuration.md)
+    + [演示](../monitoring-analytics-support/observability/demo.md)
+  + Commerce Intelligence {#commerce-intelligence}
+    + [快速入门](../monitoring-analytics-support/commerce-intelligence/getting-started.md)
+    + [集成和配置](../monitoring-analytics-support/commerce-intelligence/integrations-configurations.md)
+    + [报告和仪表板](../monitoring-analytics-support/commerce-intelligence/reports-and-dashboards.md)
+    + [筛选条件集](../monitoring-analytics-support/commerce-intelligence/filter-sets.md)
+    + [Report Builder同类群组](../monitoring-analytics-support/commerce-intelligence/cohort-report-builder.md)
+    + [SQL REPORT BUILDER](../monitoring-analytics-support/commerce-intelligence/sql-report-builder.md)
+    + [为未来做准备](../monitoring-analytics-support/commerce-intelligence/prepare-for-future.md)
+  + 帮助和支持 {#help-and-support}
+    + [创建支持票证](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
+    + [搜索、查看、评论和升级支持工单](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
+    + [管理支持票证观察者和状态](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
 + 商店管理 {#admin}
   + [管理用户角色和权限](../site-management/users-roles-permissions.md)
@@ -296,11 +307,3 @@ ht-degree: 3%
     + [查找恶意IP](../new-relic/malicious-ip.md)
     + [警报通知设置](../new-relic/new-relic-alert-notification-setup.md)
     + [自定义警报](../new-relic/custom-alerts.md)
-+ Commerce Intelligence {#mbi}
-  + [快速入门](../business-intelligence/getting-started.md)
-  + [集成和配置](../business-intelligence/integrations-configurations.md)
-  + [报告和仪表板](../business-intelligence/reports-and-dashboards.md)
-  + [筛选条件集](../business-intelligence/filter-sets.md)
-  + [Report Builder同类群组](../business-intelligence/cohort-report-builder.md)
-  + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
-  + [为将来准备](../business-intelligence/prepare-for-future.md)

@@ -4,9 +4,9 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
 workflow-type: tm+mt
-source-wordcount: '1024'
+source-wordcount: '1023'
 ht-degree: 3%
 ---
 
@@ -57,26 +57,26 @@ ht-degree: 3%
         + [进程内代码标准](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
       + QA {#qa}
         + [代码冻结](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/qa/code-freeze.md)
-+ Adobe Commerce Cloud {#adobe-commerce-cloud}
-  + 故障排除 {#troubleshooting}
-    + [SSL无效](../cloud/troubleshooting/invalid-ssl.md)
-    + [分类并解决2个常见站点错误](../cloud/troubleshooting/triage-two-common-site-errors.md)
-    + [配置值](../cloud/troubleshooting/config-values.md)
-    + [截断日志](../cloud/troubleshooting/truncate-logs.md)
-  + [项目和环境管理](../cloud/project-environment-management.md)
-  + [Adobe Commerce Cloud如何扩展](../cloud/how-adobe-commerce-cloud-scales.md)
-  + [HIPAA就绪托管](../cloud/hippa-ready-hosting.md)
-  + [检测IP地址](../cloud/detect-ip-address.md)
-  + [使用Fastly限制访问](../cloud/limit-website-access-using-fastly.md)
-  + 技术入门和硬件移交 {#technical-onboarding-hardware-handoff}
-    + [基础设施和发展最佳实践](../cloud/infrastructure-development-best-practices.md)
-    + [Fastly](../cloud/fastly.md)
-    + [配置和调试](../cloud/configuration-and-debugging.md)
-    + [部署、测试、监控和安全性](../cloud/deployments-testing-monitoring-security.md)
-    + [SaaS产品、支持和通信以及后续步骤](../cloud/saas-offerings-support-communications-next-steps.md)
-  + 最佳实践 {#commerce-cloud-best-practices}
-    + [支持请求](../cloud/best-practices/support-request.md)
-    + [启动前核对清单](../cloud/best-practices/pre-launch-checklist.md)
+  + 云操作 {#cloud-operations}
+    + 故障排除 {#troubleshooting}
+      + [SSL无效](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/invalid-ssl.md)
+      + [分类并解决2个常见站点错误](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/triage-two-common-site-errors.md)
+      + [配置值](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/config-values.md)
+      + [截断日志](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/truncate-logs.md)
+    + [项目和环境管理](../cloud-infrastructure-and-self-hosted/cloud-operations/project-environment-management.md)
+    + [Adobe Commerce Cloud如何扩展](../cloud-infrastructure-and-self-hosted/cloud-operations/how-adobe-commerce-cloud-scales.md)
+    + [HIPAA就绪托管](../cloud-infrastructure-and-self-hosted/cloud-operations/hippa-ready-hosting.md)
+    + [检测IP地址](../cloud-infrastructure-and-self-hosted/cloud-operations/detect-ip-address.md)
+    + [使用Fastly限制访问](../cloud-infrastructure-and-self-hosted/cloud-operations/limit-website-access-using-fastly.md)
+    + 技术入门和硬件移交 {#technical-onboarding-hardware-handoff}
+      + [基础设施和发展最佳实践](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/infrastructure-development-best-practices.md)
+      + [Fastly](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/fastly.md)
+      + [配置和调试](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/configuration-and-debugging.md)
+      + [部署、测试、监控和安全性](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security.md)
+      + [SaaS产品、支持和通信以及后续步骤](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/saas-offerings-support-communications-next-steps.md)
+    + 最佳实践 {#commerce-cloud-best-practices}
+      + [支持请求](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/support-request.md)
+      + [启动前核对清单](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist.md)
 + 快速入门 {#getting-started}
   + Commerce功能 {#capabilities}
     + [可用的商务选项](../capabilities/adobes-available-commerce-options.md)
@@ -115,7 +115,7 @@ ht-degree: 3%
     + [结论](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder练习](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 后端开发 {#backend-development}
-    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [创建模块](../backend-development/create-module.md)
     + [添加产品属性](../backend-development/add-product-attribute.md)
     + [依赖项注入示例](../backend-development/dependency-injection.md)

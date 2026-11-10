@@ -59,11 +59,11 @@ Adobe Commerce或Magento Open Source安装中的每个网站都有一个店面�
 
 >[!NOTE]
 >
->视频中的内容反映了2.1.0版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview)。
+>视频中的内容反映了2.1.0版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/overview)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35488?learn=on)
 
 ## 其他资源
 
-* [商店URL - [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/site-store/store-urls)
-* [使用自定义管理员URL - [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/site-store/store-urls#use-a-custom-admin-url)
+* [商店URL - [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/stores-sales/site-store/store-urls)
+* [使用自定义管理员URL - [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/stores-sales/site-store/store-urls#use-a-custom-admin-url)

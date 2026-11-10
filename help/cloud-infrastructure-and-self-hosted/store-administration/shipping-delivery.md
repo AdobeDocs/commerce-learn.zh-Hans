@@ -60,6 +60,6 @@ ht-degree: 0%
 
 ## 其他资源
 
-* [送货设置 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/shipping-settings)
-* [基本交付方法 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/delivery#basic-delivery-methods)
-* [装运承运人设置 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers)
+* [送货设置 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/stores-sales/delivery/shipping-settings)
+* [基本交付方法 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/stores-sales/delivery/delivery#basic-delivery-methods)
+* [装运承运人设置 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers)

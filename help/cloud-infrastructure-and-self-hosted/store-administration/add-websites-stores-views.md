@@ -61,11 +61,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.1.0版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview)。
+>视频中的内容反映了2.1.0版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/overview)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35787?learn=on)
 
 ## 其他资源
 
-* [网站、商店和视图 —  [!DNL Commerce] 入门指南](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)
-* [根类别和层次结构 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/categories/category-root)
+* [网站、商店和视图 —  [!DNL Commerce] 入门指南](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/start/setup/websites-stores-views)
+* [根类别和层次结构 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/catalog/categories/category-root)

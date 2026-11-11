@@ -49,9 +49,9 @@ topic_v2:
     internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
 workflow-type: tm+mt
-source-wordcount: '2365'
+source-wordcount: '2371'
 ht-degree: 0%
 ---
 # 启动前核对清单
@@ -120,7 +120,7 @@ Adobe Commerce Cloud使用MariaDB Galera群集作为暂存环境和生产环境�
 * [MySQL配置最佳实践](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration){target="_blank"}
 * Adobe Commerce上的托管警报： [MariaDB警报](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-on-magento-commerce-mariadb-alerts){target="_blank"}
 * [数据库配置](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud){target="_blank"}的最佳实践
-* [Galera群集复制和流量控制](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"}（深入分析）
+* [Galera群集复制和流量控制](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication){target="_blank"}（深入分析）
 
 1. 建议使用[MySQL从属连接](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration#slave-connections){target="_blank"}以提高数据库高负载期间的性能。
 2. 确保所有数据库表的行格式都设置为[DYNAMIC而不是COMPACT](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"} （对于本地到云的迁移尤其如此）。

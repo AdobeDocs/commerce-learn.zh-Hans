@@ -4,9 +4,9 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
+source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1028'
 ht-degree: 3%
 ---
 
@@ -154,6 +154,25 @@ ht-degree: 3%
       + [来自管理员的报价验证](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-validation-admin-panel.md)
       + [报价单行项目折扣](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [报价单行项目注释](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
+  + 应用程序开发和升级 {#application-development-and-upgrades}
+    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+    + [创建模块](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
+    + [添加产品属性](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
+    + [依赖项注入示例](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
+    + [Galera群集复制缓慢](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication.md)
+    + [MySQL查询缓存](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/mysql-query-cache.md)
+    + [PT查询摘要](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/pt-query-digest.md)
+    + [针对Adobe Commerce数据库连接并运行查询](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/remote-db-connection-execute-queries.md)
+    + Commerce升级 {#upgrades}
+      + [Adobe Commerce 2.4升级研讨会](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/2-4-upgrade-workshop.md)
+      + [升级兼容性工具概述](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/upgrade-compatibility-tool-overview.md)
+      + [使用PhpStorm中的升级兼容性工具](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/uct-phpstorm.md)
+    + 全球参考体系结构实施技术 {#global-reference-architecture-implementation-techniques}
+      + [概述](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/overview.md)
+      + [拆分Git](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/split-git.md)
+      + [批量包](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
+      + [单独的包](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
+      + [莫诺雷波](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
 + 快速入门 {#getting-started}
   + Commerce功能 {#capabilities}
     + [可用的商务选项](../capabilities/adobes-available-commerce-options.md)
@@ -185,19 +204,6 @@ ht-degree: 3%
     + [迁移现有代码](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
     + [结论](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder练习](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
-  + 后端开发 {#backend-development}
-    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
-    + [创建模块](../backend-development/create-module.md)
-    + [添加产品属性](../backend-development/add-product-attribute.md)
-    + [依赖项注入示例](../backend-development/dependency-injection.md)
-    + [Galera群集复制缓慢](../backend-development/galera-db-slow-replication.md)
-    + [MySQL查询缓存](../backend-development/mysql-query-cache.md)
-    + [PT查询摘要](../backend-development/pt-query-digest.md)
-    + [针对Adobe Commerce数据库连接并运行查询](../backend-development/remote-db-connection-execute-queries.md)
-    + Commerce升级 {#upgrade}
-      + [Adobe Commerce 2.4升级研讨会](../upgrade/2-4-upgrade-workshop.md)
-      + [升级兼容性工具概述](../upgrade/upgrade-compatibility-tool-overview.md)
-      + [使用PhpStorm中的升级兼容性工具](../upgrade/uct-phpstorm.md)
   + 前端Luma开发 {#frontend-development}
     + 面向开发人员的PaaS/SaaS页面生成器 {#page-builder}
       + [1 — 简介](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -284,12 +290,6 @@ ht-degree: 3%
     + [创建单一源GraphQL API网格](../api-mesh/graphql-single-source.md)
     + [创建多源GraphQL API网格](../api-mesh/graphql-multiple-source.md)
 
-+ 全球参考体系结构 {#global-reference-architecture-implementation-techniques}
-  + [概述](../global-reference-architecture/overview.md)
-  + [拆分Git](../global-reference-architecture/split-git.md)
-  + [批量包](../global-reference-architecture/bulk-packages.md)
-  + [单独的包](../global-reference-architecture/separate-packages.md)
-  + [莫诺雷波](../global-reference-architecture/monorepo.md)
 + 监控、分析和支持 {#monitoring-analytics-support}
   + 可观测性 {#observability}
     + [可观察性概述](../monitoring-analytics-support/observability/overview.md)

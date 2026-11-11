@@ -4,9 +4,9 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
+source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
 workflow-type: tm+mt
-source-wordcount: '1022'
+source-wordcount: '1023'
 ht-degree: 3%
 ---
 
@@ -135,11 +135,19 @@ ht-degree: 3%
     + [使用内容模板](../cloud-infrastructure-and-self-hosted/content-management/content-templates.md)
     + [内容暂存](../cloud-infrastructure-and-self-hosted/content-management/content-staging.md)
     + [管理媒体集](../cloud-infrastructure-and-self-hosted/content-management/media-gallery.md)
+  + 营销和商品促销 {#marketing-and-merchandising}
+    + [创建目录价格规则](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/catalog-price-rules.md)
+    + [创建购物车价格规则](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/cart-price-rules.md)
+    + [管理相关的产品规则](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/related-product-rules.md)
+    + [设置产品推荐](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/product-recommendations.md)
+    + [Live Search简介](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search.md)
+    + [推荐的实时搜索](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-recommendations.md)
+    + [Live Search完整演示](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-full-demonstration.md)
+    + [将Commerce与AJO集成](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/integrate-commerce-ajo.md)
 + 快速入门 {#getting-started}
   + Commerce功能 {#capabilities}
     + [可用的商务选项](../capabilities/adobes-available-commerce-options.md)
     + [数据连接](../capabilities/data-connection.md)
-    + [Live Search完整演示](../capabilities/live-search-full-demonstration.md)
     + [可组合的Commerce](../capabilities/what-is-composable-commerce.md)
   + 后台集成入门工具包 {#back-office-integration-starter-kit}
     + [入门套件演示](../back-office-integrations/starter-kit-demo.md)
@@ -164,7 +172,7 @@ ht-degree: 3%
     + [结论](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder练习](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 后端开发 {#backend-development}
-    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [创建模块](../backend-development/create-module.md)
     + [添加产品属性](../backend-development/add-product-attribute.md)
     + [依赖项注入示例](../backend-development/dependency-injection.md)
@@ -287,14 +295,6 @@ ht-degree: 3%
     + [搜索、查看、评论和升级支持工单](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [管理支持票证观察者和状态](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ 营销工具 {#marketing}
-  + [创建目录价格规则](../site-management/catalog-price-rules.md)
-  + [创建购物车价格规则](../site-management/cart-price-rules.md)
-  + [管理相关的产品规则](../site-management/related-product-rules.md)
-  + [设置产品推荐](../site-management/product-recommendations.md)
-  + [Live Search简介](../site-management/live-search.md)
-  + [推荐的实时搜索](../site-management/live-search-recommendations.md)
-  + [将Commerce与AJO集成](../site-management/integrate-commerce-ajo.md)
 + 适用于Adobe Commerce的B2B {#b2b}
   + [管理公司帐户](../b2b/company-accounts.md)
   + [管理共享目录](../b2b/shared-catalogs.md)

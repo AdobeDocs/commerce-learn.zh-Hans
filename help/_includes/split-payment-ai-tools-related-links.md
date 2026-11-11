@@ -1,13 +1,11 @@
 ---
 title: 拆分付款POC AI工具相关页面
-description: 指向扩展性中相关页面的链接 — Adobe Developer App Builder — 使用AI工具创建拆分付款POC
-source-git-commit: dfb2e7146ddb881646a3d219282e36056f246824
+description: 指向App Builder分割支付概念验证教程和参考资源的链接。
+source-git-commit: 24f9e04b5b41765f855476ff2e1be648b6634d1f
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '76'
 ht-degree: 0%
-
 ---
-
 # 拆分付款POC相关链接
 
 ## 此系列中的所有资源

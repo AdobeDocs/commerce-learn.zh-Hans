@@ -1,8 +1,8 @@
 ---
 title: 创建类别
 description: 了解如何定义产品目录的基本类别结构。
-kt: 10549
-doc-type: feature video
+jira: KT-10549
+doc-type: Feature Video
 duration: 164
 audience: all
 activity: use
@@ -47,7 +47,7 @@ topic_v2:
     internal-label: Optimization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%

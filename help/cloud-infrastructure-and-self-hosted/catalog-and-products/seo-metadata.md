@@ -1,8 +1,8 @@
 ---
 title: 管理SEO元数据
 description: 了解如何整合关键词丰富的元数据，以改进搜索引擎对您的网站编制索引的方式。
-kt: 10553
-doc-type: feature video
+jira: KT-10553
+doc-type: Feature Video
 duration: 223
 audience: all
 activity: use
@@ -45,7 +45,7 @@ topic_v2:
     internal-label: Optimization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

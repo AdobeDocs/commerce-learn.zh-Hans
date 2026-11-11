@@ -1,7 +1,7 @@
 ---
 title: Adobe Commerce中的本机目录导入选项
 description: 了解如何将目录导入到Adobe Commerce应用商店的一些本机选项。
-kt: 13634
+jira: KT-13634
 doc-type: Tutorial
 duration: 211
 audience: all
@@ -45,7 +45,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
 workflow-type: tm+mt
 source-wordcount: '846'
 ht-degree: 0%
@@ -173,4 +173,4 @@ ht-degree: 0%
 * [使用新的REST CSV导入数据](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
 * [导入数据主文档](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
 * [Adobe Commerce版本2.4.6发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/adobe-commerce/2-4-6){target="_blank"}
-* [用户、角色和权限](../cloud-infrastructure-and-self-hosted/store-administration/users-roles-permissions.md){target="_blank"}
+* [用户、角色和权限](../store-administration/users-roles-permissions.md){target="_blank"}

@@ -1,8 +1,8 @@
 ---
 title: 创建产品属性
 description: 了解如何创建用于管理与产品、客户和产品评级相关的信息的产品属性。
-kt: 10552
-doc-type: feature video
+jira: KT-10552
+doc-type: Feature Video
 duration: 348
 audience: all
 activity: use
@@ -40,7 +40,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%

@@ -1,7 +1,8 @@
 ---
 title: 管理媒体集
 description: 了解如何使用新的增强型媒体集来组织和管理服务器上的媒体文件。
-doc-type: feature video
+doc-type: Feature Video
+jira: KT-10644
 duration: 196
 audience: all
 activity: use
@@ -37,7 +38,7 @@ topic_v2:
     internal-label: Optimization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%

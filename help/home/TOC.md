@@ -4,9 +4,9 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
 workflow-type: tm+mt
-source-wordcount: '1021'
+source-wordcount: '1022'
 ht-degree: 3%
 ---
 
@@ -110,20 +110,37 @@ ht-degree: 3%
     + 订单和履行 {#orders}
       + [管理订单状态](../cloud-infrastructure-and-self-hosted/store-administration/orders/order-status.md)
       + [检查库存状态](../cloud-infrastructure-and-self-hosted/store-administration/orders/checking-inventory-status.md)
+  + 目录和产品 {#catalog-and-products}
+    + 创建产品 {#create-products}
+      + [简单产品](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-simple-product.md)
+      + [虚拟产品](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-virtual-product.md)
+      + [可下载的产品](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-downloadable-product.md)
+      + [已分组的产品](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-grouped-product.md)
+      + [可配置产品](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-configurable-product.md)
+      + [捆绑产品](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-bundle-product.md)
+      + [礼品卡产品](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-gift-card-product.md)
+    + [创建类别](../cloud-infrastructure-and-self-hosted/catalog-and-products/category-create.md)
+    + [管理类别中的产品](../cloud-infrastructure-and-self-hosted/catalog-and-products/category-products.md)
+    + [Inventory management](../cloud-infrastructure-and-self-hosted/catalog-and-products/inventory-management.md)
+    + [创建产品属性](../cloud-infrastructure-and-self-hosted/catalog-and-products/product-attributes-create.md)
+    + [将产品属性与PWA Studio结合使用](../cloud-infrastructure-and-self-hosted/catalog-and-products/product-attributes-pwa.md)
+    + [管理SEO元数据](../cloud-infrastructure-and-self-hosted/catalog-and-products/seo-metadata.md)
+    + [管理SEO的URL重写](../cloud-infrastructure-and-self-hosted/catalog-and-products/seo-url-rewrites.md)
+    + [AR查看器](../cloud-infrastructure-and-self-hosted/catalog-and-products/augmented-reality.md)
+    + [目录导入和更新](../cloud-infrastructure-and-self-hosted/catalog-and-products/catalog-import.md)
+  + 内容管理 {#content-management}
+    + [Page Builder概述](../cloud-infrastructure-and-self-hosted/content-management/page-builder-overview.md)
+    + [创建静态块和动态块](../cloud-infrastructure-and-self-hosted/content-management/static-dynamic-blocks.md)
+    + [创建构件](../cloud-infrastructure-and-self-hosted/content-management/widgets.md)
+    + [使用内容模板](../cloud-infrastructure-and-self-hosted/content-management/content-templates.md)
+    + [内容暂存](../cloud-infrastructure-and-self-hosted/content-management/content-staging.md)
+    + [管理媒体集](../cloud-infrastructure-and-self-hosted/content-management/media-gallery.md)
 + 快速入门 {#getting-started}
   + Commerce功能 {#capabilities}
     + [可用的商务选项](../capabilities/adobes-available-commerce-options.md)
     + [数据连接](../capabilities/data-connection.md)
     + [Live Search完整演示](../capabilities/live-search-full-demonstration.md)
     + [可组合的Commerce](../capabilities/what-is-composable-commerce.md)
-  + 创建产品 {#create-products}
-    + [简单产品](../site-management/create-simple-product.md)
-    + [虚拟产品](../site-management/create-virtual-product.md)
-    + [可下载的产品](../site-management/create-downloadable-product.md)
-    + [已分组的产品](../site-management/create-grouped-product.md)
-    + [可配置的产品](../site-management/create-configurable-product.md)
-    + [捆绑产品](../site-management/create-bundle-product.md)
-    + [礼品卡产品](../site-management/create-gift-card-product.md)
   + 后台集成入门工具包 {#back-office-integration-starter-kit}
     + [入门套件演示](../back-office-integrations/starter-kit-demo.md)
     + [集成](../back-office-integrations/integrations.md)
@@ -270,23 +287,6 @@ ht-degree: 3%
     + [搜索、查看、评论和升级支持工单](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [管理支持票证观察者和状态](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ 目录管理 {#catalog}
-  + [创建类别](../site-management/category-create.md)
-  + [管理类别中的产品](../site-management/category-products.md)
-  + [Inventory management](../site-management/inventory-management.md)
-  + [创建产品属性](../site-management/product-attributes-create.md)
-  + [将产品属性与PWA Studio结合使用](../site-management/product-attributes-pwa.md)
-  + [管理SEO元数据](../site-management/seo-metadata.md)
-  + [管理SEO的URL重写](../site-management/seo-url-rewrites.md)
-  + [AR查看器](../site-management/augmented-reality.md)
-  + [目录导入和更新](../site-management/catalog-import.md)
-+ 内容管理 {#content}
-  + [Page Builder概述](../site-management/page-builder-overview.md)
-  + [创建静态块和动态块](../site-management/static-dynamic-blocks.md)
-  + [创建构件](../site-management/widgets.md)
-  + [使用内容模板](../site-management/content-templates.md)
-  + [内容暂存](../site-management/content-staging.md)
-  + [管理媒体集](../site-management/media-gallery.md)
 + 营销工具 {#marketing}
   + [创建目录价格规则](../site-management/catalog-price-rules.md)
   + [创建购物车价格规则](../site-management/cart-price-rules.md)

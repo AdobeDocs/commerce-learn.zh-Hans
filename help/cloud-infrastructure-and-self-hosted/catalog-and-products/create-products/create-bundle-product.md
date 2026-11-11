@@ -1,8 +1,8 @@
 ---
 title: 创建捆绑产品
 description: 了解如何使用REST API和Commerce管理员创建捆绑包产品。
-kt: 14589
-doc-type: video
+jira: KT-14589
+doc-type: Technical Video
 duration: 1335
 audience: all
 activity: use
@@ -45,7 +45,7 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
 workflow-type: tm+mt
 source-wordcount: '673'
 ht-degree: 0%

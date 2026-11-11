@@ -1,8 +1,8 @@
 ---
 title: 创建分组产品
 description: 了解如何使用REST API和Commerce管理员创建分组产品。
-kt: 14585
-doc-type: video
+jira: KT-14585
+doc-type: Tutorial
 duration: 979
 audience: all
 activity: use
@@ -40,7 +40,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
 workflow-type: tm+mt
 source-wordcount: '559'
 ht-degree: 0%

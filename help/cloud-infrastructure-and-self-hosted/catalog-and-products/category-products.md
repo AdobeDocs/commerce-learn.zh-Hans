@@ -1,8 +1,8 @@
 ---
 title: 管理类别中的产品
 description: 了解如何在类别中创建产品、可视化促销以及使用自动类别排序功能。
-kt: 10550
-doc-type: feature videos
+jira: KT-10550
+doc-type: Feature Video
 duration: 142
 audience: all
 activity: use
@@ -46,7 +46,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%

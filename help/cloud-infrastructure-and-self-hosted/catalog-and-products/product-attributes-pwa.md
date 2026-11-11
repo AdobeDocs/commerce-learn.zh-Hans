@@ -1,11 +1,11 @@
 ---
 title: 将产品属性与PWA Studio结合使用
 description: 了解如何使用PWA Studio管理产品属性。
-doc-type: feature video
+doc-type: Feature Video
 duration: 463
 audience: all
 activity: use
-kt: 13789
+jira: KT-13789
 last-substantial-update: 2023-04-27T00:00:00.000Z
 feature: Configuration, System
 topic: Commerce, Administration
@@ -40,7 +40,7 @@ topic_v2:
     internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%

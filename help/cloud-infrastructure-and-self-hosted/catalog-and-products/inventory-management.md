@@ -1,8 +1,8 @@
 ---
 title: Inventory management
 description: 了解Inventory management的功能以及如何使用它们从单个仓库或复杂的运输网络工作。
-kt: 10551
-doc-type: feature video
+jira: KT-10551
+doc-type: Feature Video
 duration: 383
 audience: all
 activity: use
@@ -38,7 +38,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%

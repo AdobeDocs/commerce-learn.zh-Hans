@@ -1,8 +1,8 @@
 ---
 title: 创建礼品卡产品
 description: 了解如何使用REST API和Commerce管理员创建礼品卡产品。
-kt: 14587
-doc-type: video
+jira: KT-14587
+doc-type: Tutorial
 audience: all
 activity: use
 last-substantial-update: 2024-2-1
@@ -49,7 +49,7 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%

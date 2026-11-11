@@ -4,7 +4,7 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 24f9e04b5b41765f855476ff2e1be648b6634d1f
+source-git-commit: 2438933afca636cd633375ece98e15c57c1d9ead
 workflow-type: tm+mt
 source-wordcount: '1035'
 ht-degree: 3%
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [报价单行项目折扣](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [报价单行项目注释](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + 应用程序开发和升级 {#application-development-and-upgrades}
-    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [创建模块](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [添加产品属性](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [依赖项注入示例](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -203,6 +203,12 @@ ht-degree: 3%
       + [Commerce module AI提示](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
       + [App Builder orchestrator AI提示](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
       + [Experience Cloud UI扩展AI提示](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
+
+  + 使用AI工具创建自定义运费 {#custom-shipping-rates-ai-tools}
+    + [简介和设置](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+    + [AI工具和Adobe入门工具包](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+    + [实施和测试](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
+    + [向Adobe提供反馈](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
 
 + 快速入门 {#getting-started}
   + Commerce功能 {#capabilities}
@@ -272,11 +278,6 @@ ht-degree: 3%
     + [突变](../graphql-rest/graphql-mutations.md)
     + [架构](../graphql-rest/graphql-schema.md)
   + 更多App Builder教程和I/O活动 {#adobe-developer-app-builder}
-    + 使用AI工具创建自定义运费 {#custom-shipping-rates-ai-tools}
-      + [简介和设置](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
-      + [AI工具和Adobe入门工具包](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
-      + [实施和测试](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
-      + [向Adobe提供反馈](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
     + Adobe Commerce的IO事件 {#io-events}
       + [IO事件快速入门](../io-events/getting-started-io-events.md)
       + [Adobe Commerce 2.4.5安装](../io-events/2-4-5-installation.md)

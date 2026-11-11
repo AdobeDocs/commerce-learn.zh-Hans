@@ -88,7 +88,7 @@ Adobe Developer App Builder提供了一个通用、一致和标准化的开发�
 
 可通过阅读以下博客帖子来大致了解包括初始设置的可组合商务策略：
 
-[App Builder如何帮助提高商务平台的业务敏捷性](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
+[App Builder如何帮助提高商务平台的业务敏捷性](https://business.adobe.com/cn/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
 
 为帮助您开始使用App Builder，Adobe已创建以下文档：
 

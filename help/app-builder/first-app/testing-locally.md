@@ -1,6 +1,6 @@
 ---
 title: 在本地测试
-description: 了解如何在本地测试Adobe Developer App Builder应用程序，包括单元测试、端到端测试和面向Commerce开发人员的手动测试方法。
+description: 了解如何使用Commerce的单元测试、端到端测试和手动测试方法在本地测试Adobe Developer App Builder应用程序。
 jira: KT-21685
 doc-type: Tutorial
 duration: 85
@@ -26,13 +26,11 @@ feature_v2:
   - id: c1256247-af4b-46d8-9dca-0c654ecfa157
     internal-label: Order Management System
 autotag-review: '2026-08-11T19:18:29.253Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 82
+source-wordcount: '80'
 ht-degree: 0%
-
 ---
-
 # 在本地测试 {#testing-locally}
 
 了解如何在本地测试新的Adobe Developer App Builder应用程序。
@@ -48,7 +46,7 @@ ht-degree: 0%
 * E2E测试
 * 手动测试
 
->[!VIDEO](https://video.tv.adobe.com/v/3421053?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416594?learn=on)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
 

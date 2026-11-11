@@ -1,6 +1,6 @@
 ---
 title: 测试文件夹
-description: 了解App Builder测试文件夹中的JavaScript单元测试文件，以及如何扩展该文件以全面测试Adobe Commerce示例应用程序。
+description: 探索App Builder示例应用程序的JavaScript单元测试，并了解如何将它们扩展为Adobe Commerce集成的综合测试。
 jira: KT-21682
 doc-type: Tutorial
 duration: 233
@@ -23,13 +23,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:25.321Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 122
+source-wordcount: '116'
 ht-degree: 0%
-
 ---
-
 # 了解测试文件夹 {#test-folder}
 
 此示例应用程序的`test`文件夹包含一个JavaScript文件，在对该应用程序运行单元测试时使用该文件。
@@ -46,7 +44,7 @@ ht-degree: 0%
 * 单元测试文件及其组件的简要说明
 * 端到端测试简介
 
->[!VIDEO](https://video.tv.adobe.com/v/3421059?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416662?learn=on)
 
 ## 代码示例
 

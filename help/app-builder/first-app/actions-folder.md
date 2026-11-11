@@ -1,6 +1,6 @@
 ---
 title: 操作文件夹
-description: 了解App Builder actions文件夹中的JavaScript文件和文件夹，包括示例应用程序的OAuth身份验证和Commerce连接模式。
+description: 浏览App Builder操作文件夹及其JavaScript文件，包括示例应用程序中的OAuth身份验证和Commerce连接模式。
 jira: KT-21680
 doc-type: Tutorial
 duration: 465
@@ -28,13 +28,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:13.310Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 199
+source-wordcount: '196'
 ht-degree: 0%
-
 ---
-
 # 了解操作文件夹 {#actions-folder}
 
 此示例应用程序的`actions`文件夹包含一些JavaScript文件和一个名为`commerce`的文件夹。 显示的JavaScript是一个有用的示例文件，如果您的工作需要它，则可以重用该文件。 使用OAuth和REST连接到Adobe Commerce应用程序时，此文件夹可以节省开发时间。
@@ -52,7 +50,7 @@ ht-degree: 0%
 * 在`actions`和`commerce`文件夹中找到的JavaScript文件的用途
 * OAuth身份验证文件快速概述
 
->[!VIDEO](https://video.tv.adobe.com/v/3421077?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416590?learn=on)
 
 ## 代码示例
 

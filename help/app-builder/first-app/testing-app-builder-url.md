@@ -1,6 +1,6 @@
 ---
 title: 使用Adobe Developer App Builder URL进行测试
-description: 了解如何使用项目URL部署和测试您的第一个Adobe Developer App Builder应用程序，包括成功部署后在何处查找URL。
+description: 了解如何使用项目URL部署和测试Adobe Developer App Builder应用程序，包括在部署后从何处查找该URL。
 jira: KT-21684
 doc-type: Tutorial
 duration: 78
@@ -23,13 +23,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:26.961Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 100
+source-wordcount: '96'
 ht-degree: 0%
-
 ---
-
 # 使用App Builder URL进行测试 {#testing-app-builder-url}
 
 了解如何使用项目中的URL测试新的Adobe Developer App Builder应用程序。
@@ -43,7 +41,7 @@ ht-degree: 0%
 * 如何部署应用程序
 * 部署后可在何处查找URL
 
->[!VIDEO](https://video.tv.adobe.com/v/3421043?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416664?learn=on)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
 

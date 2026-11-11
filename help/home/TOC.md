@@ -4,9 +4,9 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
 workflow-type: tm+mt
-source-wordcount: '1023'
+source-wordcount: '1025'
 ht-degree: 3%
 ---
 
@@ -144,6 +144,16 @@ ht-degree: 3%
     + [推荐的实时搜索](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-recommendations.md)
     + [Live Search完整演示](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-full-demonstration.md)
     + [将Commerce与AJO集成](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/integrate-commerce-ajo.md)
+  + 适用于Adobe Commerce的B2B {#b2b}
+    + [管理公司帐户](../cloud-infrastructure-and-self-hosted/b2b/company-accounts.md)
+    + [管理共享目录](../cloud-infrastructure-and-self-hosted/b2b/shared-catalogs.md)
+    + [管理公司信用](../cloud-infrastructure-and-self-hosted/b2b/company-credit.md)
+    + [采购订单和审批](../cloud-infrastructure-and-self-hosted/b2b/purchase-orders.md)
+    + 引号 {#quotes}
+      + [销售代表启动报价](../cloud-infrastructure-and-self-hosted/b2b/quotes/sales-rep-initiates-quote.md)
+      + [来自管理员的报价验证](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-validation-admin-panel.md)
+      + [报价单行项目折扣](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
+      + [报价单行项目注释](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
 + 快速入门 {#getting-started}
   + Commerce功能 {#capabilities}
     + [可用的商务选项](../capabilities/adobes-available-commerce-options.md)
@@ -160,6 +170,10 @@ ht-degree: 3%
 + API和集成 {#apis-and-integration}
   + 实际REST和GraphQL示例 {#examples}
     + [具有REST的客户](../apis-and-integration/examples/customer.md)
+    + B2B引号 {#b2b-quotes}
+      + [销售代表启动报价REST API](../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md)
+      + [报价单行项目折扣GraphQL](../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md)
+      + [报价单行项目说明REST API](../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)
 
 + 可扩展性 {#extensibility}
   + Commerce Developer Agent {#commerce-developer-agent}
@@ -172,7 +186,7 @@ ht-degree: 3%
     + [结论](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder练习](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + 后端开发 {#backend-development}
-    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [创建模块](../backend-development/create-module.md)
     + [添加产品属性](../backend-development/add-product-attribute.md)
     + [依赖项注入示例](../backend-development/dependency-injection.md)
@@ -294,17 +308,3 @@ ht-degree: 3%
     + [创建支持票证](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
     + [搜索、查看、评论和升级支持工单](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [管理支持票证观察者和状态](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
-
-+ 适用于Adobe Commerce的B2B {#b2b}
-  + [管理公司帐户](../b2b/company-accounts.md)
-  + [管理共享目录](../b2b/shared-catalogs.md)
-  + [管理公司信用](../b2b/company-credit.md)
-  + [采购订单和审批](../b2b/purchase-orders.md)
-  + 引用 {#b2b-quote}
-    + [销售代表启动报价](../b2b/sales-rep-initiates-quote.md)
-    + [来自管理员的报价验证](../b2b/quote-validation-admin-panel.md)
-    + [销售代表启动报价REST API](../b2b/sales-rep-initiates-quote-api.md)
-    + [报价单行项目折扣](../b2b/quote-line-item-discount.md)
-    + [报价单行项目注释](../b2b/quote-line-item-notes.md)
-    + [报价单行项目折扣GraphQL](../b2b/quote-graphql-line-item-discount.md)
-    + [报价单行项目折扣REST API](../b2b/quote-rest-api-line-item-notes.md)

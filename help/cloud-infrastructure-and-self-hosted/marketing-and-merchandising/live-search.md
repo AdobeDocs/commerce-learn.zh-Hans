@@ -71,5 +71,5 @@ ht-degree: 1%
 
 * [Live Search完整演示](live-search-full-demonstration.md){target="_blank"}
 * [[!DNL Live Search]推荐](live-search-recommendations.md){target="_blank"}
-* [[!DNL Live Search] 概述](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html){target="_blank"}
-* [Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
+* [[!DNL Live Search] 概述](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=zh-Hans){target="_blank"}
+* [Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=zh-Hans){target="_blank"}

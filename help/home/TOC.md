@@ -4,9 +4,9 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 2438933afca636cd633375ece98e15c57c1d9ead
+source-git-commit: de9e426dad620ff9f242454e069e44919be39884
 workflow-type: tm+mt
-source-wordcount: '1035'
+source-wordcount: '1034'
 ht-degree: 3%
 ---
 
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [报价单行项目折扣](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [报价单行项目注释](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + 应用程序开发和升级 {#application-development-and-upgrades}
-    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [创建模块](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [添加产品属性](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [依赖项注入示例](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -224,12 +224,26 @@ ht-degree: 3%
     + [重试机制](../back-office-integrations/retry-mechanism.md)
 
 + API和集成 {#apis-and-integration}
+  + GraphQL基础 {#graphql-rest}
+    + [GraphQL基础知识](../graphql-rest/intro-graphql.md)
+    + [查询](../graphql-rest/graphql-queries.md)
+    + [突变](../graphql-rest/graphql-mutations.md)
+    + [架构](../graphql-rest/graphql-schema.md)
   + 实际REST和GraphQL示例 {#examples}
     + [具有REST的客户](../apis-and-integration/examples/customer.md)
     + B2B引号 {#b2b-quotes}
       + [销售代表启动报价REST API](../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md)
       + [报价单行项目折扣GraphQL](../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md)
       + [报价单行项目说明REST API](../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)
+
+  + API网格 {#api-mesh}
+    + [使用GitHub代码空间的API Mesh入门工具包](../api-mesh/starter-kit-github-codespaces.md)
+    + [API Mesh入门工具包工作流](../api-mesh/starter-kit-workflows.md)
+    + [API Mesh入门](../api-mesh/getting-started-api-mesh.md)
+    + [安装Adobe IO和Mesh插件](../api-mesh/installing-aio-mesh-plugin.md)
+    + [使用项目和工作区](../api-mesh/aio-projects-workspaces.md)
+    + [创建单一源GraphQL API网格](../api-mesh/graphql-single-source.md)
+    + [创建多源GraphQL API网格](../api-mesh/graphql-multiple-source.md)
 
 + 可扩展性 {#extensibility}
   + Commerce Developer Agent {#commerce-developer-agent}
@@ -272,11 +286,6 @@ ht-degree: 3%
         + [佩雷格林](../pwa/introduction/6-peregrine.md)
       + [PWA Docker开发](../pwa/pwa-docker-development.md)
       + [设置Venia以进行开发](../pwa/set-up-venia-for-dev.md)
-  + GraphQL和REST {#graphql-rest}
-    + [GraphQL基础知识](../graphql-rest/intro-graphql.md)
-    + [查询](../graphql-rest/graphql-queries.md)
-    + [突变](../graphql-rest/graphql-mutations.md)
-    + [架构](../graphql-rest/graphql-schema.md)
   + 更多App Builder教程和I/O活动 {#adobe-developer-app-builder}
     + Adobe Commerce的IO事件 {#io-events}
       + [IO事件快速入门](../io-events/getting-started-io-events.md)
@@ -286,14 +295,6 @@ ht-degree: 3%
       + [配置Adobe Commerce](../io-events/configure-commerce.md)
       + [Adobe Commerce模块开发](../io-events/commerce-module-development.md)
       + [Adobe Commerce条件事件](../io-events/conditional-events.md)
-  + API网格 {#api-mesh}
-    + [使用GitHub代码空间的API Mesh入门工具包](../api-mesh/starter-kit-github-codespaces.md)
-    + [API Mesh入门工具包工作流](../api-mesh/starter-kit-workflows.md)
-    + [API Mesh入门](../api-mesh/getting-started-api-mesh.md)
-    + [安装Adobe IO和Mesh插件](../api-mesh/installing-aio-mesh-plugin.md)
-    + [使用项目和工作区](../api-mesh/aio-projects-workspaces.md)
-    + [创建单一源GraphQL API网格](../api-mesh/graphql-single-source.md)
-    + [创建多源GraphQL API网格](../api-mesh/graphql-multiple-source.md)
 
 + 监控、分析和支持 {#monitoring-analytics-support}
   + 可观测性 {#observability}

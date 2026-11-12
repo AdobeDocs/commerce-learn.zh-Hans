@@ -3,7 +3,7 @@ title: Commerce集成入门工具包最佳实践
 description: 从GitHub设置和载入、部署、验证和上线，了解使用入门套件的Adobe Commerce集成的最佳实践。
 doc-type: Technical Video
 duration: 602
-last-substantial-update: 2024-07-30T00:00:00.000Z
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -36,7 +36,7 @@ level_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -59,7 +59,7 @@ ht-degree: 0%
 * 要创建和配置事件提供程序和订阅，请运行脚本。
 * 正在更新Commerce和App Builder中的事件以进行同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/3452785?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431690?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

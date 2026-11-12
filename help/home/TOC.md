@@ -4,7 +4,7 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: db62654c7e54e2026395cc9278ca12ecbff778ee
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
 source-wordcount: '1029'
 ht-degree: 3%
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [报价单行项目折扣](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [报价单行项目注释](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + 应用程序开发和升级 {#application-development-and-upgrades}
-    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [创建模块](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [添加产品属性](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [依赖项注入示例](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -215,13 +215,6 @@ ht-degree: 3%
     + [可用的商务选项](../capabilities/adobes-available-commerce-options.md)
     + [数据连接](../capabilities/data-connection.md)
     + [可组合的Commerce](../capabilities/what-is-composable-commerce.md)
-  + 后台集成入门工具包 {#back-office-integration-starter-kit}
-    + [入门套件演示](../back-office-integrations/starter-kit-demo.md)
-    + [集成](../back-office-integrations/integrations.md)
-    + [Source代码组织](../back-office-integrations/source-code-organization.md)
-    + [最后一英里集成](../back-office-integrations/last-mile-integration.md)
-    + [Webhook引入](../back-office-integrations/webhook-ingestion.md)
-    + [重试机制](../back-office-integrations/retry-mechanism.md)
 
 + API和集成 {#apis-and-integration}
   + GraphQL基础 {#graphql-rest}
@@ -254,6 +247,14 @@ ht-degree: 3%
       + [配置Adobe Commerce](../io-events/configure-commerce.md)
       + [Adobe Commerce模块开发](../io-events/commerce-module-development.md)
       + [Adobe Commerce条件事件](../io-events/conditional-events.md)
+
+  + 后台集成入门工具包 {#back-office-integration-starter-kit}
+    + [入门套件演示](../back-office-integrations/starter-kit-demo.md)
+    + [集成](../back-office-integrations/integrations.md)
+    + [Source代码组织](../back-office-integrations/source-code-organization.md)
+    + [最后一英里集成](../back-office-integrations/last-mile-integration.md)
+    + [Webhook引入](../back-office-integrations/webhook-ingestion.md)
+    + [重试机制](../back-office-integrations/retry-mechanism.md)
 
 + 可扩展性 {#extensibility}
   + Commerce Developer Agent {#commerce-developer-agent}

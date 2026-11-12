@@ -1,9 +1,9 @@
 ---
 title: Commerce入门工具包中的Source代码组织
-description: 了解Commerce集成入门套件中的源代码组织，包括关键文件夹，如操作和脚本、自动化脚本和事件处理。
+description: 了解Commerce集成入门工具包中的源代码组织，包括操作和脚本文件夹、自动化脚本以及事件处理。
 doc-type: Technical Video
 duration: 534
-last-substantial-update: 2024-07-30T00:00:00.000Z
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -34,9 +34,9 @@ level_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '367'
 ht-degree: 0%
 ---
 # 适用于Adobe Starter Kit的Source代码组织

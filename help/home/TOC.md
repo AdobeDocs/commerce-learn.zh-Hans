@@ -155,7 +155,7 @@ ht-degree: 2%
       + [报价单行项目折扣](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [报价单行项目注释](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + 应用程序开发和升级 {#application-development-and-upgrades}
-    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
     + [创建模块](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [添加产品属性](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [依赖项注入示例](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)

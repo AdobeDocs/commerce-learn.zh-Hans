@@ -1,6 +1,6 @@
 ---
 title: .env文件
-description: 了解如何为Adobe Developer App Builder应用程序生成和配置.env文件，包括管理密钥和防止意外提交到源代码控制。
+description: 了解如何为App Builder应用程序生成和配置.env文件、管理密钥，以及防止意外提交到源代码控制。
 jira: KT-21681
 doc-type: Tutorial
 duration: 177
@@ -33,13 +33,11 @@ topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
 autotag-review: '2026-08-11T19:18:20.957Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 147
+source-wordcount: '143'
 ht-degree: 0%
-
 ---
-
 # 生成和配置.env文件 {#env-file}
 
 `.env`是一个特殊文件，它不是示例模块的一部分，但对于Adobe Developer App Builder应用程序中的使用很重要。 此文件包含密钥和其他信息。 避免将此文件提交到任何代码存储库。

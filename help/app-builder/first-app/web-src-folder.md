@@ -1,6 +1,6 @@
 ---
 title: web-src文件夹
-description: 了解web-src文件夹结构、其JavaScript文件和嵌套文件夹，以及此文件夹如何支持App Builder示例应用程序中的用户界面。
+description: 探索App Builder web-src文件夹、其JavaScript文件和嵌套文件夹，以及它们在示例应用程序中如何支持用户界面。
 jira: KT-21683
 doc-type: Tutorial
 duration: 285
@@ -29,13 +29,11 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 autotag-review: '2026-08-11T19:18:31.875Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 179
+source-wordcount: '176'
 ht-degree: 0%
-
 ---
-
 # 了解web-src文件夹的用途 {#web-src-folder}
 
 此示例应用程序的web-src文件夹包含许多JavaScript文件和文件夹。 此文件夹用于具有用户界面的应用程序。 并非所有应用程序都使用此功能。 例如，Commerce与外部库存管理系统的集成不需要前端界面和代码。

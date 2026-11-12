@@ -1,22 +1,20 @@
 ---
 title: AI驱动型运费的引入和设置
-description: 了解如何设置AI工具以创建自定义运费，包括克隆入门工具包、审查项目结构和准备环境。
+description: 了解如何设置用于自定义配送费率的AI工具、克隆签出入门工具包、审查项目结构以及准备开发环境。
 feature: Install
 topic: Development
 role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 180
-last-substantial-update: 2026-03-11T00:00:00Z
+last-substantial-update: 2026-03-11
 jira: KT-20428
 exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
-source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
+source-git-commit: 2438933afca636cd633375ece98e15c57c1d9ead
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
-
 ---
-
 # 使用AI工具创建自定义配送费率 — 简介和设置
 
 了解如何设置AI工具以创建自定义运费。 本教程涵盖了克隆签出入门工具包、查看其结构以及准备本地环境。 此基础可确保将外部运费无缝集成到您的工作流中。 要开始配置，请观看下面的视频。

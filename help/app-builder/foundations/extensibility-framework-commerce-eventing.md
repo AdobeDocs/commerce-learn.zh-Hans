@@ -1,10 +1,10 @@
 ---
 title: 可扩展性框架和商务事件
-description: 了解Adobe Developer App Builder可扩展性框架、其关键功能以及Commerce事件如何实现与Adobe Commerce的实时集成。
+description: 探索Adobe Developer App Builder可扩展性框架、其功能以及Commerce事件如何支持实时Adobe Commerce集成。
 jira: KT-11740
 doc-type: Tutorial
 duration: 228
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Eventing, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
@@ -37,13 +37,11 @@ topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
 autotag-review: '2026-08-11T19:18:10.558Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 65
+source-wordcount: '62'
 ht-degree: 0%
-
 ---
-
 # App Builder的可扩展性框架
 
 此功能演示介绍了App Builder及其在Adobe Commerce中的潜在应用。 此视频介绍了可扩展性框架、关键客户优势和功能。

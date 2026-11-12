@@ -1,6 +1,6 @@
 ---
 title: 创建您的第一个App Builder应用程序
-description: 了解使用Adobe Commerce的Adobe Developer App Builder，包括构建第一个进程外应用程序的先决条件、期望和可重用模式。
+description: 构建您的首个Adobe Commerce应用程序，其中涵盖先决条件、期望和可重复使用的进程外模式。
 jira: KT-21679
 doc-type: Tutorial
 duration: 197
@@ -28,13 +28,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:23.176Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 332
+source-wordcount: '329'
 ht-degree: 0%
-
 ---
-
 # 概述 {#overview}
 
 本教程包含以下先决条件：

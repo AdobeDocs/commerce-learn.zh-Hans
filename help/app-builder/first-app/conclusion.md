@@ -1,6 +1,6 @@
 ---
 title: 结论
-description: 了解使用Adobe Commerce完成您的第一个Adobe Developer App Builder应用程序后的其他App Builder资源、文档和社区选项。
+description: 完成您的首个Adobe Commerce应用程序后，查找App Builder资源、文档和社区选项。
 jira: KT-21686
 doc-type: Tutorial
 duration: 100
@@ -23,13 +23,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:17.783Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 130
+source-wordcount: '128'
 ht-degree: 0%
-
 ---
-
 # 结论 {#conclusion}
 
 构建您的第一个Adobe Developer App Builder应用程序后，了解Adobe提供的其他资源。

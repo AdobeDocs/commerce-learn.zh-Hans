@@ -48,9 +48,9 @@ topic_v2:
     internal-label: Machine learning
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '417'
 ht-degree: 0%
 ---
 # 技术入门 — SaaS产品
@@ -113,9 +113,8 @@ ht-degree: 0%
 * [产品推荐](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=zh-Hans)
 * [实时搜索和目录服务](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2023/nov2023/nov-commerce/commerce-search-and-catalog-service.html?lang=zh-Hans)
 * [目录服务价格索引](https://experienceleague.adobe.com/docs/commerce-merchant-services/price-indexer/price-indexing.html?lang=zh-Hans)
-* [App Builder](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/extensibility/adobe-developer-app-builder/introduction-to-app-builder)
+* [App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
 * [分担责任](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html?lang=zh-Hans)
-* [客户数据访问和隐私](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-support-customer-data-access-and-privacy.html)
 * [Commerce认证](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html?lang=zh-Hans)
 * [Commerce学习课程](https://learning.adobe.com/catalog.html?products=Commerce)
 * [Commerce社区论坛](https://community.magento.com/)

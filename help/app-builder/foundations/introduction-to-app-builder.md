@@ -1,10 +1,10 @@
 ---
 title: Adobe Commerce的进程外可扩展性
-description: 了解Adobe Developer App Builder，并了解进程外可扩展性如何让您构建安全、可扩展的Commerce扩展而无需考虑进程内兼容性。
+description: 了解Adobe Developer App Builder如何实现安全、可扩展的进程外Commerce扩展，同时减少进程中的兼容性顾虑。
 jira: KT-11433
 doc-type: Tutorial
 duration: 300
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
@@ -34,13 +34,11 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 761
+source-wordcount: '757'
 ht-degree: 0%
-
 ---
-
 # App Builder简介
 
 从历史上看，Adobe Commerce开发一直采用进程内可扩展性。 进程内模型要求任何新代码与升级、服务器的PHP版本以及Commerce使用的许多其他基本服务器应用程序和服务兼容。 Adobe Developer App Builder使用进程外可扩展性以避免这些兼容性问题。

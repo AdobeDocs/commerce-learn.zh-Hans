@@ -4,9 +4,9 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: de9e426dad620ff9f242454e069e44919be39884
+source-git-commit: db62654c7e54e2026395cc9278ca12ecbff778ee
 workflow-type: tm+mt
-source-wordcount: '1034'
+source-wordcount: '1029'
 ht-degree: 3%
 ---
 
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [报价单行项目折扣](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [报价单行项目注释](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + 应用程序开发和升级 {#application-development-and-upgrades}
-    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=zh-Hans)
+    + [修改数据库表的最佳实践](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [创建模块](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [添加产品属性](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [依赖项注入示例](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -245,6 +245,16 @@ ht-degree: 3%
     + [创建单一源GraphQL API网格](../api-mesh/graphql-single-source.md)
     + [创建多源GraphQL API网格](../api-mesh/graphql-multiple-source.md)
 
+  + 活动和Webhook {#events-and-webhooks}
+    + Adobe Commerce的IO事件 {#io-events}
+      + [IO事件快速入门](../io-events/getting-started-io-events.md)
+      + [Adobe Commerce 2.4.5安装](../io-events/2-4-5-installation.md)
+      + [Adobe Commerce 2.4.6安装](../io-events/2-4-6-installation.md)
+      + [创建App Builder项目](../io-events/create-app-builder-project.md)
+      + [配置Adobe Commerce](../io-events/configure-commerce.md)
+      + [Adobe Commerce模块开发](../io-events/commerce-module-development.md)
+      + [Adobe Commerce条件事件](../io-events/conditional-events.md)
+
 + 可扩展性 {#extensibility}
   + Commerce Developer Agent {#commerce-developer-agent}
     + [概述](../commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video.md)
@@ -286,15 +296,6 @@ ht-degree: 3%
         + [佩雷格林](../pwa/introduction/6-peregrine.md)
       + [PWA Docker开发](../pwa/pwa-docker-development.md)
       + [设置Venia以进行开发](../pwa/set-up-venia-for-dev.md)
-  + 更多App Builder教程和I/O活动 {#adobe-developer-app-builder}
-    + Adobe Commerce的IO事件 {#io-events}
-      + [IO事件快速入门](../io-events/getting-started-io-events.md)
-      + [Adobe Commerce 2.4.5安装](../io-events/2-4-5-installation.md)
-      + [Adobe Commerce 2.4.6安装](../io-events/2-4-6-installation.md)
-      + [创建App Builder项目](../io-events/create-app-builder-project.md)
-      + [配置Adobe Commerce](../io-events/configure-commerce.md)
-      + [Adobe Commerce模块开发](../io-events/commerce-module-development.md)
-      + [Adobe Commerce条件事件](../io-events/conditional-events.md)
 
 + 监控、分析和支持 {#monitoring-analytics-support}
   + 可观测性 {#observability}

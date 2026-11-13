@@ -1,6 +1,6 @@
 ---
 title: 规划现代Adobe Commerce实施
-description: 此网络研讨会介绍了如何规划现代商务系统（尤其是Adobe Commerce）的实施，包括有关发现阶段、服务、全球参考架构、前端开发实践和最佳实践的讨论。
+description: 了解如何规划Adobe Commerce实施，其中涵盖发现、服务、全球参考架构、前端开发和最佳实践。
 feature: API Mesh, App Builder, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
 old-role: Architect, Data Architect, Leader
@@ -52,9 +52,9 @@ topic_v2:
     internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '457'
 ht-degree: 0%
 ---
 # 规划现代Adobe Commerce实施
@@ -83,5 +83,11 @@ Adobe Commerce及其有关规划、构建和维护现代化实施的四部分系
 * 正确规划、组织和安排任务优先级的重要性，包括从项目最难的部分开始并考虑将GRA用于可重用组件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428987?learn=on)
+
+## 相关教程
+
+* [Edge Delivery Services上的Commerce店面：购物者体验](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [数据连接](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [App Builder简介](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

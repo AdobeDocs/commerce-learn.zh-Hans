@@ -26,13 +26,11 @@ topic_v2:
     internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: 151
+source-wordcount: '217'
 ht-degree: 0%
-
 ---
-
 # 成功加速器技术就绪性
 
 Adobe Commerce成功加速服务包括技术准备工作，其中包括启动咨询、升级/迁移准备工作、环境审查和解决方案故障排除。 此外，它们还提供解决方案和采用情况审查，以提高产品使用率和性能。 事件规划和监控服务为关键营销活动和产品发布提供指导和24/7全天候支持，确保最佳性能和主动问题识别。 这些加速器旨在最大限度地提高Adobe Commerce产品的效率和采用率
@@ -53,3 +51,9 @@ Adobe Commerce成功加速服务包括技术准备工作，其中包括启动咨
 * 为关键营销活动和产品发布提供指导和24/7支持。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457655?learn=on)
+
+## 相关教程
+
+* [云基础架构和自托管：启动前检查清单](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [可观察性概述](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [创建支持票证](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)

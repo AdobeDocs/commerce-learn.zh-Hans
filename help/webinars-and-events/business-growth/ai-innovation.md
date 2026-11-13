@@ -2,7 +2,7 @@
 title: 借助人工智能创新实现业务增长
 description: 利用Adobe Commerce探索AI支持的电子商务增长 — 提高可发现性、优化店面并在全球进行扩展。
 feature: App Builder, Catalog Service, Extensibility, Observability,  Personalization, Reporting, Saas, Storefront
-topic: Artificial Intelligence, Migration, Commerce
+topic: Migration, Commerce
 old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
@@ -50,9 +50,9 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '207'
 ht-degree: 0%
 ---
 # 借助人工智能创新实现业务增长
@@ -71,4 +71,10 @@ ht-degree: 0%
 * 通过目录创新加快全球扩张
 * 通过对话式Commerce增强店面体验
 
->[!VIDEO](https://video.tv.adobe.com/v/3475705?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475691?learn=on)
+
+## 相关教程
+
+* [Commerce MCP概述](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
+* [Commerce Developer Agent学习路径](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
+* [Adobe Commerce Optimizer：可组合目录数据模型](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)

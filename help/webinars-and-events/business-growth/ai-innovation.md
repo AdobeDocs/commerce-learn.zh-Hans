@@ -50,9 +50,9 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '208'
 ht-degree: 0%
 ---
 # 借助人工智能创新实现业务增长
@@ -76,5 +76,5 @@ ht-degree: 0%
 ## 相关教程
 
 * [Commerce MCP概述](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
-* [Commerce Developer Agent学习路径](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
-* [Adobe Commerce Optimizer：可组合目录数据模型](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)
+* [Commerce Developer Agent学习路径](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
+* [Adobe Commerce Optimizer：可组合目录数据模型](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)

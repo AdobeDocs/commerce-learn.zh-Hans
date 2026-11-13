@@ -34,9 +34,9 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '808'
+source-wordcount: '809'
 ht-degree: 0%
 ---
 # App Builder简介
@@ -109,6 +109,6 @@ App Builder为开发人员提供视频和文档，包括指南和参考文档，
 
 ## 特定于产品的示例
 
-对于基于App Builder构建的Adobe Commerce Optimizer集成，请遵循[Salesforce Commerce Cloud入门工具包](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/adobe-commerce-optimizer/sfcc-starter-kit/overview)。 系列内容涵盖体系结构、Salesforce墨盒安装、App Builder入门套件和端到端演示。
+对于基于App Builder构建的Adobe Commerce Optimizer集成，请遵循[Salesforce Commerce Cloud入门工具包](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/adobe-commerce-optimizer/sfcc-starter-kit/overview)。 系列内容涵盖体系结构、Salesforce墨盒安装、App Builder入门套件和端到端演示。
 
 {{$include /help/_includes/app-builder-related-links.md}}

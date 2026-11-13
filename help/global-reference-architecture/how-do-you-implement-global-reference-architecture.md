@@ -1,6 +1,6 @@
 ---
 title: 如何实施全局参考体系结构
-description: 了解如何实施全球参考架构。 了解分发网站的想法、成功关键因素以及确保全球参考架构项目走上正确轨道所需的角色。
+description: 了解如何为Adobe Commerce实施全球参考架构，包括网站分发、成功因素、功能开发和团队角色。
 jira: KT-14042
 doc-type: Value Video
 duration: 2273
@@ -40,12 +40,16 @@ topic_v2:
     internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 ---
 # 实施全球参考体系结构
+
+>[!NOTE]
+>
+>本系列介绍有关云基础架构和自托管部署的Adobe Commerce。
 
 了解如何实施全球参考架构(GRA)。 了解有助于建立成功GRA的早期决策。 获取有关如何划分网站的想法、取得成功的关键，以及以有条理的方式开发功能的一些概念。
 

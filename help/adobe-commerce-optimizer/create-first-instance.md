@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 131
-last-substantial-update: 2025-07-25T00:00:00.000Z
+last-substantial-update: 2025-07-25
 jira: KT-18610
 exl-id: 7136b0d6-a29f-42f4-8363-5bd4a2d828fc
 autotag-review: '2026-08-11T18:59:19.947Z'
@@ -30,9 +30,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '174'
 ht-degree: 0%
 ---
 # 创建您的第一个Adobe Commerce Optimizer实例
@@ -56,5 +56,4 @@ ht-degree: 0%
 ## 相关内容
 
 * [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/overview){target="_blank"}
-* [Adobe Commerce Optimizer概述](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/adobe-commerce-optimizer/overview){target="_blank"}
-
+* [Adobe Commerce Optimizer概述](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}

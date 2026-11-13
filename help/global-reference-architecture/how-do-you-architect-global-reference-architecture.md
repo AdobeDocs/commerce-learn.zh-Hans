@@ -1,6 +1,6 @@
 ---
 title: 如何构建全局参考架构
-description: 了解如何构建全局参考架构。 了解技术和想法，确保您的全球参考架构项目走上正轨
+description: 了解如何构建Adobe Commerce的全球参考架构，包括代码管理技术、文档、工具和团队职责。
 jira: KT-14041
 doc-type: Value Video
 duration: 3108
@@ -42,12 +42,16 @@ topic_v2:
     internal-label: Implementation
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '158'
 ht-degree: 0%
 ---
 # 为GRA构建
+
+>[!NOTE]
+>
+>本系列介绍有关云基础架构和自托管部署的Adobe Commerce。
 
 了解如何构建全局参考架构或GRA （简称）。 为了更好地准备GRA以成功实施，Adobe专家将讨论什么是GRA，什么不是GRA。 有关使用单独的包、拆分git和monorepo进行代码管理的详细讨论。 还讨论了与文档、工具和人员期望相关的其他主题，以阐述其成功实施GRA的部分。
 

@@ -40,12 +40,16 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '86'
 ht-degree: 1%
 ---
 # 全球参考体系结构
+
+>[!NOTE]
+>
+>本系列介绍有关云基础架构和自托管部署的Adobe Commerce。
 
 了解全球参考架构、一些核心概念以及这种方法的优势。
 

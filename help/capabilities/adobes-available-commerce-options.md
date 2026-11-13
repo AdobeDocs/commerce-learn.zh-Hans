@@ -2,9 +2,9 @@
 title: Adobe可用的commerce选项
 description: 比较Adobe Commerce部署选项（本地、云、SaaS和Commerce Optimizer），了解如何为您的业务选择正确的模式。
 jira: KT-20236
-doc-type: tutorial
+doc-type: Tutorial
 duration: 360
-last-substantial-update: 2026-2-25
+last-substantial-update: 2026-02-25
 feature: Paas, Saas
 topic: Commerce, Architecture
 role: Admin, Leader, Developer
@@ -28,7 +28,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%

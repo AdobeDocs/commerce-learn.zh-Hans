@@ -34,9 +34,9 @@ topic_v2:
     internal-label: Data modeling
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '235'
 ht-degree: 0%
 ---
 # 快速通道扩展
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 ## 相关教程
 
-* [Adobe Commerce Optimizer：目录视图](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views)
+* [Adobe Commerce Optimizer：目录视图](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views)
 * [Adobe Commerce as a Cloud Service：目录管理和促销](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services)
 
 ## 此系列中的其他视频

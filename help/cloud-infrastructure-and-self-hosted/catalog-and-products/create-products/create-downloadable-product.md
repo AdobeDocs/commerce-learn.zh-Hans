@@ -64,7 +64,7 @@ ht-degree: 4%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453956?captions=chi_hans&learn=on)
 
 ## 允许下载的域
 

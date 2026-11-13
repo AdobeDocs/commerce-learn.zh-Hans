@@ -52,7 +52,7 @@ Adobe Commerce Intelligence SQL Report Builder允许您查询数据仓库、查�
 
 >[!TIP]
 >
-> 如果您不熟悉Commerce Intelligence，[Adobe Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"}将介绍如何聚合、分析和可视化数据以获得更强大的业务洞察。
+> 如果您不熟悉Commerce Intelligence，[Adobe Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=zh-Hans){target="_blank"}将介绍如何聚合、分析和可视化数据以获得更强大的业务洞察。
 
 ## 此视频面向谁？
 
@@ -69,5 +69,5 @@ Adobe Commerce Intelligence SQL Report Builder允许您查询数据仓库、查�
 
 ## 有用的资源
 
-* [使用SQL Report Builder](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html){target="_blank"} （Commerce Intelligence用户指南）
-* [根据SQL查询创建可视化图表](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html){target="_blank"} （Commerce Intelligence用户指南）
+* [使用SQL Report Builder](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html?lang=zh-Hans){target="_blank"} （Commerce Intelligence用户指南）
+* [根据SQL查询创建可视化图表](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html?lang=zh-Hans){target="_blank"} （Commerce Intelligence用户指南）

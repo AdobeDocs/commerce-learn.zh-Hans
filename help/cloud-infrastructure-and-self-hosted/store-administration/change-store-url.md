@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 136
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Native Luma Frontend Development
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -59,11 +59,11 @@ Adobe Commerce或Magento Open Source安装中的每个网站都有一个店面�
 
 >[!NOTE]
 >
->视频中的内容反映了2.1.0版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/overview)。
+>视频中的内容反映了2.1.0版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3507859?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35488?learn=on)
 
 ## 其他资源
 
-* [商店URL - [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/stores-sales/site-store/store-urls)
-* [使用自定义管理员URL - [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/stores-sales/site-store/store-urls#use-a-custom-admin-url)
+* [商店URL - [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/site-store/store-urls)
+* [使用自定义管理员URL - [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/site-store/store-urls#use-a-custom-admin-url)

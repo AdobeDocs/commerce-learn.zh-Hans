@@ -11,7 +11,7 @@ role: Admin, Developer, User
 level: Beginner
 doc-type: Feature Video
 duration: 427
-last-substantial-update: 2026-10-07T00:00:00.000Z
+last-substantial-update: 2026-10-07
 jira: KT-19031
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -34,7 +34,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -56,7 +56,7 @@ ht-degree: 0%
 * 在默认视图和保存的视图之间切换，并更新现有视图。
 * 导航到存储配置并浏览常规、目录、安全性、客户和销售设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/3473181?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473115?learn=on)
 
 ## 保存的网格视图
 
@@ -70,6 +70,6 @@ ht-degree: 0%
 
 * [管理网格筛选器](admin-grids-and-filters.md)
 * [使用命令行查看和设置管理员配置](view-update-store-configuration-cli.md)
-* [管理工具和工作区](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/start/admin/tools/admin-workspace)
-* [管理网格控件](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/start/admin/tools/admin-grid-controls)
-* [站点、存储和查看范围](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/start/setup/websites-stores-views)
+* [管理工具和工作区](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-workspace)
+* [管理网格控件](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-grid-controls)
+* [站点、存储和查看范围](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)

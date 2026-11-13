@@ -3,7 +3,7 @@ title: 创建客户区段
 description: 了解如何创建客户区段，以便您可以使用地址、订单历史记录、购物车数据等定位内容和促销。
 doc-type: Technical Video
 duration: 221
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Personalization, Price Rules
 topic: Commerce, Administration, Content Management
 role: Admin, User
@@ -40,7 +40,7 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -61,9 +61,9 @@ ht-degree: 0%
 * 从客户属性、订单和购物车数据构建区段。
 * 将区段连接到促销和购物车价格规则。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410188?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343659?learn=on)
 
 ## 其他资源
 
-* [客户区段 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html?lang=zh-Hans){target="_blank"}
-* [价格规则 —  [!DNL Commerce] 客户管理指南中的客户区段](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html?lang=zh-Hans){target="_blank"}
+* [客户区段 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html){target="_blank"}
+* [价格规则 —  [!DNL Commerce] 客户管理指南中的客户区段](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html){target="_blank"}

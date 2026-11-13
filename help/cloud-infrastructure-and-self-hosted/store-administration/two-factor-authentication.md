@@ -3,7 +3,7 @@ title: 双重身份验证
 description: 了解2FA如何使用多个提供商和您的团队可能需要的登录方法保护Adobe Commerce和Magento Open Source中的管理员。
 doc-type: Feature Video
 duration: 422
-last-substantial-update: 2026-03-26T00:00:00.000Z
+last-substantial-update: 2026-03-26
 feature: Configuration, System, Security
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -38,7 +38,7 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -56,13 +56,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.4.0版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/overview)。
+>视频中的内容反映了2.4.0版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3507687?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/339104?learn=on)
 
 ## 其他资源
 
-* [双重身份验证(2FA)](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication)
-* [用户帐户的双重身份验证设置](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-use)
-* [管理双重身份验证](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-manage)
+* [双重身份验证(2FA)](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication)
+* [用户帐户的双重身份验证设置](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-use)
+* [管理双重身份验证](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/security/tfa/security-two-factor-authentication-manage)
 * [配置双重身份验证(2FA) — 开发人员文档](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication)

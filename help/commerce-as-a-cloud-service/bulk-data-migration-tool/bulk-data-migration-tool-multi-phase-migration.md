@@ -6,7 +6,7 @@ topic: Migration
 role: Developer
 doc-type: Technical Video
 duration: 211
-last-substantial-update: 2026-07-27T00:00:00.000Z
+last-substantial-update: 2026-07-27
 jira: KT-22157
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -17,7 +17,7 @@ feature_v2:
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
@@ -39,4 +39,4 @@ ht-degree: 0%
 * 第一阶段在源仍处于活动状态时运行 — `bin console migration:before-maintenance`检查配置、初始化环境、连接到CDMS、注册迁移、运行功能测试以及创建合成测试数据。 在此阶段完成之前不要启用维护模式。
 * 第三阶段是从冻结环境中提取 — `bin/console migration:during-maintenance`根据需要重新打开PaaS隧道，从源提取，清除暂存视图，加载到ACCS目标，运行验证，以及清除目标上的测试数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496421?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496413?learn=on)

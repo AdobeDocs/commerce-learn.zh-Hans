@@ -4,7 +4,7 @@ description: 探索Adobe Commerce as a Cloud Service架构和关键功能，以�
 jira: KT-17220
 doc-type: Technical Video
 duration: 235
-last-substantial-update: 2025-01-30T00:00:00.000Z
+last-substantial-update: 2025-01-30
 feature: Catalog Management, Catalog Service, Services
 topic: Architecture, Commerce, Headless, Performance
 role: Developer
@@ -46,7 +46,7 @@ topic_v2:
     internal-label: Customer experience
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -73,4 +73,4 @@ Adobe Commerce as a Cloud Service提供了一个安全、自动的托管平台�
 * 全面的API覆盖：该平台支持使用GraphQL和REST API进行广泛的API覆盖，从而实现与第三方系统的无缝集成。
 * 分离式架构：完全分离的架构允许开发人员使用各种前端框架，从而提供灵活性和性能。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443277?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443232?learn=on)

@@ -4,7 +4,7 @@ description: 了解Adobe Commerce as a Cloud Service。 一种灵活、可扩展
 jira: KT-17219
 doc-type: Technical Video
 duration: 231
-last-substantial-update: 2025-02-03T00:00:00.000Z
+last-substantial-update: 2025-02-03
 feature: Auto Scaling, Cloud, Services
 topic: Architecture, Commerce, Headless, Performance
 role: Developer
@@ -38,7 +38,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
@@ -65,8 +65,8 @@ Adobe Commerce as a Cloud Service为企业提供了一个灵活、可扩展且�
 * 简化的载入和自助服务配置，可快速高效地设置沙盒或生产实例。
 * 用于独立部署、扩展和更新服务的可组合架构，具有API优先的可扩展性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443321?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443311?learn=on)
 
 ## 相关文档
 
-* [Adobe Commerce as a Cloud Service指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/cloud-service/overview)
+* [Adobe Commerce as a Cloud Service指南](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)

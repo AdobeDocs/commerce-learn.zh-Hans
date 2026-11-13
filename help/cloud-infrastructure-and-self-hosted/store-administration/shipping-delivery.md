@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 155
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Shipping/Delivery
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -40,7 +40,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -56,10 +56,10 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3410205?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343658?learn=on)
 
 ## 其他资源
 
-* [送货设置 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/stores-sales/delivery/shipping-settings)
-* [基本交付方法 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/stores-sales/delivery/delivery#basic-delivery-methods)
-* [装运承运人设置 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers)
+* [送货设置 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/shipping-settings)
+* [基本交付方法 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/delivery#basic-delivery-methods)
+* [装运承运人设置 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers)

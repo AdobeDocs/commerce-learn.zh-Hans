@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 189
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Security, Roles/Permissions
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -44,7 +44,7 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -59,10 +59,10 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3443517?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343654?learn=on)
 
 ## 其他资源
 
-[管理管理员用户帐户 —  [!DNL Commerce] 管理系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=zh-Hans)
+[管理管理员用户帐户 —  [!DNL Commerce] 管理系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[用户角色 —  [!DNL Commerce] 管理员系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=zh-Hans)
+[用户角色 —  [!DNL Commerce] 管理员系统指南](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

@@ -56,9 +56,9 @@ ht-degree: 0%
 
 ## 相关教程
 
-* [Edge Delivery Services上的Commerce店面：购物者体验](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
-* [Adobe Commerce as a Cloud Service：创新型人工智能内容创建](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/genai-powered-content-creation)
-* [Adobe Commerce as a Cloud Service：店面试验](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation)
+* [Edge Delivery Services上的Commerce店面：购物者体验](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Adobe Commerce as a Cloud Service：创新型人工智能内容创建](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/genai-powered-content-creation)
+* [Adobe Commerce as a Cloud Service：店面试验](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation)
 
 ## 此系列中的其他视频
 

@@ -115,9 +115,9 @@ ht-degree: 0%
 
 ## 相关教程
 
-* [App Builder简介](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
-* [API Mesh入门](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
-* [Adobe I/O Events入门](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/events-and-webhooks/io-events/getting-started-io-events)
-* [数据连接](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [App Builder简介](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [API Mesh入门](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
+* [Adobe I/O Events入门](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/apis-and-integration/events-and-webhooks/io-events/getting-started-io-events)
+* [数据连接](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

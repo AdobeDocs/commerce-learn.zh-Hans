@@ -86,8 +86,8 @@ Adobe Commerce及其有关规划、构建和维护现代化实施的四部分系
 
 ## 相关教程
 
-* [Edge Delivery Services上的Commerce店面：购物者体验](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
-* [数据连接](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
-* [App Builder简介](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Edge Delivery Services上的Commerce店面：购物者体验](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [数据连接](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [App Builder简介](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

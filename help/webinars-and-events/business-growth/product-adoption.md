@@ -67,6 +67,6 @@ Adobe Commerce正在帮助企业分阶段迁移到Adobe Commerce as a Cloud Serv
 
 ## 相关教程
 
-* [迁移到Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/modernization-and-migration)
-* [App Builder简介](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
-* [Edge Delivery Services上的Commerce店面：购物者体验](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [迁移到Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/modernization-and-migration)
+* [App Builder简介](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Edge Delivery Services上的Commerce店面：购物者体验](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)

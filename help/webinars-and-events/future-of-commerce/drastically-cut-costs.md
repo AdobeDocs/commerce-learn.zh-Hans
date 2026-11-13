@@ -55,9 +55,9 @@ Adobe Commerce的云原生平台通过完全受管的基础架构、自动更新
 
 ## 相关教程
 
-* [Adobe Commerce as a Cloud Service概述](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
-* [App Builder简介](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
-* [API Mesh入门](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
+* [Adobe Commerce as a Cloud Service概述](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
+* [App Builder简介](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [API Mesh入门](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
 
 ## 此系列中的其他视频
 

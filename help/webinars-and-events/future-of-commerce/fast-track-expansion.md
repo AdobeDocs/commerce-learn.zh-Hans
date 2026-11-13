@@ -62,8 +62,8 @@ ht-degree: 0%
 
 ## 相关教程
 
-* [Adobe Commerce Optimizer：目录视图](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views)
-* [Adobe Commerce as a Cloud Service：目录管理和促销](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services)
+* [Adobe Commerce Optimizer：目录视图](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views)
+* [Adobe Commerce as a Cloud Service：目录管理和促销](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services)
 
 ## 此系列中的其他视频
 

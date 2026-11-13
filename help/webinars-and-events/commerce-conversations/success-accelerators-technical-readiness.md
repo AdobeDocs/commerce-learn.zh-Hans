@@ -54,6 +54,6 @@ Adobe Commerce成功加速服务包括技术准备工作，其中包括启动咨
 
 ## 相关教程
 
-* [云基础架构和自托管：启动前检查清单](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
-* [可观察性概述](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
-* [创建支持票证](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
+* [云基础架构和自托管：启动前检查清单](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [可观察性概述](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [创建支持票证](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)

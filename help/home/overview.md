@@ -68,9 +68,9 @@ ht-degree: 0%
 * **计划和现代化：**&#x200B;比较Commerce选项，探索架构和部署方法，并了解迁移、项目规划和实施最佳实践。
 * **生成和集成：**&#x200B;使用App Builder、GraphQL、REST、API Mesh、活动和Webhook进行开发。 探索后台集成和店面开发，包括Edge Delivery Services。
 * **管理和操作：**&#x200B;了解商店管理、目录、内容、营销、推销、B2B工作流和付款。 查找有关云操作、监控、分析、性能和故障排除的指导。
-* **浏览Optimizer和AI：**&#x200B;浏览[Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)有关目录和店面功能的教程。 请按照[AI和代理商务](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)指南执行语义搜索、Commerce MCP和开发人员工作流。
+* **浏览Optimizer和AI：**&#x200B;浏览[Adobe Commerce Optimizer](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)有关目录和店面功能的教程。 请按照[AI和代理商务](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)指南执行语义搜索、Commerce MCP和开发人员工作流。
 
-有关更深入的实施观点、产品更新和业务讨论，请探索[网络研讨会和活动](https://experienceleague.adobe.com/en/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation)指南。 使用视频和教程以及[Commerce文档](https://experienceleague.adobe.com/en/docs/commerce)了解详细要求和参考信息。
+有关更深入的实施观点、产品更新和业务讨论，请探索[网络研讨会和活动](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation)指南。 使用视频和教程以及[Commerce文档](https://experienceleague.adobe.com/zh-hans/docs/commerce)了解详细要求和参考信息。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -81,12 +81,12 @@ ht-degree: 0%
 
 >[!TIP]
 >
->[Commerce Events](https://experienceleague.adobe.com/en/events)共享空间提供了对录制的活动内容的访问权限，您可以根据需要观看这些内容。
+>[Commerce Events](https://experienceleague.adobe.com/zh-hans/events)共享空间提供了对录制的活动内容的访问权限，您可以根据需要观看这些内容。
 
 ## 其他资源
 
-* [Commerce文档](https://experienceleague.adobe.com/en/docs/commerce) - Commerce产品的产品指南和参考信息。
-* [商家文档](https://experienceleague.adobe.com/en/docs/commerce-admin/user-guides/home) — 云基础架构和自托管部署的存储设置和管理。
+* [Commerce文档](https://experienceleague.adobe.com/zh-hans/docs/commerce) - Commerce产品的产品指南和参考信息。
+* [商家文档](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/user-guides/home) — 云基础架构和自托管部署的存储设置和管理。
 * [开发人员文档](https://developer.adobe.com/commerce/) - API、SDK、集成和可扩展性资源。
-* [Commerce知识库](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/overview) — 疑难解答文章、已知问题和支持指南。
-* [Experience League课程](https://experienceleague.adobe.com/en/courses?product=Commerce) - Experience League上的结构化学习。
+* [Commerce知识库](https://experienceleague.adobe.com/zh-hans/docs/commerce-knowledge-base/kb/overview) — 疑难解答文章、已知问题和支持指南。
+* [Experience League课程](https://experienceleague.adobe.com/zh-hans/courses?product=Commerce) - Experience League上的结构化学习。

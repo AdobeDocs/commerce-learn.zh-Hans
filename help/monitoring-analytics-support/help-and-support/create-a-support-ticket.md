@@ -7,7 +7,7 @@ role: Admin, Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 355
-last-substantial-update: 2024-08-23T00:00:00.000Z
+last-substantial-update: 2024-08-23
 jira: KT-15165
 exl-id: f1ade4e9-f6c3-4498-afad-27c0120242be
 TQID: 'https://experienceleague.adobe.com/S2bl2x6FNq0bvaWUlTMoCHWSYaxmwLliNVewsDxKNh4'
@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 5c0f4dcbf6ba5b317d27e911624f3175cebc5662
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -61,8 +61,8 @@ ht-degree: 0%
 * 了解推荐的文章如何根据表单中使用的信息进行更改
 * 表单字段中找到的占位符文本如何有助于了解良好支持请求所需的信息类型
 
->[!VIDEO](https://video.tv.adobe.com/v/3449563?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
 
 ## Commerce知识库Adobe帮助中心指南
 
-[提交支持案例](https://experienceleague.adobe.com/zh-hans/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
+[提交支持案例](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)

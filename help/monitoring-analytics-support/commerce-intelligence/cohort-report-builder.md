@@ -9,7 +9,7 @@ duration: 103
 solution: Adobe Commerce
 audience: all
 activity: use
-last-substantial-update: 2023-2-10
+last-substantial-update: 2023-02-10
 feature: Commerce Intelligence
 topic: Commerce, Administration
 role: Admin, User
@@ -43,7 +43,7 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->如果您是Commerce Intelligence的新用户，[Adobe Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=zh-Hans){target="_blank"}将全面概述如何通过数据汇总、分析和可视化来获取更好的业务见解和结果。
+>如果您是Commerce Intelligence的新用户，[Adobe Commerce Intelligence用户指南](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"}将全面概述如何通过数据汇总、分析和可视化来获取更好的业务见解和结果。
 
 ## 此视频面向谁？
 
@@ -69,10 +69,10 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/346393?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342407?learn=on)
 
 ## 有用的资源
 
-[《使用同类群组Report Builder - Commerce Intelligence用户指南》](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html?lang=zh-Hans)
+[《使用同类群组Report Builder - Commerce Intelligence用户指南》](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html)
 
-[创建定性同类群组分析 — 《Commerce Intelligence用户指南》](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html?lang=zh-Hans)
+[创建定性同类群组分析 — 《Commerce Intelligence用户指南》](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html)

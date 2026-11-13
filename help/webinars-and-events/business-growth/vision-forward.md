@@ -85,7 +85,7 @@ Adobe Commerce2026年路线图概述了一项全面战略，旨在通过实时�
 * 商户中心和管理体验
 * 开发人员体验和可观察性改进
 
->[!VIDEO](https://video.tv.adobe.com/v/3475695?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475716?captions=chi_hans&learn=on)
 
 ## 相关教程
 

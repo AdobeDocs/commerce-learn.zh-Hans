@@ -54,4 +54,4 @@ Adobe Commerce通过各种计划和加载项提供全面的客户支持。 Exper
 * 了解可用的加载项。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457545?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505281?captions=chi_hans&learn=on)

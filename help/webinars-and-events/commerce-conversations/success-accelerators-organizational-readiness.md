@@ -57,4 +57,4 @@ ht-degree: 0%
 * 变更管理和沟通策略
 * 数字审查和基准设定
 
->[!VIDEO](https://video.tv.adobe.com/v/3457892?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505738?captions=chi_hans&learn=on)

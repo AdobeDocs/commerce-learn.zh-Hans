@@ -43,4 +43,4 @@ ht-degree: 0%
 * 要生成四个所需的令牌，请激活集成。
 * 如果您的源是Adobe Commerce as a Cloud Service (PaaS)，请从account.magento.cloud检索Magento CLI令牌。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496142?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496150?captions=chi_hans&learn=on)

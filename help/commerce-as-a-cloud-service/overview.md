@@ -65,7 +65,7 @@ Adobe Commerce as a Cloud Service为企业提供了一个灵活、可扩展且�
 * 简化的载入和自助服务配置，可快速高效地设置沙盒或生产实例。
 * 用于独立部署、扩展和更新服务的可组合架构，具有API优先的可扩展性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443311?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443321?captions=chi_hans&learn=on)
 
 ## 相关文档
 

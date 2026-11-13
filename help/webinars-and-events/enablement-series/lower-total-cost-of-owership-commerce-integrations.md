@@ -8,7 +8,7 @@ role: Developer, Leader
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 3648
-last-substantial-update: 2024-04-26T00:00:00.000Z
+last-substantial-update: 2024-04-26
 jira: KT-15393
 auto-video-transcripts: true
 exl-id: 3c31c204-a33f-4f8a-b74d-d81f5ad6c433
@@ -83,7 +83,7 @@ topic_v2:
     internal-label: Insights
   - id: e6ff21d3-dec6-4298-8590-7c749fffaf78
     internal-label: Content and assets
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '375'
 ht-degree: 0%
@@ -115,9 +115,9 @@ ht-degree: 0%
 
 ## 相关教程
 
-* [App Builder简介](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
-* [API Mesh入门](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
-* [Adobe I/O Events入门](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/apis-and-integration/events-and-webhooks/io-events/getting-started-io-events)
-* [数据连接](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [App Builder简介](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [API Mesh入门](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
+* [Adobe I/O Events入门](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/events-and-webhooks/io-events/getting-started-io-events)
+* [数据连接](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

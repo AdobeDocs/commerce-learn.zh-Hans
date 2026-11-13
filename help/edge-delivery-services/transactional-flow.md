@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 525
-last-substantial-update: 2024-12-16T00:00:00.000Z
+last-substantial-update: 2024-12-16
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
 TQID: 'https://experienceleague.adobe.com/w2hP8PL0E4TWrDAcvF4F79z2IoYGKu7Rsvc9wEFZSfg'
@@ -38,7 +38,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -63,7 +63,7 @@ ht-degree: 0%
 * A/B测试灵活性。 通过SharePoint启用配置，使营销人员能够控制和测试这些功能。
 * 增强的营销控制。 轻松管理和测试配置，改善用户体验和营销有效性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442361?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
 
 ## 其他文档
 

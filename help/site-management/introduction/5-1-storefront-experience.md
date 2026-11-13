@@ -2,10 +2,10 @@
 title: 商业用户[!DNL Commerce] — 店面
 description: 了解客户在店面的体验，包括创建帐户、愿望清单以及将愿望清单项目添加到购物车
 kt: 5778
-doc-type: video
+doc-type: Technical Video
 duration: 434
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers, Native Luma Frontend Development, Page Content, Site Navigation
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -42,7 +42,7 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -64,12 +64,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hans)。
+>视频中的内容反映了2.3.1版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)。
 
->[!VIDEO](https://video.tv.adobe.com/v/330201?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36188?learn=on)
 
 ## 其他资源
 
-[客户帐户范围 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html?lang=zh-Hans)
+[客户帐户范围 —  [!DNL Commerce] 客户管理指南](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
 
-[希望列表店面体验 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html?lang=zh-Hans)
+[希望列表店面体验 —  [!DNL Commerce] 商店和购买体验指南](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)

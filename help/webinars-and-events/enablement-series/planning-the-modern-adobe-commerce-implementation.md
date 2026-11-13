@@ -8,7 +8,7 @@ role: Developer, Leader
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 3624
-last-substantial-update: 2024-05-07T00:00:00.000Z
+last-substantial-update: 2024-05-07
 jira: KT-15465
 exl-id: a8e1cd14-e9ff-46ba-87ea-c1cba3b4f72f
 TQID: 'https://experienceleague.adobe.com/QO48-EUvrWmkJHTmaboYTDtFKX9UjtBabUgkwGEZxJM'
@@ -52,7 +52,7 @@ topic_v2:
     internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '457'
 ht-degree: 0%
@@ -86,8 +86,8 @@ Adobe Commerce及其有关规划、构建和维护现代化实施的四部分系
 
 ## 相关教程
 
-* [Edge Delivery Services上的Commerce店面：购物者体验](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
-* [数据连接](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
-* [App Builder简介](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Edge Delivery Services上的Commerce店面：购物者体验](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [数据连接](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [App Builder简介](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

@@ -4,7 +4,7 @@ description: 了解如何配置Adobe Commerce以允许在Adobe Developer App Bui
 jira: KT-11889
 doc-type: Tutorial
 duration: 268
-last-substantial-update: 2023-02-21T00:00:00.000Z
+last-substantial-update: 2023-02-21
 feature: App Builder, Configuration, Backend Development
 topic: Commerce, Architecture
 role: Developer, User
@@ -36,7 +36,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
@@ -56,7 +56,7 @@ ht-degree: 0%
 * 在Commerce管理员中保存唯一标识符
 * 创建事件提供程序
 
->[!VIDEO](https://video.tv.adobe.com/v/3419711?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415799?learn=on)
 
 ## 有用的命令 {#useful-commands}
 

@@ -4,7 +4,7 @@ description: 了解如何为Adobe Commerce实施全球参考架构，包括网�
 jira: KT-14042
 doc-type: Value Video
 duration: 2273
-last-substantial-update: 2023-10-06T00:00:00.000Z
+last-substantial-update: 2023-10-06
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Developer, User, Leader
@@ -40,7 +40,7 @@ topic_v2:
     internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -69,6 +69,6 @@ ht-degree: 0%
 * 全局控制板 — 可使用的功能
 * 将GRA用作模块市场的替代概念
 
->[!VIDEO](https://video.tv.adobe.com/v/3457218?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

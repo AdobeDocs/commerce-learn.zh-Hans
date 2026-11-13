@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 856
-last-substantial-update: 2025-01-13T00:00:00.000Z
+last-substantial-update: 2025-01-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
 TQID: 'https://experienceleague.adobe.com/QnipDRCT13r3KSOOZj3G8A8EoAZNET6Y823qbjDAXE8'
@@ -45,7 +45,7 @@ topic_v2:
     internal-label: Customer experience
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%
@@ -72,7 +72,7 @@ ht-degree: 0%
 * 地址输入字段的验证和错误处理，确保用户立即收到有关不正确或不完整条目的反馈，从而改善用户体验。
 * 用户帐户仪表板的扩展，用于向用户帐户仪表板添加新的侧栏菜单项。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442916?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
 ## 其他文档
 

@@ -7,7 +7,7 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
 duration: 581
-last-substantial-update: 2024-06-25T00:00:00.000Z
+last-substantial-update: 2024-06-25
 jira: KT-14910
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
 TQID: 'https://experienceleague.adobe.com/9jR79l0ERhs4UsQ9da2juigSktpcVE5IsiBnk83gCzc'
@@ -29,7 +29,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-11-11T17:29:20.958Z'
-source-git-commit: 20b453fcf567eee25d70450bdc9b739f16623f68
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '1105'
 ht-degree: 0%
@@ -43,7 +43,7 @@ ht-degree: 0%
 * 使用数据库管理工具（如MySQL Workbench或TablePlus）连接到远程Adobe Commerce云项目。
 * 连接到项目并从命令行运行SQL。
 
->[!VIDEO](https://video.tv.adobe.com/v/3450046?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
 
 您可以使用以下任一方法从云项目访问Adobe Commerce数据：
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ## 使用Adobe Commerce Cloud CLI工具
 
-您需要安装[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview)才能创建数据库转储。 在本地计算机上，打开一个目录并运行以下命令。 将`your-project-id`替换为您的项目ID（类似于`asasdasd45q`）。 将`your-environment-name`替换为您的环境名称，如`master`或`staging`。
+您需要安装[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview)才能创建数据库转储。 在本地计算机上，打开一个目录并运行以下命令。 将`your-project-id`替换为您的项目ID（类似于`asasdasd45q`）。 将`your-environment-name`替换为您的环境名称，如`master`或`staging`。
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -291,7 +291,7 @@ SSH用户名是@符号之前的所有内容： `abasrpikfw4123-remote-db-ecpefky
    magento-cloud ssh
    ```
 
-2. 从[$MAGENTO_CLOUD_RELATIONSHIP](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/configure/app/properties/properties#relationships)变量中的`database`和`type`属性检索MySQL登录凭据。
+2. 从[$MAGENTO_CLOUD_RELATIONSHIP](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/app/properties/properties#relationships)变量中的`database`和`type`属性检索MySQL登录凭据。
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -337,7 +337,7 @@ SSH用户名是@符号之前的所有内容： `abasrpikfw4123-remote-db-ecpefky
 
 ## 直接连接到云项目数据库以运行SQL
 
-以下方法使用`magento-cloud` CLI直接连接到MySQL数据库并运行SQL以加快查询。 如果需要此数据库的副本，请使用一种替代方法[创建数据库转储](https://experienceleague.adobe.com/zh-hans/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud)。
+以下方法使用`magento-cloud` CLI直接连接到MySQL数据库并运行SQL以加快查询。 如果需要此数据库的副本，请使用一种替代方法[创建数据库转储](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud)。
 
 ```bash
 magento-cloud db:sql    
@@ -397,7 +397,7 @@ MariaDB [main]>
 
 ## 其他资源
 
-* [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview)
-* [设置MySQL服务](https://experienceleague.adobe.com/zh-hans/docs/commerce-on-cloud/user-guide/configure/service/mysql)
-* [设置远程MySQL数据库连接](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote)
-* [在云基础架构上的Adobe Commerce上创建数据库转储](https://experienceleague.adobe.com/zh-hans/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud)
+* [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview)
+* [设置MySQL服务](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/service/mysql)
+* [设置远程MySQL数据库连接](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote)
+* [在云基础架构上的Adobe Commerce上创建数据库转储](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud)

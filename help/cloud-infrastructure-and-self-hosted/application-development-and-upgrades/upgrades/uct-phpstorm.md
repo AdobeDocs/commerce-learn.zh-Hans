@@ -3,7 +3,7 @@ title: 使用PhpStorm中的升级兼容性工具
 description: 了解如何将升级兼容性工具与PhpStorm插件结合使用，以在升级之前查找并修复不兼容的问题。
 doc-type: Technical Video
 duration: 416
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Upgrade, Tools and External Services
 topic: Commerce, Administration
 role: Developer
@@ -32,7 +32,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 autotag-review: '2026-11-11T17:29:20.964Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -58,10 +58,10 @@ ht-degree: 0%
 * 从PhpStorm安装和运行UCT。
 * 查看HTML报告并排定修复的优先级。
 
->[!VIDEO](https://video.tv.adobe.com/v/344403?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340150?learn=on)
 
 ## 其他资源
 
-* [升级兼容性工具](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=zh-Hans){target="_blank"}
+* [升级兼容性工具](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html){target="_blank"}
 * [Magento PhpStorm插件](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm){target="_blank"}
-* [已发布版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=zh-Hans){target="_blank"}
+* [已发布版本](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html){target="_blank"}

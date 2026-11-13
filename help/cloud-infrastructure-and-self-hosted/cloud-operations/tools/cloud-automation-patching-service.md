@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 216
-last-substantial-update: 2025-10-24T00:00:00.000Z
+last-substantial-update: 2025-10-24
 jira: KT-19485
 exl-id: 2acb0226-516a-4b33-835a-4eeeab2fcfc5
 TQID: 'https://experienceleague.adobe.com/ZGVmvNQFySX-mmXehuwNiW9PSKhQtgMeeioKG2Rz--M'
@@ -39,7 +39,7 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -56,8 +56,8 @@ Adobe Commerce Patching Automation是Adobe Commerce站点范围分析工具(SWAT
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3476257?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476247?learn=on)
 
 ## 相关文档
 
-* [修补自动化文档](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/tools/caps-tool/intro)
+* [修补自动化文档](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/caps-tool/intro)

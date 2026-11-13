@@ -4,7 +4,7 @@ description: 了解如何使用Adobe Commerce中的B2B共享目录来维护具�
 doc-type: Feature Video
 duration: 456
 jira: KT-10682
-last-substantial-update: 2023-05-10T00:00:00.000Z
+last-substantial-update: 2023-05-10
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
 role: User
@@ -42,7 +42,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -62,9 +62,9 @@ Adobe Commerce的B2B使您能够使用自定义定价为不同的公司维护封
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3410751?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344446?learn=on)
 
 ## 其他资源
 
-* [使用共享目录](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/b2b/shared-catalogs/catalog-shared){target="_blank"}
-* [创建共享目录](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create){target="_blank"}
+* [使用共享目录](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/catalog-shared){target="_blank"}
+* [创建共享目录](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create){target="_blank"}

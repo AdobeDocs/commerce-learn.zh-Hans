@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 223
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Search, Site Navigation
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
@@ -45,7 +45,7 @@ topic_v2:
     internal-label: Optimization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -62,8 +62,8 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3410173?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343750?learn=on)
 
 ## 其他资源
 
-[Meta数据 —  [!DNL Commerce] 销售和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html?lang=zh-Hans)
+[Meta数据 —  [!DNL Commerce] 销售和促销指南](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)

@@ -4,7 +4,7 @@ description: 了解如何在Adobe Commerce中管理B2B公司帐户 — 审查待
 doc-type: Technical Video
 duration: 172
 jira: KT-13909
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: Configuration, System, B2B, Companies, Roles/Permissions
 topic: Commerce, Administration
 role: User
@@ -44,14 +44,14 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 ---
 # 管理公司帐户
 
-对于B2B商家，_[!UICONTROL Companies]_&#x200B;页面列出了所有当前公司帐户及其状态。 您可以在此处管理公司帐户，任何待批准的请求都会显示在列表顶部。 标准工作区控件可用于筛选列表、更改列布局、保存视图和导出数据。
+对于B2B商家，_[!UICONTROL Companies]_页面列出了所有当前公司帐户及其状态。 您可以在此处管理公司帐户，任何待批准的请求都会显示在列表顶部。 标准工作区控件可用于筛选列表、更改列布局、保存视图和导出数据。
 
 {{b2b-feature}}
 
@@ -63,9 +63,9 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3410769?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344447?learn=on)
 
 ## 其他资源
 
-* [公司帐户](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
-* [管理公司帐户](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}
+* [公司帐户](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
+* [管理公司帐户](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}

@@ -5,7 +5,7 @@ jira: KT-14587
 doc-type: Tutorial
 audience: all
 activity: use
-last-substantial-update: 2024-2-1
+last-substantial-update: 2024-02-01
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
@@ -49,7 +49,7 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3453088?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
 
 ## 创建具有简单有效负荷的礼品卡
 
@@ -360,6 +360,6 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## 其他资源
 
-* [从Commerce管理员创建礼品卡产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html?lang=zh-Hans){target="_blank"}
+* [从Commerce管理员创建礼品卡产品](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html){target="_blank"}
 * [Adobe Developer REST教程](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

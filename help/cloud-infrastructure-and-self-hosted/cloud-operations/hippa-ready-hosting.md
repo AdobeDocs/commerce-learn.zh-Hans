@@ -7,7 +7,7 @@ role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 324
-last-substantial-update: 2025-05-30T00:00:00.000Z
+last-substantial-update: 2025-05-30
 jira: KT-14593
 exl-id: 60314a97-1922-490f-be18-e5e5998075e2
 TQID: 'https://experienceleague.adobe.com/m1MKUwzUn4qsOhqnFYo94qaO9o9jA5tsrTyEHxtPlno'
@@ -50,7 +50,7 @@ topic_v2:
     internal-label: Security
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -71,10 +71,10 @@ Adobe Commerce提供了可支持HIPAA的解决方案，旨在帮助医疗保健�
 * 该解决方案包括增强的PHI日志记录机制，并提供与内部Adobe产品和外部第三方服务的集成功能。
 * Adobe Commerce提供了一个用于支持和故障排除的特殊暂存环境，确保敏感数据受到保护并且环境会密切镜像生产环境。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463187?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3463177?learn=on)
 
 ## 其他文档
 
-* [HIPAA准备就绪 — 数据连接](https://experienceleague.adobe.com/zh-hans/docs/commerce/data-connection/hipaa-readiness)
-* [HIPAA准备就绪 — 合规性](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
-* [安装数据连接](https://experienceleague.adobe.com/zh-hans/docs/commerce/data-connection/fundamentals/install)
+* [HIPAA准备就绪 — 数据连接](https://experienceleague.adobe.com/en/docs/commerce/data-connection/hipaa-readiness)
+* [HIPAA准备就绪 — 合规性](https://experienceleague.adobe.com/en/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
+* [安装数据连接](https://experienceleague.adobe.com/en/docs/commerce/data-connection/fundamentals/install)

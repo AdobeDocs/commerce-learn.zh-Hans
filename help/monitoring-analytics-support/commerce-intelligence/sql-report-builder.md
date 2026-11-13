@@ -65,7 +65,7 @@ Adobe Commerce Intelligence SQL Report Builder允许您查询数据仓库、查�
 * 从查询结果构建可视化。
 * 将报告保存到团队的仪表板。
 
->[!VIDEO](https://video.tv.adobe.com/v/342406?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346407?captions=chi_hans&learn=on)
 
 ## 有用的资源
 

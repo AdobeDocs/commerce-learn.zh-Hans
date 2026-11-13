@@ -1,14 +1,14 @@
 ---
 title: '[!DNL Commerce]视频和教程'
 description: Adobe Commerce和Magento Open Source的视频和教程集合
-last-substantial-update: 2023-01-19T00:00:00.000Z
+last-substantial-update: 2026-11-13
 feature: B2B, GraphQL, REST, Commerce Intelligence, Cloud, Best Practices, API Mesh, App Builder
 topic: Commerce, Architecture
 old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-duration: 29
+duration: 76
 TQID: 'https://experienceleague.adobe.com/vKBZdCBWH5s8AspGVsCkbJ2cDD-L81ZFxbMjbt3X7Uc'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -54,14 +54,23 @@ level_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '387'
 ht-degree: 0%
 ---
 # Commerce教程 {#videos}
 
-欢迎使用[!DNL Commerce]视频和教程收藏集。 使用这些资源以及[文档](https://experienceleague.adobe.com/docs/commerce.html?lang=zh-Hans)，可让您了解如何使用Adobe Commerce和Magento Open Source来支持您的电子商务业务。 该集合旨在为后端开发人员、前端开发人员、系统管理员、商家和组织内的其他角色提供有用的内容。
+欢迎使用[!DNL Commerce]视频和教程收藏集。 探索产品演练、实际演示、分步技术教程并与Commerce专家进行录制讨论。 这些资源可帮助开发人员、架构师、系统管理员和商家了解功能、实施解决方案并管理其商业业务。
+
+从适合您项目的产品开始：Adobe Commerce as a Cloud Service、Adobe Commerce Optimizer、云基础架构上的Adobe Commerce、自托管Adobe Commerce或Magento Open Source。 使用目录浏览选件或共享主题。 功能、先决条件和实施步骤因产品而异。
+
+* **计划和现代化：**&#x200B;比较Commerce选项，探索架构和部署方法，并了解迁移、项目规划和实施最佳实践。
+* **生成和集成：**&#x200B;使用App Builder、GraphQL、REST、API Mesh、活动和Webhook进行开发。 探索后台集成和店面开发，包括Edge Delivery Services。
+* **管理和操作：**&#x200B;了解商店管理、目录、内容、营销、推销、B2B工作流和付款。 查找有关云操作、监控、分析、性能和故障排除的指导。
+* **浏览Optimizer和AI：**&#x200B;浏览[Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)有关目录和店面功能的教程。 请按照[AI和代理商务](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)指南执行语义搜索、Commerce MCP和开发人员工作流。
+
+有关更深入的实施观点、产品更新和业务讨论，请探索[网络研讨会和活动](https://experienceleague.adobe.com/en/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation)指南。 使用视频和教程以及[Commerce文档](https://experienceleague.adobe.com/en/docs/commerce)了解详细要求和参考信息。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -72,11 +81,12 @@ ht-degree: 0%
 
 >[!TIP]
 >
->[Commerce Events](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html?lang=zh-Hans)共享空间提供了对录制的活动内容的访问权限，您可以根据需要观看这些内容。
+>[Commerce Events](https://experienceleague.adobe.com/en/events)共享空间提供了对录制的活动内容的访问权限，您可以根据需要观看这些内容。
 
 ## 其他资源
 
-* [商家文档](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=zh-Hans)
-* [开发人员文档](https://developer.adobe.com/commerce)
-* [Adobe数字学习服务 — Adobe Commerce课程目录](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)
-
+* [Commerce文档](https://experienceleague.adobe.com/en/docs/commerce) - Commerce产品的产品指南和参考信息。
+* [商家文档](https://experienceleague.adobe.com/en/docs/commerce-admin/user-guides/home) — 云基础架构和自托管部署的存储设置和管理。
+* [开发人员文档](https://developer.adobe.com/commerce/) - API、SDK、集成和可扩展性资源。
+* [Commerce知识库](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/overview) — 疑难解答文章、已知问题和支持指南。
+* [Experience League课程](https://experienceleague.adobe.com/en/courses?product=Commerce) - Experience League上的结构化学习。

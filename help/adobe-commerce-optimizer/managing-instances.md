@@ -30,9 +30,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '141'
 ht-degree: 0%
 ---
 # 管理Adobe Commerce Optimizer实例
@@ -51,11 +51,10 @@ ht-degree: 0%
 * 更新名称和描述
 * 查找集成的关键端点和标识符
 
->[!VIDEO](https://video.tv.adobe.com/v/3470242?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470232?learn=on)
 
 ## 相关内容
 
-* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/overview){target="_blank"}
-* [Adobe Commerce Optimizer概述](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/adobe-commerce-optimizer/overview){target="_blank"}
-* [Adobe Commerce Optimizer入门](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/get-started){target="_blank"}
-
+* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Adobe Commerce Optimizer概述](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
+* [Adobe Commerce Optimizer入门](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}

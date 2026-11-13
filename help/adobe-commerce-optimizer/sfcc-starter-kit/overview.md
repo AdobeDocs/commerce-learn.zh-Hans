@@ -27,9 +27,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '209'
 ht-degree: 0%
 ---
 # 了解Salesforce Commerce Cloud入门工具包
@@ -49,3 +49,12 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3473988?captions=chi_hans&learn=on)
 
+
+## 继续入门套件系列
+
+1. [架构概述](./architecture-overview.md)
+2. [安装SFCC墨盒](./installation-sfcc-cartridge.md)
+3. [App Builder入门工具包](./app-builder-starter-kit.md)
+4. [端到端演示](./end-to-end-demo.md)
+
+有关共享的App Builder概念，请参阅[App Builder简介](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)。

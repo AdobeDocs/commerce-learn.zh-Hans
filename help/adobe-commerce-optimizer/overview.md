@@ -32,9 +32,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '213'
 ht-degree: 0%
 ---
 # Adobe Commerce Optimizer概述
@@ -54,6 +54,16 @@ Adobe Commerce Optimizer通过提供高性能、无头店面来增强现有商�
 * 扩展数字操作
 
 >[!VIDEO](https://video.tv.adobe.com/v/3450473?captions=chi_hans&learn=on)
+
+## 继续学习
+
+* [比较Adobe Commerce选项](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
+* [创建您的第一个Adobe Commerce Optimizer实例](./create-first-instance.md)
+* [管理Adobe Commerce Optimizer实例](./managing-instances.md)
+* [摄取示例数据](./ingest-sample-data.md)
+* [运行您的第一个GraphQL查询](./first-query.md)
+* [Salesforce Commerce Cloud入门工具包](./sfcc-starter-kit/overview.md)
+* [可组合目录数据模型](./composable-catalog-data-model/why-ccdm-exists.md)
 
 ## 其他资源
 

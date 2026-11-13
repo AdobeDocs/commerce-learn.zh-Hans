@@ -4,9 +4,9 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
+source-git-commit: 1e3b88ec32913a3f7c47490b0140d86eb3be4f18
 workflow-type: tm+mt
-source-wordcount: '1039'
+source-wordcount: '1042'
 ht-degree: 2%
 ---
 
@@ -260,14 +260,7 @@ ht-degree: 2%
 
 + 可扩展性 {#extensibility}
   + Commerce Developer Agent {#commerce-developer-agent}
-    + [概述](../commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video.md)
-    + [Blueprint和开发阶段](../commerce-developer-agent/adobe-commerce-developer-agent-blueprint-and-develop-stages-technical-video.md)
-    + [连接集成](../commerce-developer-agent/adobe-commerce-developer-agent-connect-integrations-technical-video.md)
-    + [部署、关联、安装](../commerce-developer-agent/adobe-commerce-developer-agent-deploy-associate-and-install-technical-video.md)
-    + [配置和测试](../commerce-developer-agent/adobe-commerce-developer-agent-configure-and-test-technical-video.md)
-    + [迁移现有代码](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
-    + [结论](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
-    + [App Builder练习](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
+    + [Developer Agent学习路径](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
 
 + 店面开发 {#storefront-development}
   + Edge Delivery Services上的Commerce店面 {#edge-delivery-services}

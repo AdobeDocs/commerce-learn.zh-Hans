@@ -52,10 +52,10 @@ topic_v2:
     internal-label: Accessibility
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '389'
-ht-degree: 1%
+source-wordcount: '437'
+ht-degree: 0%
 ---
 # Edge Delivery Services与Adobe Commerce
 
@@ -82,5 +82,10 @@ ht-degree: 1%
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429059?learn=on)
+
+## 相关教程
+
+* [Edge Delivery Services上的Commerce店面：购物者体验](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [在Edge Delivery Services中自定义签出](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/customize-checkout)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

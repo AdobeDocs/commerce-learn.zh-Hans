@@ -8,7 +8,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 336
-last-substantial-update: 2024-10-24T00:00:00.000Z
+last-substantial-update: 2024-10-24
 jira: KT-16275
 exl-id: 7b521465-db0b-4755-91bd-013368a9fe5e
 TQID: 'https://experienceleague.adobe.com/-1BqPg0V0-13eK-Xv8dr1IWslRuxgST7HQhcc-GGrKE'
@@ -44,7 +44,7 @@ topic_v2:
     internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -69,8 +69,8 @@ ht-degree: 0%
 * 了解一些前端和后端注意事项。
 * 通过评估现有模块、升级核心应用程序并与其他Adobe解决方案集成，计划实现顺利迁移。
  
->[!VIDEO](https://video.tv.adobe.com/v/3447456?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435682?learn=on)
 
 ## 相关文档
 
-[什么是Adobe Commerce](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/start/about)
+[什么是Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)

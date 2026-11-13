@@ -6,13 +6,13 @@ jira: KT-10642
 duration: 182
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Personalization, Native Luma Frontend Development
 topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
-badgePaas: label="仅限PaaS" type="Informative" url="https://experienceleague.adobe.com/zh-hans/docs/commerce/user-guides/product-solutions" tooltip="仅适用于云项目（Adobe管理的PaaS基础架构）和内部部署项目上的Adobe Commerce 。"
+badgePaas: label="仅限PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="仅适用于云项目（Adobe管理的PaaS基础架构）和内部部署项目上的Adobe Commerce 。"
 TQID: 'https://experienceleague.adobe.com/w1JoLrqVMp3QDCRX-XwgIMG1i3OHBMorbhLFf9a4lDM'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -46,7 +46,7 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -62,9 +62,9 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3410840?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343787?learn=on)
 
 ## 其他资源
 
-* [[!DNL Page Builder]模板 —  [!DNL Page Builder] 用户指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=zh-Hans)
+* [[!DNL Page Builder]模板 —  [!DNL Page Builder] 用户指南](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
 * [添加模板 —  [!DNL Page Builder] 开发人员指南](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates)

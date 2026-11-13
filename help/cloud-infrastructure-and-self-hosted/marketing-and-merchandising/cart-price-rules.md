@@ -2,7 +2,7 @@
 title: 创建购物车价格规则
 description: 了解如何创建在满足您定义的条件时在购物车中应用折扣的购物车价格规则。
 doc-type: Tutorial
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers, Shopping Cart
 topic: Commerce, Administration
 role: User
@@ -38,7 +38,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '680'
 ht-degree: 0%
@@ -57,7 +57,7 @@ ht-degree: 0%
 * 创建购物车价格规则和可选优惠券代码。
 * 了解折扣在购物车中的显示方式以及促销情况。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410802?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
 
 ## 定价显示问题
 
@@ -154,5 +154,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-* [创建购物车价格规则 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
-* [优惠券代码 —  [!DNL Commerce] 销售和促销指南](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}
+* [创建购物车价格规则 —  [!DNL Commerce] 促销和促销指南](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
+* [优惠券代码 —  [!DNL Commerce] 销售和促销指南](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}

@@ -4,7 +4,7 @@ description: 了解如何将[!DNL Live Search]添加到您的商店，并提供�
 doc-type: Feature Video
 duration: 543
 audience: all
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Personalization, Search
 topic: Commerce, Administration
 role: Admin, User
@@ -46,7 +46,7 @@ topic_v2:
     internal-label: Machine learning
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 1%
@@ -64,12 +64,12 @@ ht-degree: 1%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3452579?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418797?learn=on)
 
 
 ## 其他资源
 
 * [Live Search完整演示](live-search-full-demonstration.md){target="_blank"}
 * [[!DNL Live Search]推荐](live-search-recommendations.md){target="_blank"}
-* [[!DNL Live Search] 概述](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=zh-Hans){target="_blank"}
-* [Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=zh-Hans){target="_blank"}
+* [[!DNL Live Search] 概述](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html){target="_blank"}
+* [Commerce服务连接器](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}

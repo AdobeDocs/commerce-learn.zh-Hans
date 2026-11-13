@@ -6,13 +6,13 @@ duration: 310
 jira: KT-14748
 audience: all
 activity: use
-last-substantial-update: 2024-01-09T00:00:00.000Z
+last-substantial-update: 2024-01-09
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 96877db6-54a3-4a89-ad84-c4559806b7fb
-badgePaas: label="仅限PaaS" type="Informative" url="https://experienceleague.adobe.com/zh-hans/docs/commerce/user-guides/product-solutions" tooltip="仅适用于云项目（Adobe管理的PaaS基础架构）和内部部署项目上的Adobe Commerce 。"
+badgePaas: label="仅限PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="仅适用于云项目（Adobe管理的PaaS基础架构）和内部部署项目上的Adobe Commerce 。"
 TQID: 'https://experienceleague.adobe.com/vMIy5Eo6UlUoqbF25L38zoRjEJYX6qTtifIfd8R44RU'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -35,7 +35,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -55,6 +55,6 @@ ht-degree: 0%
 
 ## 其他资源
 
-* [载入支付服务](https://experienceleague.adobe.com/zh-hans/docs/commerce/payment-services/get-started/onboard){target="_blank"}
-* [支付服务指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/payment-services/guide-overview){target="_blank"}
-* [Commerce服务连接器](https://experienceleague.adobe.com/zh-hans/docs/commerce/user-guides/integration-services/saas){target="_blank"}
+* [载入支付服务](https://experienceleague.adobe.com/en/docs/commerce/payment-services/get-started/onboard){target="_blank"}
+* [支付服务指南](https://experienceleague.adobe.com/en/docs/commerce/payment-services/guide-overview){target="_blank"}
+* [Commerce服务连接器](https://experienceleague.adobe.com/en/docs/commerce/user-guides/integration-services/saas){target="_blank"}

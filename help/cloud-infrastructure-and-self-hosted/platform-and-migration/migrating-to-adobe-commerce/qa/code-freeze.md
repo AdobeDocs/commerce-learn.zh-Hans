@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 253
-last-substantial-update: 2024-10-02T00:00:00.000Z
+last-substantial-update: 2024-10-02
 jira: KT-15993
 exl-id: dc1d609f-af81-44ea-b0f0-f48ed6fc8d47
 TQID: 'https://experienceleague.adobe.com/Mbmg-rxEYfI18vB2NGZ0vB31mLhEKETlpBTS-8THaLs'
@@ -27,7 +27,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%
@@ -52,4 +52,4 @@ ht-degree: 0%
 * 协调手动和自动化测试、负载测试和渗透测试，以确保站点各方面的功能均按预期运行。
 * 让业务利益相关者、开发人员和IT团队参与验证过程，以确保顺利成功地启动。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445500?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432965?learn=on)

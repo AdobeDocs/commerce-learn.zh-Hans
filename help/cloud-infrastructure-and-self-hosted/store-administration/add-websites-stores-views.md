@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 464
 audience: all
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -43,7 +43,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -61,11 +61,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->视频中的内容反映了2.1.0版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/release/notes/overview)。
+>视频中的内容反映了2.1.0版本。 有关更高版本中的更新的信息，请参阅[发行说明](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3507665?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35787?learn=on)
 
 ## 其他资源
 
-* [网站、商店和视图 —  [!DNL Commerce] 入门指南](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/start/setup/websites-stores-views)
-* [根类别和层次结构 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/zh-hans/docs/commerce-admin/catalog/categories/category-root)
+* [网站、商店和视图 —  [!DNL Commerce] 入门指南](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)
+* [根类别和层次结构 —  [!DNL Commerce] 目录管理指南](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/categories/category-root)

@@ -3,7 +3,7 @@ title: 创建构件
 description: 了解如何创建和编辑构件，以便在您的商店中自动更新内容。
 doc-type: Tutorial
 duration: 236
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System
 topic: Commerce, Administration
 role: Developer, User
@@ -34,7 +34,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -53,9 +53,9 @@ ht-degree: 0%
 * 了解构件是什么及其出现的位置。
 * 在“管理员”中创建和管理构件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3411054?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343786?learn=on)
 
 ## 其他资源
 
-* [小组件 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html?lang=zh-Hans){target="_blank"}
-* [创建和管理构件 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html?lang=zh-Hans){target="_blank"}
+* [小组件 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
+* [创建和管理构件 —  [!DNL Commerce] 内容和设计指南](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html){target="_blank"}

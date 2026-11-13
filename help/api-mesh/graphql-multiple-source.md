@@ -4,7 +4,7 @@ description: 了解如何在Adobe Commerce和[!DNL Adobe App Builder]上为API M
 jira: KT-21677
 doc-type: Tutorial
 duration: 381
-last-substantial-update: 2023-02-08T00:00:00.000Z
+last-substantial-update: 2023-02-08
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
@@ -46,7 +46,7 @@ level_v2:
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
     internal-label: Metadata
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -66,7 +66,7 @@ ht-degree: 0%
 * 如何排除错误，如名称冲突、架构可用性和其他架构语法问题
 * 使用修改后的配置更新网格
 
->[!VIDEO](https://video.tv.adobe.com/v/3419785?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414125?learn=on)
 
 ## 创建JSON配置文件
 

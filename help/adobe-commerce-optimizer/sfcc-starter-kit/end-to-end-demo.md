@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 430
-last-substantial-update: 2025-10-21T00:00:00.000Z
+last-substantial-update: 2025-10-21
 jira: KT-19017
 exl-id: 0b7d6adb-e535-4dc1-82cc-cb3a5be9a124
 product_v2:
@@ -27,9 +27,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 ---
 # Salesforce Commerce Cloud入门工具包的端到端演示
@@ -49,5 +49,5 @@ ht-degree: 0%
 * Salesforce Commerce Cloud目录中的产品详细信息和定价更改可通过增量同步过程在Commerce Optimizer中自动检测和更新。
 * 实时更新和演示系统之间的无缝数据流和同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476103?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)
 

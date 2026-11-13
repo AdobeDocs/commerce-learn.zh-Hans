@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 288
-last-substantial-update: 2025-10-20T00:00:00.000Z
+last-substantial-update: 2025-10-20
 jira: KT-19014
 exl-id: 1e0edcbb-5619-45c2-b06d-9133f23a634f
 product_v2:
@@ -27,7 +27,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -47,5 +47,5 @@ ht-degree: 0%
 * 自定义SFCC墨盒和API通过增量导出检测目录更改，从而实现与Adobe App Builder的有效数据同步。
 * App Builder运行时操作可管理完全同步和增量同步、验证和状态跟踪，以确保对Commerce Optimizer的更新准确且没有冲突。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476061?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476046?learn=on)
 

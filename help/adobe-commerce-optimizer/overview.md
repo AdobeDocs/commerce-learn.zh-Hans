@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 242
-last-substantial-update: 2025-03-06T00:00:00.000Z
+last-substantial-update: 2025-03-06
 jira: KT-17420
 exl-id: e6a59ee0-3e13-41c0-a189-402bf8554f8e
 autotag-review: '2026-08-11T18:59:26.597Z'
@@ -32,7 +32,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -53,11 +53,11 @@ Adobe Commerce Optimizer通过提供高性能、无头店面来增强现有商�
 * 与现有ERP 、 CRM 、 OMS和其他系统无缝集成，无需重新平台。
 * 扩展数字操作
 
->[!VIDEO](https://video.tv.adobe.com/v/3450473?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450226?learn=on)
 
 ## 继续学习
 
-* [比较Adobe Commerce选项](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
+* [比较Adobe Commerce选项](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
 * [创建您的第一个Adobe Commerce Optimizer实例](./create-first-instance.md)
 * [管理Adobe Commerce Optimizer实例](./managing-instances.md)
 * [摄取示例数据](./ingest-sample-data.md)
@@ -67,5 +67,5 @@ Adobe Commerce Optimizer通过提供高性能、无头店面来增强现有商�
 
 ## 其他资源
 
-[[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/overview){target="_blank"}
+[[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 

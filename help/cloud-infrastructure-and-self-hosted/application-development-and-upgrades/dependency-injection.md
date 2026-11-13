@@ -3,7 +3,7 @@ title: 依赖项注入示例
 description: 了解Adobe Commerce中的依赖项注入 — 这是一种设计模式，对象可声明其外部注入的依赖项，从而提高灵活性。
 doc-type: Technical Video
 duration: 313
-last-substantial-update: 2026-06-19T00:00:00.000Z
+last-substantial-update: 2026-06-19
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Developer
@@ -33,7 +33,7 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
 autotag-review: '2026-11-11T17:28:59.032Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ## 视频内容
 
->[!VIDEO](https://video.tv.adobe.com/v/3412444?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35799?learn=on)
 
 ## 有用的资源
 

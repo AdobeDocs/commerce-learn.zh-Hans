@@ -4,7 +4,7 @@ description: 了解Experience Workspace如何使用代理AI助手，根据连接
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11T00:00:00.000Z
+last-substantial-update: 2026-06-11
 jira: KT-21574
 duration: 376
 product_v2:
@@ -16,7 +16,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Experience Workspace是一个代理式创作环境，它为营销人员和开发
 * 查询目录和生成完整营销活动页面的自然语言提示
 * 块级编辑和发布前的实时边缘渲染预览
 
->[!VIDEO](https://video.tv.adobe.com/v/3492304?captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3492281)
 
 <!-- ## Additional resources -->
 

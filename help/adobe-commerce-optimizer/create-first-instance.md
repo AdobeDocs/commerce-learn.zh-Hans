@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 131
-last-substantial-update: 2025-07-25T00:00:00.000Z
+last-substantial-update: 2025-07-25
 jira: KT-18610
 exl-id: 7136b0d6-a29f-42f4-8363-5bd4a2d828fc
 autotag-review: '2026-08-11T18:59:19.947Z'
@@ -30,7 +30,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -51,9 +51,9 @@ ht-degree: 0%
 * 为您的实例选择正确的环境和区域。
 * 在未来的教程中，快速部署和准备目录设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/3469888?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3469877?learn=on)
 
 ## 相关内容
 
-* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/overview){target="_blank"}
-* [Adobe Commerce Optimizer概述](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Adobe Commerce Optimizer概述](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}

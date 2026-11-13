@@ -57,7 +57,7 @@ Adobe Commerce Optimizer通过提供高性能、无头店面来增强现有商�
 
 ## 继续学习
 
-* [比较Adobe Commerce选项](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
+* [比较Adobe Commerce选项](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
 * [创建您的第一个Adobe Commerce Optimizer实例](./create-first-instance.md)
 * [管理Adobe Commerce Optimizer实例](./managing-instances.md)
 * [摄取示例数据](./ingest-sample-data.md)
@@ -67,5 +67,5 @@ Adobe Commerce Optimizer通过提供高性能、无头店面来增强现有商�
 
 ## 其他资源
 
-[[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+[[!DNL Adobe Commerce Optimizer] 指南](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/overview){target="_blank"}
 

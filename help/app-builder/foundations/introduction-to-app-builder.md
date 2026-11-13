@@ -88,7 +88,7 @@ Adobe Developer App Builder提供了一个通用、一致和标准化的开发�
 
 可通过阅读以下博客帖子来大致了解包括初始设置的可组合商务策略：
 
-[App Builder如何帮助提高商务平台的业务敏捷性](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
+[App Builder如何帮助提高商务平台的业务敏捷性](https://business.adobe.com/cn/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
 
 为帮助您开始使用App Builder，Adobe已创建以下文档：
 
@@ -109,6 +109,6 @@ App Builder为开发人员提供视频和文档，包括指南和参考文档，
 
 ## 特定于产品的示例
 
-对于基于App Builder构建的Adobe Commerce Optimizer集成，请遵循[Salesforce Commerce Cloud入门工具包](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/sfcc-starter-kit/overview)。 系列内容涵盖体系结构、Salesforce墨盒安装、App Builder入门套件和端到端演示。
+对于基于App Builder构建的Adobe Commerce Optimizer集成，请遵循[Salesforce Commerce Cloud入门工具包](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/adobe-commerce-optimizer/sfcc-starter-kit/overview)。 系列内容涵盖体系结构、Salesforce墨盒安装、App Builder入门套件和端到端演示。
 
 {{$include /help/_includes/app-builder-related-links.md}}

@@ -55,5 +55,5 @@ ht-degree: 0%
 
 ## 有用的资源
 
-* [一般MySQL准则](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql){target="_blank"}
-* [galera复制和查询缓慢](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication){target="_blank"}
+* [一般MySQL准则](https://experienceleague.adobe.com/zh-hans/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql){target="_blank"}
+* [galera复制和查询缓慢](https://experienceleague.adobe.com/zh-hans/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication){target="_blank"}

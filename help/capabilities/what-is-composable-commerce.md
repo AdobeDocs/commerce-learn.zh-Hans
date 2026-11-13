@@ -86,7 +86,7 @@ Adobe Commerce as a Cloud Service是一个托管的SaaS商务平台。 Adobe管�
 
 在评估具有支持的扩展点的托管商务基础时，使用此选项。 对于自定义业务逻辑，应规划受支持的进程外可扩展性，而不是假定可以不更改地部署现有PHP扩展。 ACCS不支持Luma店面；如果适用，请在实施计划中纳入店面迁移。
 
-请参阅[Adobe Commerce as a Cloud Service概述](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)。
+请参阅[Adobe Commerce as a Cloud Service概述](https://experienceleague.adobe.com/zh-hans/docs/commerce/cloud-service/overview)。
 
 ### Adobe Commerce Optimizer
 
@@ -94,13 +94,13 @@ Adobe Commerce Optimizer支持目录管理、产品发现、搜索、推荐和�
 
 如果目标是实现面向客户的现代化，并且不需要替换事务型后端，则使用此选项。 明确规划目录摄取以及购物车和结账集成。 ACCS和ACO是独立的体系结构选项，而不是所需的组合栈栈。 在为您的实施选择服务之前，请验证当前集成支持。
 
-查看[Adobe Commerce Optimizer概述](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview)。
+查看[Adobe Commerce Optimizer概述](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/overview)。
 
 ### 现有Adobe Commerce部署
 
 云基础架构和内部部署上的Adobe Commerce还可以逐步采用Headless存储前端和受支持的基于API的集成。 根据部署，您可以保留现有店面或采用受支持的Headless店面。 将现有的商务功能保持在一起可以减少集成工作，同时允许选定的服务单独发展。
 
-功能可用性、扩展兼容性、许可和设置要求因产品和版本而异。 在选择架构之前，请比较[Adobe Commerce平台和服务](https://experienceleague.adobe.com/en/docs/commerce/information-center/explore-platforms-and-services/platform-and-services)。
+功能可用性、扩展兼容性、许可和设置要求因产品和版本而异。 在选择架构之前，请比较[Adobe Commerce平台和服务](https://experienceleague.adobe.com/zh-hans/docs/commerce/information-center/explore-platforms-and-services/platform-and-services)。
 
 ## 由Edge Delivery Services提供支持的Commerce店面
 
@@ -172,11 +172,11 @@ Commerce开发MCP是开发工具，而非storefront投放、购物车、结账�
 
 ### 架构和开发文档
 
-* [迁移到Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/migration/overview)
-* [Adobe Commerce Optimizer集成](https://experienceleague.adobe.com/en/docs/commerce/optimizer/integrations-overview)
+* [迁移到Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/zh-hans/docs/commerce/cloud-service/migration/overview)
+* [Adobe Commerce Optimizer集成](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/integrations-overview)
 * [Commerce Storefront开发入门](https://experienceleague.adobe.com/en/tools/commerce-storefront/get-started/)
 * [Commerce开发MCP和技能的最佳实践](https://developer.adobe.com/commerce/extensibility/developer-agent/best-practices)
 
 ### 播放列表
 
-* [使用Adobe App Builder和Adobe Commerce开始使用API Mesh](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [使用Adobe App Builder和Adobe Commerce开始使用API Mesh](https://experienceleague.adobe.com/zh-hans/playlists/commerce-get-started-app-builder-and-api-mesh)

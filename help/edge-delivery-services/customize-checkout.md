@@ -39,7 +39,7 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -66,4 +66,4 @@ ht-degree: 0%
 
 ## 其他文档
 
-* [多步结账](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=zh-Hans)
+* [多步结账](https://experienceleague.adobe.com/en/tools/commerce-storefront/how-tos/multi-step)

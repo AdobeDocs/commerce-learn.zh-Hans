@@ -3,7 +3,7 @@ title: 用于后台集成的Adobe Commerce入门工具包
 description: 了解用于后台集成的Adobe Commerce入门工具包，并探索它如何简化Commerce与外部后端系统的连接。
 doc-type: Technical Video
 duration: 502
-last-substantial-update: 2024-04-19T00:00:00.000Z
+last-substantial-update: 2024-04-19
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -36,7 +36,7 @@ level_v2:
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
     internal-label: Metadata
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%

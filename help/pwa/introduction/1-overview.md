@@ -3,8 +3,8 @@ title: 面向开发人员的PWA Studio — 简介
 description: 什么是 Progressive Web Application (PWA)，以及为什么 PWA Studio 能够创造成功的未来。
 landing-page-description: 观看本视频系列，了解Progressive Web Applications (PWA)以及PWA Studio之所以是[!DNL Commerce]网站未来趋势的原因。
 short-description: 观看本视频系列，了解Progressive Web Applications (PWA)以及PWA Studio之所以是[!DNL Commerce]网站未来趋势的原因。
-kt: 5644
-doc-type: video
+jira: KT-5644
+doc-type: Technical Video
 duration: 658
 activity: use
 last-substantial-update: 2023-5-28
@@ -44,7 +44,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 12%

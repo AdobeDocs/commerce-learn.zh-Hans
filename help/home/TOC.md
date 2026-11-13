@@ -4,10 +4,10 @@ user-guide-description: 通过视频和教程了解 Adobe Commerce 和 Magento O
 breadcrumb-title: 视频和教程
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: db62654c7e54e2026395cc9278ca12ecbff778ee
+source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
 workflow-type: tm+mt
-source-wordcount: '1029'
-ht-degree: 3%
+source-wordcount: '1039'
+ht-degree: 2%
 ---
 
 # Adobe Commerce视频和教程 {#tutorials}
@@ -213,15 +213,7 @@ ht-degree: 3%
 + 快速入门 {#getting-started}
   + Commerce功能 {#capabilities}
     + [可用的商务选项](../capabilities/adobes-available-commerce-options.md)
-    + [数据连接](../capabilities/data-connection.md)
     + [可组合的Commerce](../capabilities/what-is-composable-commerce.md)
-  + 后台集成入门工具包 {#back-office-integration-starter-kit}
-    + [入门套件演示](../back-office-integrations/starter-kit-demo.md)
-    + [集成](../back-office-integrations/integrations.md)
-    + [Source代码组织](../back-office-integrations/source-code-organization.md)
-    + [最后一英里集成](../back-office-integrations/last-mile-integration.md)
-    + [Webhook引入](../back-office-integrations/webhook-ingestion.md)
-    + [重试机制](../back-office-integrations/retry-mechanism.md)
 
 + API和集成 {#apis-and-integration}
   + GraphQL基础 {#graphql-rest}
@@ -255,6 +247,17 @@ ht-degree: 3%
       + [Adobe Commerce模块开发](../io-events/commerce-module-development.md)
       + [Adobe Commerce条件事件](../io-events/conditional-events.md)
 
+  + 后台集成入门工具包 {#back-office-integration-starter-kit}
+    + [入门套件演示](../back-office-integrations/starter-kit-demo.md)
+    + [集成](../back-office-integrations/integrations.md)
+    + [Source代码组织](../back-office-integrations/source-code-organization.md)
+    + [最后一英里集成](../back-office-integrations/last-mile-integration.md)
+    + [Webhook引入](../back-office-integrations/webhook-ingestion.md)
+    + [重试机制](../back-office-integrations/retry-mechanism.md)
+
+  + 数据集成 {#data-integrations}
+    + [数据连接](../capabilities/data-connection.md)
+
 + 可扩展性 {#extensibility}
   + Commerce Developer Agent {#commerce-developer-agent}
     + [概述](../commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video.md)
@@ -265,8 +268,19 @@ ht-degree: 3%
     + [迁移现有代码](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
     + [结论](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [App Builder练习](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
-  + 前端Luma开发 {#frontend-development}
-    + 面向开发人员的PaaS/SaaS页面生成器 {#page-builder}
+
++ 店面开发 {#storefront-development}
+  + Edge Delivery Services上的Commerce店面 {#edge-delivery-services}
+    + 快速入门 {#getting-started}
+      + [更改事务性流程](../edge-delivery-services/transactional-flow.md)
+      + [对购物车项目使用产品属性](../edge-delivery-services/product-attributes-cart-items.md)
+      + [更新结账中的订单摘要](../edge-delivery-services/update-order-summary.md)
+      + [正在将BOPI添加到签出](../edge-delivery-services/add-bopis-to-checkout.md)
+      + [自定义结帐](../edge-delivery-services/customize-checkout.md)
+      + [自定义地址布局](../edge-delivery-services/customize-address-new-account-link.md)
+      + [购物者体验](../edge-delivery-services/shopper-experience.md)
+  + 基于Luma和PHP的店面开发 {#frontend-development}
+    + 面向开发人员的Page Builder {#page-builder}
       + [1 — 简介](../frontend-development/page-builder/1-intro-case-studies.md)
       + [2 — 配置和内容](../frontend-development/page-builder/2-config-create-content.md)
       + [3 — 主题](../frontend-development/page-builder/3-themes.md)
@@ -275,27 +289,18 @@ ht-degree: 3%
       + [6 — 自定义内容类型](../frontend-development/page-builder/6-custom-content-types.md)
     + [添加JavaScript模块](../frontend-development/add-javascript-module.md)
     + [创建页面](../frontend-development/create-page.md)
-    + Edge Delivery Services {#edge-delivery-services}
-      + 快速入门 {#getting-started}
-        + [更改事务性流程](../edge-delivery-services/transactional-flow.md)
-        + [对购物车项目使用产品属性](../edge-delivery-services/product-attributes-cart-items.md)
-        + [更新结账中的订单摘要](../edge-delivery-services/update-order-summary.md)
-        + [正在将BOPI添加到签出](../edge-delivery-services/add-bopis-to-checkout.md)
-        + [自定义结帐](../edge-delivery-services/customize-checkout.md)
-        + [自定义地址布局](../edge-delivery-services/customize-address-new-account-link.md)
-        + [购物者体验](../edge-delivery-services/shopper-experience.md)
-    + Headless体系结构 {#headless-architecture}
-      + Headless简介 {#introduction-to-headless}
-        + [Headless架构 — 会话1](../headless/session-1.md)
-      + PWA Studio简介 {#introduction}
-        + [概述](../pwa/introduction/1-overview.md)
-        + [PWA Studio工具](../pwa/introduction/2-pwa-studio-tools.md)
-        + [Launch](../pwa/introduction/3-launch.md)
-        + [向上](../pwa/introduction/4-upward.md)
-        + [快速入门](../pwa/introduction/5-getting-started.md)
-        + [佩雷格林](../pwa/introduction/6-peregrine.md)
-      + [PWA Docker开发](../pwa/pwa-docker-development.md)
-      + [设置Venia以进行开发](../pwa/set-up-venia-for-dev.md)
+  + Headless架构和PWA Studio {#headless-architecture}
+    + Headless简介 {#introduction-to-headless}
+      + [Headless架构 — 第1场会议](../headless/session-1.md)
+    + PWA Studio简介 {#introduction}
+      + [概述](../pwa/introduction/1-overview.md)
+      + [PWA Studio工具](../pwa/introduction/2-pwa-studio-tools.md)
+      + [Launch](../pwa/introduction/3-launch.md)
+      + [向上](../pwa/introduction/4-upward.md)
+      + [快速入门](../pwa/introduction/5-getting-started.md)
+      + [佩雷格林](../pwa/introduction/6-peregrine.md)
+    + [PWA Docker开发](../pwa/pwa-docker-development.md)
+    + [设置Venia以进行开发](../pwa/set-up-venia-for-dev.md)
 
 + 监控、分析和支持 {#monitoring-analytics-support}
   + 可观测性 {#observability}

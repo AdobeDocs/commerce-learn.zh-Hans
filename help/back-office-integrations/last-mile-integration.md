@@ -3,7 +3,7 @@ title: Commerce入门工具包中的最后一英里集成
 description: 了解Commerce中的“最后一英里”集成，其中使用可扩展性挂钩进行验证、转换、预处理、发送和后处理。
 doc-type: Technical Video
 duration: 557
-last-substantial-update: 2024-07-30T00:00:00.000Z
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -33,7 +33,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%

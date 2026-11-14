@@ -1,13 +1,13 @@
 ---
-title: Adobe如何创建可组合的Commerce
-description: 了解可组合商务，排定API优先方法的优先级，并实施模块化且面向服务的架构。
-feature: App Builder, Saas
+title: Commerce与Adobe的组合
+description: 了解带Adobe平台选项、Edge Delivery Services店面、API Mesh、App Builder和Commerce开发MCP工具的可组合商务。
+feature: API Mesh, App Builder, Saas
 topic: Architecture, Commerce, Development, Headless, Integrations, Performance, Personalization
 role: Admin, Developer, User
-level: Beginner, Intermediate
+level: Intermediate
 doc-type: Tutorial
-duration: 323
-last-substantial-update: 2024-07-06
+duration: 307
+last-substantial-update: 2026-11-13
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
 TQID: 'https://experienceleague.adobe.com/NG-US7zLBgzV425mheo3oQ9Z6gnzAr6aRCLNjHVU0aM'
@@ -38,8 +38,6 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
@@ -51,69 +49,134 @@ topic_v2:
     internal-label: Personalization
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
+autotag-review: '2026-11-13T20:04:10.194Z'
+source-git-commit: 3a52f4de8c63f08418f4fa44833a7bf7eb90175b
 workflow-type: tm+mt
-source-wordcount: '1305'
+source-wordcount: '1311'
 ht-degree: 0%
 ---
 # 可组合商务
 
-可组合商务是电子商务的一种架构方法，它涉及将前端表示层与后端商务功能分离。 它允许&#x200B;企业选择和组合最佳的组件或模块，以创建定制的解决方案。 这一方法包括将传统的整体电子商务平台分解成更小的、独立的服务或微服务，这些服务或微服务可以组合在一起。 可组合商务具有灵活性、可扩展性、自定义性、灵活性以及与其他系统和技术更轻松集成的能力。
+可组合商务是一种通过API将商务功能结合在一起的架构方法。 您可以选择并集成用于店面体验、目录管理、产品发现、结账和其他业务需求的组件，而不是要求每项功能都来自一个紧密耦合的应用程序。
 
-Adobe Commerce提供了多种功能和工具，以支持商家采用和实施可组合商务。 Adobe Commerce提供了可组合的commerce方法论以及混合的headless和非headless前端体验。 考虑到流程的可扩展性，Adobe提供了用于集成多个服务的API Mesh，以及用于创建自定义微服务的Adobe App Builder。
+Headless商务将店面展示层与商务后端分离。 可组合商务构建于该分离之上，允许团队选择要保持在一起的功能和独立集成的功能。 Headless店面本身不会使每个后端组件都可以独立替换。
 
-## 可组合商务为何如此重要
+Adobe通过commerce平台选项、店面技术以及集成和开发工具支持这种方法。 Adobe Commerce as a Cloud Service (ACCS)、Adobe Commerce Optimizer (ACO)、Edge Delivery Services、API Mesh、App Builder和Commerce开发MCP有不同的用途。 它们不是可互换的产品或所需的组合栈栈。
 
-由于多种原因，了解可组合商务对于参与电子商务行业的企业和个人来说非常重要。 它提供了灵活性和自定义性、可扩展性和敏捷性、集成功能、面向未来的功能和增强开发人员的能力。 可组合商务使企业能够适应和改进其电子商务平台，扩展和扩大其业务。 一些更令人印象深刻的好处包括：能够与其他系统和技术集成、跟上客户不断演变的期望，以及利用开发人员的专业知识。
+## 好处和取舍
 
-它可帮助企业导航不断演变的电子商务环境、做出明智的决策，并利用灵活性、可扩展性、定制、敏捷性和集成功能的好处。 此外，了解可组合商务对于业务增长、定制、敏捷性和创新、成本效率、集成和灵活性以及面向未来也很重要。 它使企业有机会快速适应新功能并响应不断变化的市场环境，创建高度定制的解决方案。 还有许多好处，包括快速创新、降低开发和维护成本以及与第三方服务和系统集成的能力。
+组合式方法可以帮助您：
 
-总体而言，了解可组合商务使企业能够做出明智的决策，优化其电子商务架构和战略，并推动数字市场的增长和成功。
+* **调整客户体验：**&#x200B;选择店面组件并集成符合您业务要求的服务。
+* **逐步现代化：**&#x200B;替换选定功能，同时保留其他系统及其数据。
+* **独立扩展和演进：**&#x200B;设计集成和扩展，使其更改不需要发布整个商务应用程序。
+* **重复使用商务功能：**&#x200B;使用受支持的平台功能和API，而不是重建每个业务功能。
 
-## 公司如何从可组合商务中受益
+这些好处取决于实施。 评估技术成熟度、交付成本、许可、安全性和数据隐私。 定义跨服务的API合同、数据同步、身份验证、性能和故障的所有权。 模块化程度更高的体系结构还可以增加集成和操作复杂性。
 
-企业可以通过多种方式从组合商业中受益：
+## Adobe Commerce架构选项
 
-**灵活性和自定义：**&#x200B;可组合商务允许公司选择和组合最佳的组件或微服务，以创建满足其特定需求的自定义电子商务解决方案。 它使企业能够定制其平台，以提供独特的客户体验、实现专业化功能并在市场上脱颖而出。
+首先，决定您是需要托管商务平台，还是希望围绕现有事务型后端打造现代化客户体验。
 
-**可扩展性和敏捷性：**&#x200B;通过可组合架构，公司可以独立扩展电子商务平台的不同组件。 这意味着，他们可以根据需求分配资源并扩展特定功能，从而确保最佳性能和成本效率。 可组合商务还支持灵活的开发实践，允许团队同时处理不同的组件并独立部署更改，从而加快上市时间。
+有关视频比较，请参阅[Adobe可用的商务选项](./adobes-available-commerce-options.md)。
 
-**集成功能：**&#x200B;可组合商务可促进与第三方系统、服务和技术的无缝集成。 公司可以轻松地将其电子商务平台与各种工具（如支付网关、ERP系统、CRM系统、营销自动化平台等）相连接。 此集成功能使企业能够利用同类最佳的解决方案，并创建一个统一的生态系统以提高运营效率和客户体验。
+### Adobe Commerce as a Cloud Service
 
-**面向未来：**&#x200B;可组合商务为公司提供了灵活性，以便随着技术和市场趋势的变化而调整和改进其电子商务平台。 它允许企业轻松添加或更换组件、集成新技术，并在竞争中保持领先地位。 这种面向未来的能力确保公司能够不断创新并满足不断变化的客户期望。
+Adobe Commerce as a Cloud Service是一个托管的SaaS商务平台。 Adobe管理核心应用程序、基础架构和更新。 其架构包括Commerce Foundation、Headless店面功能、促销服务和开发人员工具。
 
-**增强开发人员能力：**&#x200B;可组合商务为开发人员提供了使用不同技术、语言和框架的灵活性，从而增强他们的能力。 它使开发人员能够专注于特定组件或微服务，从而实现专业化和专业化。 这种赋权可以提高开发人员的工作效率、加快开发周期以及利用最新工具和技术的能力。
+在评估具有支持的扩展点的托管商务基础时，使用此选项。 对于自定义业务逻辑，应规划受支持的进程外可扩展性，而不是假定可以不更改地部署现有PHP扩展。 ACCS不支持Luma店面；如果适用，请在实施计划中纳入店面迁移。
 
-总体而言，可组合商务使公司能够创建一个高度灵活、可扩展和可自定义的电子商务平台，该平台可以适应不断变化的业务需求，提供卓越的客户体验，并推动数字市场的增长和成功。
+请参阅[Adobe Commerce as a Cloud Service概述](https://experienceleague.adobe.com/zh-hans/docs/commerce/cloud-service/overview)。
 
-## Adobe Commerce具有哪些用于可组合商务的功能
+### Adobe Commerce Optimizer
 
-Adobe Commerce提供了多种功能来支持商家采用和实施可组合商务：
+Adobe Commerce Optimizer支持目录管理、产品发现、搜索、推荐和店面体验，同时允许您保留现有的商务后端。 目录数据可能来自外部源，并且第三方系统仍可负责购物车和结账生命周期。
 
-**可组合的Commerce方法：** Adobe Commerce提供可组合的商业方法，可指导商家理解和实施可组合架构的原则。 此方法可帮助企业利用灵活性、可扩展性和自定义的好处，同时考虑复杂性、技术成熟度和项目规模等因素。
+如果目标是实现面向客户的现代化，并且不需要替换事务型后端，则使用此选项。 明确规划目录摄取以及购物车和结账集成。 ACCS和ACO是独立的体系结构选项，而不是所需的组合栈栈。 在为您的实施选择服务之前，请验证当前集成支持。
 
-**功能丰富的功能：** Adobe Commerce提供可通过其GraphQLAPI访问的功能集。 此功能非常丰富，商户可借此将商业栈栈中所需的供应商数量降至最低，从而缩短面市时间。 它使企业能够更快地启动，同时保持灵活性，以随着其商业栈栈的发展组合和集成其他第三方服务或功能。
+查看[Adobe Commerce Optimizer概述](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/overview)。
 
-**混合前端体验：** Adobe Commerce在同一生态系统中同时支持Headless和非Headless前端体验。 这种灵活性允许商家为每个特定的前端用例选择最适合的体系结构方法。 它支持逐步过渡到Headless和可组合的体系结构，而无需同时迁移整个系统。
+### 现有Adobe Commerce部署
 
-**API网格：** Adobe Commerce的API网格简化了前端开发人员将多个微服务、第三方工具和应用程序集成到一个统一的API端点中的过程。 它允许开发人员将多个数据源合并到单个GraphQL端点中，从而减少复杂性并简化新功能和体验的开发和维护。
+云基础架构和内部部署上的Adobe Commerce还可以逐步采用Headless存储前端和受支持的基于API的集成。 根据部署，您可以保留现有店面或采用受支持的Headless店面。 将现有的商务功能保持在一起可以减少集成工作，同时允许选定的服务单独发展。
 
-**Adobe App Builder：** Adobe App Builder是一个无服务器可扩展性平台，它允许商家创建自定义微服务、构建自定义体验和扩展Adobe解决方案。 借助App Builder，商家可以构建安全且可扩展的应用程序，这些应用程序扩展Adobe Commerce的本机功能并与第三方解决方案集成。 这就消除了商家为定制和微服务构建和维护其自身基础架构的需要，从而降低了复杂性并降低了总体拥有成本。
+功能可用性、扩展兼容性、许可和设置要求因产品和版本而异。 在选择架构之前，请比较[Adobe Commerce平台和服务](https://experienceleague.adobe.com/zh-hans/docs/commerce/information-center/explore-platforms-and-services/platform-and-services)。
 
-Adobe Commerce提供的这些功能简化了可组合商务的采用和实施，使商家能够利用灵活性、可扩展性、自定义和集成功能的优势，同时降低复杂性和开发工作。
+## 由Edge Delivery Services提供支持的Commerce店面
 
-## 最后想法
+由Edge Delivery Services提供支持的Commerce Storefront提供店面体验和内容交付层。 其Headless架构使团队可以独立于商业基础开发前端。 基于文档的创作和可视化编辑支持内容更新，而店面组件使用商务API进行购物功能。
 
-可组合商务是电子商务的一种架构方法，它涉及将前端表示层与后端商务功能分离。 以下是有关可组合商务的主要经验教训：
+区分负责目录数据、定价、购物车操作、结账和订单的店面界面和系统。 Edge Delivery Services不会替换事务性商务后端。 在实施店面之前，确定所选后端支持的服务和集成路径。
 
-**架构：**&#x200B;可组合商务遵循模块化且分离式的架构，允许企业选择和组合最佳的组件或微服务以创建自定义解决方案。 此体系结构提供了灵活性、可扩展性和灵活性。
+请参阅[Commerce店面文档](https://experienceleague.adobe.com/en/tools/commerce-storefront/)。
 
-**优势：**&#x200B;可组合商务具备多种优势，包括灵活性和自定义性、可扩展性和敏捷性、集成功能、面向未来功能和增强开发人员能力。 它使企业能够适应、扩展、集成、创新并利用开发人员的专业知识。
+## 集成性和可扩展性
 
-**注意事项：**&#x200B;在考虑可组合商务时，应仔细评估复杂性、内部技术成熟度、项目大小和结构、自定义与标准化、总拥有成本以及安全性和数据隐私等因素。
+API Mesh和App Builder有助于连接和扩展商务功能，而无需将每个自定义设置嵌入核心商务应用程序中。
 
-**Adobe Commerce：** Adobe Commerce提供了一些功能和工具，以支持商家采用和实施可组合商务。 其中包括可组合商务方法、功能丰富的功能、混合前端体验、用于集成的API Mesh以及用于自定义微服务的Adobe App Builder。
+### API网格
 
-**业务影响：**&#x200B;可组合商务使企业能够创建高度灵活、可扩展且可自定义的电子商务平台。 这使他们能够提供独特的客户体验、根据需求进行扩展、与其他系统集成、经得起未来考验的运营，并利用开发人员的专业技能。
+Adobe Developer App Builder的API Mesh将多个Adobe、专用和第三方API源整合到一个可查询的GraphQL端点中。 使用它来编写前端体验的数据并协调对现有服务的访问。
 
-了解可组合商务对于电子商务行业的企业保持竞争力、适应不断变化的市场环境和提供卓越的客户体验至关重要。 通过采用可组合商务，公司可以解锁灵活性、可扩展性、定制性、灵活性和集成功能的好处，从而推动数字市场的增长和成功。
+API组合不会消除定义API约定、身份验证、错误处理或事务性业务逻辑所有权的需要。 在集成设计中明确规定这些职责。
+
+查看[API网格概述](https://developer.adobe.com/graphql-mesh-gateway/)。
+
+### Adobe App Builder
+
+Adobe App Builder为扩展Adobe解决方案并在Adobe基础架构（包括Adobe I/O Runtime）上运行的应用程序提供了一个平台。 您可以将其用于进程外的自定义以及与系统（如CRM、ERP和PIM）的集成。
+
+为您使用的Commerce产品选择支持的扩展点、活动和Webhook。 与核心商务版本生命周期分开设计和测试应用程序。
+
+查看[App Builder概述](https://developer.adobe.com/app-builder/docs/intro_and_overview/)。
+
+## Commerce开发MCP和技能
+
+Commerce开发MCP和技能支持人工智能辅助的App Builder应用程序和店面自定义的开发。 在迁移到ACCS时，它们还可以帮助将现有Adobe Commerce PHP扩展迁移到App Builder应用程序。
+
+模型上下文协议(MCP)服务器将兼容的人工智能编码客户端连接到开发工具。 Adobe的工具包括Commerce Developer MCP Server、App Builder MCP Server和Dropins AI Tools，以及特定于Commerce的技能。
+
+Commerce开发MCP是开发工具，而非storefront投放、购物车、结账或订单处理服务。 它们不会使应用程序自动兼容每种Commerce产品。 审查生成的更改，并针对目标环境测试这些更改。
+
+查看[Commerce开发MCP和技能](https://developer.adobe.com/commerce/extensibility/developer-agent/coding-tools)。
+
+## 规划可组合的实施
+
+1. 定义业务目标、客户体验、安全要求以及团队可用的技能。
+2. 选择Commerce平台，并确定要保留或替换的现有系统。
+3. 选择受支持的店面并定义演示、推销和事务性服务之间的边界。
+4. 为目录信息、价格、库存、客户、购物车、结账和订单建立数据所有权和API合同。
+5. 跨集成规划身份验证、数据同步、缓存、监控和故障处理。
+6. 在每次发布之前逐步实施并验证功能、性能和安全性。
+
+当组件的组件满足业务要求并可靠地协作时，可组合实施会取得成功。 选择您需要的功能，而不是单纯地添加服务来使体系结构更加模块化。
+
+## 相关资源
+
+探索这些教程、视频、实施指南和播放列表，规划您的架构并构建商务集成。
+
+### Commerce平台和店面
+
+* [Adobe Commerce as a Cloud Service架构](../commerce-as-a-cloud-service/architecture.md)
+* [组合式店面和模块化体系结构](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
+* [Adobe Commerce Optimizer概述](../adobe-commerce-optimizer/overview.md)
+* [为什么存在可组合目录数据模型](../adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists.md)
+* [Edge Delivery Services的购物者体验](../edge-delivery-services/shopper-experience.md)
+
+### 集成与开发
+
+* [App Builder的进程外可扩展性](../app-builder/foundations/introduction-to-app-builder.md)
+* [API Mesh入门](../api-mesh/getting-started-api-mesh.md)
+* [创建具有多个源的API网格](../api-mesh/graphql-multiple-source.md)
+* [使用AI和MCP工具制定定制运费](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+
+### 架构和开发文档
+
+* [迁移到Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/zh-hans/docs/commerce/cloud-service/migration/overview)
+* [Adobe Commerce Optimizer集成](https://experienceleague.adobe.com/zh-hans/docs/commerce/optimizer/integrations-overview)
+* [Commerce Storefront开发入门](https://experienceleague.adobe.com/en/tools/commerce-storefront/get-started/)
+* [Commerce开发MCP和技能的最佳实践](https://developer.adobe.com/commerce/extensibility/developer-agent/best-practices)
+
+### 播放列表
+
+* [使用Adobe App Builder和Adobe Commerce开始使用API Mesh](https://experienceleague.adobe.com/zh-hans/playlists/commerce-get-started-app-builder-and-api-mesh)

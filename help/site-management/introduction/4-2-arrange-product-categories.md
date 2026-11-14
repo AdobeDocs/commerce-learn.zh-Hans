@@ -2,10 +2,10 @@
 title: 面向企业用户的[!DNL Commerce] — 类别定位
 description: 在类别中定位产品，以便客户在顶部看到您希望他们看到的产品。
 kt: 5776
-doc-type: video
+doc-type: Technical Video
 duration: 90
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
@@ -25,7 +25,7 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
